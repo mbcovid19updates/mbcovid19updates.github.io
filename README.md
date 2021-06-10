@@ -1,5 +1,33 @@
 ## Quick Links
 
+<div class="feature-grid">
+    <div>
+        <h3>Heading 1</h3>
+        <p>A description of heading 1</p>
+        <p class="button-more"><a href="#heading1" class="button">Learn more...</a></p>
+    </div>
+    <div>
+        <h3>Heading 2</h3>
+        <p>A description of heading 2</p>
+        <p class="button-more"><a href="#heading2" class="button">Learn more...</a></p>
+    </div>
+    <div>
+        <h3>Heading 3</h3>
+        <p>A description of heading 3</p>
+        <p class="button-more"><a href="#heading3" class="button">Learn more...</a></p>
+    </div>
+    <div>
+        <h3>Heading 4</h3>
+        <p>A description of heading 4</p>
+        <p class="button-more"><a href="#heading4" class="button">Learn more...</a></p>
+    </div>
+    <div>
+        <h3>Heading 5</h3>
+        <p>A description of heading 5</p>
+        <p class="button-more"><a href="#heading5" class="button">Learn more...</a></p>
+    </div>
+</div>
+
 - Something
 
 ## Data Sources
@@ -20,3 +48,4 @@
 - [WHO Covid Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
 
 ## Frequently Asked Questions
+
