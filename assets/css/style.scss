@@ -121,4 +121,8 @@ a:hover {
         display: inline-block;
         width: auto;
     }
+    .btn+.btn {
+        margin-top: 0;
+        margin-left: 1rem;
+    }
 }
