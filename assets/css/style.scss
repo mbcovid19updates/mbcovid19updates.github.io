@@ -115,3 +115,10 @@ a:hover {
         grid-template-columns: 33.3% 33.3% 33.3%;
     }
 }
+
+@media screen and (max-width: 42em) {
+    .btn {
+        display: inline-block;
+        width: auto;
+    }
+}
