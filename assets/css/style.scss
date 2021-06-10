@@ -45,7 +45,7 @@ a:hover {
     align-self: top;
 	min-height: 100px;
     border: 1px transparent;
-    padding: 0 25px 50px 0;
+    padding: 20px;
     margin: 0;
 }
 .feature-grid > a:hover {
@@ -57,8 +57,13 @@ a:hover {
     margin: 10px 0;
     text-decoration: none;
 }
-.feature-grid > a h3:hover {
+.feature-grid > a:link h3 {
+    color: #387b44;
+    text-decoration: none;
+}
+.feature-grid > a:hover h3 {
     color: blue;
+    text-decoration: underline;
 }
 .feature-grid > a p {
     padding: 0;
