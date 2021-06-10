@@ -1,31 +1,26 @@
 ## Quick Links
 
 <div class="feature-grid">
-    <div>
+    <a href="#heading1">
         <h3>Heading 1</h3>
         <p>A description of heading 1</p>
-        <p class="button-more"><a href="#heading1" class="button">Learn more...</a></p>
-    </div>
-    <div>
+    </a>
+    <a href="#heading2">
         <h3>Heading 2</h3>
         <p>A description of heading 2</p>
-        <p class="button-more"><a href="#heading2" class="button">Learn more...</a></p>
-    </div>
-    <div>
+    </a>
+    <a href="#heading3">
         <h3>Heading 3</h3>
         <p>A description of heading 3</p>
-        <p class="button-more"><a href="#heading3" class="button">Learn more...</a></p>
-    </div>
-    <div>
+    </a>
+    <a href="#heading4">
         <h3>Heading 4</h3>
         <p>A description of heading 4</p>
-        <p class="button-more"><a href="#heading4" class="button">Learn more...</a></p>
-    </div>
-    <div>
+    </a>
+    <a href="#heading5">
         <h3>Heading 5</h3>
         <p>A description of heading 5</p>
-        <p class="button-more"><a href="#heading5" class="button">Learn more...</a></p>
-    </div>
+    </a>
 </div>
 
 - Something
