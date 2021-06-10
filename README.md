@@ -105,6 +105,57 @@ If the vaccine you received is eligible for use in Canada, you can then bring th
 - [View the list of all Public Health Offices](https://www.gov.mb.ca/health/publichealth/offices.html)
 
 
+<a name="restrictions"></a>
+## Current Restrictions
+
+_Last updated: June 9, 2021_
+
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51430&posted=2021-06-09) on the Manitoba website.
+
+### Effective Saturday, June 12, 2021
+
+- ✅ Outdoor public gatherings are permitted to allow up to 5 people.
+- ✅ Outdoor private gatherings may happen with up to 5 visitors from no more than 2 households in addition to the current household.
+- ✅ Outdoor pools, splash pads, and wading pools are allowed to continue to remain open.
+
+Other restrictions remain in place including:
+
+- 🚫 Indoor public gatherings are not permitted and visitors are not permitted indoors on private property, except in certain circumstances.
+- 🚫 Retail businesses may only operate at 10% capacity or 100 customers, whichever is fewer, and only one person per household will be allowed to enter a business, with some exceptions, such as a single parent with children or someone who requires a caregiver.
+- 🚫 Many businesses and organizations will remain closed for in-person service including gyms and fitness clubs, restaurants and bars (including patios), personal service businesses, museums, galleries and libraries.
+
+For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06022021.pdf) (PDF) here.
+
+### Exceptions to Indoor Private Gatherings
+
+The public health orders state this (a partial copy and paste of the section):
+
+>**ORDER 1**
+>
+>**1(1)** Except as otherwise provided by this Order, a person who resides in a private residence must not permit a person who does not normally reside in that residence to enter or remain in the residence.
+>
+>**1(2)** Subsection (1) does not prevent a person from attending at the private residence of another person for any of the following purposes:
+>
+>- (a) to provide health care, personal care or housekeeping services;
+>- (b) for a visit between a child and a parent or guardian who does not normally reside with that child;
+>- (c) to receive or provide child care;
+>- (d) to perform construction, renovations, repairs or maintenance;
+>- (e) to deliver items;
+>- (f) to provide real estate or legal services;
+>- (g) in the case of rented premises, for any purpose for which a landlord may enter those premises under The Residential Tenancies Act;
+>- (h) to respond to an emergency;
+>- (i) for the purpose of moving a person into or out of the residence.
+>
+>**1(3)** If a person operates a business that is permitted to open under these Orders at their private residence, other persons may attend at the person's residence for purposes related to the operation of that business.
+>
+>**1(4)** A person who resides on their own may have one other person with whom they regularly interact attend at their primary private residence and they may also attend at that person's primary private residence. These persons are also allowed to meet on the outdoor areas of the properties on which their primary private residences are located.
+>
+>**1(5)** A person who is obtaining technical training at a university or college and who does not normally reside in the community where the university or college is located may, on a temporary basis, reside at the private residence of another person in the community where the university or college is located while receiving technical training.
+>
+>**1(6)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
+>
+>**1(7)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
+
 ## Data Sources
 
 - [Official Manitoba Case Data](https://www.gov.mb.ca/covid19/updates/cases.html)
