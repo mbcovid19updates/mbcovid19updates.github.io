@@ -48,7 +48,7 @@ a:hover {
     padding: 20px;
     margin: 0 20px 20px 0;
 }
-.feature-grid > a:link, .feature-grid > a:active {
+.feature-grid > a:link, .feature-grid > a:active, .feature-grid > a:visited {
     background: #fff8f3;
     border: 1px solid #ff6d00;
     border-radius: 5px;
