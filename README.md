@@ -126,7 +126,7 @@ Other restrictions remain in place including:
 
 ### Exceptions to Indoor Private Gatherings
 
-The public health orders state this (a partial copy and paste of the section):
+The public health orders state this (a partial copy and paste of the section on _June 9, 2021_):
 
 >**ORDER 1**
 >
