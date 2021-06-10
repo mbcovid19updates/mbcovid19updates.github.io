@@ -96,7 +96,13 @@ You will need to fill out and print a consent form for first and second dose app
 
 If you cannot print out a consent form, there will be some available at the vaccination site/clinic.
 
+### Received your vaccine outside of Manitoba?
 
+Individuals who received their COVID-19 vaccine outside of the province should have their vaccination information added into Manitoba's immunization system. In order to do this, you will need proof of immunization from the jurisdiction where you received your vaccine.
+
+If the vaccine you received is eligible for use in Canada, you can then bring this proof of immunization to a public health office. The office will enter this information to ensure that your primary care physician and our public health teams can have access to your immunization records.
+
+- [View the list of all Public Health Offices](https://www.gov.mb.ca/health/publichealth/offices.html)
 
 
 ## Data Sources
