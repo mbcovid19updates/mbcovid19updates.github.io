@@ -28,7 +28,9 @@
 </div>
 
 <a name="vaccine"></a>
-## Vaccine Eligibility <small>(last updated: June 9, 2021)</small>
+## Vaccine Eligibility
+
+_Last updated: June 9, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
