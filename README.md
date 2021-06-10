@@ -36,7 +36,7 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### First Doses
 
-- Anyone age 12 and up is eligible to receive their first dose of a COVID vaccine.
+- **Anyone age 12 and up** is eligible to receive their first dose of a COVID vaccine.
    - Young people aged 12 to 17 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
 ### Second Doses
