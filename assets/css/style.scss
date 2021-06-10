@@ -99,3 +99,19 @@ a:hover {
 .feature-grid > div p.button-more a:hover {
     background: #004e84;
 }
+
+@media only screen and (min-width: 0px) and (max-width: 599px) {
+    .feature-grid {
+        grid-template-columns: 50% 50%;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width: 1299px) {
+    .feature-grid {
+        grid-template-columns: 50% 50%;
+    }
+}
+@media only screen and (min-width: 1300px) {
+    .feature-grid {
+        grid-template-columns: 33.3% 33.3% 33.3%;
+    }
+}
