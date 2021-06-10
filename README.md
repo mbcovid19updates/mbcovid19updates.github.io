@@ -1,25 +1,29 @@
 ## Quick Links
 
 <div class="feature-grid">
-    <a href="#heading1">
-        <h3>Heading 1</h3>
-        <p>A description of heading 1</p>
+    <a href="#vaccine">
+        <h3>Vaccine Eligibility</h3>
+        <p>Get all your vaccine-related questions answered!</p>
     </a>
-    <a href="#heading2">
-        <h3>Heading 2</h3>
-        <p>A description of heading 2</p>
+    <a href="#restrictions">
+        <h3>Current Restrictions</h3>
+        <p>View all the current and upcoming restrictions.</p>
     </a>
-    <a href="#heading3">
-        <h3>Heading 3</h3>
-        <p>A description of heading 3</p>
+    <a href="#covid">
+        <h3>COVID Information</h3>
+        <p>COVID symptoms, screening and testing sites.</p>
     </a>
     <a href="#heading4">
         <h3>Heading 4</h3>
         <p>A description of heading 4</p>
     </a>
-    <a href="#heading5">
-        <h3>Heading 5</h3>
-        <p>A description of heading 5</p>
+    <a href="#dashboards">
+        <h3>Daily Dashboards</h3>
+        <p>Have questions about the daily dashboards?</p>
+    </a>
+    <a href="#about">
+        <h3>About Us</h3>
+        <p>Who are we? Why are we doing this?</p>
     </a>
 </div>
 
