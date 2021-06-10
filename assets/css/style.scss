@@ -48,14 +48,16 @@ a:hover {
     padding: 20px;
     margin: 0 20px 20px 0;
 }
-.feature-grid > a:link {
-    border: 1px solid #eeeeee;
+.feature-grid > a:link, .feature-grid > a:active {
+    background: #fff8f3;
+    border: 1px solid #ff6d00;
+    border-radius: 5px;
     text-decoration: none;
 }
 .feature-grid > a:hover {
-    background: #fff8f3;
-    border: 1px solid #ff6d00;
-    border-radius:5px;
+    background: #f0fff3;
+    border: 1px solid #387b44;
+    border-radius: 5px;
 }
 .feature-grid > a h3 {
     color: #ff6600;
