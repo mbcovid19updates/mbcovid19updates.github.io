@@ -62,21 +62,27 @@ a:hover {
 }
 .feature-grid > a h3 {
     color: #ff6600;
+    font-weight: bold;
     padding: 0;
     margin: 10px 0;
-    text-decoration: none;
+    text-decoration: underline;
 }
-.feature-grid > a:link h3 {
+.feature-grid > a:link h3, .feature-grid > a:active h3, .feature-grid > a:visited h3 {
     color: #387b44;
-    text-decoration: none;
+    text-decoration: underline;
 }
 .feature-grid > a:hover h3 {
     color: #ffffff;
-    text-decoration: underline;
+    text-decoration: none;
 }
 .feature-grid > a p {
     padding: 0;
     margin: 0;
+    text-decoration: none;
+    font-weight: normal;
+}
+.feature-grid > a:link p, .feature-grid > a:active p, .feature-grid > a:visited p {
+    color: #555555;
     text-decoration: none;
     font-weight: normal;
 }
