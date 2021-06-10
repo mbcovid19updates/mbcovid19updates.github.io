@@ -49,11 +49,13 @@ a:hover {
     margin: 0;
 }
 .feature-grid > a:link {
-    background: #ffe2cd;
+    border: 1px solid transparent;
     text-decoration: none;
 }
 .feature-grid > a:hover {
+    background: #ffe2cd;
     border: 1px solid #ff6d00;
+    border-radius:5px;
 }
 .feature-grid > a h3 {
     color: #ff6600;
