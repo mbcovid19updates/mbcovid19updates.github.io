@@ -27,7 +27,40 @@
     </a>
 </div>
 
-- Something
+<a name="vaccine"></a>
+## Vaccine Eligibility _(last updated: June 9, 2021)_
+
+This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
+
+### First Doses
+
+- Anyone age 12 and up is eligible to receive their first dose of a COVID vaccine.
+
+### Second Doses
+
+Due to current supply constraints, Manitoba is not able to provide the second dose at the recommended intervals. In an effort to get more people with some amount of vaccine protection, second doses were delayed for most people. Please note that there is no danger in receiving your second dose later. In fact, studies have shown that going longer in between doses offers better efficacy. Manitoba currently has a multi-tiered approach to prioritizing second doses.
+
+You are eligible to receive your second dose if <u>any</u> of the following apply:
+
+- You have priority health conditions ([see list here](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html#criteria)).
+- You are Indigenous
+- You received your first dose of vaccine **on or before May 4, 2021**.
+
+**AND**
+
+- You received your first dose a minimum number of days ago:
+   - Pfizer (minimum of 21 days ago)
+   - Moderna (minimum of 28 days ago)
+   - AstraZeneca (minimum of 28 days ago, but 8 weeks ago recommended)
+
+### AstraZeneca Information
+
+If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose. If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 9, 2021) more doses are arriving soon.
+
+### Mixing Vaccines
+
+Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa, though it is recommended to stick with the same mRNA vaccine wherever possible.
+
 
 ## Data Sources
 
