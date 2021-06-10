@@ -110,7 +110,7 @@ If the vaccine you received is eligible for use in Canada, you can then bring th
 
 _Last updated: June 9, 2021_
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51430&posted=2021-06-09) on the Manitoba website.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51430&posted=2021-06-09) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06022021.pdf) (PDF) here.
 
 ### Effective Saturday, June 12, 2021
 
@@ -123,8 +123,6 @@ Other restrictions remain in place including:
 - 🚫 Indoor public gatherings are not permitted and visitors are not permitted indoors on private property, except in certain circumstances.
 - 🚫 Retail businesses may only operate at 10% capacity or 100 customers, whichever is fewer, and only one person per household will be allowed to enter a business, with some exceptions, such as a single parent with children or someone who requires a caregiver.
 - 🚫 Many businesses and organizations will remain closed for in-person service including gyms and fitness clubs, restaurants and bars (including patios), personal service businesses, museums, galleries and libraries.
-
-For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06022021.pdf) (PDF) here.
 
 ### Exceptions to Indoor Private Gatherings
 
