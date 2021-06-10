@@ -55,9 +55,10 @@ a:hover {
     text-decoration: none;
 }
 .feature-grid > a:hover {
-    background: #f0fff3;
-    border: 1px solid #387b44;
+    background: #ff6d00;
+    border: 1px solid #ff6d00;
     border-radius: 5px;
+    color: #ffffff;
 }
 .feature-grid > a h3 {
     color: #ff6600;
@@ -70,7 +71,7 @@ a:hover {
     text-decoration: none;
 }
 .feature-grid > a:hover h3 {
-    color: blue;
+    color: #ffffff;
     text-decoration: underline;
 }
 .feature-grid > a p {
@@ -80,7 +81,7 @@ a:hover {
     font-weight: normal;
 }
 .feature-grid > a:hover p {
-    color: blue;
+    color: #ffffff;
 }
 .feature-grid > div p.button-more a {
     font-size: 12px;
