@@ -23,3 +23,12 @@
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #ff6d00;
 }
+
+a {
+    color: #387b44;
+    text-decoration: underline;
+}
+a:hover {
+    color: #ff6d00;
+    text-decoration: underline;
+}
