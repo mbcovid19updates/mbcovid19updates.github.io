@@ -81,7 +81,8 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 - To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
 - If you are a senior or have mobility issues and need help getting to your appointment at a clinic or pharmacy, call 211 for available transportation options in your area.
 
-<a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a> <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
+<a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a>
+<a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
 #### Super-sites in Manitoba
 
@@ -121,6 +122,8 @@ If the vaccine you received is eligible for use in Canada, you can then bring th
 
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
 
+[Back to the top of the page](#top)
+
 <a name="vaccine-lottery"></a>
 ### Vaccine Lottery
 
@@ -159,6 +162,8 @@ There will be a process in place for individuals who wish to opt out of the Mani
 
 #### I was immunized outside of Manitoba, but I live here. Am I still eligible?
 Yes. However, you will have to report your immunization to covidimmunizationrecordsinformation@gov.mb.ca or your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) before the lottery draw.
+
+[Back to the top of the page](#top)
 
 <a name="restrictions"></a>
 ## Current Restrictions
@@ -209,6 +214,7 @@ The public health orders state this (a partial copy and paste of the section on 
 >
 >**1(7)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
 
+[Back to the top of the page](#top)
 
 <a name="covid"></a>
 ## COVID Symptoms & Testing
@@ -267,6 +273,7 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 
 If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
 
+[Back to the top of the page](#top)
 
 <a name="reopening"></a>
 ## Re-opening Plan
@@ -284,6 +291,8 @@ Status: ❌ | Status: ❌ | Status: ❌
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
+
+[Back to the top of the page](#top)
 
 <a name="variants"></a>
 ## Variants of Concern
@@ -317,6 +326,7 @@ All approved vaccines in Canada are proven to be effective against the variants 
 
 Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it's now assumed that all cases are likely the **Alpha** variant unless otherwise proven. Because of this, Manitoba Public Health will no longer notify you if your positive COVID test ends up being the **Alpha** variant (you will still be notified if you test positive of COVID). If your positive COVID test ends up being a different variant of concern (after sequencing, which could be a couple of days later), public health will likely notify you.
 
+[Back to the top of the page](#top)
 
 <a name="dashboards"></a>
 ## Daily Dashboards
@@ -350,6 +360,8 @@ Our vaccination totals and percentages for first doses and second doses will usu
 We also record daily progress of vaccinations per age group and health region and calculate uptake percentages, but this is based upon the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
 
 Please keep all of this in mind as we track the progress of the [Re-opening Plans](#reopening) milestones.
+
+[Back to the top of the page](#top)
 
 ## COVID Information
 
