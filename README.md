@@ -69,6 +69,8 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 - To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
 - If you are a senior or have mobility issues and need help getting to your appointment at a clinic or pharmacy, call 211 for available transportation options in your area.
 
+<a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a> <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
+
 #### Super-sites in Manitoba
 
 City | Address | Map
@@ -97,13 +99,15 @@ You will need to fill out and print a consent form for first and second dose app
 
 If you cannot print out a consent form, there will be some available at the vaccination site/clinic.
 
+<a href="https://manitoba.ca/covid19/vaccine/resources.html#form" class="button">Download and Print Consent Form</a>
+
 ### Received your vaccine outside of Manitoba?
 
 Individuals who received their COVID-19 vaccine outside of the province should have their vaccination information added into Manitoba's immunization system. In order to do this, you will need proof of immunization from the jurisdiction where you received your vaccine.
 
 If the vaccine you received is eligible for use in Canada, you can then bring this proof of immunization to a public health office. The office will enter this information to ensure that your primary care physician and our public health teams can have access to your immunization records.
 
-- [View the list of all Public Health Offices](https://www.gov.mb.ca/health/publichealth/offices.html)
+<a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
 
 
 <a name="restrictions"></a>
