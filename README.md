@@ -208,7 +208,7 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 &nbsp; | Poor feeding if an infant
 &nbsp; | Nausea or loss of appetite
 
-<a href="https://sharedhealthmb.ca/covid19/screening-tool/" class="btn">COVID-19 Online Screening Tool</a>
+<a href="https://sharedhealthmb.ca/covid19/screening-tool/" class="button">COVID-19 Online Screening Tool</a>
 
 
 <a name="variants"></a>
