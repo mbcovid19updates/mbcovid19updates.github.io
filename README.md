@@ -19,6 +19,10 @@ _Last updated: June 10, 2021_
         <h3>Symptoms & Testing</h3>
         <p>COVID symptoms, screening and testing sites.</p>
     </a>
+    <a href="#reopening">
+        <h3>Re-opening Plans</h3>
+        <p>Manitoba's 3-phase plan to re-open.</p>
+    </a>
     <a href="#variants">
         <h3>Variants of Concern</h3>
         <p>Information and data about Variants of Concern.</p>
