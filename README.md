@@ -100,6 +100,24 @@ Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvq
 Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9)
 Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)
 
+<a name="vaccine-walkins"></a>
+### Vaccine Walk-ins
+
+_Last updated: June 11, 2021_
+
+Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila super-site on the following dates:
+
+- Tuesday, **June 15** from 9 am - 3:45 pm
+- Wednesday, **June 16** from 1 pm - 7:45 pm
+- Thursday, **June 17** from 9 am - 3:45 pm
+
+Eligible to anyone age 12+ for first doses only.
+
+**770 Leila Ave**
+Winnipeg Soccer Federation North
+
+↑ [Back to the top of the page](#top)
+
 ### AstraZeneca Information
 
 If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose. If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 9, 2021) more doses are arriving soon.
@@ -123,24 +141,6 @@ Individuals who received their COVID-19 vaccine outside of the province should h
 If the vaccine you received is eligible for use in Canada, you can then bring this proof of immunization to a public health office. The office will enter this information to ensure that your primary care physician and our public health teams can have access to your immunization records.
 
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
-
-↑ [Back to the top of the page](#top)
-
-<a name="vaccine-walkins"></a>
-### Vaccine Walk-ins
-
-_Last updated: June 11, 2021_
-
-Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila super-site on the following dates:
-
-- Tuesday, **June 15** from 9 am - 3:45 pm
-- Wednesday, **June 16** from 1 pm - 7:45 pm
-- Thursday, **June 17** from 9 am - 3:45 pm
-
-Eligible to anyone age 12+ for first doses only.
-
-**770 Leila Ave**
-Winnipeg Soccer Federation North
 
 ↑ [Back to the top of the page](#top)
 
