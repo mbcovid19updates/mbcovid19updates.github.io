@@ -122,7 +122,7 @@ If the vaccine you received is eligible for use in Canada, you can then bring th
 
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
 
-↑ [Back to the top of the page](#top)
+[Back to the top of the page](#top) ↑
 
 <a name="vaccine-lottery"></a>
 ### Vaccine Lottery
@@ -163,7 +163,7 @@ There will be a process in place for individuals who wish to opt out of the Mani
 #### I was immunized outside of Manitoba, but I live here. Am I still eligible?
 Yes. However, you will have to report your immunization to covidimmunizationrecordsinformation@gov.mb.ca or your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) before the lottery draw.
 
-↑ [Back to the top of the page](#top)
+[Back to the top of the page](#top) ↑
 
 <a name="restrictions"></a>
 ## Current Restrictions
@@ -214,7 +214,7 @@ The public health orders state this (a partial copy and paste of the section on 
 >
 >**1(7)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
 
-↑ [Back to the top of the page](#top)
+[Back to the top of the page](#top) ↑
 
 <a name="covid"></a>
 ## COVID Symptoms & Testing
@@ -273,7 +273,7 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 
 If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
 
-↑ [Back to the top of the page](#top)
+[Back to the top of the page](#top) ↑
 
 <a name="reopening"></a>
 ## Re-opening Plan
@@ -326,7 +326,7 @@ All approved vaccines in Canada are proven to be effective against the variants 
 
 Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it's now assumed that all cases are likely the **Alpha** variant unless otherwise proven. Because of this, Manitoba Public Health will no longer notify you if your positive COVID test ends up being the **Alpha** variant (you will still be notified if you test positive of COVID). If your positive COVID test ends up being a different variant of concern (after sequencing, which could be a couple of days later), public health will likely notify you.
 
-↑ [Back to the top of the page](#top)
+[Back to the top of the page](#top) ↑
 
 <a name="dashboards"></a>
 ## Daily Dashboards
@@ -361,7 +361,7 @@ We also record daily progress of vaccinations per age group and health region an
 
 Please keep all of this in mind as we track the progress of the [Re-opening Plans](#reopening) milestones.
 
-↑ [Back to the top of the page](#top)
+[Back to the top of the page](#top) ↑
 
 ## COVID Information
 
