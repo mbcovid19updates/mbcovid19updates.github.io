@@ -6,6 +6,7 @@ _Last updated: June 10, 2021_
 - [Re-opening Plan for Manitoba](#reopening)
 - [Vaccine Lottery information](#vaccine-lottery)
 
+## Sections
 
 <div class="feature-grid">
     <a href="#vaccine">
