@@ -183,6 +183,10 @@ Recently, the **Delta** (B.1.617.2 / India) variant has been discovered in Manit
 
 All approved vaccines in Canada are proven to be effective against the variants of concern, but studies suggest that 1 dose may not offer robust enough protection against the new **Delta** variant. This is why many provinces, including Manitoba, have quickly switched back to prioritizing giving out second doses of the vaccine.
 
+### Will Public Health notify me if I have a Variant of Concern?
+
+Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it's now assumed that all cases are likely the **Alpha** variant unless otherwise proven. Because of this, Manitoba Public Health will no longer notify you if your positive COVID test ends up being the **Alpha** variant (you will still be notified if you test positive of COVID). If your positive COVID test ends up being a different variant of concern (after sequencing, which could be a couple of days later), public health will likely notify you.
+
 ## Data Sources
 
 - [Official Manitoba Case Data](https://www.gov.mb.ca/covid19/updates/cases.html)
