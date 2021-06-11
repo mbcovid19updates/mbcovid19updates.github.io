@@ -13,9 +13,9 @@
         <h3>COVID Information</h3>
         <p>COVID symptoms, screening and testing sites.</p>
     </a>
-    <a href="#heading4">
-        <h3>Heading 4</h3>
-        <p>A description of heading 4</p>
+    <a href="#variants">
+        <h3>Variants of Concern</h3>
+        <p>Information and data about Variants of Concern</p>
     </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
@@ -154,6 +154,34 @@ The public health orders state this (a partial copy and paste of the section on 
 >**1(6)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
 >
 >**1(7)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
+
+<a name="variants"></a>
+## Variants of Concern
+
+_Last updated: June 10, 2021_
+
+All viruses, including SARS-CoV-2, the virus that causes COVID-19, change over time. Most changes have little to no impact on the virus’ properties. However, some changes may affect the virus’s properties, such as how easily it spreads, the associated disease severity, or the performance of vaccines, therapeutic medicines, diagnostic tools, or other public health and social measures.
+
+For more information about Variants of Concern, visit the [WHO website](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/).
+
+In Manitoba, we currently track the following Variants of Concern:
+
+WHO label | Lineage | Origin | Earliest Sample Date | Designation Date
+--- | --- | --- | --- | ---
+**Alpha** | B.1.1.7 | United Kingdom | September, 2020 | December 18, 2020
+**Beta** | B.1.351 | South Africa | May, 2020 | December 18, 2020
+**Gamma** | P.1 | Brazil | November, 2020 | January 11, 2021
+**Delta** | B.1.617.2 | India | October, 2020 | May 11, 2021
+
+There are also several other **variants of <u>interest</u>** that are being monitored right now, and may eventually become **variants of <u>concern</u>**.
+
+Currently, the **Alpha** (B.1.1.7 / UK) variant is the dominant strain, suspected to account for roughly 60% of all new COVID cases in Manitoba (_as of June 10, 2021_). Manitoba does not currently have the capacity to sequence the exact strain of every last COVID case, so in many cases (over half), they are labeled as "unspecified", but assumed to be the **Alpha** (B.1.1.7 / UK) variant. Based on the evidence so far, researchers believe the **Alpha** variant is much more contagious and more deadlier than other variants, resulting in more younger people ending up in the hospital and an increase in ICU hospitalizations.
+
+Recently, the **Delta** (B.1.617.2 / India) variant has been discovered in Manitoba, and is reported to be as much as twice as contagious as the **Alpha** variant, and more likely to evade current vaccines. This variant is expected to eventually become the new dominant strain in time.
+
+### Will the Vaccine protect against Variants?
+
+All approved vaccines in Canada are proven to be effective against the variants of concern, but studies suggest that 1 dose may not offer robust enough protection against the new **Delta** variant. This is why many provinces, including Manitoba, have quickly switched back to prioritizing giving out second doses of the vaccine.
 
 ## Data Sources
 
