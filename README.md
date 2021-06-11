@@ -15,7 +15,7 @@
     </a>
     <a href="#variants">
         <h3>Variants of Concern</h3>
-        <p>Information and data about Variants of Concern</p>
+        <p>Information and data about Variants of Concern.</p>
     </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
@@ -207,6 +207,8 @@ Loss of taste or smell | Headache
 Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 &nbsp; | Poor feeding if an infant
 &nbsp; | Nausea or loss of appetite
+
+<a href="https://sharedhealthmb.ca/covid19/screening-tool/" class="btn">COVID-19 Online Screening Tool</a>
 
 
 <a name="variants"></a>
