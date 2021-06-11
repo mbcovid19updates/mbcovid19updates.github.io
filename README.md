@@ -277,6 +277,7 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
+Status: ❌ | Status: ❌ | Status: ❌
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
