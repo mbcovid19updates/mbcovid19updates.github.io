@@ -37,6 +37,21 @@ a:hover {
     text-decoration: none;
 }
 
+.button {
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background:#ff6600;
+}
+.button:hover {
+    text-decoration: none;
+    background: #387b44;
+}
+
 h2 {
     font-size: 2em;
     font-weight: bold;
