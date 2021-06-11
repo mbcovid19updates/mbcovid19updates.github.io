@@ -3,7 +3,8 @@
 _Last updated: June 10, 2021_
 
 - **Second Dose Vaccine Eligibility**: You received your first dose of vaccine **on or before May 4, 2021**. [See all Vaccine Eligibility details](#vaccine)
-- **[Vaccine Lottery](#vaccine-lottery)** information
+- [Re-opening Plan for Manitoba](#reopening)
+- [Vaccine Lottery information](#vaccine-lottery)
 
 
 <div class="feature-grid">
