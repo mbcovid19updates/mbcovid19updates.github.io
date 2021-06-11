@@ -258,6 +258,8 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 
 <a href="https://sharedhealthmb.ca/covid19/screening-tool/" class="button">COVID-19 Online Screening Tool</a>
 
+If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
+
 
 <a name="variants"></a>
 ## Variants of Concern
