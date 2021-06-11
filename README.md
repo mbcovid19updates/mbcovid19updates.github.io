@@ -1,4 +1,12 @@
-## Quick Links
+## Quick Links / Info
+
+_Last updated: June 10, 2021_
+
+- **Second Dose Vaccine Eligibility**: You received your first dose of vaccine **on or before May 4, 2021**. [See all Vaccine Eligibility details](#vaccine)
+- [Re-opening Plan for Manitoba](#reopening)
+- [Vaccine Lottery information](#vaccine-lottery)
+
+## Sections
 
 <div class="feature-grid">
     <a href="#vaccine">
@@ -12,6 +20,10 @@
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
         <p>COVID symptoms, screening and testing sites.</p>
+    </a>
+    <a href="#reopening">
+        <h3>Re-opening Plans</h3>
+        <p>Manitoba's 3-phase plan to re-open.</p>
     </a>
     <a href="#variants">
         <h3>Variants of Concern</h3>
@@ -109,6 +121,44 @@ If the vaccine you received is eligible for use in Canada, you can then bring th
 
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
 
+<a name="vaccine-lottery"></a>
+### Vaccine Lottery
+
+_Last updated: June 10, 2021_
+
+The Manitoba government is launching a new province-wide lottery that will award nearly $2 million in cash and scholarships this summer to encourage Manitobans to get fully vaccinated as soon as possible.
+
+All Manitobans aged 12 and up who have received at least one dose of vaccine by August 2 will be eligible for the first draw. All Manitobans aged 12 and up who have received two doses by September 6 will be eligible for the second draw.
+
+Anyone who has been immunized by these deadlines will automatically be entered. Each draw will award:
+
+- 3 prizes of **$100,000** in the Winnipeg Regional Health Authority (excluding Churchill), for a total of $300,000.
+- 1 **$100,000** prize in each of these regional health authorities, for a total of $400,000:
+   - Prairie Mountain Health;
+   - Southern Health–Santé Sud;
+   - Interlake-Eastern Regional Health Authority; and
+   - Northern Regional Health Authority (including Churchill).
+- 10 **$25,000** scholarships for young people aged 12 to 17 across the province, for a total of $250,000.
+
+To see the full details of this announcement, [view the link here](https://news.gov.mb.ca/news/index.html?item=51427&posted=2021-06-09).
+
+#### What is the purpose of the Manitoba Vaccination Lottery?
+Vaccination is the fastest way to overcome COVID-19 and help Manitobans return to the activities they love. The Manitoba Vaccination Lottery provides an incentive for people who have chosen to get the vaccine.
+
+#### Who is eligible?
+Anyone who receives their first dose of vaccine by Aug. 2 is eligible for the first draw, and anyone who has received two doses by Sept. 6 is eligible for the second draw. Additional details about the process will be provided before the end of June.
+
+#### Are children eligible?
+Yes. Young people aged 12 to 17 are currently eligible to be immunized, so they will be entered into the lottery automatically after their immunizations. They are eligible to win one of 20 $25,000 scholarships.
+
+#### What happens if you are a person who cannot be immunized for medical or other reasons?
+The Manitoba Vaccination Lottery is only open to individuals who have received one dose (first draw) or two doses (second draw) of the vaccine.
+
+#### What should I do if I do not want to participate in the lottery?
+There will be a process in place for individuals who wish to opt out of the Manitoba Vaccination Lottery.
+
+#### I was immunized outside of Manitoba, but I live here. Am I still eligible?
+Yes. However, you will have to report your immunization to covidimmunizationrecordsinformation@gov.mb.ca or your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) before the lottery draw.
 
 <a name="restrictions"></a>
 ## Current Restrictions
@@ -214,6 +264,25 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 
 <a href="https://sharedhealthmb.ca/covid19/screening-tool/" class="button">COVID-19 Online Screening Tool</a>
 
+If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
+
+
+<a name="reopening"></a>
+## Re-opening Plan
+
+_Last updated: June 10, 2021_
+
+Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
+
+Phase 1 | Phase 2 | Phase 3
+--- | --- | ---
+Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
+<small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
+<small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
+Status: ❌ | Status: ❌ | Status: ❌
+
+<a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
+<a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
 
 <a name="variants"></a>
 ## Variants of Concern
