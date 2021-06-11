@@ -29,6 +29,10 @@ _Last updated: June 10, 2021_
         <h3>Variants of Concern</h3>
         <p>Information and data about Variants of Concern.</p>
     </a>
+    <a href="#fines">
+        <h3>Fines</h3>
+        <p>A summary of fine amounts for violating public health orders.</p>
+    </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
         <p>Have questions about the daily dashboards?</p>
@@ -325,6 +329,21 @@ All approved vaccines in Canada are proven to be effective against the variants 
 ### Will Public Health notify me if I have a Variant of Concern?
 
 Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it's now assumed that all cases are likely the **Alpha** variant unless otherwise proven. Because of this, Manitoba Public Health will no longer notify you if your positive COVID test ends up being the **Alpha** variant (you will still be notified if you test positive of COVID). If your positive COVID test ends up being a different variant of concern (after sequencing, which could be a couple of days later), public health will likely notify you.
+
+↑ [Back to the top of the page](#top)
+
+<a name="fines"></a>
+## Fines
+
+_Last updated: June 11, 2021_
+
+Below is a summary of Fine amounts for violating public health orders in Manitoba:
+
+- **$298** for not wearing a mask in indoor public places. _Increases to $486 for repeat offenders._
+- **$1,296** to individuals for failing to comply with public health orders such as illegal gatherings, failing to isolate, etc. _Increases to $2,542 for repeat offenders._
+- **$5,000** to corporations for failing to comply with public health orders.
+
+Unpaid fines for tickets for Public Health Act offences proceed through the provincial offences court. If the ticket is not responded to during the response period indicated on the ticket, the individual would be default convicted and a $100 default conviction penalty would be applied. In such cases, the individual would also be prohibited from renewing a driver’s license or vehicle registration until the amount is paid. Unpaid amounts are also sent to a collections agency for further collection action.
 
 ↑ [Back to the top of the page](#top)
 
