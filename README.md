@@ -317,12 +317,39 @@ All approved vaccines in Canada are proven to be effective against the variants 
 
 Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it's now assumed that all cases are likely the **Alpha** variant unless otherwise proven. Because of this, Manitoba Public Health will no longer notify you if your positive COVID test ends up being the **Alpha** variant (you will still be notified if you test positive of COVID). If your positive COVID test ends up being a different variant of concern (after sequencing, which could be a couple of days later), public health will likely notify you.
 
-## Data Sources
+
+<a name="dashboards"></a>
+## Daily Dashboards
+
+_Last updated: June 10, 2021_
+
+Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
+
+### Data Sources
 
 - [Official Manitoba Case Data](https://www.gov.mb.ca/covid19/updates/cases.html)
 - [Official Manitoba Vaccine Data](https://www.gov.mb.ca/covid19/vaccine/reports.html)
 - [Official Manitoba News Bulletins](https://news.gov.mb.ca/news/index.html)
 - [Provincial Case Reporting (ici.radio-canada.ca)](https://ici.radio-canada.ca/info/2020/09/covid-19-pandemie-cas-deces-propagation-vague-maladie-coronavirus/index-en.html)
+
+### Active Cases
+
+The Manitoba government's official active case total is usually very backlogged, as they appear to not be able to keep up with following up with people and confirming they have recovered. The vast majority of people with COVID-19 recover / are no longer infectious after 10 days, so we instead use an estimated total that is based off of the **last 10
+days of new cases**. Whether or not the real number is a touch higher or lower, this offers the most consistent guage on current active cases.
+
+The **Active Cases Provincially** section displays data from **yesterday**, as more Western provinces take longer to report their totals due to time zone differences.
+
+### Hospitalization
+
+The Manitoba government makes a distinction between whether or not the current hospitalization of a patient is infectious or not, and puts a heavy emphasis of the infectious patient totals (which make numbers appear to be lower). We do not do this because regardless of whether a COVID patient is infectious or not, they are still in the hospital due to COVID, and still occupying space and requiring care.
+
+### Vaccinations
+
+Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 10,000 vaccinations that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 40% first doses and 60% second doses. If you take those remaining 10,000 uncategorized vaccinations and run the formular on it, that would be 704,000 first doses and 96,000 second doses (700,000 + 4,000 = 704,000 / 90,000 + 6,000 = 96,000 for a total of 800,000).
+
+We also record daily progress of vaccinations per age group and health region and calculate uptake percentages, but this is based upon the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
+
+Please keep all of this in mind as we track the progress of the [Re-opening Plans](#reopening) milestones.
 
 ## COVID Information
 
