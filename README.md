@@ -7,6 +7,10 @@ _Last updated: June 11, 2021_
         <h3>Vaccine Eligibility</h3>
         <p>Get all your vaccine-related questions answered!</p>
     </a>
+    <a href="#vaccine-walkins">
+        <h3>Vaccine Walk-ins</h3>
+        <p>Information about available Vaccine Walk-ins.</p>
+    </a>
     <a href="#restrictions">
         <h3>Current Restrictions</h3>
         <p>View all the current and upcoming restrictions.</p>
@@ -119,6 +123,24 @@ Individuals who received their COVID-19 vaccine outside of the province should h
 If the vaccine you received is eligible for use in Canada, you can then bring this proof of immunization to a public health office. The office will enter this information to ensure that your primary care physician and our public health teams can have access to your immunization records.
 
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
+
+↑ [Back to the top of the page](#top)
+
+<a name="vaccine-walkins"></a>
+### Vaccine Walk-ins
+
+_Last updated: June 11, 2021_
+
+Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila super-site on the following dates:
+
+- Tuesday, **June 15** from 9 am - 3:45 pm
+- Wednesday, **June 16** from 1 pm - 7:45 pm
+- Thursday, **June 17** from 9 am - 3:45 pm
+
+Eligible to anyone age 12+ for first doses only.
+
+**770 Leila Ave**
+Winnipeg Soccer Federation North
 
 ↑ [Back to the top of the page](#top)
 
