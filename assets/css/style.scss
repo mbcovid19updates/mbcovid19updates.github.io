@@ -39,17 +39,19 @@ a:hover {
 
 .button {
     margin: 5px;
-    padding: 10px 15px;
+    padding: 5px 8px;
     border-radius: 5px;
     color: #ffffff;
     font-size: 20px;
     font-weight: bold;
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-    background:#ff6600;
+    text-decoration: none;
+    background:#387b44;
 }
 .button:hover {
+    color: #ffffff;
     text-decoration: none;
-    background: #387b44;
+    background: #ff6600;
 }
 
 h2 {
