@@ -10,7 +10,7 @@
         <p>View all the current and upcoming restrictions.</p>
     </a>
     <a href="#covid">
-        <h3>COVID Information</h3>
+        <h3>Symptoms & Testing</h3>
         <p>COVID symptoms, screening and testing sites.</p>
     </a>
     <a href="#variants">
@@ -154,6 +154,60 @@ The public health orders state this (a partial copy and paste of the section on 
 >**1(6)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
 >
 >**1(7)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
+
+
+<a name="covid"></a>
+## COVID Symptoms & Testing
+
+_Last updated: June 10, 2021_
+
+### Symptoms of COVID-19
+
+Symptoms of COVID-19 may include any of the following:
+
+- Fever/Chills
+- Cough
+- Sore throat/hoarse voice
+- Difficulty breathing
+- Loss of taste or smell
+- Vomiting, diarrhea for more than 24 hours
+- Runny nose
+- Muscle aches
+- Fatigue
+- Pink eye (conjunctivitis)
+- Headache
+- Skin rash of unknown cause
+- Poor feeding in an infant
+- Nausea or loss of appetite
+
+While many people will develop only mild symptoms, some groups appear to be more vulnerable to COVID-19. Those at higher risk typically develop more serious, even fatal, symptoms such as pneumonia, severe acute respiratory syndrome and kidney failure.
+
+### High risk groups for COVID-19
+
+High risk groups for COVID-19 include people:
+
+- 60 years of age and older
+- Living with chronic health conditions (e.g. diabetes, heart, renal or chronic lung conditions)
+- With weakened immune systems (e.g. cancer)
+
+**Symptoms of COVID-19 or other coronaviruses may take up to 14 days to appear after exposure to the virus.**
+
+### When should I get Tested?
+Testing should be done **as soon as possible once symptoms appear**. You should still be tested even if your symptoms are very mild or if they start to improve after 24 hours. It is important to get tested as soon as symptoms appear, as tracing and isolating contacts in a timely manner is important to limiting the spread of COVID-19 in the community.
+
+If you have **one symptom listed in column A**, OR **two or more symptoms listed in column B**, you should immediately isolate yourself and [use the online screening tool](https://sharedhealthmb.ca/covid19/screening-tool/) or call **Health Links - Info Santé** (204-788-8200 or (toll-free) at 1-888-315-9257) for further instructions, including where to go for testing and/or assessment.
+
+Symptoms **A** | Symptoms **B**
+--- | ---
+Fever/Chills | Runny nose
+Cough | Muscle aches
+Sore throat/hoarse voice | Fatigue
+Shortness of breath/difficulty breathing | Pink eye (conjunctivitis)
+Loss of taste or smell | Headache
+Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
+&nbsp; | Poor feeding if an infant
+&nbsp; | Nausea or loss of appetite
+
 
 <a name="variants"></a>
 ## Variants of Concern
