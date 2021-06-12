@@ -103,7 +103,7 @@ Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 11, 2021_
+_Last updated: June 12, 2021_
 
 Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila super-site on the following dates:
 
@@ -111,7 +111,7 @@ Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila
 - Wednesday, **June 16** from 1 pm - 7:45 pm
 - Thursday, **June 17** from 9 am - 3:45 pm
 
-Eligible to anyone age 12+ for first doses only.
+Eligible to anyone age 12+ for first doses only. The vaccine offered these 3 days will be **Pfizer**.
 
 **770 Leila Ave**
 Winnipeg Soccer Federation North
