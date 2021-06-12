@@ -140,6 +140,8 @@ Individuals who received their COVID-19 vaccine outside of the province should h
 
 If the vaccine you received is eligible for use in Canada, you can then bring this proof of immunization to a public health office. The office will enter this information to ensure that your primary care physician and our public health teams can have access to your immunization records.
 
+You can contact or visit a public health office, or email [covidimmunizationrecordsinformation@gov.mb.ca](mailto:covidimmunizationrecordsinformation@gov.mb.ca) to update that information. This email address can also be used to request other updates or corrections to a COVID-19 immunization.
+
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -410,6 +412,8 @@ The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. It is 
 ### Private Messages
 
 I do my best to answer as many people as possible, but I am one person and don't have the time and all the answers to get to every one. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I am hoping that this website resource will help answer many questions people ask me privately so they can get answers faster.
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 ## Other COVID Information
 
