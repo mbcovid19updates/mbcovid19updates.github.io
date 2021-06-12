@@ -1,6 +1,6 @@
 ## Sections
 
-_Last updated: June 11, 2021_
+_Last updated: June 12, 2021_
 
 <div class="feature-grid">
     <a href="#vaccine">
@@ -188,9 +188,9 @@ Yes. However, you will have to report your immunization to covidimmunizationreco
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: June 9, 2021_
+_Last updated: June 12, 2021_
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51430&posted=2021-06-09) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06022021.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51430&posted=2021-06-09) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06102021.pdf) (PDF) here.
 
 ### Effective Saturday, June 12, 2021
 
@@ -206,7 +206,7 @@ Other restrictions remain in place including:
 
 ### Exceptions to Indoor Private Gatherings
 
-The public health orders state this (a partial copy and paste of the section on _June 9, 2021_):
+The public health orders state this (a partial copy and paste of the section on _June 12, 2021_):
 
 >**ORDER 1**
 >
@@ -226,13 +226,15 @@ The public health orders state this (a partial copy and paste of the section on 
 >
 >**1(3)** If a person operates a business that is permitted to open under these Orders at their private residence, other persons may attend at the person's residence for purposes related to the operation of that business.
 >
->**1(4)** A person who resides on their own may have one other person with whom they regularly interact attend at their primary private residence and they may also attend at that person's primary private residence. These persons are also allowed to meet on the outdoor areas of the properties on which their primary private residences are located.
+>**1(4)** Persons may gather on the outdoor portions of the property on which their private residence is located with no more than five other persons who do not reside at their residence. The other persons attending this outdoor gathering must not reside at more than two different private residences.
 >
->**1(5)** A person who is obtaining technical training at a university or college and who does not normally reside in the community where the university or college is located may, on a temporary basis, reside at the private residence of another person in the community where the university or college is located while receiving technical training.
+>**1(5)** A person who resides on their own may have one other person with whom they regularly interact attend at their private residence and they may also attend at that person's private residence.
 >
->**1(6)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
+>**1(6)** A person who is obtaining technical training at a university or college and who does not normally reside in the community where the university or college is located may, on a temporary basis, reside at the private residence of another person in the community where the university or college is located while receiving technical training.
 >
->**1(7)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
+>**1(7)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
+>
+>**1(8)** Persons must not occupy a campsite, cottage or vacation home together unless they normally reside at the same private residence.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -409,8 +411,6 @@ The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. It is 
 
 I do my best to answer as many people as possible, but I am one person and don't have the time and all the answers to get to every one. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I am hoping that this website resource will help answer many questions people ask me privately so they can get answers faster.
 
-### Data Sources
-
 ## Other COVID Information
 
 - [COVID Symptoms](https://manitoba.ca/covid19/fundamentals/symptoms.html)
@@ -418,8 +418,6 @@ I do my best to answer as many people as possible, but I am one person and don't
 - [COVID Testing Locations](https://manitoba.ca/covid19/testing/locations.html)
 - [COVID Test Results](https://sharedhealthmb.ca/covid19/test-results/)
 - [COVID Vaccination Status](https://sharedhealthmb.ca/covid19/test-results/)
-- [Current Public Health Orders (PDF)](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06022021.pdf)
-- [WHO Covid Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
 
 ## Frequently Asked Questions
 
