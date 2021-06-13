@@ -138,6 +138,12 @@ If you cannot print out a consent form, there will be some available at the vacc
 
 <a href="https://manitoba.ca/covid19/vaccine/resources.html#form" class="button">Download and Print Consent Form</a>
 
+### Vaccination Status
+
+If you've been vaccinated, you can check the status of your vaccination online. It usually shows up within a day or two, but could take several days to show up. Once you've received both doses of vaccine, be sure to [apply for the Immunization Card](#vaccine-cards).
+
+<a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID Vaccination Status</a>
+
 ### Received your vaccine outside of Manitoba?
 
 Individuals who received their COVID-19 vaccine outside of the province should have their vaccination information added into Manitoba's immunization system. In order to do this, you will need proof of immunization from the jurisdiction where you received your vaccine.
@@ -340,6 +346,7 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 
 <a href="https://sharedhealthmb.ca/covid19/screening-tool/" class="button">COVID-19 Online Screening Tool</a>
 <a href="https://www.gov.mb.ca/covid19/testing/locations.html" class="button">COVID-19 Testing Locations</a>
+<a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID Test Results</a>
 
 If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
 
@@ -460,15 +467,3 @@ The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. It is 
 I do my best to answer as many people as possible, but I am one person and don't have the time and all the answers to get to every one. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I am hoping that this website resource will help answer many questions people ask me privately so they can get answers faster.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-## Other COVID Information
-
-- [COVID Symptoms](https://manitoba.ca/covid19/fundamentals/symptoms.html)
-- [COVID Screening Tool](https://sharedhealthmb.ca/covid19/screening-tool/)
-- [COVID Testing Locations](https://manitoba.ca/covid19/testing/locations.html)
-- [COVID Test Results](https://sharedhealthmb.ca/covid19/test-results/)
-- [COVID Vaccination Status](https://sharedhealthmb.ca/covid19/test-results/)
-
-## Frequently Asked Questions
-
-Coming soon...
