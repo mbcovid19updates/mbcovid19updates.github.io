@@ -140,7 +140,7 @@ If you cannot print out a consent form, there will be some available at the vacc
 
 ### Vaccination Status
 
-If you've been vaccinated, you can check the status of your vaccination online. It usually shows up within a day or two, but could take several days to show up. Once you've received both doses of vaccine, be sure to [apply for the Immunization Card](#vaccine-cards).
+If you've been vaccinated, you can check the status of your vaccination online. It usually shows up within a day or two, but could take several days. Once you've received both doses of vaccine, be sure to [apply for the Immunization Card](#vaccine-cards).
 
 <a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID Vaccination Status</a>
 
