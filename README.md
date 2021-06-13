@@ -11,6 +11,10 @@ _Last updated: June 12, 2021_
         <h3>Vaccine Walk-ins</h3>
         <p>Information about available Vaccine Walk-ins.</p>
     </a>
+    <a href="#vaccine-cards">
+        <h3>Vaccine Cards</h3>
+        <p>Information about how to get your Immunization card.</p>
+    </a>
     <a href="#restrictions">
         <h3>Current Restrictions</h3>
         <p>View all the current and upcoming restrictions.</p>
@@ -143,6 +147,48 @@ If the vaccine you received is eligible for use in Canada, you can then bring th
 You can contact or visit a public health office, or email [covidimmunizationrecordsinformation@gov.mb.ca](mailto:covidimmunizationrecordsinformation@gov.mb.ca) to update that information. This email address can also be used to request other updates or corrections to a COVID-19 immunization.
 
 <a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
+<a name="vaccine-cards"></a>
+### Vaccine Cards
+
+_Last updated: June 13, 2021_
+
+Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
+
+#### Current Benefits
+
+Current benefits for fully immunized Manitobans:
+
+- Travel within Canada without having to self-isolate upon return.
+- Exempt from self-isolation if identified as a COVID close contact.
+- Expanded visitation to Manitoba health-care facilities, including hospitals & personal care homes if both the patient/resident and visitor are fully vaccinated. This benefit is expected to be extended to health-care facility visitation in the coming week.
+
+Additional benefits are expected to be added in the coming weeks. We'll update this as information comes out.
+
+#### Eligibility
+
+To be eligible to receive an immunization card, Manitobans must:
+
+- have a Manitoba health card.
+- have received two doses of a vaccine.
+- wait 14 days after getting the second dose of vaccine.
+
+**NOTE:** At this time, an immunization card is only available for people with a Manitoba health card. To find out if you are eligible for a Manitoba health card, go to the [Manitoba Health and Seniors Care website](https://www.gov.mb.ca/health/mhsip/index.html#Q1). Once you receive your Manitoba health card, you can request your immunization card online. If you are not eligible for a Manitoba health card, you may contact your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) and they can provide you with a copy of your vaccination record.
+
+#### Questions?
+
+The Manitoba government has assembled a [Frequently Asked Questions (FAQ) section](https://www.gov.mb.ca/covid19/vaccine/immunization-record.html) on the COVID-19 Vaccine website as well as a [Frequently Asked Questions (FAQ) section](https://immunizationcard.manitoba.ca/#/faq?lang=en) on the Immunization Card website. They both cover a wide variety of different questions, so you can check there and see if your questions are answered. We may include additional answers here in the future.
+
+<a href="https://www.gov.mb.ca/covid19/vaccine/immunization-record.html" class="button">COVID-19 Vaccine website FAQ</a>
+<a href="https://immunizationcard.manitoba.ca/#/faq?lang=en" class="button">Immunization Card website FAQ</a>
+
+#### How to Apply
+
+Two weeks after receiving a second dose of a COVID-19 vaccine, Manitobans may apply for the card using the new online portal at [immunizationcard.manitoba.ca](https://immunizationcard.manitoba.ca).
+
+<a href="https://immunizationcard.manitoba.ca" class="button">Apply for Immunization Card</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
