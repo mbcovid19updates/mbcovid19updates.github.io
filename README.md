@@ -416,7 +416,7 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: June 10, 2021_
+_Last updated: June 13, 2021_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
@@ -440,7 +440,7 @@ The Manitoba government makes a distinction between whether or not the current h
 
 ### Vaccinations
 
-Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 10,000 vaccinations that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 40% first doses and 60% second doses. If you take those remaining 10,000 uncategorized vaccinations and run the formular on it, that would be 704,000 first doses and 96,000 second doses (700,000 + 4,000 = 704,000 and then 90,000 + 6,000 = 96,000 for a total of 800,000).
+Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 10,000 vaccinations that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 30% first doses and 70% second doses. If you take those remaining 10,000 uncategorized vaccinations and run the formula on it, that would be 703,000 first doses and 97,000 second doses (700,000 + 3,000 = 703,000 and then 90,000 + 7,000 = 97,000 for a total of 800,000).
 
 We also record daily progress of vaccinations per age group and health region and calculate uptake percentages, but this is based upon the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
 
