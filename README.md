@@ -1,6 +1,6 @@
 ## Sections
 
-_Last updated: June 12, 2021_
+_Last updated: June 14, 2021_
 
 <div class="feature-grid">
     <a href="#vaccine">
@@ -48,7 +48,7 @@ _Last updated: June 12, 2021_
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: June 11, 2021_
+_Last updated: June 14, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -65,7 +65,7 @@ You are eligible to receive your second dose if <u>any</u> of the following appl
 
 - You have priority health conditions ([see list here](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html#criteria)).
 - You are Indigenous
-- You received your first dose of vaccine **on or before May 6, 2021**.
+- You received your first dose of vaccine **on or before May 10, 2021**.
 
 **AND**
 
