@@ -1,4 +1,4 @@
-## Sections
+## Manitoba COVID-19 Updates
 
 _Last updated: June 16, 2021_
 
