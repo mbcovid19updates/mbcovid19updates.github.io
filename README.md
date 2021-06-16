@@ -423,7 +423,7 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: June 13, 2021_
+_Last updated: June 16, 2021_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
