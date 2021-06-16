@@ -437,7 +437,7 @@ Every day, we comb through all official COVID data and present it as a single un
 ### Active Cases
 
 The Manitoba government's official active case total is usually very backlogged, as they appear to not be able to keep up with following up with people and confirming they have recovered. The vast majority of people with COVID-19 recover / are no longer infectious after 10 days, so we instead use an estimated total that is based off of the **last 10
-days of new cases**. Whether or not the real number is a touch higher or lower, this offers the most consistent guage on current active cases.
+days of new cases**. Whether or not the real number is a touch higher or lower, this offers the most consistent gauge on current active cases.
 
 The **Active Cases Provincially** section displays data from **yesterday**, as more Western provinces take longer to report their totals due to time zone differences.
 
