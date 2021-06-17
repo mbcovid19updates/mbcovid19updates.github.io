@@ -69,10 +69,12 @@ You are eligible to receive your second dose if <u>any</u> of the following appl
 
 **AND**
 
-- You received your first dose a minimum number of days ago:
-   - Pfizer (minimum of 21 days ago)
-   - Moderna (minimum of 28 days ago)
-   - AstraZeneca (minimum of 28 days ago, but 8 weeks ago recommended)
+- You received your first dose a minimum of 28 days ago.
+   - AstraZeneca is a minimum of 28 days ago, but 8 weeks ago is recommended.
+
+#### Wasn't Pfizer 21 days?
+
+Yes, it used to be 21 days for Pfizer, but with the current backlog of second doses and an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
 
 ### How to Book an Appointment
 
