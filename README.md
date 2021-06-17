@@ -45,7 +45,7 @@ _Last updated: June 16, 2021_
     </a>
     <a href="#predictions">
         <h3>Positive Predictions</h3>
-        <p>Anxious or curious about what lies ahead? Check out this area for some positivity</p>
+        <p>Anxious or curious about what lies ahead? Check out this area for some positivity.</p>
     </a>
 </div>
 
