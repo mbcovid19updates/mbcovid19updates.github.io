@@ -11,6 +11,10 @@ _Last updated: June 17, 2021_
         <h3>Vaccine Walk-ins</h3>
         <p>Information about available Vaccine Walk-ins.</p>
     </a>
+    <a href="#mixing-vaccines">
+        <h3>Mixing Vaccines</h3>
+        <p>Information about mixing vaccines.</p>
+    </a>
     <a href="#vaccine-cards">
         <h3>Vaccine Cards</h3>
         <p>Information about how to get your Immunization card.</p>
@@ -163,13 +167,24 @@ Thompson Super-site (Thompson Regional Community Centre) virtual event | Thompso
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
+<a name="mixing-vaccines"></a>
+### Mixing Vaccines
+
+Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa.
+
+Here are some resources to learn more about this:
+
+- [Summary of National Advisory Committee on Immunization statement of June 17, 2021](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/summary-statement-june-17-2021.html) (Government of Canada, June 17, 2021)
+- ["Pfizer and Moderna are both safe, effective and interchangeable."](https://twitter.com/MBGov/status/1405574777855676422) (Manitoba Government, June 17, 2021)
+- [Summary of NACI rapid response of June 1, 2021](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/rapid-response-interchangeability/summary.html) (Government of Canada, June 1, 2021)
+- [National vaccine panel allows for mixing and matching COVID-19 vaccines](https://www.ctvnews.ca/health/coronavirus/national-vaccine-panel-allows-for-mixing-and-matching-covid-19-vaccines-1.5451067) (CTV, June 1, 2021)
+- [Canada recommends mixing and matching AstraZeneca, Pfizer and Moderna COVID-19 vaccines](https://www.cbc.ca/news/health/canada-mixing-covid-19-vaccines-astrazeneca-pfizer-moderna-naci-1.6048152) (CBC, June 1, 2021)
+
 ### AstraZeneca Information
 
 If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose. If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 9, 2021) more doses are arriving soon.
 
-### Mixing Vaccines
-
-Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa, though it is recommended to stick with the same mRNA vaccine wherever possible.
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 ### Consent Forms
 
