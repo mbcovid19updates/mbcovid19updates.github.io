@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: June 16, 2021_
+_Last updated: June 17, 2021_
 
 <div class="feature-grid">
     <a href="#vaccine">
@@ -535,7 +535,7 @@ In these challenging times, it's no surprise that I receive tons of anxious and 
 
 ### When will children under the age of 12 be able to get vaccinated?
 
-On May 5, 2021, Pfizer was the first to be approved in children ages 12-17, and currently leads the way in this area. Pfizer is currently testing on children age 6 months - 11 years, which has been divided into three age groups: ages 5 to 11, 2 to 5, and 6 months to 2 years. Larger trials have already begun with the age 5 to 11 group, and it's expected to be complete in September. The shots will continue to be given in a two-dose regimen. People age 12+ currently receive 2 doses of 30 ug each. Age 5-11 will be given 10 ug doses, and 6 months - 4 years will receive 3 ug doses.
+On May 5, 2021, Pfizer was the first to be approved in children ages 12-17, and currently leads the way in this area. Pfizer is currently testing on children age 6 months - 11 years, which has been divided into three age groups: ages 5 to 11, 2 to 5, and 6 months to 2 years. Larger trials have already begun with the age 5 to 11 group, and it's expected to be complete in September. The shots will continue to be given in a two-dose regimen. People age 12+ currently receive 2 doses of 30 micrograms each. Age 5-11 will be given 10 micrograms doses, and 6 months - 4 years will receive 3 micrograms doses.
 
 **Prediction:** Canada will probably approve Pfizer for age 5-11 in the fall, as early as mid September, as late as October. We already have adequate vaccine supply now with the recent large Moderna shipments and ongoing robust Pfizer supply. Everyone who wants a vaccine will have on before end of July. People will continue to get vaccines throughout summer, but there will no longer be any pressure for booking restrictions, etc. Between July and September, Canada/Manitoba will be able to stockpile Pfizer vaccine to prepare for a rollout in schools in the fall. Children under 5 may likely be approved in late 2020 or early 2021.
 
