@@ -94,22 +94,43 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 
 #### Super-sites in Manitoba
 
-City | Address | Map
---- | --- | ---
-Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share)
-Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)
-Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9)
-Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8)
-Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)
-Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77)
-Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7)
-Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9)
-Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)
+City | Address | Map | Walk-ins?
+--- | --- | --- | ---
+Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ❌
+Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ⏱ beginning June 20
+Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ⏱ beginning June 20
+Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅
+Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ⏱ beginning June 22
+Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ⏱ beginning June 20
+Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ⏱ beginning June 20
+Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ⏱ beginning June 24
+Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ⏱ beginning June 22
+The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅
+
 
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 12, 2021_
+_Last updated: June 17, 2021_
+
+On June 16, Manitoba health officials announced changes to vaccine availability, thanks to large shipments of Moderna arriving. While this may be too complex to keep track of, here are some important notes and broad strokes for Vaccine Walk-in availability:
+
+#### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
+
+- **Winnipeg Downtown** (RBC Convention Centre) - ❌ **No walk-in availability at this time**
+- **Winnipeg Leila** (Soccer Federation North) - ⏱ beginning June 20
+- **Brandon** - ⏱ beginning June 20
+- **Selkirk** - ⏱ beginning June 22
+- **Steinbach** - ⏱ beginning June 24
+- **Morden** - ⏱ beginning June 20
+- **Gimli** - ⏱ beginning June 22
+- **Dauphin** - ⏱ beginning June 20
+- **Thompson** - ✅ already allowed
+- **The Pas** - ✅ already allowed
+
+More details to be provided about this next week.
+
+#### Winnipeg Leila 1st dose Walk-ins
 
 Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila super-site on the following dates:
 
@@ -121,6 +142,20 @@ Eligible to anyone age 12+ for first doses only. The vaccine offered these 3 day
 
 **770 Leila Ave**
 Winnipeg Soccer Federation North
+
+#### Winnipeg Jets 1st dose Community Vaccination Tour
+
+The Winnipeg Jets and Manitoba Moose promotional teams will be supporting the Province of Manitoba's #ProtectMB campaign to encourage Manitobans to get vaccinated by visiting several vaccination sites across the province this week. The promotional teams will visit six vaccination sites from June 17 to 19, encouraging Manitobans to fill additional walk-up appointments for first dose Pfizer and Moderna vaccines, where no appointment booking is necessary. Please see [official announcement for more details](wpgjets.co/3xvhEzZ).
+
+Vaccination Site | City | Address | Date | Time | Number of walk-up doses available
+--- | --- | --- | --- | --- | ---
+Urban Indigenous Vaccine Clinic (Ma Mawi Wi Chi Itata Centre) | Winnipeg | 363 McGregor Street | Thursday, June 17 | 9 - 11am | 200
+Gimli Super-site | Gimli | 45 Centennial Road | Thursday, June 17 | 2:30 - 5:30pm | 100
+Urban Indigenous Vaccine Clinic (Aboriginal Health and Wellness Centre) | Winnipeg | 181 Higgins Avenue | Friday, June 18 | 9 - 11am | 200
+Morden Super-site (Access Event Centre) | Morden | 111-D Gilmour Street | Friday, June 18 | 1:30 - 4:30pm | 100
+Winnipeg Leila Super-site (Winnipeg Soccer Federation North) | Winnipeg | 770 Leila Avenue | Saturday, June 19 | 9 - 11:30am | 200
+Brandon Super-site (Keystone Centre) | Brandon | 1 1175 18th Street Brandon MB | Saturday, June 19 | 3 - 5pm | 200
+Thompson Super-site (Thompson Regional Community Centre) virtual event | Thompson | 274 Thompson Drive North | Wednesday, June 23 | 11am - 1pm | 100
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
