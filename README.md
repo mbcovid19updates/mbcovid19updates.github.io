@@ -113,7 +113,7 @@ The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo
 
 _Last updated: June 17, 2021_
 
-On June 16, Manitoba health officials announced changes to vaccine availability, thanks to large shipments of Moderna arriving. While this may be too complex to keep track of, here are some important notes and broad strokes for Vaccine Walk-in availability:
+On June 16, Manitoba announced changes to vaccine availability, thanks to large shipments of Moderna arriving. While this may be too complex to keep track of, here are some important notes and broad strokes for Vaccine Walk-in availability:
 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
