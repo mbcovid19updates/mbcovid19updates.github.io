@@ -543,5 +543,5 @@ On May 5, 2021, Pfizer was the first to be approved in children ages 12-17, and 
 
 ([Pfizer website](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european))
 
-- https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european
-- https://abcnews.go.com/Health/pfizer-advances-clinical-trials-11-year-olds-lower/story?id=78148963
+- [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european)
+- [https://abcnews.go.com/Health/pfizer-advances-clinical-trials-11-year-olds-lower/story?id=78148963](https://abcnews.go.com/Health/pfizer-advances-clinical-trials-11-year-olds-lower/story?id=78148963)
