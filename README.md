@@ -541,11 +541,11 @@ On May 5, 2021, Pfizer was the first to be approved in children ages 12-17, and 
 
 >In addition, the pediatric study evaluating the safety and efficacy of the COVID-19 vaccine in children 6 months to 11 years of age is ongoing. Pfizer and BioNTech expect to have definitive readouts and, subject to the data generated, submit for an Emergency Use Authorization (e.g., in the U.S.) or a variation to Conditional Marketing Authorizations (e.g., in the EU) for two cohorts, including children 2-5 years of age and 5-11 years of age, in September. The readout and submission for the cohort of children 6 months to 2 years of age are expected in the fourth quarter.
 
--([Pfizer website](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european))
+-[Pfizer website](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european)
 
 >If safety and immunogenicity is confirmed, and pending authorization or approval from regulators, we hope to submit the vaccine for potential Emergency Use Authorization (EUA) to the U.S. Food and Drug Administration (FDA) sometime in the September-October timeframe for children 5 to 11, and soon after for 6 months to 5.
 
--([Pfizer website](https://www.pfizer.com/science/coronavirus/vaccine/additional-population-studies))
+-[Pfizer website](https://www.pfizer.com/science/coronavirus/vaccine/additional-population-studies)
 
 - [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-first-authorization-european)
 - [https://www.pfizer.com/science/coronavirus/vaccine/additional-population-studies](https://www.pfizer.com/science/coronavirus/vaccine/additional-population-studies)
