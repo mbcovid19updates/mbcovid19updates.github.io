@@ -145,7 +145,7 @@ Winnipeg Soccer Federation North
 
 #### Winnipeg Jets 1st dose Community Vaccination Tour
 
-The Winnipeg Jets and Manitoba Moose promotional teams will be supporting the Province of Manitoba's #ProtectMB campaign to encourage Manitobans to get vaccinated by visiting several vaccination sites across the province this week. The promotional teams will visit six vaccination sites from June 17 to 19, encouraging Manitobans to fill additional walk-up appointments for first dose Pfizer and Moderna vaccines, where no appointment booking is necessary. Please see [official announcement for more details](wpgjets.co/3xvhEzZ).
+The Winnipeg Jets and Manitoba Moose promotional teams will be supporting the Province of Manitoba's #ProtectMB campaign to encourage Manitobans to get vaccinated by visiting several vaccination sites across the province this week. The promotional teams will visit six vaccination sites from June 17 to 19, encouraging Manitobans to fill additional walk-up appointments for first dose Pfizer and Moderna vaccines, where no appointment booking is necessary. Please see [official announcement for more details](https://wpgjets.co/3xvhEzZ).
 
 Vaccination Site | City | Address | Date | Time | Number of walk-up doses available
 --- | --- | --- | --- | --- | ---
