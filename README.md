@@ -188,7 +188,7 @@ If your first dose of vaccine was AstraZeneca, please note that limited supplies
 
 If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 18, 2021) that a total of 15 medical clinics and pharmacies will soon act as regional hubs to offer second-dose AstraZeneca vaccinations. Beginning next week, individuals will be able to use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
 
-#### Locations with AstraZeneca
+#### Locations to receive AstraZeneca soon
 
 The following medical clinics and pharmacies in the province will receive AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Sites will update their information on the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) when they are ready to begin making appointments. **PLEASE CHECK THE VACCINE FINDER TOOL TO CONFIRM DOSES ARE AVAILABLE**
 
