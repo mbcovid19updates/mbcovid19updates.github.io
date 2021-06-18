@@ -84,6 +84,16 @@ You are eligible to receive your second dose if <u>any</u> of the following appl
 
 Yes, it used to be 21 days for Pfizer, but with the current backlog of second doses and an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
 
+#### I can't find any Pfizer appointments!
+
+For context, please keep in mind that appointments (almost all Pfizer) have been booking out 5 weeks recently. The majority of these are dependent on the ongoing Pfizer supply. This means that while we currently continue to receive roughly 80-90K doses of Pfizer each week, they are designated for upcoming appointments that have already been booked. Now, consider that around 350K doses of Moderna are arriving within a 2-week span. This is massive and almost considered an unexpected bonus. Because of this, Manitoba has been able to very quickly open up more and more appointments daily, but the vast majority of them are for Moderna.
+
+With a growing number of people becoming eligible to book appointments, and a skewed ratio of Moderna vs Pfizer availability, it becomes more of a perception issue. Manitoba essentially has 2 options here: 1) Sit on the Moderna and continue to very slowly open up second dose eligibility as Pfizer comes in, or 2) Quickly open up eligibility to everyone, but most people will have to switch to Moderna or wait a long time for Pfizer appointments. But consider this... if you're wanting Pfizer, you would have been waiting even longer for your turn if the Moderna never arrived and if these Moderna appointments weren't made available.
+
+And finally, since the majority of people have received Pfizer for their first dose, it will be a bit of an education process and people coming to terms with switching, which will result in Pfizer doses being harder to find for new appointments over the next few weeks. But it's important to note, there will eventually be more Pfizer appointments available, and you will not be forced to switch to Moderna if you don't wish to.
+
+It's worth noting that Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
+
 ### How to Book an Appointment
 
 Appointments for first or second doses of vaccines can be booked at any super-site, pop-up clinic, or a doctor's office or pharmacy that is accepting appointments. Super-sites are by far the most efficient and easiest way to book an appointment.
