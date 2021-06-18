@@ -179,6 +179,7 @@ Here are some resources to learn more about this:
 - [National vaccine panel allows for mixing and matching COVID-19 vaccines](https://www.ctvnews.ca/health/coronavirus/national-vaccine-panel-allows-for-mixing-and-matching-covid-19-vaccines-1.5451067) (CTV, June 1, 2021)
 - [Canada recommends mixing and matching AstraZeneca, Pfizer and Moderna COVID-19 vaccines](https://www.cbc.ca/news/health/canada-mixing-covid-19-vaccines-astrazeneca-pfizer-moderna-naci-1.6048152) (CBC, June 1, 2021)
 
+<a name="astrazeneca"></a>
 ### AstraZeneca Information
 
 _Last updated: June 18, 2021_
