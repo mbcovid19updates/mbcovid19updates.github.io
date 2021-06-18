@@ -202,7 +202,7 @@ The Medicine Shoppe Pharmacy | 1 330 Fischer Ave. | The Pas
 The Medicine Shoppe Pharmacy | 3 602 Saskatchewan Ave. W | Portage la Prairie
 Loblaw Pharmacy | 175 Cargill Rd. | Winkler
 Manitoba Clinic | 790 Sherbrook St. | Winnipeg
-Safeway Pharmacy 3393 Portage Ave. | Winnipeg
+Safeway Pharmacy | 3393 Portage Ave. | Winnipeg
 Costco Regent | 1499 Regent Ave. W. | Winnipeg
 Viva Care Kenaston | 1665 Kenaston Blvd. | Winnipeg
 Prairie Health Apothecary | 600 St. Anne's Rd. | Winnipeg
