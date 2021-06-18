@@ -200,13 +200,13 @@ Gimli Express Care Clinic | 50 Centre St. | Gimli
 Safeway Pharmacy | 318 Manitoba Ave. | Selkirk
 The Medicine Shoppe Pharmacy | 1 330 Fischer Ave. | The Pas
 The Medicine Shoppe Pharmacy | 3 602 Saskatchewan Ave. W | Portage la Prairie
-Loblaw Pharmacy | 175 Cargill Rd. | Winkler
+Loblaw (Superstore) Pharmacy | 175 Cargill Rd. | Winkler
 Manitoba Clinic | 790 Sherbrook St. | Winnipeg
 Safeway Pharmacy | 3393 Portage Ave. | Winnipeg
 Costco Regent | 1499 Regent Ave. W. | Winnipeg
 Viva Care Kenaston | 1665 Kenaston Blvd. | Winnipeg
 Prairie Health Apothecary | 600 St. Anne's Rd. | Winnipeg
-Loblaw Pharmacy | 2132 McPhillips St. | Winnipeg
+Loblaw (Superstore) Pharmacy | 2132 McPhillips St. | Winnipeg
 Sobeys Pharmacy | 1 178 PTH 12N | Steinbach
 
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
