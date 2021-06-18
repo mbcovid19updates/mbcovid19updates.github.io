@@ -189,7 +189,7 @@ If you strongly wish to receive a second dose of AstraZeneca, the province annou
 
 #### Locations with AstraZeneca
 
-The following medical clinics and pharmacies in the province will receive AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Sites will update their information on the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) when they are ready to begin making appointments.
+The following medical clinics and pharmacies in the province will receive AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Sites will update their information on the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) when they are ready to begin making appointments. **PLEASE CHECK THE VACCINE FINDER TOOL TO CONFIRM DOSES ARE AVAILABLE**
 
 Location Name | Address | City
 --- | --- | ---
@@ -208,6 +208,8 @@ Viva Care Kenaston | 1665 Kenaston Blvd. | Winnipeg
 Prairie Health Apothecary | 600 St. Anne's Rd. | Winnipeg
 Loblaw Pharmacy | 2132 McPhillips St. | Winnipeg
 Sobeys Pharmacy | 1 178 PTH 12N | Steinbach
+
+<a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
