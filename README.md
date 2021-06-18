@@ -148,19 +148,6 @@ On June 16, Manitoba announced changes to vaccine availability, thanks to large 
 
 More details to be provided about this next week.
 
-#### Winnipeg Leila 1st dose Walk-ins
-
-Walk-in vaccination for <u>1st doses</u> will be available at the Winnipeg Leila super-site on the following dates:
-
-- Tuesday, **June 15** from 9 am - 3:45 pm
-- Wednesday, **June 16** from 1 pm - 7:45 pm
-- Thursday, **June 17** from 9 am - 3:45 pm
-
-Eligible to anyone age 12+ for first doses only. The vaccine offered these 3 days will be **Pfizer**.
-
-**770 Leila Ave**
-Winnipeg Soccer Federation North
-
 #### Winnipeg Jets 1st dose Community Vaccination Tour
 
 The Winnipeg Jets and Manitoba Moose promotional teams will be supporting the Province of Manitoba's #ProtectMB campaign to encourage Manitobans to get vaccinated by visiting several vaccination sites across the province this week. The promotional teams will visit six vaccination sites from June 17 to 19, encouraging Manitobans to fill additional walk-up appointments for first dose Pfizer and Moderna vaccines, where no appointment booking is necessary. Please see [official announcement for more details](https://wpgjets.co/3xvhEzZ).
@@ -180,7 +167,9 @@ Thompson Super-site (Thompson Regional Community Centre) virtual event | Thompso
 <a name="mixing-vaccines"></a>
 ### Mixing Vaccines
 
-Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa.
+_Last updated: June 18, 2021_
+
+Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa. Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
 
 Here are some resources to learn more about this:
 
@@ -192,7 +181,33 @@ Here are some resources to learn more about this:
 
 ### AstraZeneca Information
 
-If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose. If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 9, 2021) more doses are arriving soon.
+_Last updated: June 18, 2021_
+
+If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose.
+
+If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 18, 2021) that a total of 15 medical clinics and pharmacies will soon act as regional hubs to offer second-dose AstraZeneca vaccinations. Beginning next week, individuals will be able to use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
+
+#### Locations with AstraZeneca
+
+The following medical clinics and pharmacies in the province will receive AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Sites will update their information on the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) when they are ready to begin making appointments.
+
+Location Name | Address | City
+--- | --- | ---
+Brandon Clinic Pharmacy | 4 42 Mctavish Ave. E. | Brandon
+Dauphin Clinic Pharmacy | 622 Third St. SW | Dauphin
+Ashern Pharmacy | 43 Main St. | Ashern
+Gimli Express Care Clinic | 50 Centre St. | Gimli
+Safeway Pharmacy | 318 Manitoba Ave. | Selkirk
+The Medicine Shoppe Pharmacy | 1 330 Fischer Ave. | The Pas
+The Medicine Shoppe Pharmacy | 3 602 Saskatchewan Ave. W | Portage la Prairie
+Loblaw Pharmacy | 175 Cargill Rd. | Winkler
+Manitoba Clinic | 790 Sherbrook St. | Winnipeg
+Safeway Pharmacy 3393 Portage Ave. | Winnipeg
+Costco Regent | 1499 Regent Ave. W. | Winnipeg
+Viva Care Kenaston | 1665 Kenaston Blvd. | Winnipeg
+Prairie Health Apothecary | 600 St. Anne's Rd. | Winnipeg
+Loblaw Pharmacy | 2132 McPhillips St. | Winnipeg
+Sobeys Pharmacy | 1 178 PTH 12N | Steinbach
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
