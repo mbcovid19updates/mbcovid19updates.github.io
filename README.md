@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: June 18, 2021_
+_Last updated: June 19, 2021_
 
 <div class="feature-grid">
     <a href="#vaccine">
@@ -116,15 +116,15 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 
 #### Super-sites in Manitoba
 
-City | Address | Map | Walk-ins?
+City | Address | Map | Moderna Walk-ins?
 --- | --- | --- | ---
 Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ❌
-Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ⏱ beginning June 20
-Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ⏱ beginning June 20
+Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ✅
+Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅
 Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅
 Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ⏱ beginning June 22
-Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ⏱ beginning June 20
-Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ⏱ beginning June 20
+Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅
+Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅
 Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ⏱ beginning June 24
 Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ⏱ beginning June 22
 The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅
@@ -133,24 +133,24 @@ The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 17, 2021_
+_Last updated: June 20, 2021_
 
 On June 16, Manitoba announced changes to vaccine availability, thanks to large shipments of Moderna arriving. While this may be too complex to keep track of, here are some important notes and broad strokes for Vaccine Walk-in availability:
 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
 - **Winnipeg Downtown** (RBC Convention Centre) - ❌ **No walk-in availability at this time**
-- **Winnipeg Leila** (Soccer Federation North) - ⏱ beginning June 20
-- **Brandon** - ⏱ beginning June 20
+- **Winnipeg Leila** (Soccer Federation North) - ✅ beginning June 20
+- **Brandon** - ✅ beginning June 20
 - **Selkirk** - ⏱ beginning June 22
 - **Steinbach** - ⏱ beginning June 24
-- **Morden** - ⏱ beginning June 20
+- **Morden** - ✅ beginning June 20
 - **Gimli** - ⏱ beginning June 22
-- **Dauphin** - ⏱ beginning June 20
+- **Dauphin** - ✅ beginning June 20
 - **Thompson** - ✅ already allowed
 - **The Pas** - ✅ already allowed
 
-More details to be provided about this next week.
+More details to be provided about this soon.
 
 #### Winnipeg Jets 1st dose Community Vaccination Tour
 
@@ -531,11 +531,11 @@ The **Active Cases Provincially** section displays data from **yesterday**, as m
 
 ### Hospitalization
 
-The Manitoba government makes a distinction between whether or not the current hospitalization of a patient is infectious or not, and puts a heavy emphasis of the infectious patient totals (which make numbers appear to be lower). We do not do this because regardless of whether a COVID patient is infectious or not, they are still in the hospital due to COVID, and still occupying space and requiring care.
+The Manitoba government makes a distinction between whether or not the current hospitalization of a patient is infectious or not, and puts a heavy emphasis on the infectious patient totals (which make numbers appear to be lower). We do not do this because regardless of whether a COVID patient is infectious or not, they are still in the hospital due to COVID, and still occupying space and requiring care.
 
 ### Vaccinations
 
-Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 10,000 vaccinations that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 30% first doses and 70% second doses. If you take those remaining 10,000 uncategorized vaccinations and run the formula on it, that would be 703,000 first doses and 97,000 second doses (700,000 + 3,000 = 703,000 and then 90,000 + 7,000 = 97,000 for a total of 800,000).
+Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 10,000 vaccinations that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 10% first doses and 90% second doses. If you take those remaining 10,000 uncategorized vaccinations and run the formula on it, that would be 701,000 first doses and 99,000 second doses (700,000 + 1,000 = 701,000 and then 90,000 + 9,000 = 99,000 for a total of 800,000).
 
 We also record daily progress of vaccinations per age group and health region and calculate uptake percentages, but this is based upon the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
 
@@ -545,7 +545,7 @@ Please keep all of this in mind as we track the progress of the [Re-opening Plan
 
 We include fine print at the bottom of the dashboard to explain calculations, etc. It's likely too difficult to read in some cases, so here's a copy of it:
 
->All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 20% of them are 1st dose. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>Recalculated every Sunday. <sup>9</sup>Based on upcoming 1 or 2 weeks deliveries + excess of 95K of current inventory. <sup>10</sup>Divided by 7 days. <sup>11</sup>Assumes 25% 1st doses and 75% 2nd doses. Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
+>All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 10% of them are 1st dose. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>Recalculated every Sunday. <sup>9</sup>Based on upcoming 1 or 2 weeks deliveries + excess of 95K of current inventory. <sup>10</sup>Divided by 7 days. <sup>11</sup>Assumes 10% 1st doses and 90% 2nd doses. Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -556,12 +556,13 @@ _Last updated: June 12, 2021_
 
 The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. It is **not** affiliated with the Manitoba government in any way. It was started in January, 2021. Throughout the second wave, I became very frustrated with how difficult it was to access, read, and understand the updates and news about COVID. The straw that broke the camel's back was the incredibly backlogged "active" case count. At one point, the official count was as much as double what the likely reality was (e.g. count was around 10,000 when it was likely closer to 5,000). On January 5, 2021, we published our first daily update, and over the past several months, have grown significantly in social media followers (THANK YOU!).
 
-### Private Messages
+### Private/Direct Messages
 
 I do my best to answer as many people as possible, but I am one person and don't have the time and all the answers to get to everyone. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I am hoping that this website resource will help answer many questions people ask me privately so they can get answers faster.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
+<a name="faq"></a>
 ## Frequently Asked Questions
 
 Here's the beginning of a list of questions that are frequently asked...
