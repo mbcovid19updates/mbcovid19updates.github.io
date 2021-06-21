@@ -605,7 +605,7 @@ _Last updated: June 17, 2021_
 
 In these challenging times, it's no surprise that I receive tons of anxious and curious questions about the current situation and what the future holds. This will be a growing section where I will attempt to provide answers to some hard questions.
 
-**PLEASE NOTE THAT THESE ARE PERSONAL OPINIONS BASED ON EXISTING EVIDENCE/INFORMATION AND NONE OF THIS IS GUARANTEED**
+**PLEASE NOTE THAT THESE ARE PERSONAL OPINIONS BASED ON EXISTING EVIDENCE/INFORMATION AND NONE ARE GUARANTEED**
 
 ### When will children under the age of 12 be able to get vaccinated?
 
