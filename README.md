@@ -11,7 +11,7 @@ _Last updated: June 20, 2021_
         <h3>Vaccine Walk-ins</h3>
         <p>Information about available Vaccine Walk-ins.</p>
     </a>
-    <a href="#vaccines-awareness">
+    <a href="#vaccine-awareness">
         <h3>Vaccine Awareness</h3>
         <p>Information about the Vaccine Town Halls.</p>
     </a>
