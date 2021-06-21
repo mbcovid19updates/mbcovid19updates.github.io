@@ -55,9 +55,9 @@ _Last updated: June 20, 2021_
         <h3>About Us</h3>
         <p>Who are we? Why are we doing this?</p>
     </a>
-    <a href="#predictions">
-        <h3>Positive Predictions</h3>
-        <p>Anxious or curious about what lies ahead? Check out this area for some positivity.</p>
+    <a href="#future">
+        <h3>Future</h3>
+        <p>Anxious or curious about what lies ahead?</p>
     </a>
 </div>
 
@@ -598,20 +598,20 @@ Here's the beginning of a list of questions that are frequently asked...
 While helpful to use as a partial indicator, an over-emphasis on the 5-day test positivity rate can easily skew things when looked at on its own. For example, throughout the summer of 2020, lots of asymptomatic testing was done, which waters down the percentage (no problem here). During the second wave, asymptomatic testing was mostly canceled, and with huge delays at testing sites, people with minor symptoms likely didn't bother going to get tested, meaning the TPR would skyrocket as it did. Even once the dust settled getting closer to Christmas, the TPR remained very high. However, the number of tests remained very low. Again, nothing wrong here per se. The trouble is that you can't have a reliable measurement when you are changing the parameters all the time, and you also can't rely on something that has massive external factors like people's feelings and opinions. For example, if people are panicked (like in the first wave), you're much more likely to have a higher rate of people going for tests. As people become desensitized and adjusted to the pandemic, you might find people are a bit more relaxed about getting tested. And this does not even factor in regions where there's a higher percentage of people that do not believe COVID is real/a concern. In areas like this, many people with moderate symptoms may be unlikely to get tested. The only data that can't be skewed is hospitalization and deaths, or something like wastewater testing.
 
 
-<a name="predictions"></a>
-## Positive Predictions
+<a name="future"></a>
+## Future
 
-_Last updated: June 1y, 2021_
+_Last updated: June 17, 2021_
 
-In these challenging times, it's no surprise that I receive tons of anxious and curious questions about the current situation and what the future holds. This will be a growing section that attempts to mix informed gut feelings with some amount of evidence for what the current and future situation holds for us.
+In these challenging times, it's no surprise that I receive tons of anxious and curious questions about the current situation and what the future holds. This will be a growing section where I will attempt to provide answers to some hard questions.
 
-**PLEASE NOTE THAT ALL OF THIS BELOW IS CONJECTURE, AND SHOULD NOT BE TAKEN AS LITERAL, EXACT OR GUARANTEES**
+**PLEASE NOTE THAT THESE ARE PERSONAL OPINIONS BASED ON EXISTING EVIDENCE/INFORMATION AND NONE OF THIS IS GUARANTEED**
 
 ### When will children under the age of 12 be able to get vaccinated?
 
 On May 5, 2021, Pfizer was the first to be approved in children ages 12-17, and currently leads the way in this area. Pfizer is currently testing on children age 6 months - 11 years, which has been divided into three age groups: ages 5 to 11, 2 to 5, and 6 months to 2 years. Larger trials have already begun with the age 5 to 11 group, and it's expected to be complete in September. The shots will continue to be given in a two-dose regimen. People age 12+ currently receive 2 doses of 30 micrograms each. Age 5-11 will be given 10 micrograms doses, and 6 months - 4 years will receive 3 micrograms doses.
 
-**Prediction:** Canada will probably approve Pfizer for age 5-11 in the fall, as early as mid September, as late as October. We already have adequate vaccine supply now with the recent large Moderna shipments and ongoing robust Pfizer supply. Everyone who wants a vaccine will have on before end of July. People will continue to get vaccines throughout summer, but there will no longer be any pressure for booking restrictions, etc. Between July and September, Canada/Manitoba will be able to stockpile Pfizer vaccine to prepare for a rollout in schools in the fall. Children under 5 may likely be approved in late 2020 or early 2021.
+**Prediction:** Canada will probably approve Pfizer for age 5-11 in the fall, as early as mid September, as late as October. We already have adequate vaccine supply now with the recent large Moderna shipments and ongoing Pfizer supply. Everyone who wants a vaccine will very likely have it before the end of July. People will continue to get vaccines throughout summer, but there will no longer be any pressure for booking restrictions, etc. Between July and September, Canada/Manitoba will likely be able to stockpile Pfizer vaccines to prepare for a rollout in schools in the fall. Children under 5 may likely be approved in late 2020 or early 2021.
 
 >In addition, the pediatric study evaluating the safety and efficacy of the COVID-19 vaccine in children 6 months to 11 years of age is ongoing. Pfizer and BioNTech expect to have definitive readouts and, subject to the data generated, submit for an Emergency Use Authorization (e.g., in the U.S.) or a variation to Conditional Marketing Authorizations (e.g., in the EU) for two cohorts, including children 2-5 years of age and 5-11 years of age, in September. The readout and submission for the cohort of children 6 months to 2 years of age are expected in the fourth quarter.
 
