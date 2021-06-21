@@ -340,18 +340,18 @@ _Last updated: June 21, 2021_
 
 The greatest hurdle to reaching herd immunity from COVID-19 here in Manitoba is vaccine hesitancy. Doctors Manitoba will be hosting four different [Vaccine Town Halls](https://manitobavaccine.ca/townhall) this week from June 21-24, at 6:30pm, Live on YouTube. Their aim is to answer community members' questions in an effort to help Manitobans better understand the vaccines.
 
-- **June 21 at 6:30pm** - [Morden, Winkler and Southern Manitoba Town Hall](https://www.manitobavaccine.ca/townhall/townhall-june21/)
+- **June 21 at 6:30pm** - Morden, Winkler and Southern Manitoba Town Hall
    - Hear from our physician panel, including local physicians Dr. Don Klassen, Dr. Kevin Convery, Dr. Kathryn Martin, as well as provincial vaccine expert Dr. Joss Reimer. The town hall will be hosted by John P. Klassen, a recently retired pastor who has served in Southern Manitoba for 35 years.
-   - [Youtube link](https://www.youtube.com/watch?v=5w5nNGF47Qs) / [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/townhall-june21/)
-- **June 22 at 6:30pm** - [Youth & Parent Town Hall](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-22/)
+   - [Youtube link](https://www.youtube.com/watch?v=5w5nNGF47Qs) | [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/townhall-june21/)
+- **June 22 at 6:30pm** - Youth & Parent Town Hall
    - Hear from our physician panel, including pediatricians Dr. Marni Hanna, Dr. William Li and Dr. Ruth Grimes and pediatric infectious disease specialist Dr. Jared Bullard. The town hall will be hosted by Ace Burpee.
-   - [Youtube link](https://www.youtube.com/watch?v=E_iDqsludcQ) / [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-22/)
-- **June 23 at 6:30pm** - [Town Hall for All Manitobans](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-23/)
+   - [Youtube link](https://www.youtube.com/watch?v=E_iDqsludcQ) | [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-22/)
+- **June 23 at 6:30pm** - Town Hall for All Manitobans
    - Hear from our physician panel, including family physicians Dr. Jennifer Potter and Dr. Alex Singer, infectious disease expert Dr. Amila Heendeniya, obstetrician Dr. Vanessa Poliquin and surgeon, allergy and immunology expert Dr. Chrystyna Kalicinsky, and COVID commentor and former CMA president Dr. Gigi Osler.
-   - [Youtube link](https://www.youtube.com/watch?v=MKa0q51d2SY) / [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-23/)
-- **June 24 at 6:30pm** - [Steinbach & Southeastern Manitoba Town Hall](https://www.manitobavaccine.ca/townhall/town-hall-june-24/)
+   - [Youtube link](https://www.youtube.com/watch?v=MKa0q51d2SY) | [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-23/)
+- **June 24 at 6:30pm** - Steinbach & Southeastern Manitoba Town Hall
    - Hear from our physician panel, including local physicians Dr. Curtis Krahn and Dr. Jayson Barkman, as well as the provincial lead for family medicine Dr. José François. The town hall will be hosted by Michelle Sawatzky from AM 1250.
-   - [Youtube link](https://www.youtube.com/watch?v=wIYo-e1sY5I) / [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/town-hall-june-24/)
+   - [Youtube link](https://www.youtube.com/watch?v=wIYo-e1sY5I) | [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/town-hall-june-24/)
 
 Join and share with friends and family who may have questions or concerns about the vaccines.
 
