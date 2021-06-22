@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: June 21, 2021_
+_Last updated: June 22, 2021_
 
 <div class="feature-grid">
     <a href="#vaccine">
@@ -64,7 +64,7 @@ _Last updated: June 21, 2021_
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: June 21, 2021_
+_Last updated: June 22, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
