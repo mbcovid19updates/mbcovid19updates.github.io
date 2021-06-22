@@ -81,7 +81,7 @@ You are eligible to receive your second dose if <u>any</u> of the following appl
 
 - You have priority health conditions ([see list here](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html#criteria)).
 - You are Indigenous
-- You received your first dose of vaccine **on or before May 25, 2021**.
+- You received your first dose of vaccine **on or before May 29, 2021**.
 
 **AND**
 
