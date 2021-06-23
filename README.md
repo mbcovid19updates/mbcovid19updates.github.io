@@ -98,6 +98,8 @@ And finally, since the majority of people have received Pfizer for their first d
 
 It's worth noting that Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
 
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
 ### How to Book an Appointment
 
 Appointments for first or second doses of vaccines can be booked at any super-site, pop-up clinic, or a doctor's office or pharmacy that is accepting appointments. Super-sites are by far the most efficient and easiest way to book an appointment.
@@ -151,20 +153,6 @@ On June 16, Manitoba announced changes to vaccine availability, thanks to large 
 - **The Pas** - ✅
 
 More details to be provided about this soon.
-
-#### Winnipeg Jets 1st dose Community Vaccination Tour
-
-The Winnipeg Jets and Manitoba Moose promotional teams will be supporting the Province of Manitoba's #ProtectMB campaign to encourage Manitobans to get vaccinated by visiting several vaccination sites across the province this week. The promotional teams will visit six vaccination sites from June 17 to 19, encouraging Manitobans to fill additional walk-up appointments for first dose Pfizer and Moderna vaccines, where no appointment booking is necessary. Please see [official announcement for more details](https://wpgjets.co/3xvhEzZ).
-
-Vaccination Site | City | Address | Date | Time | Number of walk-up doses available
---- | --- | --- | --- | --- | ---
-Urban Indigenous Vaccine Clinic (Ma Mawi Wi Chi Itata Centre) | Winnipeg | 363 McGregor Street | Thursday, June 17 | 9 - 11am | 200
-Gimli Super-site | Gimli | 45 Centennial Road | Thursday, June 17 | 2:30 - 5:30pm | 100
-Urban Indigenous Vaccine Clinic (Aboriginal Health and Wellness Centre) | Winnipeg | 181 Higgins Avenue | Friday, June 18 | 9 - 11am | 200
-Morden Super-site (Access Event Centre) | Morden | 111-D Gilmour Street | Friday, June 18 | 1:30 - 4:30pm | 100
-Winnipeg Leila Super-site (Winnipeg Soccer Federation North) | Winnipeg | 770 Leila Avenue | Saturday, June 19 | 9 - 11:30am | 200
-Brandon Super-site (Keystone Centre) | Brandon | 1 1175 18th Street Brandon MB | Saturday, June 19 | 3 - 5pm | 200
-Thompson Super-site (Thompson Regional Community Centre) virtual event | Thompson | 274 Thompson Drive North | Wednesday, June 23 | 11am - 1pm | 100
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
