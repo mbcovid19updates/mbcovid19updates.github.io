@@ -344,9 +344,36 @@ Join and share with friends and family who may have questions or concerns about 
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: June 12, 2021_
+_Last updated: June 23, 2021_
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51430&posted=2021-06-09) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06102021.pdf) (PDF) here.
+### CHANGES TO PUBLIC HEALTH ORDERS
+
+The following changes come into effect on Saturday, June 26, 2021, at 12:01 a.m.
+
+Sector | Existing Restrictions as of June 12 | New Restrictions as of June 26
+--- | --- | ---
+Private Residences | Up to five visitors from no more than two other households, in addition to those who reside there, are permitted outdoors on private property | Up to 10 visitors, in addition to those who reside there, are permitted outdoors on private property. Visitors may briefly enter the home for essential reasons.
+Indoor Gatherings in Public Spaces | Restrictions Continue | Restrictions Continue
+Outdoor Gatherings in Public Spaces | Up to 5 people permitted outdoors in public spaces | Up to 25 people permitted outdoors in public spaces.
+Restaurants and Bars | Restrictions Continue | Open at 25% capacity for indoors and 50% for outdoor dining. For indoor dining, patrons seated together must be from the same household, unless all patrons at the table are fully immunized. For outdoor dining, table sizes are limited to 8 people.
+Gyms and Fitness Centres | Restrictions Continue | Open at 25% capacity with three metres distance maintained between patrons for both individual and group fitness.
+Casinos and VLTs | Restrictions Continue | Restrictions Continue
+Museums, Galleries and Libraries | Restrictions Continue | Restrictions Continue
+Movies Theatres and Concert Halls | Restrictions Continue | Restrictions Continue
+Weddings and Funerals | Up to 10 people plus photographer/officiants. | Open to 25 participants for outdoor ceremonies, in addition to photographer and officiants. Indoor weddings and funerals remain limited to 10 persons.
+Indoor Community, Cultural and Religious Gatherings | Closed | Open to 25% capacity to a limit of 25 persons, with masks worn at all times.
+Outdoor Community, Cultural and Religious Gatherings | Closed | Open to 50 persons. Drive-in services continue to be permitted.
+Personal Services | Closed | Open at 50% capacity on an appointment basis only.
+Indoor Sports and Recreation | Closed | Open at 25% capacity to a limit of 5 persons; no tournaments allowed.
+Outdoor Sports and Recreation | Up to 5 people, organized team games are not permitted. | Open to 25 people; no tournaments allowed.
+Dance, Theatre and Music Schools | Closed | Open at 25% capacity to a limit of 5 persons indoors, or 25 people outdoors.
+Day Camps | Closed | Open to a maximum of 20 participants in groups.
+Retail, Markets, Garden Centres and Malls | Open at 10% capacity up to a maximum of 100 persons, with only one shopper per household permitted. Mall capacity limit of up to 10% of the facility’s capacity. Malls required to manage capacity and access to ensure compliance. | Open with increased capacity at 25% to a limit of 250 persons, no additional restrictions.
+Workplaces | Required to allow employees to work from home where possible. | Restrictions Continue
+Indoor Self-Help Gatherings | Closed, meet virtually | Open 25% capacity to a limit of 25 persons with masks worn at all times.
+
+
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06102021.pdf) (PDF) here (currently for previous health orders - this will be updated when available).
 
 ### Effective Saturday, June 12, 2021
 
