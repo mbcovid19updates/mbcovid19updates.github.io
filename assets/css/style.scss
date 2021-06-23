@@ -144,6 +144,10 @@ h4 {
     .feature-grid {
         grid-template-columns: 100%;
     }
+    .feature-grid > a {
+        padding: 10px;
+        margin: 0 0 10px 0;
+    }
 }
 @media only screen and (min-width: 600px) and (max-width: 1299px) {
     .feature-grid {
