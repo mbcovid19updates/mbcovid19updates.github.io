@@ -1,8 +1,11 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: June 22, 2021_
+_Last updated: June 23, 2021_
 
 <div class="feature-grid">
+    <a href="#reopening">
+        <h3>Re-opening Plans</h3>
+    </a>
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
     </a>
@@ -29,9 +32,6 @@ _Last updated: June 22, 2021_
     </a>
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
-    </a>
-    <a href="#reopening">
-        <h3>Re-opening Plans</h3>
     </a>
     <a href="#variants">
         <h3>Variants of Concern</h3>
@@ -466,10 +466,29 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ ⏱ Announcement June 23 | Status: ❌ | Status: ❌
+Status: ✅ June 26, 2021 | Status: ⏱ | Status: ❌
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
+<a href="https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23" class="button">PHASE 1 Official Announcement</a>
+
+### PHASE 1 ✅⚪️⚪️ 
+
+_Begins Saturday, June 26, 2021_
+
+- Outdoor gathering sizes on private property to double to 10 persons, and to allow outdoor visitors to briefly access homes for essential activities (e.g. to use a washroom). No other changes to indoor visitors this time.
+- Public outdoor gathering sizes to increase to 25 persons.
+- Retail businesses to open with increased capacity at 25% to a limit of 250 persons, with no restrictions on the number of  household members permitted to shop together.
+- Personal service businesses (hair and nail salons, estheticians, barbers, etc.) to reopen at 50% capacity, on an appointment basis only.
+- Restaurants and bars to reopen at 25% capacity for indoors and 50% for outdoor dining. For indoor dining, patrons seated together must be from the same household unless all patrons at the table are fully immunized. Patrons who are fully immunized and from different households may dine together. For outdoor dining, tables are limited to a maximum of 8 patrons and can be from different households regardless of immunization status.
+- Indoor faith-based services and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume at 25% capacity to a limit of 25 persons with masks worn at all times.
+- Outdoor faith-based and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume for up to 50 persons, provided distance can be maintained between households. Drive-in services continue to be permitted.
+- Outdoor weddings and funerals may take place with up to 25 participants, in addition to photographer and officiants. Indoor weddings and funerals remain limited to 10 persons.
+- Indoor dance, music, theatre and other organized sports and recreation activities may reopen at 25% capacity to a limit of 5 persons, with no tournaments allowed.
+- Outdoor dance, music and theatre classes and other organized recreation activities may reopen for groups up to 25 people, with no tournaments allowed.
+- Swimming and wading pools, both indoor and outdoor, may reopen at 25% capacity.
+- Gyms and fitness facilities may reopen for individual and group fitness classes at 25% capacity with three metres distance maintained between patrons.
+- Summer day camps may reopen to a maximum of 20 participants in groups.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
