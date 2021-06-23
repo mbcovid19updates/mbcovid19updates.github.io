@@ -5,59 +5,48 @@ _Last updated: June 22, 2021_
 <div class="feature-grid">
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
-        <p>Get all your vaccine-related questions answered!</p>
     </a>
     <a href="#vaccine-walkins">
         <h3>Vaccine Walk-ins</h3>
-        <p>Information about available Vaccine Walk-ins.</p>
     </a>
     <a href="#vaccine-awareness">
         <h3>Vaccine Town Halls</h3>
-        <p>Information about the Vaccine Town Halls.</p>
+    </a>
+    <a href="#pfizer">
+        <h3>Where can I find Pfizer?</h3>
     </a>
     <a href="#mixing-vaccines">
         <h3>Mixing Vaccines</h3>
-        <p>Information about mixing vaccines.</p>
     </a>
     <a href="#astrazeneca">
         <h3>AstraZeneca</h3>
-        <p>Information about AstraZeneca and where to find it.</p>
     </a>
     <a href="#vaccine-cards">
         <h3>Vaccine Cards</h3>
-        <p>Information about how to get your Immunization card.</p>
     </a>
     <a href="#restrictions">
         <h3>Current Restrictions</h3>
-        <p>View all the current and upcoming restrictions.</p>
     </a>
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
-        <p>COVID symptoms, screening and testing sites.</p>
     </a>
     <a href="#reopening">
         <h3>Re-opening Plans</h3>
-        <p>Manitoba's 3-phase plan to re-open.</p>
     </a>
     <a href="#variants">
         <h3>Variants of Concern</h3>
-        <p>Information and data about Variants of Concern.</p>
     </a>
     <a href="#fines">
-        <h3>Fines</h3>
-        <p>A summary of fine amounts for violating public health orders.</p>
+        <h3>Fines for Violating Health Orders</h3>
     </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
-        <p>Have questions about the daily dashboards?</p>
     </a>
     <a href="#about">
         <h3>About Us</h3>
-        <p>Who are we? Why are we doing this?</p>
     </a>
     <a href="#future">
         <h3>Future</h3>
-        <p>Anxious or curious about what lies ahead?</p>
     </a>
 </div>
 
@@ -92,9 +81,16 @@ You are eligible to receive your second dose if <u>any</u> of the following appl
 
 Yes, it used to be 21 days for Pfizer, but with the current backlog of second doses and an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
 
-#### I can't find any Pfizer appointments!
+<a name="pfizer"></a>
+### Where can I find Pfizer?
 
-For context, please keep in mind that appointments (almost all Pfizer) have been booking out 5 weeks recently. The majority of these are dependent on the ongoing Pfizer supply. This means that while we currently continue to receive roughly 80-90K doses of Pfizer each week, they are designated for upcoming appointments that have already been booked. Now, consider that around 350K doses of Moderna are arriving within a 2-week span. This is massive and almost considered an unexpected bonus. Because of this, Manitoba has been able to very quickly open up more and more appointments daily, but the vast majority of them are for Moderna.
+_Last updated: June 23, 2021_
+
+To be clear, Pfizer is arriving all the time, but it's for already booked appointments. There will be a slowdown beginning next week that will potentially result in a shortage for existing booked appointments (though this may possibly be offset by people cancelling and rebooking for earlier Moderna appointments). That slowdown will pick up again towards the end of July. My best guess is that with the exception of catching oddball cancellations, Pfizer appointments won't become available for another 3 weeks or so (around July 15+), and be scheduled for late July, early August.
+
+**EXTRA INFO/CONTEXT**
+
+For context, please keep in mind that appointments (almost all Pfizer) were booking out 5 weeks recently. The majority of these are dependent on the ongoing Pfizer supply. This means that while we have been receiving roughly 80-90K doses of Pfizer each week, they are designated for upcoming appointments that have already been booked. Now, consider that around 350K doses of Moderna have arrived recently within a 2-week span. This is massive and almost considered an unexpected bonus. Because of this, Manitoba has been able to very quickly open up more and more appointments daily, but the vast majority of them are for Moderna.
 
 With a growing number of people becoming eligible to book appointments, and a skewed ratio of Moderna vs Pfizer availability, it becomes more of a perception issue. Manitoba essentially has 2 options here: 1) Sit on the Moderna and continue to very slowly open up second dose eligibility as Pfizer comes in, or 2) Quickly open up eligibility to everyone, but most people will have to switch to Moderna or wait a long time for Pfizer appointments. But consider this... if you're wanting Pfizer, you would have been waiting even longer for your turn if the Moderna never arrived and if these Moderna appointments weren't made available.
 
@@ -126,33 +122,33 @@ Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RB
 Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ✅
 Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅
 Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅
-Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ⏱ beginning June 22
+Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅
 Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅
 Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅
 Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ⏱ beginning June 24
-Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ⏱ beginning June 22
+Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅
 The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅
 
 
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 20, 2021_
+_Last updated: June 23, 2021_
 
 On June 16, Manitoba announced changes to vaccine availability, thanks to large shipments of Moderna arriving. While this may be too complex to keep track of, here are some important notes and broad strokes for Vaccine Walk-in availability:
 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
 - **Winnipeg Downtown** (RBC Convention Centre) - ❌ **No walk-in availability at this time**
-- **Winnipeg Leila** (Soccer Federation North) - ✅ beginning June 20
-- **Brandon** - ✅ beginning June 20
-- **Selkirk** - ⏱ beginning June 22
+- **Winnipeg Leila** (Soccer Federation North) - ✅
+- **Brandon** - ✅
+- **Selkirk** - ✅
 - **Steinbach** - ⏱ beginning June 24
-- **Morden** - ✅ beginning June 20
-- **Gimli** - ⏱ beginning June 22
-- **Dauphin** - ✅ beginning June 20
-- **Thompson** - ✅ already allowed
-- **The Pas** - ✅ already allowed
+- **Morden** - ✅
+- **Gimli** - ✅
+- **Dauphin** - ✅
+- **Thompson** - ✅
+- **The Pas** - ✅
 
 More details to be provided about this soon.
 
@@ -334,17 +330,17 @@ Yes. However, you will have to report your immunization to covidimmunizationreco
 <a name="vaccine-awareness"></a>
 ### Vaccine Awareness / Town Halls
 
-_Last updated: June 21, 2021_
+_Last updated: June 23, 2021_
 
 **Manitoba COVID-19 Updates** is pleased to collaborate with **Doctors Manitoba** in an effort to help with vaccine awareness...
 
 The greatest hurdle to reaching herd immunity from COVID-19 here in Manitoba is vaccine hesitancy. Doctors Manitoba will be hosting four different [Vaccine Town Halls](https://manitobavaccine.ca/townhall) this week from June 21-24, at 6:30pm, Live on YouTube. Their aim is to answer community members' questions in an effort to help Manitobans better understand the vaccines.
 
 - **June 21 at 6:30pm** - Morden, Winkler and Southern Manitoba Town Hall
-   - [Youtube link](https://www.youtube.com/watch?v=5w5nNGF47Qs) &nbsp;&#124;&nbsp; [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/townhall-june21/)
+   - [Youtube link](https://www.youtube.com/watch?v=5w5nNGF47Qs)
    - Hear from our physician panel, including local physicians Dr. Don Klassen, Dr. Kevin Convery, Dr. Kathryn Martin, as well as provincial vaccine expert Dr. Joss Reimer. The town hall will be hosted by John P. Klassen, a recently retired pastor who has served in Southern Manitoba for 35 years.
 - **June 22 at 6:30pm** - Youth & Parent Town Hall
-   - [Youtube link](https://www.youtube.com/watch?v=E_iDqsludcQ) &nbsp;&#124;&nbsp; [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-22/)
+   - [Youtube link](https://www.youtube.com/watch?v=E_iDqsludcQ)
    - Hear from our physician panel, including pediatricians Dr. Marni Hanna, Dr. William Li and Dr. Ruth Grimes and pediatric infectious disease specialist Dr. Jared Bullard. The town hall will be hosted by Ace Burpee.
 - **June 23 at 6:30pm** - Town Hall for All Manitobans
    - [Youtube link](https://www.youtube.com/watch?v=MKa0q51d2SY) &nbsp;&#124;&nbsp; [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-23/)
@@ -482,7 +478,7 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ⏱ Est. date reached: June 24 | Status: ❌ | Status: ❌
+Status: ✅ ⏱ Announcement June 23 | Status: ❌ | Status: ❌
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
@@ -492,7 +488,7 @@ Status: ⏱ Est. date reached: June 24 | Status: ❌ | Status: ❌
 <a name="variants"></a>
 ## Variants of Concern
 
-_Last updated: June 10, 2021_
+_Last updated: June 23, 2021_
 
 All viruses, including SARS-CoV-2, the virus that causes COVID-19, change over time. Most changes have little to no impact on the virus’ properties. However, some changes may affect the virus’s properties, such as how easily it spreads, the associated disease severity, or the performance of vaccines, therapeutic medicines, diagnostic tools, or other public health and social measures.
 
@@ -511,7 +507,7 @@ There are also several other **variants of <u>interest</u>** that are being moni
 
 Currently, the **Alpha** (B.1.1.7 / UK) variant is the dominant strain, suspected to account for roughly 60% of all new COVID cases in Manitoba (_as of June 10, 2021_). Manitoba does not currently have the capacity to sequence the exact strain of every last COVID case, so in many cases (over half), they are labeled as "unspecified", but assumed to be the **Alpha** (B.1.1.7 / UK) variant. Based on the evidence so far, researchers believe the **Alpha** variant is much more contagious and more deadlier than other variants, resulting in more younger people ending up in the hospital and an increase in ICU hospitalizations.
 
-Recently, the **Delta** (B.1.617.2 / India) variant has been discovered in Manitoba, and is reported to be as much as twice as contagious as the **Alpha** variant, and more likely to evade current vaccines. This variant is expected to eventually become the new dominant strain in time.
+Recently, the **Delta** (B.1.617.2 / India) variant has been discovered in Manitoba, and is reported to be much more contagious than the **Alpha** variant, and more likely to evade current vaccines. This variant is expected to eventually become the new dominant strain in time.
 
 ### Will the Vaccine protect against Variants?
 
