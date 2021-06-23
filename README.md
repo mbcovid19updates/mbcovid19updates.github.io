@@ -517,6 +517,10 @@ _Begins Saturday, June 26, 2021_
 - Gyms and fitness facilities may reopen for individual and group fitness classes at 25% capacity with three metres distance maintained between patrons.
 - Summer day camps may reopen to a maximum of 20 participants in groups.
 
+For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
+
+<a href="#restrictions" class="button">View Current Restrictions</a>
+
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 <a name="variants"></a>
