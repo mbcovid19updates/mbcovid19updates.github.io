@@ -580,7 +580,7 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: June 20, 2021_
+_Last updated: June 24, 2021_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
@@ -603,6 +603,8 @@ The **Active Cases Provincially** section displays data from **yesterday**, as m
 The Manitoba government makes a distinction between whether or not the current hospitalization of a patient is infectious or not, and puts a heavy emphasis on the infectious patient totals (which make numbers appear to be lower). We do not do this because regardless of whether a COVID patient is infectious or not, they are still in the hospital due to COVID, and still occupying space and requiring care.
 
 ### Vaccinations
+
+**UPDATE**: As of June 24, we have manually adjusted our calculations to account for the unknown discrepancy between our percentage and the Manitoba governments. Our numbers will still be a little bit ahead as we account for the uncategorized doses (see below for explanation), but there will no longer be gaps unaccounted for.
 
 Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 5,000 - 10,000 vaccinations (fluctuates) that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 10% first doses and 90% second doses. If you take those remaining 10,000 uncategorized vaccinations and run the formula on it, that would be 701,000 first doses and 99,000 second doses (700,000 + 1,000 = 701,000 and then 90,000 + 9,000 = 99,000 for a total of 800,000).
 
