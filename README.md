@@ -141,16 +141,18 @@ On June 16, Manitoba announced changes to vaccine availability, thanks to large 
 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
-- **Winnipeg Downtown** (RBC Convention Centre) - ❌ **No walk-in availability at this time**
-- **Winnipeg Leila** (Soccer Federation North) - ✅ Times: N/A
-- **Brandon** - ✅ Daily Noon - 2:00pm
-- **Selkirk** - ✅ Times: N/A
-- **Steinbach** - ✅ Times: N/A
-- **Morden** - ✅ Times: N/A
-- **Gimli** - ✅ Times: N/A
-- **Dauphin** - ✅ Daily 11:30am - 4:30pm
-- **Thompson** - ✅ Times: N/A
-- **The Pas** - ✅ Times: N/A
+Location | Dates/Times
+--- | ---
+**Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time**
+**Winnipeg Leila** (Soccer Federation North) | ✅ N/A
+**Brandon** | ✅ Daily Noon - 2:00pm
+**Selkirk** | ✅ N/A
+**Steinbach** | ✅ N/A
+**Morden** | ✅ N/A
+**Gimli** | ✅ N/A
+**Dauphin** | ✅ Daily 11:30am - 4:30pm
+**Thompson** | ✅ N/A
+**The Pas** | ✅ N/A
 
 More details to be provided about this soon.
 
