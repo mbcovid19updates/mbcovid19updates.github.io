@@ -127,7 +127,7 @@ Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View 
 Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅
 Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅
 Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅
-Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ⏱ beginning June 24
+Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅
 Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅
 The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅
 
@@ -142,15 +142,15 @@ On June 16, Manitoba announced changes to vaccine availability, thanks to large 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
 - **Winnipeg Downtown** (RBC Convention Centre) - ❌ **No walk-in availability at this time**
-- **Winnipeg Leila** (Soccer Federation North) - ✅
-- **Brandon** - ✅
-- **Selkirk** - ✅
-- **Steinbach** - ⏱ beginning June 24
-- **Morden** - ✅
-- **Gimli** - ✅
-- **Dauphin** - ✅
-- **Thompson** - ✅
-- **The Pas** - ✅
+- **Winnipeg Leila** (Soccer Federation North) - ✅ Times: N/A
+- **Brandon** - ✅ Daily Noon - 2:00pm
+- **Selkirk** - ✅ Times: N/A
+- **Steinbach** - ✅ Times: N/A
+- **Morden** - ✅ Times: N/A
+- **Gimli** - ✅ Times: N/A
+- **Dauphin** - ✅ Daily 11:30am - 4:30pm
+- **Thompson** - ✅ Times: N/A
+- **The Pas** - ✅ Times: N/A
 
 More details to be provided about this soon.
 
