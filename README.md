@@ -237,19 +237,22 @@ You can contact or visit a public health office, or email [covidimmunizationreco
 <a name="vaccine-cards"></a>
 ### Vaccine Cards
 
-_Last updated: June 13, 2021_
+_Last updated: June 23, 2021_
 
 Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
 
 #### Current Benefits
+Manitobans who are fully immunized (two vaccine doses plus two weeks from the time of their second dose) will now benefit from the following exemptions:
 
-Current benefits for fully immunized Manitobans:
-
-- Travel within Canada without having to self-isolate upon return.
 - Exempt from self-isolation if identified as a COVID close contact.
-- Expanded visitation to Manitoba health-care facilities, including hospitals & personal care homes if both the patient/resident and visitor are fully vaccinated. This benefit is expected to be extended to health-care facility visitation in the coming week.
+- Visit fully immunized loved ones in personal care homes or hospitals.
+- Participate in social or communal activities, if you are a resident of a personal care home or congregate living facility.
+- Travel domestically for essential and non-essential purposes outside of Manitoba without the requirement to self-isolate on their return.
+- Dine indoors at restaurants and bars with other fully immunized friends and family from outside your household.
 
-Additional benefits are expected to be added in the coming weeks. We'll update this as information comes out.
+Large-scale, outdoor professional sports or performing arts events may also allow fully immunized Manitobans to attend, subject to approval by Manitoba Public Health. The province will work with sports and arts organization to implement proof of vaccination protocols for these events.
+
+Additional benefits for fully immunized Manitobans will be announced in July, including increasing capacity for fully immunized people at weddings, funerals, faith-based and other gatherings, based on continued vaccination rate increases and improvements in the province’s overall COVID-19 situation.
 
 #### Eligibility
 
