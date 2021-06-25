@@ -142,19 +142,19 @@ All supersites, except RBC Convention Centre, are now offering walk-in appointme
 
 **PLEASE NOTE THAT MANY OF THESE DAYS/TIMES ARE CROWDSOURCED AND INFO MAY BECOME OUTDATED OVER TIME**
 
-Location | Dates/Times (or until they run out for the day)
+Location | Dates/Times (or until they run out for the day) | Doses Available
 --- | ---
-**Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time**
-**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm
-**Brandon** | ✅ Daily Noon - 2:00pm
-**Selkirk** | ✅ Daily 9:00am - 2:00pm
-**Steinbach** | ✅ Daily 9:00am - 8:00pm (June 24-26)
-**Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27)
-**Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26)
-**Dauphin** | ✅ Daily 11:30am - 4:30pm
-**Thompson** | ✅ Saturday, June 26 from 11:00am - 6:00pm
-**The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7)
-**Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9)
+**Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time** | N/A
+**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm | 1000/day
+**Brandon** | ✅ Daily Noon - 2:00pm | 150/day
+**Selkirk** | ✅ Daily 9:00am - 2:00pm | 50/day
+**Steinbach** | ✅ Daily 9:00am - 8:00pm (June 24-26) | N/A
+**Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27) | N/A
+**Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
+**Dauphin** | ✅ Daily 11:30am - 4:30pm | N/A
+**Thompson** | ✅ Saturday, June 26 from 11:00am - 6:00pm | N/A
+**The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7) | N/A
+**Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
