@@ -111,6 +111,7 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 - Walk-ins are now available at most super-sites and other locations. Be sure to check out the <a href="#vaccine-walkins">Vaccine Walk-ins</a> section of this site for more information.
 
 <a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a>
+<a href="#vaccine-walkins" class="button">Super Site Walk-ins</a>
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 <a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
 
