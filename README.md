@@ -129,9 +129,9 @@ The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 23, 2021_
+_Last updated: June 25, 2021_
 
-On June 16, Manitoba announced changes to vaccine availability, thanks to large shipments of Moderna arriving. While this may be too complex to keep track of, here are some important notes and broad strokes for Vaccine Walk-in availability:
+All supersites, except RBC Convention Centre, are now offering walk-in appointments. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available.
 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
@@ -147,8 +147,6 @@ Location | Dates/Times
 **Dauphin** | ✅ Daily 11:30am - 4:30pm
 **Thompson** | ✅ N/A
 **The Pas** | ✅ N/A
-
-More details to be provided about this soon.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
