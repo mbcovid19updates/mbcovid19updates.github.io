@@ -33,6 +33,9 @@ _Last updated: June 25, 2021_
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
     </a>
+    <a href="#self-isolation">
+        <h3>Self-Isolation</h3>
+    </a>
     <a href="#variants">
         <h3>Variants of Concern</h3>
     </a>
@@ -478,6 +481,72 @@ Vomiting or diarrhea for more than 24 hours | Skin rash of unknown cause
 <a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID Test Results</a>
 
 If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
+<a name="self-isolation"></a>
+## Self Isolation & Isolation
+
+_Last updated: June 25, 2021_
+
+### What is the difference between Self-Isolation (quarantine) and Isolation?
+
+**Self-isolation**, or quarantine, is the **14-day period** in which individuals who **may have been exposed to COVID-19**, through close contact or travel, but do not yet know if they are sick, are asked to stay away from others to limit further spread. It may take up to 14 days to become infected. Even if you do not have symptoms now, it is possible to transmit COVID-19 before you start showing symptoms or without ever developing symptoms.
+
+If you become symptomatic during your self-isolation (quarantine), you will need to get tested and must continue self-isolating. If you do not have any symptoms after your 14-day self-isolation (quarantine) period and you have tested negative, you can stop self-isolating.
+
+**Isolation** is the **10-day period** in which individuals who are sick or have **tested positive for COVID-19** are required to stay away from others who are not sick because they could spread COVID-19. Most people are infectious for 10 days after their symptoms begin. If you’re still symptomatic at day 10, you will need to continue isolating.
+
+### When to Self-Isolate (close contact or traveling)
+
+It is critical to **SELF-ISOLATE** (14 days since last exposure) yourself whenever:
+
+- You have recently returned to Manitoba from domestic or international travel.
+    - **Fully vaccinated** people (14 days after receiving 2nd dose of COVID vaccine) no longer need to self-isolate after domestic travel when <u>returning</u> to Manitoba (you will still need to follow other rules set out for each province).
+- You have been identified as a close contact to a confirmed COVID-19 case.
+    - **Fully vaccinated** people (14 days after receiving 2nd dose of COVID vaccine) no longer need to self-isolate if identified as a close contact to a confirmed COVID-19 case AND you do not have a medical condition that could compromise effectiveness.
+- You live with a household member who is self-isolating (quarantining) due to exposure to a confirmed COVID-19 case or recent return from domestic or international travel.
+- You share a household with a COVID-19 case who is currently isolating at home.
+
+Self-isolation is for 14 days, total. This means your self-isolation period ends on the 15th day after you may have been exposed to COVID-19 or returned for Manitoba. For example, if your _Day One_ was June 2, your self-isolation ends on June 16. If you have no symptoms, this means you can stop self-isolating on June 17.
+
+### When to Isolate (tested positive or waiting results or have symptoms)
+
+It is critical to **ISOLATE** (10 days since last exposure) yourself whenever:
+
+- You have tested positive for COVID-19.
+- You have been tested and are waiting for your test results.
+- You have COVID-19 symptoms, regardless of whether you have been exposed through travel or contact with a case.
+
+#### Implications for Household Members
+If you have household members, they will be considered close contacts and are required to self-isolate (quarantine). The duration of their self-isolation (quarantine) period will depend on your ability to isolate away from them.
+
+If you are able to isolate away from your household members (e.g. separate living space and washroom and no shared spaces, including the kitchen) and have no close contact with them, they will be required to self-isolate (quarantine) for 14 days from their last contact with you. Testing to ensure there hasn’t been household transmission is required to end their isolation at 14 days.
+
+If you are unable to isolate away from your household members (e.g. shared spaces), they will need to self-isolate (quarantine) for your isolation period (usually 10 days), plus 14 days after you end your isolation. This means that household members will need to stay at home and not go out to work, school or other places for at least 24 days.
+
+### How to Isolate/Self-Isolate:
+
+- **Stay at home.**
+- **Do not have any visitors to your home.**
+- Confine activities to your home and outdoor property.
+- Do not leave home to go to work, school or other public places.
+- Do not attend faith-based services.
+- Arrange to have groceries and supplies dropped off at your door. Do not go to curbside pickup from stores and restaurants.
+- Cancel or notify service providers who regularly come into your home that you or a household member is sick. Consult with home care workers, occupational therapists, physiotherapists, social workers, and other service providers that come to your home about the best action for care.
+
+### Requirements & Fines
+
+Public health orders require Manitobans to self-isolate for 14 days if:
+
+- they have tested positive for COVID-19; or
+- they have been exposed to COVID-19 by a close contact.
+
+Individuals will be notified by a public health official if self-isolation is required. Once notified, the person must go to their residence or an approved self-isolation location and remain there for 14 days, or until they are directed otherwise by a public health official.
+
+Failure to self-isolate in accordance with public health advice is a violation of the order and is [enforceable under the Public Health Act](https://www.gov.mb.ca/asset_library/en/proactive/20212022/orders-soe-selfisolation-contact-tracing-06102021.pdf). Individuals could be subject to fines for non-compliance.
+
+<a href="https://www.gov.mb.ca/covid19/fundamentals/self-isolation.html" class="button">Official Self-Isolation Guide</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
