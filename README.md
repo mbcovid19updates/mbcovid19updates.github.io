@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: June 23, 2021_
+_Last updated: June 25, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -53,7 +53,7 @@ _Last updated: June 23, 2021_
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: June 23, 2021_
+_Last updated: June 25, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -64,18 +64,12 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### Second Doses
 
-Due to current supply constraints, Manitoba is not able to provide the second dose at the recommended intervals. In an effort to get more people with some amount of vaccine protection, second doses were delayed for most people. Please note that there is no danger in receiving your second dose later. In fact, studies have shown that going longer in between doses offers better efficacy. Manitoba currently has a multi-tiered approach to prioritizing second doses.
+_As of Friday, June 25 at 11:45am..._
 
-You are eligible to receive your second dose if <u>any</u> of the following apply:
-
-- You have priority health conditions ([see list here](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html#criteria)).
-- You are Indigenous
-- You received your first dose of vaccine **on or before May 31, 2021**.
-
-**AND**
-
-- You received your first dose a minimum of 28 days ago.
-   - AstraZeneca is a minimum of 28 days ago, but 8 weeks ago is recommended.
+- **Anyone age 12 and up** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose.
+   - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
+   - Young people aged 12 to 17 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
+   - If AstraZeneca was your first dose, an 8-12 week interval is recommended, but can be as low as 28 days.
 
 #### Wasn't Pfizer 21 days?
 
