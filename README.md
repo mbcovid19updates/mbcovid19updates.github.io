@@ -147,8 +147,8 @@ Location | Dates/Times (or until they run out for the day)
 **Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm
 **Brandon** | ✅ Daily Noon - 2:00pm
 **Selkirk** | ✅ Daily 9:00am - 2:00pm
-**Steinbach** | ✅ N/A
-**Morden** | ✅ N/A
+**Steinbach** | ✅ Daily 9:00am - 8:00pm (June 24-26)
+**Morden** | ✅ Daily 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27)
 **Gimli** | ✅ N/A
 **Dauphin** | ✅ Daily 11:30am - 4:30pm
 **Thompson** | ✅ N/A
