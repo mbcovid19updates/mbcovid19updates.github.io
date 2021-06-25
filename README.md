@@ -156,6 +156,8 @@ Location | Dates/Times (or until they run out for the day) | Doses Available
 **The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7) | N/A
 **Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
 
+If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
+
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 <a name="mixing-vaccines"></a>
