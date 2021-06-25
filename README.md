@@ -67,8 +67,6 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### Second Doses
 
-_As of Friday, June 25 at 11:45am..._
-
 - **Anyone age 12 and up** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose.
    - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
    - Young people aged 12 to 17 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
@@ -76,7 +74,7 @@ _As of Friday, June 25 at 11:45am..._
 
 #### Wasn't Pfizer 21 days?
 
-Yes, it used to be 21 days for Pfizer, but with the current backlog of second doses and an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
+Yes, it used to be 21 days for Pfizer, but in an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
 
 <a name="pfizer"></a>
 ### Where can I find Pfizer?
