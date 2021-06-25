@@ -139,12 +139,14 @@ All supersites, except RBC Convention Centre, are now offering walk-in appointme
 
 #### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
 
-Location | Dates/Times
+**PLEASE NOTE THAT MANY OF THESE DAYS/TIMES ARE CROWDSOURCED AND INFO MAY BECOME OUTDATED OVER TIME**
+
+Location | Dates/Times (or until they run out for the day)
 --- | ---
 **Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time**
-**Winnipeg Leila** (Soccer Federation North) | ✅ N/A
+**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm
 **Brandon** | ✅ Daily Noon - 2:00pm
-**Selkirk** | ✅ N/A
+**Selkirk** | ✅ Daily 9:00am - 2:00pm
 **Steinbach** | ✅ N/A
 **Morden** | ✅ N/A
 **Gimli** | ✅ N/A
@@ -332,10 +334,10 @@ The greatest hurdle to reaching herd immunity from COVID-19 here in Manitoba is 
    - [Youtube link](https://www.youtube.com/watch?v=E_iDqsludcQ)
    - Hear from our physician panel, including pediatricians Dr. Marni Hanna, Dr. William Li and Dr. Ruth Grimes and pediatric infectious disease specialist Dr. Jared Bullard. The town hall will be hosted by Ace Burpee.
 - **June 23 at 6:30pm** - Town Hall for All Manitobans
-   - [Youtube link](https://www.youtube.com/watch?v=MKa0q51d2SY) &nbsp;&#124;&nbsp; [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/vaccine-town-hall-june-23/)
+   - [Youtube link](https://www.youtube.com/watch?v=MKa0q51d2SY)
    - Hear from our physician panel, including family physicians Dr. Jennifer Potter and Dr. Alex Singer, infectious disease expert Dr. Amila Heendeniya, obstetrician Dr. Vanessa Poliquin and surgeon, allergy and immunology expert Dr. Chrystyna Kalicinsky, and COVID commentor and former CMA president Dr. Gigi Osler.
 - **June 24 at 6:30pm** - Steinbach & Southeastern Manitoba Town Hall
-   - [Youtube link](https://www.youtube.com/watch?v=wIYo-e1sY5I) &nbsp;&#124;&nbsp; [Details / Submit Questions](https://www.manitobavaccine.ca/townhall/town-hall-june-24/)
+   - [Youtube link](https://www.youtube.com/watch?v=wIYo-e1sY5I)
    - Hear from our physician panel, including local physicians Dr. Curtis Krahn and Dr. Jayson Barkman, as well as the provincial lead for family medicine Dr. José François. The town hall will be hosted by Michelle Sawatzky from AM 1250.
 
 Join and share with friends and family who may have questions or concerns about the vaccines.
