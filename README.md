@@ -149,8 +149,8 @@ Location | Dates/Times (or until they run out for the day)
 **Brandon** | ✅ Daily Noon - 2:00pm
 **Selkirk** | ✅ Daily 9:00am - 2:00pm
 **Steinbach** | ✅ Daily 9:00am - 8:00pm (June 24-26)
-**Morden** | ✅ Daily 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27)
-**Gimli** | ✅ Tuesday, Thursday & Friday from 1:00pm - 8:00pm, Saturday 11:00am - 6:00pm
+**Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27)
+**Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26)
 **Dauphin** | ✅ Daily 11:30am - 4:30pm
 **Thompson** | ✅ Saturday, June 26 from 11:00am - 6:00pm
 **The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7)
