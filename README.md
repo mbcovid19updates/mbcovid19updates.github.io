@@ -106,9 +106,12 @@ Appointments for first or second doses of vaccines can be booked at any super-si
    - Daily hours of operation are from 6:00am to 8:00pm.
 - To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
 - If you are a senior or have mobility issues and need help getting to your appointment at a clinic or pharmacy, call 211 for available transportation options in your area.
+- Check out the <a href="https://manitobavaxx.ca/">ManitobaVaxx.ca Earliest Appointment Finder</a> website to get an idea of where the nearest and soonest appointment is available.
+- Walk-ins are now available at most super-sites and other locations. Be sure to check out the <a href="#vaccine-walkins">Vaccine Walk-ins</a> section of this site for more information.
 
 <a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a>
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
+<a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
 
 #### Super-sites in Manitoba
 
