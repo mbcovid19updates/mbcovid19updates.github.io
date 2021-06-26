@@ -8,7 +8,7 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 28th** | **11:30AM - 1:30PM:** first doses **1:30PM - 4:30PM:** First and second doses | 50 Moderna doses available
-**Swan River** | **Veteran's Hall** (119 6th Ave North) | **June 28th and June 29th** | **11:30AM - 1:30PM:** first doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
+**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 28th and June 29th** | **11:30AM - 1:30PM:** first doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
 **Austin** | **Austin Community Centre** (60 1st Ave) | **June 28th** | **10:30AM - 6:30PM** | Moderna
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | **11:30AM - 1:30PM** first doses **1:30PM - 4:30PM** First and second doses | 240 Moderna doses available
 **Brandon** | **Sexuality Education Resources Centre MB** (Unit B 345 10th St) | **June 28th** | **2:00PM - 7:00PM** | This clinic is for 2SLGBTQ+ folks and anyone needing a safe and comfortable space to be vaccinated (must be 18+)
@@ -26,27 +26,8 @@ The following are clinics offering scheduled appointments.  You must book at the
 Location | Address | Date| Info
 --- | --- | --- | ---
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
-**Swan River** | **Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
+**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
 
-## Another Heading
-
-If I wish to link something, I can do it [like this](https://somesite.com/something/stuff/).
-
-This is how you make a list:
-
-- Item 1
-- Item 2
-- [Item 3](https://somesite.com/something/stuff/)
-- Item 4
-  - Sub item A
-  - Sub item B
-- Item 5
-
-This is how you make numbered lists:
-
-1. Item 1
-2. Item 2
-3. Item 3
 
 
