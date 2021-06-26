@@ -2,7 +2,8 @@
 
 ## Walk-ins
 
-This is a description about walk-ins and stuff. If I put asterisks around a word it becomes **bold**. If I put underscores around words, they become _highlighted_. 📍 We can also use emojis.
+The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necassary.  
+
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
@@ -20,7 +21,7 @@ Location | Address | Date | Time | Info
 
 ## Appointments
 
-This is some more info about **appointments** and stuff.
+The following are clinics offering scheduled appointments.  You must book at these locations in advance.
 
 Location | Address | Date| Info
 --- | --- | --- | ---
