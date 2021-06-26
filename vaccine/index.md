@@ -5,7 +5,7 @@
 This is a description about walk-ins and stuff. If I put asterisks around a word it becomes **bold**. If I put underscores around words, they become _highlighted_. 📍 We can also use emojis.
 
 Location | Address | Date | Time | Info
---- | --- | ---
+--- | --- | --- | --- | --- 
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 28th** | **11:30AM - 1:30PM:** first doses **1:30PM - 4:30PM:** First and second doses | 50 Moderna doses available
 **Swan River** | **Veteran's Hall** (119 6th Ave North) | **June 28th and June 29th** | **11:30AM - 1:30PM:** first doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
 **Austin** | **Austin Community Centre** (60 1st Ave) | **June 28th** | **10:30AM - 6:30PM** | Moderna
@@ -22,8 +22,8 @@ Location | Address | Date | Time | Info
 
 This is some more info about **appointments** and stuff.
 
-Location | Address | Info
---- | --- | ---
+Location | Address | Date| Info
+--- | --- | --- | ---
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
 **Swan River** | **Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
