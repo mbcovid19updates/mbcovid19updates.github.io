@@ -2,6 +2,8 @@
 
 _Last updated: June 26, 2021_
 
+Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
+
 ## Walk-ins
 
 The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.  
