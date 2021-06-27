@@ -30,11 +30,7 @@ Location | Address | Date | Time | Info
 
 ### Super Site Walk-ins
 
-All supersites, except RBC Convention Centre, are now offering walk-in appointments. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available.
-
-#### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
-
-**PLEASE NOTE THAT MANY OF THESE DAYS/TIMES ARE CROWDSOURCED AND INFO MAY BECOME OUTDATED OVER TIME**
+All supersites, except RBC Convention Centre, are now offering **10% walk-ins for Moderna**. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available. **PLEASE NOTE THAT SOME OF THESE DAYS/TIMES ARE CROWDSOURCED.**
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | ---
