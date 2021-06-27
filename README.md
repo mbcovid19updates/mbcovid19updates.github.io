@@ -9,11 +9,11 @@ _Last updated: June 25, 2021_
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
     </a>
+    <a href="/vaccine">
+        <h3>Vaccine Locator (NEW!)</h3>
+    </a>
     <a href="#vaccine-walkins">
         <h3>Vaccine Walk-ins</h3>
-    </a>
-    <a href="/vaccine">
-        <h3>Vaccine Locator <small>NEW!</small></h3>
     </a>
     <a href="#pfizer">
         <h3>Where can I find Pfizer?</h3>
