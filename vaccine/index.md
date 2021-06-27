@@ -28,19 +28,7 @@ Location | Address | Date | Time | Info
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 
-## Appointments
-
-The following are clinics offering scheduled appointments.  You must book at these locations in advance.
-
-Location | Address | Date| Info
---- | --- | --- | ---
-**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
-**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
-**Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register## Other Locations
-
-### Super Sites
+### Super Site Walk-ins
 
 All supersites, except RBC Convention Centre, are now offering walk-in appointments. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available.
 
@@ -63,6 +51,20 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Flin Flon** | N/A | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
+
+
+## Appointments
+
+The following are clinics offering scheduled appointments.  You must book at these locations in advance.
+
+Location | Address | Date| Info
+--- | --- | --- | ---
+**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
+**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
+**Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register## Other Locations
+
 
 ### Pharmacy Chains
 
