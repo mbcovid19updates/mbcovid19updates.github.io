@@ -150,7 +150,7 @@ Location | Dates/Times (or until they run out for the day) | Doses Available
 **Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
 **Brandon** | ✅ Daily Noon - 2:00pm | 150/day
 **Selkirk** | ✅ Daily 9:00am - 2:00pm | 50/day
-**Steinbach** | ✅ Daily 9:00am - 8:00pm (June 24-26) | N/A
+**Steinbach** | ✅ Thursday - Saturday 9:00am - 8:00pm (June 24-26) | ~40/day
 **Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27) | N/A
 **Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
 **Dauphin** | ✅ Daily 11:30am - 4:30pm (June 27 - July 2, CLOSED JULY 1), 29-30) - 1st doses only 11:30am - 1:30pm. 1st and 2nd from 1:30 - 4:30pm | 75/day
@@ -159,6 +159,9 @@ Location | Dates/Times (or until they run out for the day) | Doses Available
 **Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
+
+See also:
+<a href="/vaccine" class="button">Our Vaccine Locator</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -186,9 +189,9 @@ If your first dose of vaccine was AstraZeneca, please note that limited supplies
 
 If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 18, 2021) that a total of 15 medical clinics and pharmacies will soon act as regional hubs to offer second-dose AstraZeneca vaccinations. Beginning next week, individuals will be able to use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
 
-#### Locations to receive AstraZeneca soon
+#### Locations with AstraZeneca
 
-The following medical clinics and pharmacies in the province will receive AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Sites will update their information on the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) when they are ready to begin making appointments. **PLEASE CHECK THE VACCINE FINDER TOOL TO CONFIRM DOSES ARE AVAILABLE**
+The following medical clinics and pharmacies in the province have received AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Please check the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to confirm they have stock and are able to accept appointments.
 
 Location Name | Address | City
 --- | --- | ---
