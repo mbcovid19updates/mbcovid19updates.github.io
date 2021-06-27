@@ -68,4 +68,4 @@ Location | Address | Date| Info
 
 ---
 
-🙏 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://twitter.com/VaxHuntersCan)) for maintaining this page!_
+🙏 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://vaccinehunters.ca)) for maintaining this page!_
