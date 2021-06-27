@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: June 26, 2021_
+_Last updated: June 27, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -42,7 +42,27 @@ Location | Address | Date| Info
 
 ### Super Sites
 
-To see the latest information about Vaccine super sites, [visit the main page here](https://mbupdates.ca/#super-sites-in-manitoba).
+All supersites, except RBC Convention Centre, are now offering walk-in appointments. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available.
+
+#### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
+
+**PLEASE NOTE THAT MANY OF THESE DAYS/TIMES ARE CROWDSOURCED AND INFO MAY BECOME OUTDATED OVER TIME**
+
+Location | Dates/Times (or until they run out for the day) | Doses Available
+--- | ---
+**Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time** | N/A
+**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
+**Brandon** | ✅ Daily Noon - 2:00pm | 150/day
+**Selkirk** | ✅ Daily 9:00am - 2:00pm | 50/day
+**Steinbach** | ✅ Thursday - Saturday 9:00am - 8:00pm (June 24-26) | ~40/day
+**Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27) | N/A
+**Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
+**Dauphin** | ✅ Daily 11:30am - 4:30pm (June 27 - July 2, CLOSED JULY 1), 29-30) - 1st doses only 11:30am - 1:30pm. 1st and 2nd from 1:30 - 4:30pm | 75/day
+**Thompson** | ✅ Saturday, June 26 from 11:00am - 6:00pm | N/A
+**The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7) | N/A
+**Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
+
+If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
 
 ### Pharmacy Chains
 
