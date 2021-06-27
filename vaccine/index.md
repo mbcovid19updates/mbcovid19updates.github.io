@@ -18,11 +18,14 @@ Location | Address | Date | Time | Info
 **Austin** | **Austin Community Centre** (60 1st Ave) | **June 28th** | **10:30AM - 6:30PM** | Moderna
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | **11:30AM - 1:30PM** first doses **1:30PM - 4:30PM** First and second doses | 240 Moderna doses available
 **Brandon** | **Sexuality Education Resources Centre MB** (Unit B 345 10th St) | **June 28th** | **2:00PM - 7:00PM** | This clinic is for 2SLGBTQ+ folks and anyone needing a safe and comfortable space to be vaccinated (must be 18+)
+**Winnipeg** | **Elwick Community School Gym** (30 Maberley Rd) | **June 28th- 29th** | **10:00AM - 3:30PM** | For Elwick residents only.  Pfizer or Moderna will be available.  Childminding provided.  Free hotdogs and ice cream!
 **Miami** | **Miami Community Centre Hall** (34112 23 PTH) | **June 29th** | **10:30AM - 6:30PM** | First and second doses welcome (must be 18+)
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 29th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
 **Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 
 ## Appointments
@@ -34,8 +37,8 @@ Location | Address | Date| Info
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
-
-## Other Locations
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register## Other Locations
 
 ### Super Sites
 
