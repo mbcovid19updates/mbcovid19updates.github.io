@@ -25,8 +25,8 @@ Location | Address | Date | Time | Info
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
 **Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
+**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 
 ### Super Site Walk-ins
 
