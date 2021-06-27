@@ -33,10 +33,15 @@ Location | Address | Date| Info
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
 
-## Super Sites
+## Other Locations
+
+### Super Sites
 
 To see the latest information about Vaccine super sites, [visit the main page here](https://mbupdates.ca/#super-sites-in-manitoba).
 
+### Pharmacy Chains
+
+<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / Freshco / IGA</a>
 
 ---
 
