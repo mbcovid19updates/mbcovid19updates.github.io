@@ -47,4 +47,4 @@ To see the latest information about Vaccine super sites, [visit the main page he
 
 ---
 
-_Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://twitter.com/VaxHuntersCan)) for maintaining this page!_
+🙏 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://twitter.com/VaxHuntersCan)) for maintaining this page!_
