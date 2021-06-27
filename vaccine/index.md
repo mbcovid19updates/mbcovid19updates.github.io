@@ -43,7 +43,7 @@ To see the latest information about Vaccine super sites, [visit the main page he
 
 ### Pharmacy Chains
 
-<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / Freshco / IGA</a>
+<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo</a>
 
 ---
 
