@@ -51,14 +51,17 @@ If you have any updated info for these locations, please direct message us via I
 
 ## Appointments
 
-The following are clinics offering scheduled appointments.  You must book at these locations in advance.
+The following are clinics offering scheduled appointments.  You must book at these locations in advance. (Availability may vary).
 
 Location | Address | Date| Info
 --- | --- | --- | ---
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer **June 29th:** Moderna | Call 1-844-626-8222
+**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer **June 29th:** Moderna | Call 1-844-626-8222 to book
+**Lundar** | **Lundar Legion** (50 3rd St.) | **June 29th** | Call 1-844-626-8222 to book
+**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call 1-844-626-8222 to book
+**Morris** | **Morris Multiplex** (380 Stampede Grounds) | **June 30th** | Call 1-844-626-8222 to book
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
 
