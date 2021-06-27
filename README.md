@@ -122,45 +122,22 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 City | Address | Map | Moderna Walk-ins?
 --- | --- | --- | ---
 Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ❌
-Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ✅ [see times below](#vaccine-walkins)
-Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅ [see times below](#vaccine-walkins)
-Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅ [see times below](#vaccine-walkins)
-Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅ [see times below](#vaccine-walkins)
-Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times below](#vaccine-walkins)
-Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times below](#vaccine-walkins)
-Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times below](#vaccine-walkins)
-Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅ [see times below](#vaccine-walkins)
-The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅ [see times below](#vaccine-walkins)
+Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ✅ [see times](/vaccine)
+Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅ [see times](/vaccine)
+Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅ [see times](/vaccine)
+Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅ [see times](/vaccine)
+Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times](/vaccine)
+Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times](/vaccine)
+Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times](/vaccine)
+Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅ [see times](/vaccine)
+The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅ [see times](/vaccine)
 
 
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 27, 2021_
+Please check out our new [Vaccine Locator](/vaccine) page to see a curated list of current and upcoming vaccine clinics (and super sites) offering walk-ins and appointments.
 
-All supersites, except RBC Convention Centre, are now offering walk-in appointments. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available.
-
-#### 10% capacity for Moderna walk-ins (1st or 2nd dose) at most supersites:
-
-**PLEASE NOTE THAT MANY OF THESE DAYS/TIMES ARE CROWDSOURCED AND INFO MAY BECOME OUTDATED OVER TIME**
-
-Location | Dates/Times (or until they run out for the day) | Doses Available
---- | ---
-**Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
-**Brandon** | ✅ Daily Noon - 2:00pm | 150/day
-**Selkirk** | ✅ Daily 9:00am - 2:00pm | 50/day
-**Steinbach** | ✅ Thursday - Saturday 9:00am - 8:00pm (June 24-26) | ~40/day
-**Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27) | N/A
-**Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
-**Dauphin** | ✅ Daily 11:30am - 4:30pm (June 27 - July 2, CLOSED JULY 1), 29-30) - 1st doses only 11:30am - 1:30pm. 1st and 2nd from 1:30 - 4:30pm | 75/day
-**Thompson** | ✅ Saturday, June 26 from 11:00am - 6:00pm | N/A
-**The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7) | N/A
-**Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
-
-If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
-
-See also:
 <a href="/vaccine" class="button">Our Vaccine Locator</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
