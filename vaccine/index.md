@@ -38,5 +38,6 @@ Location | Address | Date| Info
 To see the latest information about Vaccine super sites, [visit the main page here](https://mbupdates.ca/#super-sites-in-manitoba).
 
 
+---
 
 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://twitter.com/VaxHuntersCan)) for maintaining this page!_
