@@ -365,8 +365,9 @@ _Includes markets, garden centres, and occasional pop-up retail._
 
 ### Concert Halls and Movie Theatres
 
-- Movie theatres remain closed, all other restrictions continue.
-- Dance, Theatre, and Music Schools
+- **Movie Theatres**
+   - Remain closed, all other restrictions continue.
+- **Dance, Theatre, and Music Schools**
    - Open at 25% capacity to a limit of 5 persons indoors, or 25 people outdoors.
 
 ### Museums, Galleries and Libraries
@@ -386,7 +387,9 @@ _Includes markets, garden centres, and occasional pop-up retail._
 
 _Includes other public food establishments, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
-Open at 25% capacity for indoors and 50% for outdoor dining; for indoor dining patrons seated together must be from the same household, unless all patrons at the table are fully immunized; for outdoor dining table sizes are limited to 8 people.
+- Open at 25% capacity for indoors and 50% for outdoor dining.
+- For indoor dining patrons seated together must be from the same household, unless all patrons at the table are fully immunized.
+- For outdoor dining table sizes are limited to 8 people.
 
 ### Personal Service Businesses
 
