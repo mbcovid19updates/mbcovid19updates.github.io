@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: June 25, 2021_
+_Last updated: June 27, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -106,11 +106,13 @@ Appointments for first or second doses of vaccines can be booked at any super-si
    - If you don't have an email address or health card number, you'll need to call by phone instead: 1-844-626-8222 (1-844-MAN-VACC)
    - Daily hours of operation are from 6:00am to 8:00pm.
 - To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
+- You can also check out our new [Vaccine Locator](/vaccine) page.
 - If you are a senior or have mobility issues and need help getting to your appointment at a clinic or pharmacy, call 211 for available transportation options in your area.
 - Check out the <a href="https://manitobavaxx.ca/">ManitobaVaxx.ca Earliest Appointment Finder</a> website to get an idea of where the nearest and soonest appointment is available.
 - Walk-ins are now available at most super-sites and other locations. Be sure to check out the <a href="#vaccine-walkins">Vaccine Walk-ins</a> section of this site for more information.
 
 <a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a>
+<a href="/vaccine" class="button">Our Vaccine Locator</a>
 <a href="#vaccine-walkins" class="button">Super Site Walk-ins</a>
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 <a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
@@ -134,7 +136,7 @@ The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo
 <a name="vaccine-walkins"></a>
 ### Vaccine Walk-ins
 
-_Last updated: June 25, 2021_
+_Last updated: June 27, 2021_
 
 All supersites, except RBC Convention Centre, are now offering walk-in appointments. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available.
 
@@ -145,13 +147,13 @@ All supersites, except RBC Convention Centre, are now offering walk-in appointme
 Location | Dates/Times (or until they run out for the day) | Doses Available
 --- | ---
 **Winnipeg Downtown** (RBC Convention Centre) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm | 1000/day
+**Winnipeg Leila** (Soccer Federation North) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
 **Brandon** | ✅ Daily Noon - 2:00pm | 150/day
 **Selkirk** | ✅ Daily 9:00am - 2:00pm | 50/day
 **Steinbach** | ✅ Daily 9:00am - 8:00pm (June 24-26) | N/A
 **Morden** | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27) | N/A
 **Gimli** | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
-**Dauphin** | ✅ 11:30am - 4:30pm (June 27, 29-30) - 1st doses only until 1:30pm. 1st and 2nd from 1:30 - 4:30pm | N/A
+**Dauphin** | ✅ Daily 11:30am - 4:30pm (June 27 - July 2, CLOSED JULY 1), 29-30) - 1st doses only 11:30am - 1:30pm. 1st and 2nd from 1:30 - 4:30pm | 75/day
 **Thompson** | ✅ Saturday, June 26 from 11:00am - 6:00pm | N/A
 **The Pas** | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7) | N/A
 **Flin Flon** | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
