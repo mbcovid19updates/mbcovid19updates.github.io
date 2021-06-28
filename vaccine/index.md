@@ -55,7 +55,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date| Info
 --- | --- | --- | ---
-**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](medicineshoppewinnipeg.ca) or call 1-204-504-9333.  Lots of parking available.
+**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](http://medicineshoppewinnipeg.ca/) or call 1-204-504-9333.  Lots of parking available.
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
