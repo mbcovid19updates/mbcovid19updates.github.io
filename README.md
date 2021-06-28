@@ -157,6 +157,7 @@ Studies have shown that it is safe to mix vaccines. Due to limited supply of Ast
 
 Here are some resources to learn more about this:
 
+- [Pfizer is not superior to Moderna and it's 'perfectly okay' to mix COVID vaccines, experts say](https://nationalpost.com/health/pfizer-is-not-superior-to-moderna-and-its-perfectly-okay-to-mix-covid-vaccines-experts-say) (National Post, June 24, 2021)
 - [Summary of National Advisory Committee on Immunization statement of June 17, 2021](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/summary-statement-june-17-2021.html) (Government of Canada, June 17, 2021)
 - ["Pfizer and Moderna are both safe, effective and interchangeable."](https://twitter.com/MBGov/status/1405574777855676422) (Manitoba Government, June 17, 2021)
 - [Summary of NACI rapid response of June 1, 2021](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/rapid-response-interchangeability/summary.html) (Government of Canada, June 1, 2021)
