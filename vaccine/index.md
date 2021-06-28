@@ -35,7 +35,7 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 💉 From Wednesday, June 30 to Sunday, July 4, the Leila super site in Winnipeg will be offering walk-in Pfizer doses for youth aged 12 to 17.  The Leila super site will begin giving youth vaccines at 9 am and the latest walk-in is expected to be scheduled at around 3:30pm daily.
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
---- | ---
+--- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **PFIZER FOR YOUTH AGE 12-17** Daily 9:00am - 4:00pm (June 30 - July 4 from 9am-3:30pm)<br />In anticipation of significant demand, individuals in line will be given a colour-coded ticket, which will identify a time slot later the same day when they will be able to get their vaccine. | ~330/day
