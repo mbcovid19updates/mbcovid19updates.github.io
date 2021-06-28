@@ -79,7 +79,13 @@ Yes, it used to be 21 days for Pfizer, but in an effort to simplify / unify the 
 <a name="pfizer"></a>
 ### Where can I find Pfizer?
 
-_Last updated: June 23, 2021_
+_Last updated: June 28, 2021_
+
+**UPDATE 1**: All super sites are now booking Pfizer appointments for the end of July. Please remember that Pfizer and Moderna are considered interchangeable, so if you're age 18+, you can grab a Moderna appointment or walk-in as early as today!
+
+**UPDATE 2**: From Wednesday, June 30 to Sunday, July 4, the Leila super site in Winnipeg will be offering walk-in Pfizer doses for youth aged 12 to 17. Approximately 330 doses will be available daily. In anticipation of significant demand, individuals in line will be given a colour-coded ticket, which will identify a time slot later the same day when they will be able to get their vaccine. The Leila super site will begin giving youth vaccines at 9 am and the latest walk-in is expected to be scheduled at around 3:30pm daily.
+
+_Also, adults with an upcoming Pfizer appointment can transfer it to a child aged 12-17 and book a Moderna appointment instead. Call 1-844-626-8222 with the name of the youth and their MB health card number to transfer the Pfizer appointment to them._
 
 To be clear, Pfizer is arriving all the time, but it's for already booked appointments. There will be a slowdown beginning next week that will potentially result in a shortage for existing booked appointments (though this may possibly be offset by people cancelling and rebooking for earlier Moderna appointments). That slowdown will pick up again towards the end of July. My best guess is that with the exception of catching oddball cancellations, Pfizer appointments won't become available for another 3 weeks or so (around July 15+), and be scheduled for late July, early August.
 
