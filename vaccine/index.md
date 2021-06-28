@@ -39,7 +39,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ Daily Noon - 2:00pm (Open July 1st)| 350/day
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ Daily 9:00am - 2:00pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ Thursday - Saturday 9:00am - 8:00pm (June 24-26) | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ 9:00am - 12:00pm (June 24-25), 9:00am - 8:00pm (June 27) | N/A
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ 9:00am - 8:00pm (June 28) | Large quantities available!
 **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
 **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ Daily 11:30am - 4:30pm (June 27 - July 2, CLOSED JULY 1), 29-30) - 1st doses only 11:30am - 1:30pm. 1st and 2nd from 1:30 - 4:30pm | 75/day
 **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ Saturday, June 26 from 11:00am - 6:00pm | N/A
