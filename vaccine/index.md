@@ -14,9 +14,9 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
 **Austin** | **Austin Community Centre** (60 1st Ave) | **June 28th** | **10:30AM - 6:30PM** | Moderna
-**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 28th and June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
 **Brandon** | **Sexuality Education Resources Centre MB** (Unit B 345 10th St) | **June 28th** | **2:00PM - 7:00PM** | This clinic is for 2SLGBTQ+ folks and anyone needing a safe and comfortable space to be vaccinated (must be 18+)
-**Winnipeg** | **Elwick Community School Gym** (30 Maberley Rd) | **June 28th- 29th** | **10:00AM - 3:30PM** | For Elwick residents only.  Pfizer or Moderna will be available.  Childminding provided.  Free hotdogs and ice cream!
+**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
+**Winnipeg** | **Elwick Community School Gym** (30 Maberley Rd) | **June 29th** | **10:00AM - 3:30PM** | For Elwick residents only.  Pfizer or Moderna will be available.  Childminding provided.  Free hotdogs and ice cream!
 **Miami** | **Miami Community Centre Hall** (34112 23 PTH) | **June 29th** | **10:30AM - 6:30PM** | First and second doses welcome (must be 18+)
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses |  50 Moderna doses available (must be 18+)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 250 Moderna doses available (must be 18+)
