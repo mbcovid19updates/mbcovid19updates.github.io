@@ -23,7 +23,7 @@ Location | Address | Date | Time | Info
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses |  50 Moderna doses available (must be 18+)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 250 Moderna doses available (must be 18+)
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses  | 45 Moderna doses available (must be 18+)
-**Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:00AM - 6:00PM** | First and second doses welcome (must be 18+)
+**Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 45 Moderna doses available (must be 18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
@@ -55,6 +55,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date| Info
 --- | --- | --- | ---
+**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book at medicineshoppewinnipeg.ca or call 1-204-504-9333.  Lots of parking available.
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave)| **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
 **Virden** | **Tundra Oil and Gas Place** (900 5th Ave South) | **June 28th** | Pfizer Clinic - Call 1-844-626-8222 to book
@@ -63,6 +64,7 @@ Location | Address | Date| Info
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | Pfizer clinic - Call 1-844-626-8222 to book
 **Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call 1-844-626-8222 to book
 **Morris** | **Morris Multiplex** (380 Stampede Grounds) | **June 30th** | Call 1-844-626-8222 to book
+**Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | Moderna clinic - Call 1-844-626-8222 to book
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
 
