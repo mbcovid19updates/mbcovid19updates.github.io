@@ -32,8 +32,6 @@ Location | Address | Date | Time | Info
 
 All supersites, except RBC Convention Centre, are now offering **10% walk-ins for Moderna**. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available. **PLEASE NOTE THAT SOME OF THESE DAYS/TIMES ARE CROWDSOURCED.**
 
-💉 From Wednesday, June 30 to Sunday, July 4, the Leila super site in Winnipeg will be offering walk-in Pfizer doses for youth aged 12 to 17.  The Leila super site will begin giving youth vaccines at 9 am and the latest walk-in is expected to be scheduled at around 3:30pm daily.
-
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
