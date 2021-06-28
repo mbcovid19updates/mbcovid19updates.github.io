@@ -36,7 +36,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ Daily Noon - 2:00pm (Open July 1st)| 350/day
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ Daily Noon - 4:00pm (including July 1st)| 350/day
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ Daily 9:00am - 2:00pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ Thursday - Saturday 9:00am - 8:00pm (June 24-26) | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ 9:00am - 8:00pm (June 28) | Large quantities available!
