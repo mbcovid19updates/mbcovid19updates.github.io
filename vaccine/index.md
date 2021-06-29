@@ -16,7 +16,8 @@ Please check this page daily for new updates. If you have anything we should add
 
 Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options. There are still many that fall through the cracks though, so be sure to also check out our curated [Walk-ins](#walk-ins) and [Appointments](#appointments) lists further below.
 
-<a href="https://www.manitobavaccine.ca/vaccine-finder/" class="button">ManitobaVaccine.ca Finder</a> (by Manitoba Doctors)
+<a href="https://www.manitobavaccine.ca/vaccine-finder/" class="button">ManitobaVaccine.ca Finder</a> (by **Doctors Manitoba**)
+
 <a href="https://protectmb.ca/" class="button">ProtectMB Vaccine Finder</a> (by Manitoba Government)
 
 ### Pharmacy Chains
