@@ -32,12 +32,8 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
-**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
-**Winnipeg** | **Elwick Community School Gym** (30 Maberley Rd) | **June 29th** | **10:00AM - 3:30PM** | For Elwick residents only.  Pfizer or Moderna will be available.  Childminding provided.  Free hotdogs and ice cream!
 **Miami** | **Miami Community Centre Hall** (34112 23 PTH) | **June 29th** | **10:30AM - 6:30PM** | First and second doses welcome (must be 18+)
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses |  50 Moderna doses available (must be 18+)
-**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 250 Moderna doses available (must be 18+)
-**Winnipeg** | **Broadway Neighbourhood Centre** (185 Young St) | **June 29th** | **8:30AM - 12:00 PM** | Moderna vaccine (must be 18+)
+**Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **11:00AM - 5:00PM** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Limited walk-ins (must be 18+)
 **Winnipeg** | **Mobile Van in Central Park** (367 Ellice Ave) | **June 29-30** | **9:00 AM - 4:00 PM** | Moderna vaccine for age 18+, Pfizer doses for youth age 12-17 only.
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **June 29-30, July 6-8** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses  | 45 Moderna doses available (must be 18+)
@@ -76,9 +72,10 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date| Info
 --- | --- | --- | ---
+**Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Call Janelle at 204-218-1263 to book (must be 18+)
 **Winnipeg** | **Northway Pharmacy River Heights** (101A-1425 Corydon Ave) | **June 28th - June 30th** | Offering Moderna appointments. Call [204-284-1442](tel:12042841442) to book
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333).  Lots of parking available.
-**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **June 28-29** from 8:30am-5:30pm | Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
+**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 6th, 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **June 28th:** Moderna<br />**June 29th:** Pfizer | Call [1-844-626-8222](tel:18446268222) to book
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer<br />**June 28th - June 29th:** Moderna | Call [1-844-626-8222](tel:18446268222) to book
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer<br />**June 29th:** Moderna | Call [1-844-626-8222](tel:18446268222) to book
