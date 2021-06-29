@@ -17,7 +17,6 @@ Please check this page daily for new updates. If you have anything we should add
 
 The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.
 
-
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
@@ -26,6 +25,7 @@ Location | Address | Date | Time | Info
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses |  50 Moderna doses available (must be 18+)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 250 Moderna doses available (must be 18+)
 **Winnipeg** | **Broadway Neighbourhood Centre** (185 Young St) | **June 29th** | **8:30AM - 12:00 PM** | Moderna vaccine (must be 18+)
+**Winnipeg** | **Mobile Van in Central Park** (367 Ellice Ave) | **June 29-30** | **9:00 AM - 4:00 PM** | Moderna vaccine for age 18+, Pfizer doses for youth age 12-17 only.
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **June 29-30** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses  | 45 Moderna doses available (must be 18+)
 **Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 45 Moderna doses available (must be 18+)
