@@ -60,18 +60,18 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date| Info
 --- | --- | --- | ---
-**Winnipeg** | **Northway Pharmacy River Heights** (101A-1425 Corydon Ave) | **June 28th - June 30th** | Offering Moderna appointments. Call 1-204-284-1442 to book
-**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call 1-204-504-9333.  Lots of parking available.
+**Winnipeg** | **Northway Pharmacy River Heights** (101A-1425 Corydon Ave) | **June 28th - June 30th** | Offering Moderna appointments. Call [204-284-1442](tel:12042841442) to book
+**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333).  Lots of parking available.
 **Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **June 28-29** from 8:30am-5:30pm | Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
-**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **June 28th:** Moderna<br />**June 29th:** Pfizer | Call 1-844-626-8222 to book
-**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer<br />**June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer<br />**June 29th:** Moderna | Call 1-844-626-8222 to book
+**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **June 28th:** Moderna<br />**June 29th:** Pfizer | Call [1-844-626-8222](tel:18446268222) to book
+**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer<br />**June 28th - June 29th:** Moderna | Call [1-844-626-8222](tel:18446268222) to book
+**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer<br />**June 29th:** Moderna | Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **Red River College's Notre Dame Campus** (2055 Notre Dame Ave) | **June 29** from 9am-4pm | Moderna clinic is appointment-based (no walk-ins) and is accepting appointments now for anyone in need of 1st or 2nd doses. [Book appointment / More info](https://www.rrc.ca/coronavirus/2021/06/28/moderna-vaccine-pop-up-clinic-at-ndc/)
-**Lundar** | **Lundar Legion** (50 3rd St.) | **June 29th** | Call 1-844-626-8222 to book
-**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | Pfizer clinic - Call 1-844-626-8222 to book
-**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call 1-844-626-8222 to book
-**Morris** | **Morris Multiplex** (380 Stampede Grounds) | **June 30th** | Call 1-844-626-8222 to book
-**Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | Moderna clinic - Call 1-844-626-8222 to book
+**Lundar** | **Lundar Legion** (50 3rd St.) | **June 29th** | Call [1-844-626-8222](tel:18446268222) to book
+**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | Pfizer clinic - Call [1-844-626-8222](tel:18446268222) to book
+**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
+**Morris** | **Morris Multiplex** (380 Stampede Grounds) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
+**Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | Moderna clinic - Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 
@@ -82,11 +82,11 @@ These clinics are only available for people who self-identity as First Nations (
 
 Location | Address |Info 
 --- | --- | --- 
-**Thompson** | **Ma-Mow-We-Tak Friendship Centre** (4 Nelson Rd) | Call 1-204-677-0950 to book
-**Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call 1-204-844-626-8222 to book (Site phone #:1-204-573-7239)
-**Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call 1-204-844-626-8222 to book (Site phone #:1-204-240-7272)
-**Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call 1-204-844-626-8222 to book (Site phone #:1-204-925-3742)
-**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call 1-204-844-626-8222 (Site phone #: 1-204-599-6551)
+**Thompson** | **Ma-Mow-We-Tak Friendship Centre** (4 Nelson Rd) | Call [204-677-0950](tel:12046770950) to book
+**Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-573-7239](tel:12045737239))
+**Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-240-7272](tel:12042407272))
+**Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
+**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551))
  
 ## Other Locations
 
