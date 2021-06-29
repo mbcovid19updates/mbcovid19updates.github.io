@@ -6,11 +6,22 @@ Please check this page daily for new updates. If you have anything we should add
 
 <a href="https://mbupdates.ca/" class="button">Return to homepage</a>
 
+- [Vaccine Finder Tools](#vaccine-finder-tools)
 - [Walk-ins](#walk-ins)
 - [Super Site Walk-ins](#super-site-walk-ins)
 - [Appointments](#appointments)
 - [Urban Indigenous Clinics](#urban-indigenous-clinics)
-- [Other Locations](#other-locations)
+
+## Vaccine Finder Tools
+
+Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options. There are still many that fall through the cracks though, so be sure to also check out our curated [Walk-ins](#walk-ins) and [Appointments](#appointments) lists further below.
+
+<a href="https://www.manitobavaccine.ca/vaccine-finder/" class="button">ManitobaVaccine.ca Finder</a> (by Manitoba Doctors)
+<a href="https://protectmb.ca/" class="button">ProtectMB Vaccine Finder</a> (by Manitoba Government)
+
+### Pharmacy Chains
+
+<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo Appointment Booker</a>
 
 
 ## Walk-ins
@@ -91,11 +102,6 @@ Location | Address |Info
 **Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
 **Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551))
  
-## Other Locations
-
-### Pharmacy Chains
-
-<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo</a>
 
 ---
 
