@@ -6,6 +6,13 @@ Please check this page daily for new updates. If you have anything we should add
 
 <a href="https://mbupdates.ca/" class="button">Return to homepage</a>
 
+- [Walk-ins](#walk-ins)
+- [Super Site Walk-ins](#super-site-walk-ins)
+- [Appointments](#appointments)
+- [Urban Indigenous Clinics](#urban-indigenous-clinics)
+- [Other Locations](#other-locations)
+
+
 ## Walk-ins
 
 The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.  
