@@ -15,7 +15,7 @@ Please check this page daily for new updates. If you have anything we should add
 
 ## Walk-ins
 
-The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.  
+The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.
 
 
 Location | Address | Date | Time | Info
@@ -26,12 +26,14 @@ Location | Address | Date | Time | Info
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses |  50 Moderna doses available (must be 18+)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 250 Moderna doses available (must be 18+)
 **Winnipeg** | **Broadway Neighbourhood Centre** (185 Young St) | **June 29th** | **8:30AM - 12:00 PM** | Moderna vaccine (must be 18+)
+**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **June 29-30** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses  | 45 Moderna doses available (must be 18+)
 **Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM** First and second doses | 45 Moderna doses available (must be 18+)
 **Onanole** | **Onanole Hall** (386 Central Rd) | **July 1st** | **9:00AM - 10:00 AM:** First doses **10:00AM - 1:00 PM** First and second doses | 390 Moderna doses available (18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
+
 
 ### Super Site Walk-ins
 
@@ -53,6 +55,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Flin Flon** | N/A | ✅ 11:00am - 6:00pm (June 30, July 8-9) | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
+
 
 ## Appointments
 
