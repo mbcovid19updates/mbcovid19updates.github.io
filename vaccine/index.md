@@ -22,8 +22,9 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 ### Pharmacy Chains
 
-<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo Appointment Booker</a>
+<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo Appointment Scheduler</a>
 
+<a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart Appointment Scheduler</a>
 
 ## Walk-ins
 
