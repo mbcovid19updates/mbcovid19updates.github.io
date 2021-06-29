@@ -13,8 +13,6 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
-**Austin** | **Austin Community Centre** (60 1st Ave) | **June 28th** | **10:30AM - 6:30PM** | Moderna
-**Brandon** | **Sexuality Education Resources Centre MB** (Unit B 345 10th St) | **June 28th** | **2:00PM - 7:00PM** | This clinic is for 2SLGBTQ+ folks and anyone needing a safe and comfortable space to be vaccinated (must be 18+)
 **Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 29th** | **11:30AM - 1:30PM:** First doses **1:30PM - 4:30PM:** First and second doses | 75 Moderna doses available per day
 **Winnipeg** | **Elwick Community School Gym** (30 Maberley Rd) | **June 29th** | **10:00AM - 3:30PM** | For Elwick residents only.  Pfizer or Moderna will be available.  Childminding provided.  Free hotdogs and ice cream!
 **Miami** | **Miami Community Centre Hall** (34112 23 PTH) | **June 29th** | **10:30AM - 6:30PM** | First and second doses welcome (must be 18+)
@@ -72,6 +70,18 @@ Location | Address | Date| Info
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email WCCLI.MB@gmail.com to register
 
 
+## Urban Indigenous Clinics
+
+These clinics are only available for people who self-identity as First Nations (status or non-status), Metis or Inuit or people who share a household with someone who identifies as Indigenous.  They are also available for those who may face barriers in booking a vaccination appointiment such as those who are houseless.  Appointments at these clinics may be booked but walk-in appointments are also available daily.  An Elder or traditional Knowledge Keeper will be at sites regularly, and traditional ceremony, smudging and traditional medicines may also be offered
+
+Location | Address |Info 
+--- | --- | --- 
+**Thompson** | **Ma-Mow-We-Tak Friendship Centre** (4 Nelson Rd) | Call 1-204-677-0950 to book
+**Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call 1-204-844-626-8222 to book (Site phone #:1-204-573-7239)
+**Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call 1-204-844-626-8222 to book (Site phone #:1-204-240-7272)
+**Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call 1-204-844-626-8222 to book (Site phone #:1-204-925-3742)
+**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call 1-204-844-626-8222 (Site phone #: 1-204-599-6551)
+ 
 ## Other Locations
 
 ### Pharmacy Chains
