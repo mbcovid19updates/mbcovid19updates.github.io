@@ -716,13 +716,13 @@ We include fine print at the bottom of the dashboard to explain calculations, et
 <a name="about"></a>
 ## About Us
 
-_Last updated: June 12, 2021_
+_Last updated: June 29, 2021_
 
-The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. It is **not** affiliated with the Manitoba government in any way. It was started in January, 2021. Throughout the second wave, I became very frustrated with how difficult it was to access, read, and understand the updates and news about COVID. The straw that broke the camel's back was the incredibly backlogged "active" case count. At one point, the official count was as much as double what the likely reality was (e.g. count was around 10,000 when it was likely closer to 5,000). On January 5, 2021, we published our first daily update, and over the past several months, have grown significantly in social media followers (THANK YOU!).
+The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. It is **not** affiliated with the Manitoba government in any way. Since the beginning of the pandemic, I found myself wanting to help serve Manitoba in a meaningful way. Not going to give any excuses, but that didn't quite happen during the first year. Then in January, 2021 (better late than never!), I saw an opportunity. I am a designer and project manager by trade, and throughout the second wave I became very frustrated with how difficult it was to access, read, and understand the updates and news about COVID in Manitoba. On January 5, 2021, we published our first daily update, and over the past several months have grown significantly in social media followers (THANK YOU!).
 
 ### Private/Direct Messages
 
-I do my best to answer as many people as possible, but I am one person and don't have the time and all the answers to get to everyone. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I am hoping that this website resource will help answer many questions people ask me privately so they can get answers faster.
+I do my best to answer as many people as possible, but I am one person with a regular full time job and family and don't have the time and all the answers to get to everyone. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I built this website resource in hopes that it will help answer many questions people ask me privately so they can get answers faster.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
