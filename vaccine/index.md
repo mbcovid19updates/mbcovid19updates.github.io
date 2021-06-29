@@ -63,9 +63,9 @@ Location | Address | Date| Info
 **Winnipeg** | **Northway Pharmacy River Heights** (101A-1425 Corydon Ave) | **June 28th - June 30th** | Offering Moderna appointments. Call 1-204-284-1442 to book
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call 1-204-504-9333.  Lots of parking available.
 **Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **June 28-29** from 8:30am-5:30pm | Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
-**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **June 28th:** Moderna **June 29th:** Pfizer | Call 1-844-626-8222 to book
-**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer **June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer **June 29th:** Moderna | Call 1-844-626-8222 to book
+**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **June 28th:** Moderna<br />**June 29th:** Pfizer | Call 1-844-626-8222 to book
+**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer<br />**June 28th - June 29th:** Moderna | Call 1-844-626-8222 to book
+**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer<br />**June 29th:** Moderna | Call 1-844-626-8222 to book
 **Winnipeg** | **Red River College's Notre Dame Campus** (2055 Notre Dame Ave) | **June 29** from 9am-4pm | Moderna clinic is appointment-based (no walk-ins) and is accepting appointments now for anyone in need of 1st or 2nd doses. [Book appointment / More info](https://www.rrc.ca/coronavirus/2021/06/28/moderna-vaccine-pop-up-clinic-at-ndc/)
 **Lundar** | **Lundar Legion** (50 3rd St.) | **June 29th** | Call 1-844-626-8222 to book
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | Pfizer clinic - Call 1-844-626-8222 to book
