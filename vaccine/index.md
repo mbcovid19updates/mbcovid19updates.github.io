@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: June 28, 2021_
+_Last updated: June 29, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -40,20 +40,19 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ Daily 9:00am - 4:00pm (or later, see below)<br />June 28 til 10pm, June 29-30 til 8pm, July 2-3 til 8pm | ~1000/day
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY Monday: 9:00am - 10:00pm, Tuesday - Wednesday: 9:00am to 8:00pm, Thursday: 9:00am to 4:00pm, Friday - Saturday: 9:00am to 8:00pm, Sunday: 11:00am to 4:00pm | ~1000/day
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **PFIZER FOR YOUTH AGE 12-17** Daily 9:00am - 4:00pm (June 30 - July 4 from 9am-3:30pm)<br />In anticipation of significant demand, individuals in line will be given a colour-coded ticket, which will identify a time slot later the same day when they will be able to get their vaccine. | ~330/day
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ Daily Noon - 4:00pm (including July 1st)| 350/day
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ Daily 9:00am - 2:00pm | 50/day
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ Thursday - Saturday 9:00am - 8:00pm (June 24-26) | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ 9:00am - 8:00pm (June 28) | Large quantities available!
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ 1:00pm - 8:00pm (June 22, 24-25), 11:00am - 6:00pm (June 26) | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ Daily 11:30am - 4:30pm (June 27 - July 2, CLOSED JULY 1), 29-30) - 1st doses only 11:30am - 1:30pm. 1st and 2nd from 1:30 - 4:30pm | 75/day
-**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ Saturday, June 26 from 11:00am - 6:00pm | N/A
-**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ 11:00am - 6:00pm (June 22-25, 28, 29, July 6-7) | N/A
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY Noon - 4:00pm (including July 1st)| 350/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm | 50/day
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY Monday - Friday: 9:00am - 8:00pm, Saturday: 9:00am - 6:00pm, Sunday: 11:00am - 8:00pm | ~40/day
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ Monday - Friday, Sunday 9:00am - 8:00pm | N/A
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ Tuesday, Thursday, Friday: 1:00pm - 8:00pm, Saturday: 11:00am - 6:00pm | N/A
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ Monday - Wednesday: 11:00am - 6:00pm | 75/day
+**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ Sunday - Wednesday: 11:00am - 6:00pm | N/A
+**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ Monday - Tuesday: 11:00am - 6:00pm | N/A
 **Flin Flon** | N/A | ✅ 11:00am - 6:00pm (June 24, 25, 30, July 8-9) | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
-
 
 ## Appointments
 
