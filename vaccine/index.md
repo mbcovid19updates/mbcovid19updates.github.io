@@ -30,6 +30,10 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.
 
+**🚨 450 OPEN APPOINTMENTS FOR MODERNA AT RBC DOWNTOWN WINNIPEG TODAY**
+If you're looking for a fast and guaranteed "almost walk-in" Moderna (age 18+) appointment in Winnipeg today, call [1-844-626-8222](tel:18446268222) or visit [online booking](https://patient.petalmd.com/login?groupId=6032) to schedule an appointment for this afternoon!
+
+
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
 **Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **11:00AM - 5:00PM** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Limited walk-ins (must be 18+)
