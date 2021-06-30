@@ -74,18 +74,12 @@ Location | Address | Date| Info
 **Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Call Janelle at 204-218-1263 to book (must be 18+)
 **Winnipeg** | **Northway Pharmacy River Heights** (101A-1425 Corydon Ave) | **June 28th - June 30th** | Offering Moderna appointments. Call [204-284-1442](tel:12042841442) to book
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333).  Lots of parking available.
-**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 6th, 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
-**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **June 28th:** Moderna<br />**June 29th:** Pfizer | Call [1-844-626-8222](tel:18446268222) to book
-**Swan River** | **Swan River Veteran's Hall** (119 6th Ave North) | **June 27th:** Pfizer<br />**June 28th - June 29th:** Moderna | Call [1-844-626-8222](tel:18446268222) to book
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave South) | **June 28th:** Pfizer<br />**June 29th:** Moderna | Call [1-844-626-8222](tel:18446268222) to book
-**Winnipeg** | **Red River College's Notre Dame Campus** (2055 Notre Dame Ave) | **June 29** from 9am-4pm | Moderna clinic is appointment-based (no walk-ins) and is accepting appointments now for anyone in need of 1st or 2nd doses. [Book appointment / More info](https://www.rrc.ca/coronavirus/2021/06/28/moderna-vaccine-pop-up-clinic-at-ndc/)
-**Lundar** | **Lundar Legion** (50 3rd St.) | **June 29th** | Call [1-844-626-8222](tel:18446268222) to book
-**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **June 29th** | Pfizer clinic - Call [1-844-626-8222](tel:18446268222) to book
-**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
+**Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
 **Morris** | **Morris Multiplex** (380 Stampede Grounds) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
 **Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | Moderna clinic - Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
+**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 6th, 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
 
 
 ## Urban Indigenous Clinics
