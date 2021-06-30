@@ -32,7 +32,6 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
-**Miami** | **Miami Community Centre Hall** (34112 23 PTH) | **June 29th** | **10:30AM - 6:30PM** | First and second doses welcome (must be 18+)
 **Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **11:00AM - 5:00PM** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Limited walk-ins (must be 18+)
 **Winnipeg** | **Mobile Van in Central Park** (367 Ellice Ave) | **June 29-30** | **9:00 AM - 4:00 PM** | Moderna vaccine for age 18+, Pfizer doses for youth age 12-17 only.
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **June 29-30, July 6-8** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
