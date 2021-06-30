@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: June 29, 2021_
+_Last updated: June 30, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -20,11 +20,17 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 <a href="https://protectmb.ca/" class="button">ProtectMB Vaccine Finder</a> (by Manitoba Government)
 
+<a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment at Super Site or Popup Clinic</a>
+
+<a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
+
+
 ### Pharmacy Chains
 
 <a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo Appointment Scheduler</a>
 
 <a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart Appointment Scheduler</a>
+
 
 ## Walk-ins
 
