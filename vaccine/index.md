@@ -42,15 +42,11 @@ If you're looking for a fast and guaranteed "almost walk-in" Moderna (age 18+) a
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
-**Winnipeg** | **Investors Group Athletic Centre-UM** (66 Chancellors Cir) | **June 30th** | Arrive before **3PM!** |  Now open for all! UM students prioritized.  Moderna vaccine (must be 18+)
 **Winnipeg** | **Initiatives for Just Communities** (1200 Portage Ave) | **June 30th** | Until **6:30PM** |  Therapy dogs on site!  100 doses remaining at 1:30PM
 **Pine Falls** |**Pine Falls Legion** (7 Tamarack St) | **June 30th** | **11:00AM - 5:30PM** | Pfizer vaccine available for youth 12-17
-**Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **11:00AM - 5:00PM** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Limited walk-ins (must be 18+)
-**Winnipeg** | **Mobile Van in Central Park** (367 Ellice Ave) | **June 29-30** | **9:00 AM - 4:00 PM** | Moderna vaccine for age 18+, Pfizer doses for youth age 12-17 only.
 **Winnipeg** | **Safety Drugs Kingsbury** (1099 Kingsbury Ave Unit 7) | **June 30th** | **9:00AM - 7:00PM** | Moderna vaccine vaccine (must be 18+)
+**Winnipeg** | **Shopper's Drugmart Osborne** (43 Osborne St N.) | **July 3 & 4** | **9:00AM - 4:00 PM** | Moderna doses available (must be 18+)
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **June 29-30, July 6-8** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
-**Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | **11:30AM - 1:30PM:** First doses <br/> **1:30PM - 4:30PM:** First and second doses  | 45 Moderna doses available (must be 18+)
-**Glenboro** | **Kinsmen Hall** (900 Railway Ave) | **June 30th** | **11:30AM - 1:30PM:** First doses <br/> **1:30PM - 4:30PM** First and second doses | 45 Moderna doses available (must be 18+)
 **Onanole** | **Onanole Hall** (386 Central Rd) | **July 1st** | **9:00AM - 10:00 AM:** First doses <br/> **10:00AM - 1:00 PM** First and second doses | 390 Moderna doses available (18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
