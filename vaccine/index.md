@@ -43,6 +43,7 @@ If you're looking for a fast and guaranteed "almost walk-in" Moderna (age 18+) a
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- 
 **Winnipeg** | **Investors Group Athletic Centre-UM** (66 Chancellors Cir) | **June 30th** | Arrive before **3PM!** |  Now open for all! UM students prioritized.  Moderna vaccine (must be 18+)
+**Winnipeg** | **Initiatives for Just Communities** (1200 Portage Ave) | **June 30th** | Until **6:30PM** |  Therapy dogs on site!  100 doses remaining at 1:30PM
 **Pine Falls** |**Pine Falls Legion** (7 Tamarack St) | **June 30th** | **11:00AM - 5:30PM** | Pfizer vaccine available for youth 12-17
 **Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **11:00AM - 5:00PM** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Limited walk-ins (must be 18+)
 **Winnipeg** | **Mobile Van in Central Park** (367 Ellice Ave) | **June 29-30** | **9:00 AM - 4:00 PM** | Moderna vaccine for age 18+, Pfizer doses for youth age 12-17 only.
