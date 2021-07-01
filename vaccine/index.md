@@ -43,10 +43,10 @@ If you're looking for a fast and guaranteed "almost walk-in" Moderna (age 18+) a
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
 **Onanole** | **Onanole Hall** (386 Central Rd) | **July 1st** | **9:00AM - 10:00 AM:** First doses <br/> **10:00AM - 1:00 PM** First and second doses | 390 Moderna doses available (18+)
-**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 2nd** | **9:00AM - 10:00AM:** 1st doses <br/> **10:00AM - 4:30PM:** 1st & 2nd doses | 330 Pfizer doses available **For youth only (12-17) **
+**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 2nd** | **9:00AM - 10:00AM:** 1st doses <br/> **10:00AM - 4:30PM:** 1st & 2nd doses | 330 Pfizer doses available **For youth only (12-17)**
 **Winnipeg** | **Shopper's Drugmart Osborne** (43 Osborne St N.) | **July 3 & 4** | **9:00AM - 4:00 PM** | Moderna doses available (must be 18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
-**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 4th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30PM:** 1st & 2nd doses | 70 Pfizer doses available **For youth only (12-17) **
+**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 4th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30PM:** 1st & 2nd doses | 70 Pfizer doses available **For youth only (12-17)**
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6-8** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
