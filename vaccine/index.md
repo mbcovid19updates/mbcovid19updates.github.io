@@ -41,14 +41,13 @@ If you're looking for a fast and guaranteed "almost walk-in" Moderna (age 18+) a
 
 
 Location | Address | Date | Time | Info
---- | --- | --- | --- | --- 
-**Winnipeg** | **Initiatives for Just Communities** (1200 Portage Ave) | **June 30th** | Until **6:30PM** |  Therapy dogs on site!  100 doses remaining at 1:30PM
-**Pine Falls** |**Pine Falls Legion** (7 Tamarack St) | **June 30th** | **11:00AM - 5:30PM** | Pfizer vaccine available for youth 12-17
-**Winnipeg** | **Safety Drugs Kingsbury** (1099 Kingsbury Ave Unit 7) | **June 30th** | **9:00AM - 7:00PM** | Moderna vaccine vaccine (must be 18+)
-**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **June 29-30, July 6-8** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
+--- | --- | --- | --- | -- 
 **Onanole** | **Onanole Hall** (386 Central Rd) | **July 1st** | **9:00AM - 10:00 AM:** First doses <br/> **10:00AM - 1:00 PM** First and second doses | 390 Moderna doses available (18+)
+**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 2nd** | **9:00AM - 10:00AM:** 1st doses <br/> **10:00AM - 4:30PM:** 1st & 2nd doses | 330 Pfizer doses available **For youth only (12-17) **
 **Winnipeg** | **Shopper's Drugmart Osborne** (43 Osborne St N.) | **July 3 & 4** | **9:00AM - 4:00 PM** | Moderna doses available (must be 18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
+**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 4th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30PM:** 1st & 2nd doses | 70 Pfizer doses available **For youth only (12-17) **
+**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6-8** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 
@@ -81,12 +80,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date| Info
 --- | --- | --- | ---
-**Winnipeg** | **Gilbert Park Gym** (35 Gilbert Ave) | **June 30th** | **For Gilbert Park residents and family only!**  Moderna vaccines available for 2nd doses. Call Janelle at 204-218-1263 to book (must be 18+)
-**Winnipeg** | **Northway Pharmacy River Heights** (101A-1425 Corydon Ave) | **June 28th - June 30th** | Offering Moderna appointments. Call [204-284-1442](tel:12042841442) to book
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333).  Lots of parking available.
-**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
-**Morris** | **Morris Multiplex** (380 Stampede Grounds) | **June 30th** | Call [1-844-626-8222](tel:18446268222) to book
-**Shoal Lake** | **Shoal Lake Hall** (315 The Drive) | **June 30th** | Moderna clinic - Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 6th, 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
