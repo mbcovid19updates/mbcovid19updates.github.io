@@ -56,7 +56,7 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **MODERNA** DAILY<br />Monday: 9:00am - 10:00pm<br />Tuesday - Wednesday: 9:00am to 8:00pm<br />Thursday: 9:00am to 4:00pm<br />Friday - Saturday: 9:00am to 8:00pm<br />Sunday: 11:00am to 4:00pm | ~1000/day
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **MODERNA** DAILY<br />July 1: 9:00am - 3:50pm<br />July 2: 9:00am - 7:50pm<br />July 3: 9:00am - 7:50pm<br />July 4: 9:00am - 3:50pm<br />July 5: 9:00am - 3:50pm<br />July 6-10: 7:30am - 10:20pm | ~1000/day
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **PFIZER FOR YOUTH AGE 12-17**<br />June 30 - July 4: 9:00am - 3:30pm<br />In anticipation of significant demand, individuals in line will be given a colour-coded ticket, which will identify a time slot later the same day when they will be able to get their vaccine. | ~330/day
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY Noon - 4:00pm (including July 1st)| 350/day
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm | 50/day
