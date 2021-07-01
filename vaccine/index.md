@@ -73,11 +73,14 @@ If you have any updated info for these locations, please direct message us via I
 
 ## Appointments
 
+can you email us her health card front and back, phone number, first dose date and type if received already
+
 The following are clinics offering scheduled appointments.  You must book at these locations in advance. (Availability may vary).
 
-Location | Address | Date| Info
+Location | Address | Date | Info
 --- | --- | --- | ---
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333).  Lots of parking available.
+**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 6th, 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
