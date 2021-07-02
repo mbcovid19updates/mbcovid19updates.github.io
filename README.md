@@ -213,17 +213,17 @@ If you've been vaccinated, you can check the status of your vaccination online. 
 
 <a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID Vaccination Status</a>
 
-### Received your vaccine outside of Manitoba?
 
-Individuals who received their COVID-19 vaccine outside of the province should have their vaccination information added into Manitoba's immunization system. In order to do this, you will need proof of immunization from the jurisdiction where you received your vaccine.
+### Vaccine Records Missing? Or received your vaccine outside of Manitoba?
 
-If the vaccine you received is eligible for use in Canada, you can then bring this proof of immunization to a public health office. The office will enter this information to ensure that your primary care physician and our public health teams can have access to your immunization records.
+_Last updated: July 2, 2021_
 
-You can contact or visit a public health office, or email [covidimmunizationrecordsinformation@gov.mb.ca](mailto:covidimmunizationrecordsinformation@gov.mb.ca) to update that information. This email address can also be used to request other updates or corrections to a COVID-19 immunization.
+People can now call 1-844-MAN-VACC (1-844-626-8222) to update any missing or inaccurate information on their immunization records. Individuals just need to call and follow the prompts to get the update process started.
 
-<a href="https://www.gov.mb.ca/health/publichealth/offices.html" class="button">View List of all Public Health Offices</a>
+Alternatively, individuals can [complete the e-form to update their immunization information](https://forms.gov.mb.ca/covid-immunization-record-request/).
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
 
 <a name="vaccine-cards"></a>
 ### Vaccine Cards
