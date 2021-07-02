@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: June 30, 2021_
+_Last updated: July 2, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -80,7 +80,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 Location | Address | Date | Info
 --- | --- | --- | ---
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **June 28th - July 3rd** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333).  Lots of parking available.
-**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 5, 7, 12-13** | July 5, 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />July 7 **PFIZER for YOUTH age 12-17** 10:00am - 4:00pm.<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
+**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 5, 7, 12-13** | July 5, 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
