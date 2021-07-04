@@ -83,10 +83,10 @@ Location | Address | Date | Info
 --- | --- | --- | ---
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 5, 7, 12-13** | July 5, 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 6th & 7th** | Moderna doses available (18+). Call [1-844-626-8222] to book
+**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 6th & 7th** | Moderna doses available (18+). Call [1-844-626-8222](tel:18446268222) to book
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
-**Deloraine** | **Deloraine Winchester Community Hall** (119 Lake St N) | **July 6th** |  Moderna doses available (18+). Call [1-844-626-8222] to book
-**Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | Call [1-844-626-8222] to book. Moderna doses available (18+)
+**Deloraine** | **Deloraine Winchester Community Hall** (119 Lake St N) | **July 6th** |  Moderna doses available (18+). Call [1-844-626-8222](tel:18446268222) to book
+**Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | Call [1-844-626-8222](tel:18446268222) to book. Moderna doses available (18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 6th, 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
 
