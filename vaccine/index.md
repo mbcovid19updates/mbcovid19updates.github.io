@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: July 4, 2021_
+_Last updated: July 5, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -58,11 +58,10 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **MODERNA** DAILY<br />July 1: 9:00am - 3:50pm<br />July 2: 9:00am - 7:50pm<br />July 3: 9:00am - 7:50pm<br />July 4: 9:00am - 3:50pm<br />July 5: 9:00am - 3:50pm<br />July 6-10: 7:30am - 10:20pm | ~1000/day
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **PFIZER FOR YOUTH AGE 12-17**<br />June 30 - July 4: 9:00am - 3:30pm<br />In anticipation of significant demand, individuals in line will be given a colour-coded ticket, which will identify a time slot later the same day when they will be able to get their vaccine. | ~330/day
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY Noon - 4:00pm (including July 1st)| 350/day
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm | 50/day
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />Monday - Friday: 9:00am - 8:00pm<br />Saturday: 9:00am - 6:00pm<br />Sunday: 11:00am - 8:00pm | ~40/day
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ **MODERNA** DAILY<br />July 5: 9:00am - 8:00pm<br />July 6-10: 7:30am - 10:30pm | ~1000/day
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY July 5: 11:00am - 6:00pm<br />July 6-10: 7:30am - 10:30pm | 350/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm<br />July 6-10: 7:30am - 10:30pm | 50/day
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 5: 9:00am - 8:00pm<br />July 6-10: 7:30am - 10:30pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ Monday - Friday, Sunday 9:00am - 8:00pm | N/A
 **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ Tuesday, Thursday, Friday: 1:00pm - 8:00pm<br />Saturday: 11:00am - 6:00pm | N/A
 **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ Monday - Wednesday: 11:00am - 6:00pm | 75/day
