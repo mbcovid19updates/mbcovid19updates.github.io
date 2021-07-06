@@ -59,14 +59,15 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 350/day
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ Monday - Friday, Sunday 9:00am - 8:00pm | N/A
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ Tuesday, Thursday, Friday: 1:00pm - 8:00pm<br />Saturday: 11:00am - 6:00pm | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ Monday - Wednesday: 11:00am - 6:00pm | 75/day
-**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ Sunday - Wednesday: 11:00am - 6:00pm | N/A
-**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ Monday - Tuesday: 11:00am - 6:00pm | N/A
-**Flin Flon** | N/A | ✅ 11:00am - 6:00pm (June 30, July 8-9) | N/A
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 6: 9:00am - 4:00pm<br />July 7-9: 1:00pm - 8:00pm<br />July 10: 11:00am - 6:00pm | N/A
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ N/A | N/A
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 6-7: 11:00am - 6:00pm | 75/day
+**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 6-8: 11:00am - 6:00pm | N/A
+**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 6-7: 11:00am - 6:00pm | N/A
+**Flin Flon** | N/A | ✅ July 8-9 11:00am - 6:00pm | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
+
 
 
 ## Appointments
