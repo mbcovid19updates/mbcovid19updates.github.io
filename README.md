@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: July 4, 2021_
+_Last updated: July 6, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -167,11 +167,11 @@ Here are some resources to learn more about this:
 <a name="astrazeneca"></a>
 ### AstraZeneca Information
 
-_Last updated: June 18, 2021_
+_Last updated: July 6, 2021_
 
 If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose.
 
-If you strongly wish to receive a second dose of AstraZeneca, the province announced (June 18, 2021) that a total of 15 medical clinics and pharmacies will soon act as regional hubs to offer second-dose AstraZeneca vaccinations. Beginning next week, individuals will be able to use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
+If you strongly wish to receive a second dose of AstraZeneca, there are a total of 15 medical clinics and pharmacies that are acting as regional hubs to offer second-dose AstraZeneca vaccinations. You can use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
 
 #### Locations with AstraZeneca
 
@@ -582,7 +582,7 @@ Failure to self-isolate in accordance with public health advice is a violation o
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: July 5, 2021_
+_Last updated: July 6, 2021_
 
 Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
 
@@ -591,7 +591,7 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ⏱ _Estimated: July 10, 2021_ | Status: ⏱ _Estimated: July 31, 2021_
+Status: ✅ June 26, 2021 | Status: ✅ Reached goal on July 6! _Estimated re-opening: July 10, 2021_ | Status: ⏱ _Estimated: July 31, 2021_
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
