@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: July 5, 2021_
+_Last updated: July 6, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -39,9 +39,6 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
-**Winnipeg** | **Shopper's Drugmart Osborne** (43 Osborne St N.) | **July 3 & 4** | **9:00AM - 4:00 PM** | Moderna doses available (must be 18+)
-**Dauphin** | **Ukranian Orthodox Hall** (304 Whitmore Avenue East) | **July 4th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30PM:** 1st & 2nd doses | 70 Pfizer doses available **For youth only (12-17)**
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 5, 6, & 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 6th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 255 Moderna doses available (18+)
 **Deloraine** | **Deloraine Winchester Community Hall** (119 Lake St N) | **July 6th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 255 Moderna doses available (18+)
@@ -58,10 +55,10 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 5: 9:00am - 8:00pm<br />July 6-10: 7:30am - 10:30pm | ~1000/day
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 5: 11:00am - 6:00pm<br />July 6-10: 7:30am - 10:30pm | 350/day
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 5: 9:00am - 8:00pm<br />July 6-10: 7:30am - 10:30pm | 50/day
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 5: 9:00am - 8:00pm<br />July 6-10: 7:30am - 10:30pm | ~40/day
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 1000+/day (high availability, fast walk-in!)
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 350/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 50/day
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ Monday - Friday, Sunday 9:00am - 8:00pm | N/A
 **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ Tuesday, Thursday, Friday: 1:00pm - 8:00pm<br />Saturday: 11:00am - 6:00pm | N/A
 **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ Monday - Wednesday: 11:00am - 6:00pm | 75/day
@@ -80,10 +77,9 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 5th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
 **Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 5, 7, 12-13** | July 5, 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 6th & 7th** | Moderna doses available (18+). Call [1-844-626-8222](tel:18446268222) to book
-**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
+**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 8** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
 **Deloraine** | **Deloraine Winchester Community Hall** (119 Lake St N) | **July 6th** |  Moderna doses available (18+). Call [1-844-626-8222](tel:18446268222) to book
 **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | Call [1-844-626-8222](tel:18446268222) to book. Moderna doses available (18+)
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
