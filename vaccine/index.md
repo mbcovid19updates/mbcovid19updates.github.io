@@ -46,7 +46,7 @@ Location | Address | Date | Time | Info
 **Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | **11:00AM - 6:00PM** |1st & 2nd doses for everyone 12+
 **Winnipeg** | **West Central Women's Resource Centre** (640 Ellice Ave) | **July 8th** | **9:30AM - 3:30PM** | Moderna vaccine available (must be 18+)
 **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | Moderna doses available (18+) <br/> 50 Pfizer doses available for **youth only** (12-17)
-**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 8th** | Opens at **11:30AM** | 50 Pfizer doses available for **youth only** (12-17).  Moderna doses available for 18+.  First doses priortized
+**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 8th** | Opens at **11:30AM** | 50 Pfizer doses available for **youth only** (12-17). <br/>  Moderna doses available for 18+.  <br/> First doses priortized
 **Whitemouth** | **Whitemouth Community Hall** (61 1st St) | **July 8th** | **10:30AM - 6:30PM** | Moderna doses available for 1st & 2nd doses
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
 **Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
