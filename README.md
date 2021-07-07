@@ -10,7 +10,7 @@ _Last updated: July 7, 2021_
         <h3>Current Restrictions</h3>
     </a>
     <a href="/vaccine">
-        <h3>Vaccine Locator (NEW!)</h3>
+        <h3>Vaccine Locator</h3>
     </a>
     <a href="#vaccine-cards">
         <h3>Vaccine Cards</h3>
