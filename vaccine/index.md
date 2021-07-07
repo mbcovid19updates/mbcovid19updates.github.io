@@ -39,7 +39,6 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
-**Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6th - 8th** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
 **Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
 **The Pas** | **Royal Canadian Legion** (4 Veteran's Way) | **July 7th** | **11:00AM - 6:00PM** | 1st & 2nd doses for everyone 12+ welcome
@@ -48,6 +47,7 @@ Location | Address | Date | Time | Info
 **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | Moderna doses available (18+)
 **Whitemouth** | **Whitemouth Community Hall** (61 1st St) | **July 8th** | **10:30AM - 6:30PM** | Moderna doses available for 1st & 2nd doses
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
+**Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
 
 
 ### Super Site Walk-ins
@@ -80,11 +80,11 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 7th, 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
-**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 7th, 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **The Pas** | **Royal Canadian Legion** (4 Veteran's Way) | **July 7th** | 1st & 2nd doses for everyone 12+ welcome. Call [1-844-626-8222](tel:18446268222) to book
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 7th** | Moderna doses available (18+). Call [1-844-626-8222](tel:18446268222) to book
 **Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | 1st & 2nd doses for everyone 12+ welcome. Call [1-844-626-8222](tel:18446268222) to book
+**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 7th, 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
+**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 7th, 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **ImagineAbility** (500 Madison St) | **July 8th** | Moderna doses available for drive-thru vaccinations hosted by ImagineAbility.  Good oppurtunity to those needing a quieter vaccination experience.  Call 1-204-956-9714 to book
 **East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 8th** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
 **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | Call [1-844-626-8222](tel:18446268222) to book. Moderna doses available (18+)
