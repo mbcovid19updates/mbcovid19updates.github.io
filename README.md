@@ -6,11 +6,17 @@ _Last updated: July 7, 2021_
     <a href="#reopening">
         <h3>Re-opening Plans</h3>
     </a>
-    <a href="#vaccine">
-        <h3>Vaccine Eligibility</h3>
+    <a href="#restrictions">
+        <h3>Current Restrictions</h3>
     </a>
     <a href="/vaccine">
         <h3>Vaccine Locator (NEW!)</h3>
+    </a>
+    <a href="#vaccine-cards">
+        <h3>Vaccine Cards</h3>
+    </a>
+    <a href="#vaccine">
+        <h3>Vaccine Eligibility</h3>
     </a>
     <a href="#vaccine-walkins">
         <h3>Vaccine Walk-ins</h3>
@@ -23,12 +29,6 @@ _Last updated: July 7, 2021_
     </a>
     <a href="#astrazeneca">
         <h3>AstraZeneca</h3>
-    </a>
-    <a href="#vaccine-cards">
-        <h3>Vaccine Cards</h3>
-    </a>
-    <a href="#restrictions">
-        <h3>Current Restrictions</h3>
     </a>
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
@@ -52,6 +52,194 @@ _Last updated: July 7, 2021_
         <h3>Future</h3>
     </a>
 </div>
+
+<a name="reopening"></a>
+## Re-opening Plan
+
+_Last updated: July 7, 2021_
+
+**UPDATE:** The province has announced that they plan to wait at least 1 full incubation period (14 days) between opening phases, and [noted on July 7th](https://news.gov.mb.ca/news/index.html?item=51657&posted=2021-07-07) that an announcement will be made next week, so we've adjusted our re-opening estimate to July 13-17, 2021.
+
+Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
+
+Phase 1 | Phase 2 | Phase 3
+--- | --- | ---
+Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
+<small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
+<small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
+Status: ✅ June 26, 2021 | Status: ✅ Reached goal on July 6! _Estimated re-opening: July 13-17, 2021_ | Status: ⏱ _Estimated: July 31, 2021_
+
+<a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
+<a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
+<a href="https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23" class="button">PHASE 1 Official Announcement</a>
+
+### PHASE 1 ✅⚪️⚪️ 
+
+_Begins Saturday, June 26, 2021_
+
+- Outdoor gathering sizes on private property to double to 10 persons, and to allow outdoor visitors to briefly access homes for essential activities (e.g. to use a washroom). No other changes to indoor visitors this time.
+- Public outdoor gathering sizes to increase to 25 persons.
+- Retail businesses to open with increased capacity at 25% to a limit of 250 persons, with no restrictions on the number of  household members permitted to shop together.
+- Personal service businesses (hair and nail salons, estheticians, barbers, etc.) to reopen at 50% capacity, on an appointment basis only.
+- Restaurants and bars to reopen at 25% capacity for indoors and 50% for outdoor dining. For indoor dining, patrons seated together must be from the same household unless all patrons at the table are fully immunized. Patrons who are fully immunized and from different households may dine together. For outdoor dining, tables are limited to a maximum of 8 patrons and can be from different households regardless of immunization status.
+- Indoor faith-based services and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume at 25% capacity to a limit of 25 persons with masks worn at all times.
+- Outdoor faith-based and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume for up to 50 persons, provided distance can be maintained between households. Drive-in services continue to be permitted.
+- Outdoor weddings and funerals may take place with up to 25 participants, in addition to photographer and officiants. Indoor weddings and funerals remain limited to 10 persons.
+- Indoor dance, music, theatre and other organized sports and recreation activities may reopen at 25% capacity to a limit of 5 persons, with no tournaments allowed.
+- Outdoor dance, music and theatre classes and other organized recreation activities may reopen for groups up to 25 people, with no tournaments allowed.
+- Swimming and wading pools, both indoor and outdoor, may reopen at 25% capacity.
+- Gyms and fitness facilities may reopen for individual and group fitness classes at 25% capacity with three metres distance maintained between patrons.
+- Summer day camps may reopen to a maximum of 20 participants in groups.
+
+For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
+
+<a href="#restrictions" class="button">View Current Restrictions</a>
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
+
+<a name="restrictions"></a>
+## Current Restrictions
+
+_Last updated: June 27, 2021_
+
+The following restrictions are in effect as of Saturday, June 26, 2021, at 12:01 am:
+
+### Gatherings
+
+- **Residential Gatherings**
+   - No indoor private gatherings are permitted.
+   - Up to 10 visitors in addition to those who reside there, are permitted outdoors on private property. Visitors may briefly enter the home for essential reasons. 
+- **Public Gatherings**
+   - 25 people maximum are permitted in outdoor public spaces.
+   - 5 people maximum are permitted at an indoor public place or the common areas of a multi-unit residence
+- **Weddings and Funerals**
+   - Funerals may have up to 25 people for outdoor services in addition to the officiant. Indoor funerals remain limited to 10 persons in addition to the officiant.
+   - Weddings can have up to 25 people for outdoor ceremonies, in addition to the officiant and a photographer or videographer. Indoor weddings remain limited to 10 persons.
+
+### Retail stores and malls
+
+_Includes markets, garden centres, and occasional pop-up retail._
+
+- Open with increased capacity at 25% to a limit of 250 persons, no additional restrictions.
+
+### Outdoor and Indoor Sports and Recreation
+
+- **Outdoor** Sports and Recreation
+   - Open for up to 25 people. No tournaments allowed.
+- **Indoor** Sports and Recreation
+   - Open to 25% capacity to a limit of 5 persons. No tournaments allowed.
+
+### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
+
+- Open at 25% capacity with three metres of space between patrons.
+
+### Concert Halls and Movie Theatres
+
+- **Movie Theatres**
+   - Remain closed, all other restrictions continue.
+- **Dance, Theatre, and Music Schools**
+   - Open at 25% capacity to a limit of 5 persons indoors, or 25 people outdoors.
+
+### Museums, Galleries and Libraries
+
+- Remain closed, all other restrictions continue.
+
+### Casinos and VLTs
+
+- Remain closed, all other restrictions continue.
+
+### Community, Cultural and Religious Gatherings
+
+- Indoor gatherings open to 25% capacity to a limit of 25 persons, with masks worn at all times.
+- Outdoor gatherings open to 50 persons. Drive-in services continue to be permitted.
+
+### Restaurants
+
+_Includes other public food establishments, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
+
+- Open at 25% capacity for indoors and 50% for outdoor dining.
+- For indoor dining patrons seated together must be from the same household, unless all patrons at the table are fully immunized.
+- For outdoor dining table sizes are limited to 8 people.
+
+### Personal Service Businesses
+
+_Includes businesses such as hair, nails, tattoos, etc._
+
+- Open at 50% capacity on an appointment-only basis.
+
+### Therapeutic Care
+
+- Regulated professions, massage therapists and athletic therapists can continue to provide services.
+- Non-regulated health services, such as pedorthists and reflexologists, can open with adequate physical distancing and requirements to collect information for contact tracing purposes.
+
+### Support groups
+
+- Indoor self-help gatherings open to 25% capacity to a limit of 25 persons with masks worn at all times.
+- Outdoor self-help gatherings open to 50 persons. Drive-in services permitted. 
+
+### Photography and videography
+
+- Photographers and videographers can offer services to one individual at a time at either a retail location, such as a studio, or a registered home business. They can also provide photography or videography services at weddings or funerals.
+- Photographers and videographers may also provide outdoor services to families, groups or pairs under outdoor gathering rules (on public property with a gathering limit of 25, with those from different households appropriately distanced). However, photographers and videographers cannot provide individual or family services at indoor home residences.
+
+### Child Care and Day Camps
+
+- Family child-care homes and child-care centres can open and operate in accordance with applicable legislation.
+- Day camps are open to a maximum of 20 participants in a group as of July 1.
+- School-Aged Children Allowed to Return to Child-Care Programs, Day Camps Following End of School Year - June 18, 2021.
+- [COVID-19 Early Learning and Child Care Practice Guidance](https://www.gov.mb.ca/fs/pubs/2020-145r-covid-19-attachment-elcc-practice-guide-updated-may-18-2021.pdf) (PDF)
+
+### Workplaces
+
+- Required to allow employees to work from home where possible.
+
+### Travel to and from Manitoba
+
+- Fully vaccinated (two doses) individuals can now travel within Canada without being required to self-isolate for 14 days upon arrival back in the province.
+- 14 days of self-isolation is still required for people returning or coming to Manitoba from all jurisdictions if they have received one or no vaccine doses.
+- Individuals who travelled internationally must go into mandatory self-isolation (quarantine) for 14 days from the date of arrival to Manitoba. International travellers must follow federal testing and self-isolation (quarantine) requirements.
+- All travellers are strongly advised get two COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba or are returning from out of the country.
+- They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of the country and share the location of travel. Travellers must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
+
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06252021.pdf) (PDF) here..
+
+
+### Exceptions to Indoor Private Gatherings
+
+The public health orders state this (a partial copy and paste of the section on _June 12, 2021_):
+
+>**ORDER 1**
+>
+>**1(1)** Except as otherwise provided by this Order, a person who resides in a private residence must not permit a person who does not normally reside in that residence to enter or remain in the residence.
+>
+>**1(2)** Subsection (1) does not prevent a person from attending at the private residence of another person for any of the following purposes:
+>
+>- (a) to provide health care, personal care or housekeeping services;
+>- (b) for a visit between a child and a parent or guardian who does not normally reside with that child;
+>- (c) to receive or provide child care;
+>- (d) to visit a person who is receiving palliative care at that private residence;
+>- (e) to perform construction, renovations, repairs or maintenance;
+>- (f) to deliver items;
+>- (g) to provide real estate or legal services;
+>- (h) in the case of rented premises, for any purpose for which a landlord may enter those premises under The Residential Tenancies Act;
+>- (i) to respond to an emergency;
+>- (j) for the purpose of moving a person into or out of the residence.
+>
+>**1(3)** If a person operates a business that is permitted to open under these Orders at their private residence, other persons may attend at the person's residence for purposes related to the operation of that business.
+>
+>**1(4)** Persons may gather on the outdoor portions of the property on which their private residence is located with no more than 10 other persons who do not reside at their residence. These guests may only enter the residence for brief periods to use a bathroom or for other essential purposes.
+
+>**1(5)** A person who resides on their own may have one other person with whom they regularly interact attend at their private residence and they may also attend at that person's private residence.
+>
+>**1(6)** A person who is obtaining technical training at a university or college and who does not normally reside in the community where the university or college is located may, on a temporary basis, reside at the private residence of another person in the community where the university or college is located while receiving technical training.
+>
+>**1(7)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
+>
+>**1(8)** Persons must not occupy a tent or trailer at a campsite or a cottage or vacation home together unless they normally reside at the same private residence.
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
 
 <a name="vaccine"></a>
 ## Vaccine Eligibility
@@ -311,147 +499,6 @@ Yes. However, you will have to report your immunization to covidimmunizationreco
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
-<a name="restrictions"></a>
-## Current Restrictions
-
-_Last updated: June 27, 2021_
-
-The following restrictions are in effect as of Saturday, June 26, 2021, at 12:01 am:
-
-### Gatherings
-
-- **Residential Gatherings**
-   - No indoor private gatherings are permitted.
-   - Up to 10 visitors in addition to those who reside there, are permitted outdoors on private property. Visitors may briefly enter the home for essential reasons. 
-- **Public Gatherings**
-   - 25 people maximum are permitted in outdoor public spaces.
-   - 5 people maximum are permitted at an indoor public place or the common areas of a multi-unit residence
-- **Weddings and Funerals**
-   - Funerals may have up to 25 people for outdoor services in addition to the officiant. Indoor funerals remain limited to 10 persons in addition to the officiant.
-   - Weddings can have up to 25 people for outdoor ceremonies, in addition to the officiant and a photographer or videographer. Indoor weddings remain limited to 10 persons.
-
-### Retail stores and malls
-
-_Includes markets, garden centres, and occasional pop-up retail._
-
-- Open with increased capacity at 25% to a limit of 250 persons, no additional restrictions.
-
-### Outdoor and Indoor Sports and Recreation
-
-- **Outdoor** Sports and Recreation
-   - Open for up to 25 people. No tournaments allowed.
-- **Indoor** Sports and Recreation
-   - Open to 25% capacity to a limit of 5 persons. No tournaments allowed.
-
-### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
-
-- Open at 25% capacity with three metres of space between patrons.
-
-### Concert Halls and Movie Theatres
-
-- **Movie Theatres**
-   - Remain closed, all other restrictions continue.
-- **Dance, Theatre, and Music Schools**
-   - Open at 25% capacity to a limit of 5 persons indoors, or 25 people outdoors.
-
-### Museums, Galleries and Libraries
-
-- Remain closed, all other restrictions continue.
-
-### Casinos and VLTs
-
-- Remain closed, all other restrictions continue.
-
-### Community, Cultural and Religious Gatherings
-
-- Indoor gatherings open to 25% capacity to a limit of 25 persons, with masks worn at all times.
-- Outdoor gatherings open to 50 persons. Drive-in services continue to be permitted.
-
-### Restaurants
-
-_Includes other public food establishments, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
-
-- Open at 25% capacity for indoors and 50% for outdoor dining.
-- For indoor dining patrons seated together must be from the same household, unless all patrons at the table are fully immunized.
-- For outdoor dining table sizes are limited to 8 people.
-
-### Personal Service Businesses
-
-_Includes businesses such as hair, nails, tattoos, etc._
-
-- Open at 50% capacity on an appointment-only basis.
-
-### Therapeutic Care
-
-- Regulated professions, massage therapists and athletic therapists can continue to provide services.
-- Non-regulated health services, such as pedorthists and reflexologists, can open with adequate physical distancing and requirements to collect information for contact tracing purposes.
-
-### Support groups
-
-- Indoor self-help gatherings open to 25% capacity to a limit of 25 persons with masks worn at all times.
-- Outdoor self-help gatherings open to 50 persons. Drive-in services permitted. 
-
-### Photography and videography
-
-- Photographers and videographers can offer services to one individual at a time at either a retail location, such as a studio, or a registered home business. They can also provide photography or videography services at weddings or funerals.
-- Photographers and videographers may also provide outdoor services to families, groups or pairs under outdoor gathering rules (on public property with a gathering limit of 25, with those from different households appropriately distanced). However, photographers and videographers cannot provide individual or family services at indoor home residences.
-
-### Child Care and Day Camps
-
-- Family child-care homes and child-care centres can open and operate in accordance with applicable legislation.
-- Day camps are open to a maximum of 20 participants in a group as of July 1.
-- School-Aged Children Allowed to Return to Child-Care Programs, Day Camps Following End of School Year - June 18, 2021.
-- [COVID-19 Early Learning and Child Care Practice Guidance](https://www.gov.mb.ca/fs/pubs/2020-145r-covid-19-attachment-elcc-practice-guide-updated-may-18-2021.pdf) (PDF)
-
-### Workplaces
-
-- Required to allow employees to work from home where possible.
-
-### Travel to and from Manitoba
-
-- Fully vaccinated (two doses) individuals can now travel within Canada without being required to self-isolate for 14 days upon arrival back in the province.
-- 14 days of self-isolation is still required for people returning or coming to Manitoba from all jurisdictions if they have received one or no vaccine doses.
-- Individuals who travelled internationally must go into mandatory self-isolation (quarantine) for 14 days from the date of arrival to Manitoba. International travellers must follow federal testing and self-isolation (quarantine) requirements.
-- All travellers are strongly advised get two COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba or are returning from out of the country.
-- They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of the country and share the location of travel. Travellers must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
-
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-06252021.pdf) (PDF) here..
-
-
-### Exceptions to Indoor Private Gatherings
-
-The public health orders state this (a partial copy and paste of the section on _June 12, 2021_):
-
->**ORDER 1**
->
->**1(1)** Except as otherwise provided by this Order, a person who resides in a private residence must not permit a person who does not normally reside in that residence to enter or remain in the residence.
->
->**1(2)** Subsection (1) does not prevent a person from attending at the private residence of another person for any of the following purposes:
->
->- (a) to provide health care, personal care or housekeeping services;
->- (b) for a visit between a child and a parent or guardian who does not normally reside with that child;
->- (c) to receive or provide child care;
->- (d) to visit a person who is receiving palliative care at that private residence;
->- (e) to perform construction, renovations, repairs or maintenance;
->- (f) to deliver items;
->- (g) to provide real estate or legal services;
->- (h) in the case of rented premises, for any purpose for which a landlord may enter those premises under The Residential Tenancies Act;
->- (i) to respond to an emergency;
->- (j) for the purpose of moving a person into or out of the residence.
->
->**1(3)** If a person operates a business that is permitted to open under these Orders at their private residence, other persons may attend at the person's residence for purposes related to the operation of that business.
->
->**1(4)** Persons may gather on the outdoor portions of the property on which their private residence is located with no more than 10 other persons who do not reside at their residence. These guests may only enter the residence for brief periods to use a bathroom or for other essential purposes.
-
->**1(5)** A person who resides on their own may have one other person with whom they regularly interact attend at their private residence and they may also attend at that person's private residence.
->
->**1(6)** A person who is obtaining technical training at a university or college and who does not normally reside in the community where the university or college is located may, on a temporary basis, reside at the private residence of another person in the community where the university or college is located while receiving technical training.
->
->**1(7)** Except as permitted under subsection (4), all outdoor gatherings on the property on which a private residence is located are prohibited.
->
->**1(8)** Persons must not occupy a tent or trailer at a campsite or a cottage or vacation home together unless they normally reside at the same private residence.
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 <a name="covid"></a>
 ## COVID Symptoms & Testing
@@ -579,49 +626,6 @@ Failure to self-isolate in accordance with public health advice is a violation o
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
-<a name="reopening"></a>
-## Re-opening Plan
-
-_Last updated: July 7, 2021_
-
-**UPDATE:** The province has announced that they plan to wait at least 1 full incubation period (14 days) between opening phases, and noted on July 7th that an announcement will be made next week, so we've adjusted our re-opening estimate to July 13-17, 2021.
-
-Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
-
-Phase 1 | Phase 2 | Phase 3
---- | --- | ---
-Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
-<small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
-<small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ✅ Reached goal on July 6! _Estimated re-opening: July 13-17, 2021_ | Status: ⏱ _Estimated: July 31, 2021_
-
-<a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
-<a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
-<a href="https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23" class="button">PHASE 1 Official Announcement</a>
-
-### PHASE 1 ✅⚪️⚪️ 
-
-_Begins Saturday, June 26, 2021_
-
-- Outdoor gathering sizes on private property to double to 10 persons, and to allow outdoor visitors to briefly access homes for essential activities (e.g. to use a washroom). No other changes to indoor visitors this time.
-- Public outdoor gathering sizes to increase to 25 persons.
-- Retail businesses to open with increased capacity at 25% to a limit of 250 persons, with no restrictions on the number of  household members permitted to shop together.
-- Personal service businesses (hair and nail salons, estheticians, barbers, etc.) to reopen at 50% capacity, on an appointment basis only.
-- Restaurants and bars to reopen at 25% capacity for indoors and 50% for outdoor dining. For indoor dining, patrons seated together must be from the same household unless all patrons at the table are fully immunized. Patrons who are fully immunized and from different households may dine together. For outdoor dining, tables are limited to a maximum of 8 patrons and can be from different households regardless of immunization status.
-- Indoor faith-based services and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume at 25% capacity to a limit of 25 persons with masks worn at all times.
-- Outdoor faith-based and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume for up to 50 persons, provided distance can be maintained between households. Drive-in services continue to be permitted.
-- Outdoor weddings and funerals may take place with up to 25 participants, in addition to photographer and officiants. Indoor weddings and funerals remain limited to 10 persons.
-- Indoor dance, music, theatre and other organized sports and recreation activities may reopen at 25% capacity to a limit of 5 persons, with no tournaments allowed.
-- Outdoor dance, music and theatre classes and other organized recreation activities may reopen for groups up to 25 people, with no tournaments allowed.
-- Swimming and wading pools, both indoor and outdoor, may reopen at 25% capacity.
-- Gyms and fitness facilities may reopen for individual and group fitness classes at 25% capacity with three metres distance maintained between patrons.
-- Summer day camps may reopen to a maximum of 20 participants in groups.
-
-For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
-
-<a href="#restrictions" class="button">View Current Restrictions</a>
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 <a name="variants"></a>
 ## Variants of Concern
