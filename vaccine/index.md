@@ -45,6 +45,7 @@ Location | Address | Date | Time | Info
 **The Pas** | **Royal Canadian Legion** (4 Veteran's Way) | **July 7th** | **11:00AM - 6:00PM** | 1st & 2nd doses for everyone 12+ 
 **Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | **11:00AM - 6:00PM** |1st & 2nd doses for everyone 12+
 **Winnipeg** | **West Central Women's Resource Centre** (640 Ellice Ave) | **July 8th** | **9:30AM - 3:30PM** | Moderna vaccine available (must be 18+)
+**Winnipeg** | **MERC** (430 Langside) | **July 8th** | **10:00AM - 3:00PM** | Moderna vaccine (18+) <br/> Islamic & Indigenous supports <br/> No ID needed <br/> Childcare & Entertainment <br/> BBQ (Halal & Vegan options), bike repair pop-up & more!
 **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | Moderna doses available (18+) <br/> 50 Pfizer doses available for **youth only** (12-17)
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 8th** | Opens at **11:30AM** | 50 Pfizer doses available for **youth only** (12-17). <br/>  Moderna doses available for 18+.  <br/> First doses priortized
 **Whitemouth** | **Whitemouth Community Hall** (61 1st St) | **July 8th** | **10:30AM - 6:30PM** | Moderna doses available for 1st & 2nd doses
