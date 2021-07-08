@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: July 7, 2021_
+_Last updated: July 8, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
