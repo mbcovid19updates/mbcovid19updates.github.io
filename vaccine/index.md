@@ -63,8 +63,8 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 350/day
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-11: 7:30am - 10:30pm (July 8 hours are 9:00am - 4:00pm)| 50/day
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | ~40/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-11: 7:30am - 10:30pm<br />July 11-16: 9:00am - 8:00pm | 50/day
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm<br />July 14, 16: 9:00am - 8:00pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 8-9: 1:00pm - 8:00pm<br/>July 10: 11:00am - 6:00pm<br />July 14, 16: 1:00pm - 8:00pm | N/A
 **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />July 8-9: 1:00pm - 8:00pm<br />July 10: 11:00am - 6:00pm<br />July 13-16: 1:00pm - 8:00pm | N/A
 **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 11-14: 11:00am - 6:00pm | 75/day
