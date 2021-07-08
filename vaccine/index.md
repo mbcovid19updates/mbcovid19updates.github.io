@@ -77,13 +77,11 @@ If you have any updated info for these locations, please direct message us via I
 
 ## Appointments
 
-can you email us her health card front and back, phone number, first dose date and type if received already
-
 The following are clinics offering scheduled appointments.  You must book at these locations in advance. (Availability may vary).
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | 1st & 2nd doses for everyone 12+. Call [1-844-626-8222](tel:18446268222) to book
+**Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | 1st & 2nd doses for everyone 12+. Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 7th, 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
 **Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 7th, 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **ImagineAbility** (500 Madison St) | **July 8th** | Moderna doses available for drive-thru vaccinations hosted by ImagineAbility.  Good oppurtunity to those needing a quieter vaccination experience.   Walk-ins available 9am-3pm OR [Register online](https://www.signupgenius.com/go/10c0f4daeac22a3f5c70-covid) or call 1-204-956-9714 to book.
