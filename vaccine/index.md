@@ -54,7 +54,7 @@ Location | Address | Date | Time | Info
 
 ### Super Site Walk-ins
 
-**July 14th** Every super-site in the province will offer walk-ins all day for Moderna (18+) and Pfizer (12-17)!
+**On _July 14th_ (only), every super site in the province will offer walk-ins all day for Moderna (18+) and Pfizer (12-17)!**
 
 All supersites, except RBC Convention Centre, are now offering **10% walk-ins for Moderna**. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available. **PLEASE NOTE THAT SOME OF THESE DAYS/TIMES ARE CROWDSOURCED.**
 
