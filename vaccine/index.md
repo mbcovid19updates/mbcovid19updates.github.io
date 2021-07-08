@@ -62,7 +62,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 350/day
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm<br />July 13-16: 11:00am - 6:00pm | 350/day
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-11: 7:30am - 10:30pm<br />July 11-16: 9:00am - 8:00pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm<br />July 14, 16: 9:00am - 8:00pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 8-9: 1:00pm - 8:00pm<br/>July 10: 11:00am - 6:00pm<br />July 14, 16: 1:00pm - 8:00pm | N/A
@@ -70,7 +70,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 11-14: 11:00am - 6:00pm | 75/day
 **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 8, 13-15: 11:00am - 6:00pm | N/A
 **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 13-14: 11:00am - 6:00pm | N/A
-**Flin Flon** | N/A | ✅ July 8-9 11:00am - 6:00pm | N/A
+**Flin Flon** | [2 North Avenue](https://goo.gl/maps/3urmgaVMNokcheFL9) | ✅ July 8-9 11:00am - 6:00pm | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
 
