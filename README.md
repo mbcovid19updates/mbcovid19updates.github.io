@@ -267,25 +267,13 @@ Yes, it used to be 21 days for Pfizer, but in an effort to simplify / unify the 
 <a name="pfizer"></a>
 ### Where can I find Pfizer?
 
-_Last updated: June 28, 2021_
+_Last updated: July 8, 2021_
 
 **UPDATE 1**: All super sites are now booking Pfizer appointments for the end of July. Please remember that Pfizer and Moderna are considered interchangeable, so if you're age 18+, you can grab a Moderna appointment or walk-in as early as today!
 
-**UPDATE 2**: From Wednesday, June 30 to Sunday, July 4, the Leila super site in Winnipeg will be offering walk-in Pfizer doses for youth aged 12 to 17. Approximately 330 doses will be available daily. In anticipation of significant demand, individuals in line will be given a colour-coded ticket, which will identify a time slot later the same day when they will be able to get their vaccine. The Leila super site will begin giving youth vaccines at 9 am and the latest walk-in is expected to be scheduled at around 3:30pm daily.
-
 _Also, adults with an upcoming Pfizer appointment can transfer it to a child aged 12-17 and book a Moderna appointment instead. Call 1-844-626-8222 with the name of the youth and their MB health card number to transfer the Pfizer appointment to them._
 
-To be clear, Pfizer is arriving all the time, but it's for already booked appointments. There will be a slowdown beginning next week that will potentially result in a shortage for existing booked appointments (though this may possibly be offset by people cancelling and rebooking for earlier Moderna appointments). That slowdown will pick up again towards the end of July. My best guess is that with the exception of catching oddball cancellations, Pfizer appointments won't become available for another 3 weeks or so (around July 15+), and be scheduled for late July, early August.
-
-**EXTRA INFO/CONTEXT**
-
-For context, please keep in mind that appointments (almost all Pfizer) were booking out 5 weeks recently. The majority of these are dependent on the ongoing Pfizer supply. This means that while we have been receiving roughly 80-90K doses of Pfizer each week, they are designated for upcoming appointments that have already been booked. Now, consider that around 350K doses of Moderna have arrived recently within a 2-week span. This is massive and almost considered an unexpected bonus. Because of this, Manitoba has been able to very quickly open up more and more appointments daily, but the vast majority of them are for Moderna.
-
-With a growing number of people becoming eligible to book appointments, and a skewed ratio of Moderna vs Pfizer availability, it becomes more of a perception issue. Manitoba essentially has 2 options here: 1) Sit on the Moderna and continue to very slowly open up second dose eligibility as Pfizer comes in, or 2) Quickly open up eligibility to everyone, but most people will have to switch to Moderna or wait a long time for Pfizer appointments. But consider this... if you're wanting Pfizer, you would have been waiting even longer for your turn if the Moderna never arrived and if these Moderna appointments weren't made available.
-
-And finally, since the majority of people have received Pfizer for their first dose, it will be a bit of an education process and people coming to terms with switching, which will result in Pfizer doses being harder to find for new appointments over the next few weeks. But it's important to note, there will eventually be more Pfizer appointments available, and you will not be forced to switch to Moderna if you don't wish to.
-
-It's worth noting that Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
+To be clear, Pfizer is arriving all the time, but it's for already booked appointments. There will be a slowdown beginning next week that will potentially result in a shortage for existing booked appointments (though this may possibly be offset by people cancelling and rebooking for earlier Moderna appointments). That slowdown will pick up again towards the end of July. It's worth noting that Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -293,11 +281,11 @@ It's worth noting that Moderna and Pfizer are both mRNA vaccines that offer almo
 
 Appointments for first or second doses of vaccines can be booked at any super-site, pop-up clinic, or a doctor's office or pharmacy that is accepting appointments. Super-sites are by far the most efficient and easiest way to book an appointment.
 
-- To book a vaccine appointment at a super-site or pop-up clinic by phone, call 1-844-MAN-VACC (1-844-626-8222).
+- To book a vaccine appointment at a super-site or pop-up clinic by phone, call [1-844-626-8222](tel:18446268222) (1-844-MAN-VACC).
 - To book a vaccine appointment at a super-site or pop-up clinic online, [visit the booking website here](https://patient.petalmd.com/login?groupId=6032).
    - You'll need to create an account with your email address and your 9-digit personal health identification number (PHIN) on your Manitoba Health Card.
    - You can link more than one person to the same account, so that you can also book for family members and loved ones.
-   - If you don't have an email address or health card number, you'll need to call by phone instead: 1-844-626-8222 (1-844-MAN-VACC)
+   - If you don't have an email address or health card number, you'll need to call by phone instead: [1-844-626-8222](tel:18446268222) (1-844-MAN-VACC).
    - Daily hours of operation are from 6:00am to 8:00pm.
 - To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
 - You can also check out our new [Vaccine Locator](/vaccine) page.
@@ -341,7 +329,7 @@ Please check out our new [Vaccine Locator](/vaccine) page to see a curated list 
 
 _Last updated: June 18, 2021_
 
-Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa. Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
+Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa. Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna walk-ins and appointments are booking as early as today too.
 
 Here are some resources to learn more about this:
 
@@ -630,7 +618,7 @@ Failure to self-isolate in accordance with public health advice is a violation o
 <a name="variants"></a>
 ## Variants of Concern
 
-_Last updated: June 23, 2021_
+_Last updated: July 8, 2021_
 
 All viruses, including SARS-CoV-2, the virus that causes COVID-19, change over time. Most changes have little to no impact on the virus’ properties. However, some changes may affect the virus’s properties, such as how easily it spreads, the associated disease severity, or the performance of vaccines, therapeutic medicines, diagnostic tools, or other public health and social measures.
 
@@ -641,19 +629,21 @@ In Manitoba, we currently track the following Variants of Concern:
 WHO label | Lineage | Origin | Earliest Sample Date | Designation Date
 --- | --- | --- | --- | ---
 **Alpha** | B.1.1.7 | United Kingdom | September, 2020 | December 18, 2020
-**Beta** | B.1.351 | South Africa | May, 2020 | December 18, 2020
-**Gamma** | P.1 | Brazil | November, 2020 | January 11, 2021
-**Delta** | B.1.617.2 | India | October, 2020 | May 11, 2021
+**Beta** | B.1.351<br />B.1.351.2<br />B.1.351.3 | South Africa | May, 2020 | December 18, 2020
+**Gamma** | P.1<br />P.1.1<br />P.1.2 | Brazil | November, 2020 | January 11, 2021
+**Delta** | B.1.617.2<br />B.1.617.2.1<br />B.1.617.2.2 | India | October, 2020 | May 11, 2021
 
 There are also several other **variants of <u>interest</u>** that are being monitored right now, and may eventually become **variants of <u>concern</u>**.
 
-Currently, the **Alpha** (B.1.1.7 / UK) variant is the dominant strain, suspected to account for roughly 60% of all new COVID cases in Manitoba (_as of June 10, 2021_). Manitoba does not currently have the capacity to sequence the exact strain of every last COVID case, so in many cases (over half), they are labeled as "unspecified", but assumed to be the **Alpha** (B.1.1.7 / UK) variant. Based on the evidence so far, researchers believe the **Alpha** variant is much more contagious and more deadlier than other variants, resulting in more younger people ending up in the hospital and an increase in ICU hospitalizations.
+Currently, the **Alpha** (B.1.1.7 / UK) variant is the dominant strain, suspected to account for roughly 60% of all new COVID cases in Manitoba (_as of July 8, 2021_). Manitoba does not currently have the capacity to sequence the exact strain of every last COVID case, so in many cases, they are labeled as "unspecified", but assumed to be the **Alpha** (B.1.1.7 / UK) variant. Based on the evidence so far, researchers believe the **Alpha** variant is much more contagious and more deadlier than other variants, resulting in more younger people ending up in the hospital and an increase in ICU hospitalizations.
 
-Recently, the **Delta** (B.1.617.2 / India) variant has been discovered in Manitoba, and is reported to be much more contagious than the **Alpha** variant, and more likely to evade current vaccines. This variant is expected to eventually become the new dominant strain in time.
+The **Delta** (B.1.617.2 / India) variant has been discovered in Manitoba in June, and is reported to be much more contagious than the **Alpha** variant, and more likely to evade current vaccines, which is why the second dose of vaccine is very important. This variant is expected to eventually become the new dominant strain in time.
+
+There are reports about a **Lambda** (C.37 / Peru) variant emerging, but it's important to note that the WHO currrently considers this a **variants of <u>interest</u>** (not "**concern**"). Investigations are ongoing to determine if it poses a significant threat.
 
 ### Will the Vaccine protect against Variants?
 
-All approved vaccines in Canada are proven to be effective against the variants of concern, but studies suggest that 1 dose may not offer robust enough protection against the new **Delta** variant. This is why many provinces, including Manitoba, have quickly switched back to prioritizing giving out second doses of the vaccine.
+All approved vaccines in Canada are proven to be effective against the variants of concern, but studies suggest that 1 dose may not offer robust enough protection against the new **Delta** variant. This is why it's very important to receive your second dose of vaccine as soon as possible.
 
 ### Will Public Health notify me if I have a Variant of Concern?
 
