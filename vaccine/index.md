@@ -39,10 +39,7 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
-**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6th - 8th** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca).
-**Dauphin** | **Ukrainian Orthodox Hall** (304 Whitmore Ave) | **July 7th** | **11:30AM - 4:30PM** | 50 Pfizer doses available for **youth only** (12-17).
-**Winnipeg** | **ACOMI (African Communities of Manitoba Inc.) Resource Centre** (101-421 Kennedy St) | Starting **July 7th** | Opens at **9:00AM** | Moderna doses available for community members. First and second doses welcome.
-**The Pas** | **Royal Canadian Legion** (4 Veteran's Way) | **July 7th** | **11:00AM - 6:00PM** | 1st & 2nd doses for everyone 12+ 
+**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6th - 8th** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca). 
 **Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | **11:00AM - 6:00PM** |1st & 2nd doses for everyone 12+
 **Winnipeg** | **West Central Women's Resource Centre** (640 Ellice Ave) | **July 8th** | **9:30AM - 3:30PM** | Moderna vaccine available (must be 18+)
 **Winnipeg** | **MERC** (430 Langside) | **July 8th** | **10:00AM - 3:00PM** | Moderna vaccine (18+) <br/> Islamic & Indigenous supports <br/> No ID needed <br/> Childcare & Entertainment <br/> BBQ (Halal & Vegan options), bike repair pop-up & more!
@@ -57,6 +54,8 @@ Location | Address | Date | Time | Info
 
 ### Super Site Walk-ins
 
+**July 14th** Every super-site in the province will offer walk-ins all day for Moderna (18+) and Pfizer (12-17)!
+
 All supersites, except RBC Convention Centre, are now offering **10% walk-ins for Moderna**. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible. Only some sites have walk-in days/times listed... we'll update the list as more data becomes available. **PLEASE NOTE THAT SOME OF THESE DAYS/TIMES ARE CROWDSOURCED.**
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
@@ -64,7 +63,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 1000+/day (high availability, fast walk-in!)
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 350/day
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | 50/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 6-11: 7:30am - 10:30pm (July 8 hours are 9:00am - 4:00pm)| 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY<br />July 6-10: 7:30am - 10:30pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 6: 9:00am - 4:00pm<br />July 7-9: 1:00pm - 8:00pm<br />July 10: 11:00am - 6:00pm | N/A
 **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ N/A | N/A
@@ -85,9 +84,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**The Pas** | **Royal Canadian Legion** (4 Veteran's Way) | **July 7th** | 1st & 2nd doses for everyone 12+. Call [1-844-626-8222](tel:18446268222) to book
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 7th** | Moderna doses available (18+). Call [1-844-626-8222](tel:18446268222) to book
-**Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | 1st & 2nd doses for everyone 12+. Call [1-844-626-8222](tel:18446268222) to book
+Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | 1st & 2nd doses for everyone 12+. Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 7th, 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
 **Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 7th, 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Winnipeg** | **ImagineAbility** (500 Madison St) | **July 8th** | Moderna doses available for drive-thru vaccinations hosted by ImagineAbility.  Good oppurtunity to those needing a quieter vaccination experience.   Walk-ins available 9am-3pm OR [Register online](https://www.signupgenius.com/go/10c0f4daeac22a3f5c70-covid) or call 1-204-956-9714 to book.
