@@ -39,16 +39,8 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
-**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 6th - 8th** | **9:00 AM - 6:00 PM** | Moderna vaccine (must be 18+)<br />Anyone wanting an appointment time to make it a smoother process can email their health card, date and type of first dose as well as phone number to [info@espmc.ca](mailto:info@espmc.ca). 
-**Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | **11:00AM - 6:00PM** |1st & 2nd doses for everyone 12+
-**Winnipeg** | **West Central Women's Resource Centre** (640 Ellice Ave) | **July 8th** | **9:30AM - 3:30PM** | Moderna vaccine available (must be 18+)
-**Winnipeg** | **MERC** (430 Langside) | **July 8th** | **10:00AM - 3:00PM** | Moderna vaccine (18+) <br/> Islamic & Indigenous supports <br/> No ID needed <br/> Childcare & Entertainment <br/> BBQ (Halal & Vegan options), bike repair pop-up & more!
-**Winnipeg** | **ImagineAbility** (500 Madison St) | **July 8th** | **9:00AM - 3:00PM** | Moderna doses available for drive-thru vaccinations hosted by ImagineAbility.  Good oppurtunity to those needing a quieter vaccination experience.  Walk-ins available OR [Register online](https://www.signupgenius.com/go/10c0f4daeac22a3f5c70-covid) or call 1-204-956-9714 to book an appointment.
-**Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | Moderna doses available (18+) <br/> 50 Pfizer doses available for **youth only** (12-17)
-**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 8th** | Opens at **11:30AM** | 50 Pfizer doses available for **youth only** (12-17). <br/>  Moderna doses available for 18+.  <br/> First doses priortized
-**Whitemouth** | **Whitemouth Community Hall** (61 1st St) | **July 8th** | **10:30AM - 6:30PM** | Moderna doses available for 1st & 2nd doses
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** |  **12:30PM - 3:45 PM** | Moderna vaccine available  (must be 18+)
-**Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30 PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
+**Winnipeg** | **Shopper's Drugmart-Osborne Village** (43 Osborne St) | **July 9th** | opens at **9 AM** | 90 Pfizer doses for youth only (12-17)
+**Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 
 
@@ -81,15 +73,11 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Thompson** | **Thompson Regional Community Centre** (274 Thompson Dr S) | **July 7th & 8th** | 1st & 2nd doses for everyone 12+. Call [1-844-626-8222](tel:18446268222) to book
-**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 7th, 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
-**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 7th, 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Winnipeg** | **ImagineAbility** (500 Madison St) | **July 8th** | Moderna doses available for drive-thru vaccinations hosted by ImagineAbility.  Good oppurtunity to those needing a quieter vaccination experience.   Walk-ins available 9am-3pm OR [Register online](https://www.signupgenius.com/go/10c0f4daeac22a3f5c70-covid) or call 1-204-956-9714 to book.
-**East St. Paul** | **East St Paul Medical Center** (2665 Henderson Hwy) | **July 8th** | **PFIZER for YOUTH age 12-17**<br />To book an appointment, email [info@espmc.ca](mailto:info@espmc.ca) with your Manitoba health card, phone number, and information about first dose type and date (if going for second).
-**Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 8th** | Call [1-844-626-8222](tel:18446268222) to book. Moderna doses available (18+)
-**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 8th & 22nd** | Call [1-844-626-8222](tel:18446268222) to book. 
 **Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
+**Winnipeg** | **University of Manitoba Fort Garry Campus** | **July 9th & 16th** | University Health Services is offering Moderna vaccines.  Call 204-474-8411 (note, due to phone line capacity, you may be disconnected automatically if maximum capacity has been reached.  Please continue to call until you get through)
 **Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
+**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
+**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Pine Falls** | **Pine Falls Legion** (7 Tamarack St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Stonewall** | **Stonewall Legion** (459 Main St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Lundar** | **Lundar Legion** (50 3 Ave) | **July 14th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
@@ -98,7 +86,7 @@ Location | Address | Date | Info
 **St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Eriksdale** | **Eriksdale Recreation Centre** (2 1 Ave) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-
+**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book. 
 
 
 ## Urban Indigenous Clinics
