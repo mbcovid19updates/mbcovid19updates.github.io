@@ -39,9 +39,8 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
-**Winnipeg** | **Shopper's Drugmart-Osborne Village** (43 Osborne St) | **July 9th** | opens at **9 AM** | 90 Pfizer doses for youth only (12-17)
-**Swan River** | **Veteran's Hall** (119 6th Ave N) | **July 9th** | **11:30AM - 1:30PM:** 1st doses <br/> **1:30PM - 4:30PM** 1st & 2nd doses | 125 Pfizer doses/day **For youth only (12-17)**
-**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
+**Winnipegosis** | **Winnipegosis New Horizons Senior Centre** (210 1st St) | **July 14th** | **10:00AM - 3:00PM** | 50 Pfizer doses for youth only (12-17), 150 Moderna doses (18+).  1st & 2nd doses welcome, 1st doses prioritized
+**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 
 
 ### Super Site Walk-ins
@@ -73,21 +72,29 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Winnipeg** | **South Winnipeg Community Centre- Waverley** (1885 Chancellor Dr.) | **July 9th** | Appointments available for Moderna vaccine between 9:15AM - 12:30 PM.  Email [WCCLI.MB@gmail.com](mailto:WCCLI.MB@gmail.com) to register
-**Winnipeg** | **University of Manitoba Fort Garry Campus** | **July 9th & 16th** | University Health Services is offering Moderna vaccines.  Call 204-474-8411 (note, due to phone line capacity, you may be disconnected automatically if maximum capacity has been reached.  Please continue to call until you get through)
-**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 9th, 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
-**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
-**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Pine Falls** | **Pine Falls Legion** (7 Tamarack St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Stonewall** | **Stonewall Legion** (459 Main St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Lundar** | **Lundar Legion** (50 3 Ave) | **July 14th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Lac du Bonnet** | **Lac du Bonnet Community Centre** (25 McArthur Ave) | **July 14th & 23rd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Beausejour** | **Brokenhead River Community Hall** (32o Veteran's Ln) | **July 16th & 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Eriksdale** | **Eriksdale Recreation Centre** (2 1 Ave) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book. 
 
+**Swan River** | **Veteran's Hall** (119 6th Ave) | **July 13th & 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 13th & 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Lundar** | **Lundar Legion** (50 3rd Ave) | **July 14th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 15th, 16th, 22nd & 23rd** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:10AM - 6:30PM)
+**Winnipeg** | **University of Manitoba Fort Garry Campus** | **July 16th** | University Health Services is offering Moderna vaccines.  Call 204-474-8411 (note, due to phone line capacity, you may be disconnected automatically if maximum capacity has been reached.  Please continue to call until you get through)
+**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
+**Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
+**Pine Falls** | **Pine Falls Legion** (7 Tamarack St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Stonewall** | **Stonewall Legion** (459 Main St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Lundar** | **Lundar Legion** (50 3 Ave) | **July 14th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
+**Lac du Bonnet** | **Lac du Bonnet Community Centre** (25 McArthur Ave) | **July 14th & 23rd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM).
+**Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 15th, 16th, 22nd & 23rd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Beausejour** | **Brokenhead River Community Hall** (32o Veteran's Ln) | **July 16th & 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM).
+**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
+**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave) | **July 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Morris** | **Morris Multiplex** (380 Stampede Grounds) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
+**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Eriksdale** | **Eriksdale Recreation Centre** (2 1 Ave) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
+**Teulon** | **Teulon Anglican Parish Hall** (60 2nd St SE) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
 
 ## Urban Indigenous Clinics
 
