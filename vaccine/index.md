@@ -72,7 +72,6 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-
 **Swan River** | **Veteran's Hall** (119 6th Ave) | **July 13th & 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 13th & 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Lundar** | **Lundar Legion** (50 3rd Ave) | **July 14th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
