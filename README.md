@@ -58,9 +58,7 @@ _Last updated: July 12, 2021_
 
 _Last updated: July 14, 2021_
 
-**UPDATE 2:** Dr. Roussin mentioned on Monday's (June 12) press conference that an announcement will be made later in the week. Our best guess is that it will likely be announced Wednesday, and begin Saturday, June 17.
-
-**UPDATE:** The province has announced that they plan to wait at least 1 full incubation period (14 days) between opening phases, and [noted on July 7th](https://news.gov.mb.ca/news/index.html?item=51657&posted=2021-07-07) that an announcement will be made next week, so we've adjusted our re-opening estimate to July 13-17, 2021.
+**UPDATE (June 12):** Dr. Roussin mentioned on Monday's (June 12) press conference that an announcement will be made later in the week. Our best guess is that it will likely be announced Wednesday, and begin Saturday, July 17.
 
 Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
 
