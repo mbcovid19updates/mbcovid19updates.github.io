@@ -56,7 +56,7 @@ _Last updated: July 12, 2021_
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: July 14, 2021_
+_Last updated: July 12, 2021_
 
 **UPDATE (June 12):** Dr. Roussin mentioned on Monday's (June 12) press conference that an announcement will be made later in the week. Our best guess is that it will likely be announced Wednesday, and begin Saturday, July 17.
 
