@@ -39,7 +39,8 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
-**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12-16** | **10:00AM - 5:00PM**  | Walk-ins available all week, or for an appointment [book online](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
+**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12th-16th** | **10:00AM - 5:00PM**  | Walk-ins available all week, or for an appointment [book online](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
+**Manitoba-wide** | **All Super Sites** | **July 14th** | **Times Vary**  | Moderna (18+) and Pfizer (age 12-17) Walk-ins available at ALL super sites across Manitoba. See [Super Site Walk-ins](#super-site-walk-ins) list further below for more details.
 **Winnipegosis** | **Winnipegosis New Horizons Senior Centre** (210 1st St) | **July 14th** | **10:00AM - 3:00PM** | 50 Pfizer doses for youth only (12-17), 150 Moderna doses (18+).  1st & 2nd doses welcome, 1st doses prioritized
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 
