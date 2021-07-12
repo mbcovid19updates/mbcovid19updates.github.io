@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: July 8, 2021_
+_Last updated: July 12, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -56,7 +56,9 @@ _Last updated: July 8, 2021_
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: July 7, 2021_
+_Last updated: July 14, 2021_
+
+**UPDATE 2:** Dr. Roussin mentioned on Monday's (June 12) press conference that an announcement will be made later in the week. Our best guess is that it will likely be announced Wednesday, and begin Saturday, June 17.
 
 **UPDATE:** The province has announced that they plan to wait at least 1 full incubation period (14 days) between opening phases, and [noted on July 7th](https://news.gov.mb.ca/news/index.html?item=51657&posted=2021-07-07) that an announcement will be made next week, so we've adjusted our re-opening estimate to July 13-17, 2021.
 
@@ -67,7 +69,7 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ✅ Reached goal on July 6!<br />_Estimated re-opening: July 13-17, 2021_ | Status: ⏱ _Estimated reach: August 1-10, 2021_
+Status: ✅ June 26, 2021 | Status: ✅ Reached goal on July 6!<br />_Estimated re-opening: July 17, 2021_ | Status: ⏱ _Estimated reach: August 10, 2021_
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
