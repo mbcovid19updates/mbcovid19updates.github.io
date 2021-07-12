@@ -58,8 +58,8 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 13-16: 11:00am - 6:00pm | 350/day
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 11-16: 9:00am - 8:00pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 14, 16: 9:00am - 8:00pm | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 14, 16: 1:00pm - 8:00pm | N/A
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />July 13-16: 1:00pm - 8:00pm | N/A
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ July 14, 16: 1:00pm - 8:00pm | N/A
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ July 13-16: 1:00pm - 8:00pm | N/A
 **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 11-14: 11:00am - 6:00pm | 75/day
 **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 13-15: 11:00am - 6:00pm | N/A
 **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 13-14: 11:00am - 6:00pm | N/A
