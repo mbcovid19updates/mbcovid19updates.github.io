@@ -669,7 +669,7 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: July 5, 2021_
+_Last updated: July 12, 2021_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
@@ -703,7 +703,7 @@ Please keep all of this in mind as we track the progress of the [Re-opening Plan
 
 We include fine print at the bottom of the dashboard to explain calculations, etc. It's likely too difficult to read in some cases, so here's a copy of it:
 
->All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 10% of them are 1st dose. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>Recalculated every Sunday. <sup>9</sup>Based on the estimate provided in the weekly official Vaccine Technical Briefing. <sup>10</sup>Divided by 7 days. <sup>11</sup>Assumes 10% 1st doses and 90% 2nd doses. Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
+>All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 10% of them are 1st dose. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>96% of all hospitalizations in June 2021 were people with no vaccine at all, or less than 14 days from just 1 dose (where full protection can take up to 14 days). <sup>9</sup>Based on the estimate provided in the weekly official Vaccine Technical Briefing. <sup>10</sup>Divided by 7 days. <sup>11</sup>Assumes 10% 1st doses and 90% 2nd doses. Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
