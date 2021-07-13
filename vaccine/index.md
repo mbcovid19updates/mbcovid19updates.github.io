@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: July 12, 2021_
+_Last updated: July 13, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -74,13 +74,13 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12-16** | Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
+**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12-16** | Moderna (age 18+) & Pfizer (age 12-17) available. Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
 **Swan River** | **Veteran's Hall** (119 6th Ave) | **July 13th & 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 13th & 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Lundar** | **Lundar Legion** (50 3rd Ave) | **July 14th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 15th, 16th, 22nd & 23rd** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:10AM - 6:30PM)
 **Winnipeg** | **University of Manitoba Fort Garry Campus** | **July 16th** | University Health Services is offering Moderna vaccines.  Call 204-474-8411 (note, due to phone line capacity, you may be disconnected automatically if maximum capacity has been reached.  Please continue to call until you get through)
-**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 12th & 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
+**Winnipeg** | **LifeSmart Pharmacy Osbourne** (2-230 Osborne Street) | **July 16th**| Offering Moderna appointments. [Book appointment](https://patient.medeohealth.com/booking/osborne-family-medical)
 **Winnipeg** | **Northway Pharmacy Seven Oaks** (632 Leila Ave) | **July 12-13** | July 12-13 Moderna (age 18+) 10:00am - 4:00pm<br />Call [204-560-0727](tel:12045600727) to book an appointment. We are closed on July 1 and we will be accepting calls for appointments on July 2.
 **Pine Falls** | **Pine Falls Legion** (7 Tamarack St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Stonewall** | **Stonewall Legion** (459 Main St) | **July 13th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
