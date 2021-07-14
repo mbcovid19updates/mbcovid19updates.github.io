@@ -54,8 +54,8 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
-**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | <!--❌ **No walk-in availability at this time**-->✅ July 14: 9:00am - 8:00pm | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
+**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | <!--❌ **No walk-in availability at this time**-->✅ July 14: 9:00am - 8:00pm | **🚨 PFIZER AVAILABLE JULY 14 FOR ANY AGE, NO LINE-UPS!**
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!) **🚨 PFIZER AVAILABLE JULY 14 FOR ANY AGE, NO LINE-UPS!**
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 13-16: 11:00am - 6:00pm | ~350/day<br />July 14: 1540 Pfizer / 255 Moderna
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 11-16: 9:00am - 8:00pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 14, 16: 9:00am - 8:00pm | ~40/day
