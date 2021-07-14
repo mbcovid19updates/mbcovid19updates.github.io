@@ -44,7 +44,7 @@ Location | Address | Date | Time | Info
 **Manitoba-wide** | **All Super Sites** | **July 14th** | **Times Vary**  | Moderna (18+) and Pfizer (age 12+ including adults) Walk-ins available at ALL super sites across Manitoba. See [Super Site Walk-ins](#super-site-walk-ins) list further below for more details.
 **Winnipeg** | **Manitoba Clinic** (790 Sherbrook St) | **July 14th** | **5:00PM - 7:00PM** | Pfizer for 12-17
 **Asessippi Provincial Park** | Near Concession Stand | **July 16th** | **1:00PM - 3:00PM** | Pfizer for 12-17, Moderna for 18+ (Don't forget your consent form and health card)
-**Duck Mountain Provinical Park** | **Childs Lake**-near lodge & day use beach area | **Noon - 2:00PM** | Pfizer for 12-17, Moderna for 18+ (Don't forget your consent form and health card)
+**Duck Mountain Provinical Park** | **Childs Lake**-near lodge & day use beach area |**July 16th**| **Noon - 2:00PM** | Pfizer for 12-17, Moderna for 18+ (Don't forget your consent form and health card)
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 
