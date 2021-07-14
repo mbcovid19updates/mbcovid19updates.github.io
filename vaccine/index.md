@@ -41,21 +41,21 @@ Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12th-16th** | **10:00AM - 5:00PM**  | Walk-ins available all week, or for an appointment [book online](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
 **Flin Flon** | **Flin Flon Community Hall** | **July 15-16, 22-23** | **11:00AM - 6:00PM**  | Pfizer and Moderna available.
-**Manitoba-wide** | **All Super Sites** | **July 14th** | **Times Vary**  | Moderna (18+) and Pfizer (age 12-17) Walk-ins available at ALL super sites across Manitoba. See [Super Site Walk-ins](#super-site-walk-ins) list further below for more details.
+**Manitoba-wide** | **All Super Sites** | **July 14th** | **Times Vary**  | Moderna (18+) and Pfizer (age 12+ including adults) Walk-ins available at ALL super sites across Manitoba. See [Super Site Walk-ins](#super-site-walk-ins) list further below for more details.
 **Winnipegosis** | **Winnipegosis New Horizons Senior Centre** (210 1st St) | **July 14th** | **10:00AM - 3:00PM** | 50 Pfizer doses for youth only (12-17), 150 Moderna doses (18+).  1st & 2nd doses welcome, 1st doses prioritized
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 
 
 ### Super Site Walk-ins
 
-**On _July 14th_ (only), every super site in the province will offer walk-ins all day for Moderna (18+) and Pfizer (12-17)!**
+**On _July 14th_ (only), every super site in the province will offer walk-ins all day for Moderna (18+) and Pfizer (12+ includong adults)!**
 
 All supersites, except RBC Convention Centre, are now offering **10% walk-ins for Moderna**. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
-**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | <!--❌ **No walk-in availability at this time**-->✅ July 14: 9:00am - 8:00pm | **🚨 PFIZER AVAILABLE JULY 14 FOR ANY AGE, NO LINE-UPS!**
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!) **🚨 PFIZER AVAILABLE JULY 14 FOR ANY AGE, NO LINE-UPS!**
+**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | <!--❌ **No walk-in availability at this time**-->✅ July 14: 9:00am - 8:00pm | N/A
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 13-16: 11:00am - 6:00pm | ~350/day<br />July 14: 1540 Pfizer / 255 Moderna
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 11-16: 9:00am - 8:00pm | 50/day
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 14, 16: 9:00am - 8:00pm | ~40/day
