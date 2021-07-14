@@ -71,7 +71,7 @@ Status: ✅ June 26, 2021 | Status: ✅ Re-opening: July 17, 2021 | Status: ⏱ 
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51739&posted=2021-07-14" class="button">PHASE 2 Official Announcement</a>
 
-### PHASE 1 ✅✅⚪️ 
+### PHASE 2 ✅✅⚪️ 
 
 _Begins Saturday, July 17, 2021_
 
