@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: July 12, 2021_
+_Last updated: July 14, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -67,29 +67,34 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br />**July 1, 2021** | August Long<br />**August 2, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ✅ Reached goal on July 6!<br />_Estimated re-opening: July 17, 2021_ | Status: ⏱ _Estimated reach: August 10, 2021_
+Status: ✅ June 26, 2021 | Status: ✅ Re-opening: July 17, 2021 | Status: ⏱ _Estimated reach: August 10, 2021_
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
-<a href="https://news.gov.mb.ca/news/index.html?item=51485&posted=2021-06-23" class="button">PHASE 1 Official Announcement</a>
+<a href="https://news.gov.mb.ca/news/index.html?item=51739&posted=2021-07-14" class="button">PHASE 2 Official Announcement</a>
 
-### PHASE 1 ✅⚪️⚪️ 
+### PHASE 1 ✅✅⚪️ 
 
-_Begins Saturday, June 26, 2021_
+_Begins Saturday, July 17, 2021_
 
-- Outdoor gathering sizes on private property to double to 10 persons, and to allow outdoor visitors to briefly access homes for essential activities (e.g. to use a washroom). No other changes to indoor visitors this time.
-- Public outdoor gathering sizes to increase to 25 persons.
-- Retail businesses to open with increased capacity at 25% to a limit of 250 persons, with no restrictions on the number of  household members permitted to shop together.
-- Personal service businesses (hair and nail salons, estheticians, barbers, etc.) to reopen at 50% capacity, on an appointment basis only.
-- Restaurants and bars to reopen at 25% capacity for indoors and 50% for outdoor dining. For indoor dining, patrons seated together must be from the same household unless all patrons at the table are fully immunized. Patrons who are fully immunized and from different households may dine together. For outdoor dining, tables are limited to a maximum of 8 patrons and can be from different households regardless of immunization status.
-- Indoor faith-based services and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume at 25% capacity to a limit of 25 persons with masks worn at all times.
-- Outdoor faith-based and organized community gatherings (e.g. pow wows, sun dance ceremonies) to resume for up to 50 persons, provided distance can be maintained between households. Drive-in services continue to be permitted.
-- Outdoor weddings and funerals may take place with up to 25 participants, in addition to photographer and officiants. Indoor weddings and funerals remain limited to 10 persons.
-- Indoor dance, music, theatre and other organized sports and recreation activities may reopen at 25% capacity to a limit of 5 persons, with no tournaments allowed.
-- Outdoor dance, music and theatre classes and other organized recreation activities may reopen for groups up to 25 people, with no tournaments allowed.
-- Swimming and wading pools, both indoor and outdoor, may reopen at 25% capacity.
-- Gyms and fitness facilities may reopen for individual and group fitness classes at 25% capacity with three metres distance maintained between patrons.
-- Summer day camps may reopen to a maximum of 20 participants in groups.
+- Private gatherings at residences: indoor up to 5 people (plus residing household), outdoor up to 25 people.
+- Public gatherings: indoor up to 25 people, outdoor up to 150 people.
+- Retail businesses increase to 50% capacity or 500 people, whichever is lower.
+- Restaurants, licensed premises and food court capacities expand to 50% capacity:
+   - Outdoor maximum table size 8 people; Indoor dining to members of same household only OR multiple households if everyone age 12+ are fully immunized (unvaccinated children under 12 may dine with fully vaccinated members of their household in this case).
+   - Opening hours extend to midnight and the requirement to purchase food when ordering alcohol no longer applies.
+   - VLTs may operate with all other restaurant/bar rules applying (two-metre distance, only households or fully vaccinated people seated together);
+- Personal services (hair, nails, massage, etc) continue at 50% capacity but with appointments no longer necessary.
+- Dance, theatre, and music school capacities increase to 50% capacity to a maximum of 25 people per group.
+- Indoor sporting facilities may host groups up to a maximum of 25 people, with interaction between groups and tournaments are not permitted.
+- Day camp capacity increases to groups of 25, joint activities between groups and overnight camps are prohibited.
+- Outdoor recreation including games and practices may take place to maximum group size of 50 people; spectators are permitted and do not count towards this capacity limit; tournaments are not permitted.
+- Gyms and fitness centres expand to 50% capacity; masks and distancing of 3 metres are still required.
+- Outdoor weddings and funerals may include up to 150 participants in addition to photographers and officiants; indoor weddings or funerals increase to 25 people in addition to photographers and officiants.
+- Libraries may open to 50% capacity to a maximum of 150 people, whichever is lower.
+- Faith-based and cultural gatherings expand to 50% capacity or 150 people indoors, whichever is lower. If the facility design allows, cohorts can be used in different spaces. Outdoor allows up to 150 people and no limits for drive-in services.
+- Movie theatres, bingo halls, VLT lounges and casinos, and museums and galleries may now reopen for fully immunized people (age 12+) only, to a maximum capacity of 50%.
+- Large-scale, outdoor professional sports or performing arts events may operate with capacities up to 100% after developing an approved event plan in consultation with public health.
 
 For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
 
