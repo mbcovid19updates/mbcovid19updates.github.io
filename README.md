@@ -56,7 +56,7 @@ _Last updated: July 14, 2021_
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: July 12, 2021_
+_Last updated: July 14, 2021_
 
 Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
 
