@@ -58,8 +58,6 @@ _Last updated: July 14, 2021_
 
 _Last updated: July 12, 2021_
 
-**UPDATE (June 12):** Dr. Roussin mentioned on Monday's (June 12) press conference that an announcement will be made later in the week. Our best guess is that it will likely be announced Wednesday, and begin Saturday, July 17.
-
 Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
 
 Phase 1 | Phase 2 | Phase 3
