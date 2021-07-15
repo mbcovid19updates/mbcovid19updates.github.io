@@ -41,8 +41,6 @@ Location | Address | Date | Time | Info
 --- | --- | --- | --- | -- 
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12th-16th** | **10:00AM - 5:00PM**  | Walk-ins available all week, or for an appointment [book online](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
 **Flin Flon** | **Flin Flon Community Hall** | **July 15-16, 22-23** | **11:00AM - 6:00PM**  | Pfizer and Moderna available.
-**Manitoba-wide** | **All Super Sites** | **July 14th** | **Times Vary**  | Moderna (18+) and Pfizer (age 12+ including adults) Walk-ins available at ALL super sites across Manitoba. See [Super Site Walk-ins](#super-site-walk-ins) list further below for more details.
-**Winnipeg** | **Manitoba Clinic** (790 Sherbrook St) | **July 14th** | **5:00PM - 7:00PM** | Pfizer for 12-17
 **Asessippi Provincial Park** | Near Concession Stand | **July 16th** | **1:00PM - 3:00PM** | Pfizer for 12-17, Moderna for 18+ (Don't forget your consent form and health card)
 **Duck Mountain Provinical Park** | **Childs Lake**-near lodge & day use beach area |**July 16th**| **Noon - 2:00PM** | Pfizer for 12-17, Moderna for 18+ (Don't forget your consent form and health card)
 **Spruce Woods Provincial Park** | **Kiche Manitou Campground** (Pine Fort IV Concession Stand)| **July 19th** | **10:00AM - 1:00PM** | Pfizer for 12-17, Moderna for 18+
@@ -52,22 +50,20 @@ Location | Address | Date | Time | Info
 
 ### Super Site Walk-ins
 
-**On _July 14th_ (only), every super site in the province will offer walk-ins all day for Moderna (18+) and Pfizer (12+ including adults)!**
-
 All supersites, except RBC Convention Centre, are now offering **10% walk-ins for Moderna**. The number of walk-ins may vary by day and by site, but are approximately 10% of all doses available. It is important to note that a limited number of walk-ins available on a daily basis. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
-**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | <!--❌ **No walk-in availability at this time**-->✅ July 14: 9:00am - 8:00pm | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 11-13: 9:00am - 4:00pm<br />July 14: 9:00am - 8:00pm<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 13-16: 11:00am - 6:00pm | ~350/day<br />July 14: 1540 Pfizer / 255 Moderna
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 11-16: 9:00am - 8:00pm | 50/day
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 14, 16: 9:00am - 8:00pm | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ July 14, 16: 1:00pm - 8:00pm | N/A
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ July 13-16: 1:00pm - 8:00pm | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 11-14: 11:00am - 6:00pm | ~75/day<br />July 14: 350 Pfizer / 215 Moderna
-**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 13-15, 20-22: 11:00am - 6:00pm | N/A
-**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 13-14, 21, 28, August 4: 11:00am - 6:00pm | N/A
+**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 15-16: 11:00am - 6:00pm | ~350/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 15-16: 9:00am - 8:00pm | 50/day
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 16: 9:00am - 8:00pm | ~40/day
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ July 16: 1:00pm - 8:00pm | N/A
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ July 15-16: 1:00pm - 8:00pm | N/A
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ N/A | ~75/day
+**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 15, 20-22: 11:00am - 6:00pm | N/A
+**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 21, 28, August 4: 11:00am - 6:00pm | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
 
@@ -78,11 +74,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Winnipeg/East St. Paul** | **East St. Paul Medical Center** (2665 Henderson Hwy) | **July 14 starting at 5pm** | **Pfizer for youth age 12-17**. Getting out all doses tonight - will vaccinate adults if they do not have enough youth age 12-17. Book an appointment by emailing [info@espmc.ca](mailto:info@espmc.ca) a picture of your MB health card front and back, phone number and first date of previous dose or if this is their first dose.
 **Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12-16** | Moderna (age 18+) & Pfizer (age 12-17) available. Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
-**Swan River** | **Veteran's Hall** (119 6th Ave) | **July 13th & 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 13th & 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Lundar** | **Lundar Legion** (50 3rd Ave) | **July 14th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Portage la Prairie** | **Pharmasave** (308 Saskatchewan Ave E) | **July 15th** | Pfizer doses for youth 12-17. Call [204-239-6923](tel:12042396923) to book. 
 **Winnipeg** | **Riverbend Shoppers** (2512 Main Street) | **July 15th - 2-4pm, July 16 - 10am-5pm** | **Pfizer for youth age 12-17**. Call [204-334-6008](tel:12043346008) to book an appointment.
 **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 15th, 16th, 22nd & 23rd** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:10AM - 6:30PM)
@@ -94,11 +86,13 @@ Location | Address | Date | Info
 **Beausejour** | **Brokenhead River Community Hall** (32o Veteran's Ln) | **July 16th & 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM).
 **Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave) | **July 20th** | Pfizer and Moderna availabe Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (starting at 11:30AM)
+**Swan River** | **Veteran's Hall** (119 6th Ave) | **July 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Morris** | **Morris Multiplex** (380 Stampede Grounds) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Eriksdale** | **Eriksdale Recreation Centre** (2 1 Ave) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
 **Teulon** | **Teulon Anglican Parish Hall** (60 2nd St SE) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
 
