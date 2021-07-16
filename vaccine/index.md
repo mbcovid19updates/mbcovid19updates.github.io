@@ -46,7 +46,7 @@ Location | Address | Date | Time | Info
 **Spruce Woods Provincial Park** | **Kiche Manitou Campground** (Pine Fort IV Concession Stand)| **July 19th** | **10:00AM - 1:00PM** | Pfizer for 12-17, Moderna for 18+
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
 **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
-
+**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
 
 ### Super Site Walk-ins
 
@@ -74,8 +74,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Location | Address | Date | Info
 --- | --- | --- | ---
-**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12-16** | Moderna (age 18+) & Pfizer (age 12-17) available. Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available.
-**Portage la Prairie** | **Pharmasave** (308 Saskatchewan Ave E) | **July 15th** | Pfizer doses for youth 12-17. Call [204-239-6923](tel:12042396923) to book. 
+**Winnipeg** | **Medicine Shoppe Osborne** (660 Osborne) | **July 12-16** | Moderna (age 18+) & Pfizer (age 12-17) available. Book [here](https://medicineshoppeosborne.medmeapp.com/schedule/) or call [204-504-9333](tel:12045049333). Lots of parking available. 
 **Winnipeg** | **Riverbend Shoppers** (2512 Main Street) | **July 15th - 2-4pm, July 16 - 10am-5pm** | **Pfizer for youth age 12-17**. Call [204-334-6008](tel:12043346008) to book an appointment.
 **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 15th, 16th, 22nd & 23rd** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:10AM - 6:30PM)
 **Winnipeg** | **University of Manitoba Fort Garry Campus** | **July 16th** | University Health Services is offering Moderna vaccines.  Call 204-474-8411 (note, due to phone line capacity, you may be disconnected automatically if maximum capacity has been reached.  Please continue to call until you get through)
@@ -85,6 +84,7 @@ Location | Address | Date | Info
 **Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 15th, 16th, 22nd & 23rd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Beausejour** | **Brokenhead River Community Hall** (32o Veteran's Ln) | **July 16th & 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM).
 **Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
+**Winnipeg** | **Northway Pharmacy- Seven Oaks** (632 Leila Ave) | **July 19th & 21st** (10AM-4PM)| Moderna available (must be 18+). Call [1-204-560-0727](tel:12045600727)
 **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave) | **July 20th** | Pfizer and Moderna availabe Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (starting at 11:30AM)
 **Swan River** | **Veteran's Hall** (119 6th Ave) | **July 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
