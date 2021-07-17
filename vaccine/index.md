@@ -43,8 +43,9 @@ Health Region | Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- | -- 
 **Prairie Mountain** | **Spruce Woods Provincial Park** | **Kiche Manitou Campground** (Pine Fort IV Concession Stand)| **July 17th** | **10:00AM - 1:00PM** | Pfizer for 12-17, Moderna for 18+
 **Prairie Mountain** | **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
-**Prairie Mountain ** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
+**Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 **Prairie Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
+**Prairie Mountain** | **Lake Metigoshe** | **Main Beach** | **July 29th** | **10AM - 1PM** | Pfizer for 12+, Moderna for 18+
 
 ### Super Site Walk-ins
 
@@ -59,7 +60,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 16: 9:00am - 8:00pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ July 16: 1:00pm - 8:00pm | N/A
 **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ July 15-16: 1:00pm - 8:00pm | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ N/A | ~75/day
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 18th & 19th: 11:00am - 6:00pm  July 20th & 21st: 4:30pm - 7:30pm| ~75/day
 **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 15, 20-22: 11:00am - 6:00pm | N/A
 **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 21, 28, August 4: 11:00am - 6:00pm | N/A
 
@@ -100,7 +101,7 @@ Location | Address |Info
 **Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-573-7239](tel:12045737239))
 **Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-240-7272](tel:12042407272))
 **Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
-**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551))
+**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) **July 17th: Community Bus Rides Available** ([See bus schedule](https://twitter.com/Ma_Mawi/status/1416065712930627585))
  
 
 ---
