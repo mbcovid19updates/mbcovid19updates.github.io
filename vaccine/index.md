@@ -81,6 +81,7 @@ Health Region | Location | Address | Date | Info
 **Prairire Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Southern Health- Sante Sud** | **Morris** | **Morris Multiplex** (380 Stampede Grounds) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Southern Health-Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 22nd & 23rd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**WRHA** | **Winnipeg** | **Southdale Community Centre** (254 Lakewood Blvd) | **July 19th** (9:15AM-3:45PM) |Pfizer for 12-17, Moderna for 18+.  Email WCCLI@gmail.com to register
 **WRHA** | **Winnipeg** | **Northway Pharmacy- Seven Oaks** (632 Leila Ave) | **July 19th & 21st** (10AM-4PM)| Moderna available (must be 18+). Call [1-204-560-0727](tel:12045600727)
 **WRHA** | **Winnipeg** | **St. Amant** (440 River Road) | **July 27th** (3PM-6PM) | Safe, Accessible, Inclusive Drive-Thru Moderna Clinic (must be 18+).  Great for those with barriers accessing larger sites, but everyone is welcome.  Book at (https://www.signupgenius.com/go/4090a4ba5a62ca0f58-stamant8)
 **Interlake-Eastern** |**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
