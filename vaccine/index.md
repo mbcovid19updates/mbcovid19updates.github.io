@@ -45,6 +45,14 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
 **Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 **Prairie Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
+**Prairie Mountain** | **Riding Mountain National Park** |TBA|  **July 25th** | TBA | TBA
+**Prairie Mountain** | **Rivers Provincial Park** | TBA | **July 27th** | TBA | TBA
+**Prairie Mountain** | **Ninette** | TBA | **July 27th** | TBA | TBA
+**Prairie Mountain** | **Riding Mountain National Park** |TBA|  **July 28th** | TBA | TBA
+**Prairie Mountain** | **Onanole** |TBA|  **July 25th** | TBA | TBA
+**Prairie Mountain** | **Turtle Mountain Provincial Park** | **Adam Lake Campground** | **July 28th** | TBA | TBA
+**Prairie Mountain** | **Oak Lake Beach** | TBA | **July 29th** | TBA | TBA
+**Prairie Mountain** | **Sandy Lake** | TBA | **July 29th** | TBA | TBA
 **Prairie Mountain** | **Lake Metigoshe** | **Main Beach** | **July 29th** | **10AM - 1PM** | Pfizer for 12+, Moderna for 18+
 
 ### Super Site Walk-ins
