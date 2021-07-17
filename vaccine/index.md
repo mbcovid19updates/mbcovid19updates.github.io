@@ -20,6 +20,8 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 <a href="https://protectmb.ca/" class="button">ProtectMB Vaccine Finder</a> (by Manitoba Government)
 
+<a href="https://appointments.vaccinehunters.ca/search/r3p1p6" class="button">Find Your Immunization</a> (by Vaccine Hunters Canada)
+
 <a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment at Super Site or Popup Clinic</a>
 
 <a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
