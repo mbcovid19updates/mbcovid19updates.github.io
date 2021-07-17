@@ -39,12 +39,12 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.
 
 
-Location | Address | Date | Time | Info
---- | --- | --- | --- | -- 
-**Spruce Woods Provincial Park** | **Kiche Manitou Campground** (Pine Fort IV Concession Stand)| **July 17th** | **10:00AM - 1:00PM** | Pfizer for 12-17, Moderna for 18+
-**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
-**Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
-**Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
+Health Region | Location | Address | Date | Time | Info
+--- | --- | --- | --- | --- | -- 
+**Prairie Mountain** | **Spruce Woods Provincial Park** | **Kiche Manitou Campground** (Pine Fort IV Concession Stand)| **July 17th** | **10:00AM - 1:00PM** | Pfizer for 12-17, Moderna for 18+
+**Prairie Mountain** | **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
+**Prairie Mountain ** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
+**Prairie Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
 
 ### Super Site Walk-ins
 
@@ -80,8 +80,9 @@ Health Region | Location | Address | Date | Info
 **Prairire Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Southern Health- Sante Sud** | **Morris** | **Morris Multiplex** (380 Stampede Grounds) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Southern Health-Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 22nd & 23rd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Interlake-Eastern** |**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **WRHA** | **Winnipeg** | **Northway Pharmacy- Seven Oaks** (632 Leila Ave) | **July 19th & 21st** (10AM-4PM)| Moderna available (must be 18+). Call [1-204-560-0727](tel:12045600727)
+**WRHA** | **Winnipeg** | **St. Amant** (440 River Road) | **July 27th** (3PM-6PM) | Safe, Accessible, Inclusive Drive-Thru Moderna Clinic (must be 18+).  Great for those with barriers accessing larger sites, but everyone is welcome.  Book at (https://www.signupgenius.com/go/4090a4ba5a62ca0f58-stamant8)
+**Interlake-Eastern** |**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Interlake-Eastern** | **St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Interlake-Eastern** | **Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
 **Interlake-Eastern** **Eriksdale** | **Eriksdale Recreation Centre** (2 1 Ave) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
