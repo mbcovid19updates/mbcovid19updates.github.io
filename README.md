@@ -154,7 +154,7 @@ _Includes markets, garden centres, and occasional pop-up retail._
    - Open to 50% capacity to a limit of 25 persons in a group. No tournaments allowed.
 - **Outdoor** Sports and Recreation
    - Open for up to 50 people, spectators are permitted and do not count towards the capacity limit. No tournaments allowed.
-- **Dance, Theatre, and Music Schools**
+- Dance, Theatre, and Music Schools
    - Open at 50% capacity to a limit of 25 persons per group indoors.
 
 
@@ -171,13 +171,13 @@ _Includes markets, garden centres, and occasional pop-up retail._
 ### Museums, Galleries Concert Halls and Movie Theatres
 
 - Museums, galleries, concert halls and movie theatres may open for fully immunized (two doses, and two weeks post second dose) to a maximum capacity of 50%.
-- Unvaccinated children 12 and under may attend/visit these facilities if accompanied by a fully vaccinated member of their household.
+- Unvaccinated children under the age of 12 may attend/visit these facilities if accompanied by a fully vaccinated member of their household.
 
 
 ### Large-scale Outdoor Professional Sports or Performing Arts Events
 
 - Large-scale professional outdoor sports or performing arts events may open for fully immunized (two doses and two weeks post second dose) to a maximum of 100%.
-- Unvaccinated children 12 and under may attend/visit these events if accompanied by a fully vaccinated member of their household.
+- Unvaccinated children under the age of 12 may attend/visit these events if accompanied by a fully vaccinated member of their household.
 
 
 ### Casinos and VLTs
