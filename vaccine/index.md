@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: July 14, 2021_
+_Last updated: July 17, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -20,7 +20,7 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 <a href="https://protectmb.ca/" class="button">ProtectMB Vaccine Finder</a> (by Manitoba Government)
 
-<a href="https://appointments.vaccinehunters.ca/search/r3p1p6" class="button">Find Your Immunization</a> (by **Vaccine Hunters Canada**- search by postal code)
+<a href="https://appointments.vaccinehunters.ca/search/r3p1p6" class="button">Find Your Immunization</a> (by **Vaccine Hunters Canada** - search by postal code)
 
 <a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment at Super Site or Popup Clinic</a>
 
@@ -62,18 +62,17 @@ All supersites, except RBC Convention Centre, are now offering **10% walk-ins fo
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY<br />July 16: 9:00am - 4:00pm | 1000+/day (high availability, fast walk-in!)
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ DAILY<br />July 15-16: 11:00am - 6:00pm | ~350/day
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY<br />July 15-16: 9:00am - 8:00pm | 50/day
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 16: 9:00am - 8:00pm | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ July 16: 1:00pm - 8:00pm | N/A
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ July 15-16: 1:00pm - 8:00pm | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 18th & 19th: 11:00am - 6:00pm  July 20th & 21st: 4:30pm - 7:30pm| ~75/day
-**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 15, 20-22: 11:00am - 6:00pm | N/A
-**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 21, 28, August 4: 11:00am - 6:00pm | N/A
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY: 9:00am to 4:00pm | 1000+/day (high availability, fast walk-in!)
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ <br />July 17: 11:00am - 6:00pm<br />July 21-23: 11:00am - 6:00pm | N/A
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm | N/A
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY 9:00am - 8:00pm | ~40/day
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 17: 11:00am - 6:00pm<br />July 21-23: 1:00pm - 8:00pm<br />July 24: 11:00am - 6:00pm | N/A
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />July 17: 11:00am - 6:00pm<br />July 20, 22: 1:00pm to 8:00pm | N/A
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ <br />July 18-19: 11:00am - 6:00pm<br />July 20-21: 4:00pm - 8:00pm | ~75/day
+**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 20-22: 11:00am - 6:00pm | N/A
+**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 20-21, 28, August 4: 11:00am - 6:00pm | N/A
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
-
 
 ## Appointments
 
