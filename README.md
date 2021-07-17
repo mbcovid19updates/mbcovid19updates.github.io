@@ -56,7 +56,9 @@ _Last updated: July 17, 2021_
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: July 14, 2021_
+_Last updated: July 17, 2021_
+
+<a href="#restrictions" class="button">View Current Restrictions (as of July 17)</a>
 
 Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
 
@@ -65,7 +67,7 @@ Phase 1 | Phase 2 | Phase 3
 Canada Day<br /><strike>July 1, 2021</strike> **June 26, 2021** | August Long<br /><strike>August 2, 2021</strike> **July 17, 2021** | Labour Day<br />**Sept 6, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ✅ Re-opening: July 17, 2021 | Status: ⏱ _Estimated reach: August 10, 2021_
+Status: ✅ June 26, 2021 | Status: ✅ July 17, 2021 | Status: ⏱ _Estimated reach: August 10, 2021_
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
