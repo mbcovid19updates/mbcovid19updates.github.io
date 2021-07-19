@@ -415,6 +415,12 @@ _Last updated: June 23, 2021_
 
 Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
 
+#### How to Apply
+
+Two weeks after receiving a second dose of a COVID-19 vaccine, Manitobans may apply for the card using the new online portal at [immunizationcard.manitoba.ca](https://immunizationcard.manitoba.ca).
+
+<a href="https://immunizationcard.manitoba.ca" class="button">Apply for Immunization Card</a>
+
 #### Current Benefits
 Manitobans who are fully immunized (two vaccine doses plus two weeks from the time of their second dose) will now benefit from the following exemptions:
 
@@ -445,13 +451,8 @@ The Manitoba government has assembled a [Frequently Asked Questions (FAQ) sectio
 <a href="https://www.gov.mb.ca/covid19/vaccine/immunization-record.html" class="button">COVID-19 Vaccine website FAQ</a>
 <a href="https://immunizationcard.manitoba.ca/#/faq?lang=en" class="button">Immunization Card website FAQ</a>
 
-#### How to Apply
-
-Two weeks after receiving a second dose of a COVID-19 vaccine, Manitobans may apply for the card using the new online portal at [immunizationcard.manitoba.ca](https://immunizationcard.manitoba.ca).
-
-<a href="https://immunizationcard.manitoba.ca" class="button">Apply for Immunization Card</a>
-
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
 
 <a name="vaccine-lottery"></a>
 ### Vaccine Lottery
