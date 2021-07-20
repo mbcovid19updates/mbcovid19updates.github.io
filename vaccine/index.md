@@ -44,15 +44,16 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
 **Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
 **Prairie Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
-**Prairie Mountain** | **Riding Mountain National Park** |TBA|  **July 25th** | TBA | TBA
-**Prairie Mountain** | **Rivers Provincial Park** | TBA | **July 27th** | TBA | TBA
-**Prairie Mountain** | **Ninette** | TBA | **July 27th** | TBA | TBA
-**Prairie Mountain** | **Riding Mountain National Park** |TBA|  **July 28th** | TBA | TBA
-**Prairie Mountain** | **Onanole** |TBA|  **July 25th** | TBA | TBA
-**Prairie Mountain** | **Turtle Mountain Provincial Park** | **Adam Lake Campground** | **July 28th** | TBA | TBA
-**Prairie Mountain** | **Oak Lake Beach** | TBA | **July 29th** | TBA | TBA
-**Prairie Mountain** | **Sandy Lake** | TBA | **July 29th** | TBA | TBA
+**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand| **July 25th** | **NOON-4:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Rivers Provincial Park** |**Rivers Campground-near CJ Snack Shack** | **July 27th** | **10:00AM-3:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Ninette** | **Pelican Lake** (Ninette-Pelican Lake Farmer's Market) | **July 27th** | **5:00PM-7:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand|  **July 28th** | **2:00PM-4:00PM** | TBA
+**Prairie Mountain** | **Onanole** |Onanole Hall (386 Central Ave)|  **July 25th** | **11:00AM-1:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Turtle Mountain Provincial Park** | **Adam Lake Campground** (Main Beach) | **July 28th** | **2:00PM-5:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Oak Lake Beach** | **Oak Lake Farmer's Market** | **July 29th** | **9:00AM-NOON** | 1st & 2nd doses
+**Prairie Mountain** | **Sandy Lake** | Sandy Lake Motel (107 Main St) | **July 29th** | **11:00AM-2:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Lake Metigoshe** | **Main Beach** | **July 29th** | **10AM - 1PM** | Pfizer for 12+, Moderna for 18+
+**WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
 
 ### Super Site Walk-ins
 
@@ -62,7 +63,7 @@ City | Address | Dates/Times (or until they run out for the day) | Doses Availab
 --- | --- | --- | ---
 **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌ **No walk-in availability at this time** | N/A
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY: 9:00am to 4:00pm | 1000+/day (high availability, fast walk-in!)
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ July 21-23: 11:00am - 6:00pm | N/A
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ July 21-24: 11:00am - 6:00pm | July 21st-23rd: Pfizer & Moderna, July 24th: Moderna only
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm | N/A
 **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ DAILY 9:00am - 8:00pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 21-23: 1:00pm - 8:00pm<br />July 24: 11:00am - 6:00pm | N/A
@@ -91,6 +92,7 @@ Health Region | Location | Address | Date | Info
 **WRHA** | **Winnipeg** | **Shoppers Drug Mart- Osborne** (43 Osborne St N) | **July 22nd** (3:00PM-6:00PM) | Pfizer vaccines available for 12+. Call 204-958-7000 to book (Lots of Moderna available as well)
 **WRHA** | **Winnipeg** | **Red River College** (2055 Notre Dame)| **July 27th** (9:00AM-12:00PM) | Moderna vaccine available, must be 18+.  Parking free in south lot.  Book at (https://www.rrc.ca/coronavirus/2021/07/15/rrc-offers-second-moderna-vaccine-pop-up-clinic/)
 **WRHA** | **Winnipeg** | **St. Amant** (440 River Road) | **July 27th** (3PM-6PM) | Safe, Accessible, Inclusive Drive-Thru Moderna Clinic (must be 18+).  Great for those with barriers accessing larger sites, but everyone is welcome.  Book at (https://www.signupgenius.com/go/4090a4ba5a62ca0f58-stamant8)
+**WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
 **Interlake-Eastern** |**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
 **Interlake-Eastern** | **St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Interlake-Eastern** | **Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
