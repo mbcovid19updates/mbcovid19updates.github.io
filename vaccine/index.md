@@ -47,11 +47,11 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand| **July 25th** | **NOON-4:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Rivers Provincial Park** |**Rivers Campground-near CJ Snack Shack** | **July 27th** | **10:00AM-3:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Ninette** | **Pelican Lake** (Ninette-Pelican Lake Farmer's Market) | **July 27th** | **5:00PM-7:00PM** | 1st & 2nd doses
-**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand|  **July 28th** | **2:00PM-4:00PM** | TBA
-**Prairie Mountain** | **Onanole** |Onanole Hall (386 Central Ave)|  **July 25th** | **11:00AM-1:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand|  **July 28th** | **2:00PM-4:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Onanole** |**Onanole Hall** (386 Central Ave)|  **July 25th** | **11:00AM-1:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Turtle Mountain Provincial Park** | **Adam Lake Campground** (Main Beach) | **July 28th** | **2:00PM-5:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Oak Lake Beach** | **Oak Lake Farmer's Market** | **July 29th** | **9:00AM-NOON** | 1st & 2nd doses
-**Prairie Mountain** | **Sandy Lake** | Sandy Lake Motel (107 Main St) | **July 29th** | **11:00AM-2:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Sandy Lake** | **Sandy Lake Motel** (107 Main St) | **July 29th** | **11:00AM-2:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Lake Metigoshe** | **Main Beach** | **July 29th** | **10AM - 1PM** | Pfizer for 12+, Moderna for 18+
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
 
