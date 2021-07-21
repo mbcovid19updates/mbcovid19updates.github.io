@@ -41,17 +41,17 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Health Region | Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- | -- 
-**Prairie Mountain** | **Russell** | **George P. Buleziuk Centre** (106 Shell River Ave S) | **July 20th** | **11:30AM - 6:00PM** | 150 Pfizer doses available (12+), Moderna doses also available for 18+
-**Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  Moderna doses available (18+).  First doses prioritized
+**Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  250 Pfizer doses avilable July 21st (12+), Moderna doses available July 22nd (18+).  First doses prioritized
+**Prairie Mountain** | **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 21st** | **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
 **Prairie Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
-**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand| **July 25th** | **NOON-4:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Sandy Lake** | **Sandy Lake Motel** (Parking lot of Motel-old school site) | **July 24th** | **NOON-3:00PM** |Pfizer for 12+, Moderna for 18+
+**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand| **July 25th** | **NOON-3:00PM** | Pfizer for 12+, Moderna for 18+
 **Prairie Mountain** | **Rivers Provincial Park** |**Rivers Campground-near CJ Snack Shack** | **July 27th** | **10:00AM-3:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Ninette** | **Pelican Lake** (Ninette-Pelican Lake Farmer's Market) | **July 27th** | **5:00PM-7:00PM** | 1st & 2nd doses
-**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand|  **July 28th** | **2:00PM-4:00PM** | 1st & 2nd doses
-**Prairie Mountain** | **Onanole** |**Onanole Hall** (386 Central Ave)|  **July 25th** | **11:00AM-1:00PM** | 1st & 2nd doses
+**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand|  **July 28th** | **2:00PM-4:00PM** | Pfizer for 12+, Moderna for 18+
+**Prairie Mountain** | **Onanole** |**Onanole Hall** (386 Central Ave)|  **July 25th** | **11:00AM-1:00PM** | Pfizer for 12+, Moderna for 18+
 **Prairie Mountain** | **Turtle Mountain Provincial Park** | **Adam Lake Campground** (Main Beach) | **July 28th** | **2:00PM-5:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Oak Lake Beach** | **Oak Lake Farmer's Market** | **July 29th** | **9:00AM-NOON** | 1st & 2nd doses
-**Prairie Mountain** | **Sandy Lake** | **Sandy Lake Motel** (107 Main St) | **July 29th** | **11:00AM-2:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Lake Metigoshe** | **Main Beach** | **July 29th** | **10AM - 1PM** | Pfizer for 12+, Moderna for 18+
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
 
@@ -81,8 +81,6 @@ The following are clinics offering scheduled appointments.  You must book at the
 Health Region | Location | Address | Date | Info
 --- | --- | --- | --- |---
 **Northern** | **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 22nd & 23rd** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:10AM - 6:30PM)
-**Prairie Mountain** |**Russell** | **George P. Buleziuk Centre** (106 Shell River Ave) | **July 20th** | Pfizer and Moderna availabe Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (starting at 11:30AM)
-**Prairie Mountain** | **Swan River** | **Veteran's Hall** (119 6th Ave) | **July 20th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Prairie Mountain** | **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Prairire Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
@@ -111,7 +109,7 @@ Location | Address |Info
 **Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-573-7239](tel:12045737239))
 **Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-240-7272](tel:12042407272))
 **Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
-**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) **July 17th: Community Bus Rides Available** ([See bus schedule](https://twitter.com/Ma_Mawi/status/1416065712930627585))
+**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) 
  
 
 ---
