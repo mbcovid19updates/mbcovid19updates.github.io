@@ -61,7 +61,7 @@ All supersites are now offering **walk-ins** (Moderan and Pfizer in most cases).
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
-**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ✅ DAILY: 9:00am to 8:00pm | Pfizer and Moderna available
+**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ✅ DAILY (beginning July 24): 9:00am to 8:00pm | Pfizer and Moderna available
 **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY: 9:00am to 4:00pm | 1000+/day (high availability, fast walk-in!)
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ July 23-24: 11:00am - 6:00pm | Pfizer and Moderna available
 **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ DAILY 9:00am - 8:00pm | N/A
