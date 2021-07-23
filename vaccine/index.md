@@ -115,4 +115,5 @@ Location | Address |Info
 
 ---
 
+
 🙏 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://vaccinehunters.ca)) for maintaining this page!_
