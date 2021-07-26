@@ -41,11 +41,6 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Health Region | Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- | -- 
-**Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Opens at **11:30AM** |  250 Pfizer doses avilable July 21st (12+), Moderna doses available July 22nd (18+).  First doses prioritized
-**Prairie Mountain** | **Neepawa** | **Yellowhead Centre** (175 Mountain Ave) | **July 21st** | **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
-**Prairie Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** |  **11:30AM - 6:00PM** | 150 Pfizer doses for 12+, Moderna also available for 18+ (Priority for 1st doses)
-**Prairie Mountain** | **Sandy Lake** | **Sandy Lake Motel** (Parking lot of Motel-old school site) | **July 24th** | **NOON-3:00PM** |Pfizer for 12+, Moderna for 18+
-**Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand| **July 25th** | **NOON-3:00PM** | Pfizer for 12+, Moderna for 18+
 **Prairie Mountain** | **Rivers Provincial Park** |**Rivers Campground-near CJ Snack Shack** | **July 27th** | **10:00AM-3:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Ninette** | **Pelican Lake** (Ninette-Pelican Lake Farmer's Market) | **July 27th** | **5:00PM-7:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Riding Mountain National Park** |Clear Lake Band Stand|  **July 28th** | **2:00PM-4:00PM** | Pfizer for 12+, Moderna for 18+
@@ -53,7 +48,13 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Turtle Mountain Provincial Park** | **Adam Lake Campground** (Main Beach) | **July 28th** | **2:00PM-5:00PM** | 1st & 2nd doses
 **Prairie Mountain** | **Oak Lake Beach** | **Oak Lake Farmer's Market** | **July 29th** | **9:00AM-NOON** | 1st & 2nd doses
 **Prairie Mountain** | **Lake Metigoshe** | **Main Beach** | **July 29th** | **10AM - 1PM** | Pfizer for 12+, Moderna for 18+
+**Prairie Mountain** | **Deloraine** | **Deloraine Winchester Community Hall** | **August 4th** | **4:00PM-8:00PM** |
+**Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | **4:00PM-8:00PM | 
+**Southern Health- Sante Sud | Portage la Prairie | Herman Prior Centre** (40 Royal Rd N) | **July 29th | 10:30AM-6:30PM** | 
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
+**Interlake-Eastern** | **Whitemouth** | **Whitemouth Recreation Association** (62 1st St) | **July 27th** | **10:30AM-6:30PM** |
+**Interlake-Eastern** |**Lundar** | **Lundar Legion Hall** (50 3rd St S) | **July 30th** | **10:30AM-6:30PM | 
+**Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | **2:00PM-6:00PM |
 
 ### Super Site Walk-ins
 
@@ -81,24 +82,18 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Health Region | Location | Address | Date | Info
 --- | --- | --- | --- |---
-**Northern** | **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 22nd & 23rd** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:10AM - 6:30PM)
-**Prairie Mountain** | **Neepawa** | **Yellowhead Centre Hall** (175 Mountain Ave) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Prairie Mountain** | **Virden** | **Tundra Oil & Gas Place** (900 Fifth Ave S.) | **July 21st & 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Prairire Mountain** | **Killarney** | **Shamrock Centre** (725 Broadway Ave) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Southern Health- Sante Sud** | **Morris** | **Morris Multiplex** (380 Stampede Grounds) | **July 21st** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Southern Health-Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 22nd & 23rd** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**WRHA** | **Winnipeg** | **Northway Pharmacy- Seven Oaks** (632 Leila Ave) | **July 19th & 21st** (10AM-4PM)| Moderna available (must be 18+). Call [1-204-560-0727](tel:12045600727)
-**WRHA** | **Winnipeg** | **Shoppers Drug Mart- Osborne** (43 Osborne St N) | **July 22nd** (3:00PM-6:00PM) | Pfizer vaccines available for 12+. Call 204-958-7000 to book (Lots of Moderna available as well)
+**Northern** | **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **July 29th, 30th & August 5th** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Prairie Mountain** | **Deloraine** | **Deloraine Winchester Community Hall** | **August 4th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 8:00PM)
+**Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 8:00PM)
+**Southern Health-Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 29th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **WRHA** | **Winnipeg** | **Red River College** (2055 Notre Dame)| **July 27th** (9:00AM-12:00PM) | Moderna vaccine available, must be 18+.  Parking free in south lot.  Book at (https://www.rrc.ca/coronavirus/2021/07/15/rrc-offers-second-moderna-vaccine-pop-up-clinic/)
+**WRHA** | **Winnipeg** | **Hindu Temple & Dr. Raj Pandey Centre** (999 St Anne's Rd) | Pfizer available (12+) Health care workers & multiple language services availabe on site! Book at (https://www.signupgenius.com/go/hsm-pfizer)
 **WRHA** | **Winnipeg** | **St. Amant** (440 River Road) | **July 27th** (3PM-6PM) | Safe, Accessible, Inclusive Drive-Thru Moderna Clinic (must be 18+).  Great for those with barriers accessing larger sites, but everyone is welcome.  Book at (https://www.signupgenius.com/go/4090a4ba5a62ca0f58-stamant8)
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** (Noon-7PM)| Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
-**Interlake-Eastern** |**Arborg** | **Arborg Bifrost Community Hall** (409 Recreation Centre) | **July 19th** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book
-**Interlake-Eastern** | **St Laurent** | **St Laurent Recreation Centre** (Lot 825 Pth 6) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Interlake-Eastern** | **Ashern** | **Ashern Centennial Hall** (#1 MB-325) | **July 21st** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
-**Interlake-Eastern** | **Eriksdale** | **Eriksdale Recreation Centre** (2 1 Ave) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available
-**Interlake-Eastern** | **Teulon** | **Teulon Anglican Parish Hall** (60 2nd St SE) | **July 22nd** | Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Interlake-Eastern** | **Lac du Bonnet** | **Lac du Bonnet Community Centre** (25 McArthur Ave) | **July 23rd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book. Limited number of walk-ins also available (10:30AM - 6:30PM).
-**Interlake-Eastern** | **Beausejour** | **Brokenhead River Community Hall** (32o Veteran's Ln) | **July 22nd** | Moderna available (must be 18+). Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM).
+**Interlake-Eastern** | **Whitemouth** | **Whitemouth Recreation Association** (62 1st St) | **July 27th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Interlake-Eastern** |**Lundar** | **Lundar Legion Hall** (50 3rd St S) | **July 30th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
+**Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (2:00PM - 6:00PM)
+
 
 ## Urban Indigenous Clinics
 
