@@ -21,9 +21,6 @@ _Last updated: July 27, 2021_
     <a href="#vaccine-walkins">
         <h3>Vaccine Walk-ins</h3>
     </a>
-    <a href="#pfizer">
-        <h3>Where can I find Pfizer?</h3>
-    </a>
     <a href="#mixing-vaccines">
         <h3>Mixing Vaccines</h3>
     </a>
@@ -271,18 +268,8 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 Yes, it used to be 21 days for Pfizer, but in an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
 
-<a name="pfizer"></a>
-### Where can I find Pfizer?
-
-_Last updated: July 8, 2021_
-
-**UPDATE 1**: All super sites are now booking Pfizer appointments for the end of July. Please remember that Pfizer and Moderna are considered interchangeable, so if you're age 18+, you can grab a Moderna appointment or walk-in as early as today!
-
-_Also, adults with an upcoming Pfizer appointment can transfer it to a child aged 12-17 and book a Moderna appointment instead. Call 1-844-626-8222 with the name of the youth and their MB health card number to transfer the Pfizer appointment to them._
-
-To be clear, Pfizer is arriving all the time, but it's for already booked appointments. There will be a slowdown beginning next week that will potentially result in a shortage for existing booked appointments (though this may possibly be offset by people cancelling and rebooking for earlier Moderna appointments). That slowdown will pick up again towards the end of July. It's worth noting that Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna appointments are booking as early as a few days from now too.
-
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
 
 ### How to Book an Appointment
 
@@ -308,9 +295,9 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 
 #### Super-sites in Manitoba
 
-City | Address | Map | Moderna Walk-ins?
+City | Address | Map | Walk-ins?
 --- | --- | --- | ---
-Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ❌
+Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ✅ [see times](/vaccine)
 Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ✅ [see times](/vaccine)
 Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅ [see times](/vaccine)
 Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅ [see times](/vaccine)
@@ -334,9 +321,11 @@ Please check out our new [Vaccine Locator](/vaccine) page to see a curated list 
 <a name="mixing-vaccines"></a>
 ### Mixing Vaccines
 
-_Last updated: June 18, 2021_
+_Last updated: July 27, 2021_
 
-Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa. Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable. Moderna walk-ins and appointments are booking as early as today too.
+**UPDATE July 27**: Now that Manitoba has sufficient supply of Pfizer and Moderna, it's recommended to stick with the same mRNA vaccine. They are still interchangeable, but given that there is no longer a shortage of Pfizer, there's no reason to randomly switch between the two now.
+
+Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa. Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable.
 
 Here are some resources to learn more about this:
 
@@ -350,9 +339,9 @@ Here are some resources to learn more about this:
 <a name="astrazeneca"></a>
 ### AstraZeneca Information
 
-_Last updated: July 6, 2021_
+_Last updated: July 27, 2021_
 
-If your first dose of vaccine was AstraZeneca, please note that limited supplies exist. All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose.
+All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose.
 
 If you strongly wish to receive a second dose of AstraZeneca, there are a total of 15 medical clinics and pharmacies that are acting as regional hubs to offer second-dose AstraZeneca vaccinations. You can use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
 
