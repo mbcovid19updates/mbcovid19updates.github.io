@@ -49,8 +49,8 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | **4:00PM-8:00PM** | 
 **Southern Health- Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Rd N) | **July 29th** | **10:30AM-6:30PM** | 
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
-**Interlake-Eastern** |**Lundar** | **Lundar Legion Hall** (50 3rd St S) | **July 30th** | **10:30AM-6:30PM | 
-**Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | **2:00PM-6:00PM |
+**Interlake-Eastern** |**Lundar** | **Lundar Legion Hall** (50 3rd St S) | **July 30th** | **10:30AM-6:30PM** | 
+**Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | **2:00PM-6:00PM** |
 
 ### Super Site Walk-ins
 
