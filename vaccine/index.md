@@ -49,6 +49,7 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | **4:00PM-8:00PM** | 
 **Southern Health- Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Rd N) | **July 29th** | **10:30AM-6:30PM** | 
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** |**NOON-7PM** | Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
+**WRHA** | **Winnipeg** | **University of Manitoba-Fory Garry Campus**(Multipurpose Room in University Centre- 65 Chancellor's Circle) | **July 28th** |**9AM-3PM**| Pfizer vaccines available. Open to everyone 12+. Free parking in Q lot, enter clinic through Helen Glass Centre.
 **Interlake-Eastern** |**Lundar** | **Lundar Legion Hall** (50 3rd St S) | **July 30th** | **10:30AM-6:30PM** | 
 **Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | **2:00PM-6:00PM** |
 
@@ -83,7 +84,7 @@ Health Region | Location | Address | Date | Info
 **Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 8:00PM)
 **Southern Health-Sante Sud** | **Portage la Prairie** | **Herman Prior Centre** (40 Royal Road N) | **July 29th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **WRHA** | **Winnipeg** | **MacDonald Youth Services**(175 Mayfair Ave) | **July 28th** (Noon-7PM)| Pfizer for 12-17, Moderna for 18+.  Low barrier, no ID or health card required.  Walk-in & appointments available. Call [204-477-1722 to book](tel:12044771722)
-**WRHA** | **Winnipeg** | **University of Manitoba-Fory Garry Campus**(Multipurpose Room in University Centre- 65 Chancellor's Circle) | **July 28th** (9AM-3PM)| Pfizer vaccines available. Open to everyone, but UM students and their families will receive priority (bring your student card).  Free parking in Q lot, enter clinic through Helen Glass Centre. Book at (https://app.acuityscheduling.com/schedule.php?owner=20803000&appointmentType=17254799)
+**WRHA** | **Winnipeg** | **University of Manitoba-Fory Garry Campus**(Multipurpose Room in University Centre- 65 Chancellor's Circle) | **July 28th** (9AM-3PM)| Pfizer vaccines available. Open to everyone 12+.  Free parking in Q lot, enter clinic through Helen Glass Centre. Book at (https://app.acuityscheduling.com/schedule.php?owner=20803000&appointmentType=17254799), walk-ins also welcome
 **WRHA** | **Winnipeg** | **Northway Pharmacy- Seven Oaks** | **July 28th**(Moderna) **July 29th** (Pfizer) 10AM-4PM | Call [1-204-560-0727](12045600727) to book.
 **Interlake-Eastern** |**Lundar** | **Lundar Legion Hall** (50 3rd St S) | **July 30th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
 **Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (2:00PM - 6:00PM)
