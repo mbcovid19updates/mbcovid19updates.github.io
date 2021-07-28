@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: July 26, 2021_
+_Last updated: July 28, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -59,16 +59,16 @@ All supersites are now offering **walk-ins** (Moderan and Pfizer in most cases).
 
 City | Address | Dates/Times (or until they run out for the day) | Doses Available
 --- | --- | --- | ---
-**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ✅ DAILY: 9:00am to 8:00pm | Pfizer and Moderna available
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY: 9:00am to 4:00pm | 1000+/day (high availability, fast walk-in!)
+**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ✅ DAILY: 9:00am - 8:00pm | Pfizer and Moderna available
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY: 9:00am - 4:00pm<br />July 30-31: 9:00am - 8:00pm | 1000+/day (high availability, fast walk-in!)
 **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ July 28-31: 11:00am - 6:00pm | Pfizer and Moderna available
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ July 26-27, 30-31: 9:00am - 8:00pm | N/A
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 26-31: 9:00am - 8:00pm | ~40/day
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ July 28, 30-31: 9:00am - 8:00pm | N/A
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 28-31: 9:00am - 8:00pm | ~40/day
 **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 29-30: 1:00pm - 8:00pm<br />July 31: 11:00am - 6:00pm | N/A
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />July 27-28, 30: 1:00pm - 8:00pm<br />July 31: 11:00am - 6:00pm | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 26-28: 11:00am - 6:00pm<br />July 29 - Aug 3: CLOSED | Pfizer available July 25-27
-**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 27-29, August 5, 12: 11:00am - 6:00pm | Pfizer available
-**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 27, 28 & August 4: 11:00am - 6:00pm | Pfizer and Moderna available
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />July 28, 30: 1:00pm - 8:00pm<br />July 31: 11:00am - 6:00pm | N/A
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 28: 11:00am - 6:00pm<br />July 29 - Aug 3: CLOSED | Pfizer available July 25-27
+**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 28-29, August 5, 12: 11:00am - 6:00pm | Pfizer available
+**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 28 & August 4: 11:00am - 6:00pm | Pfizer and Moderna available
 
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
