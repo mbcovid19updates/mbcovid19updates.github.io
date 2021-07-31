@@ -44,6 +44,7 @@ Health Region | Location | Address | Date | Time | Info
 **Prairie Mountain** | **Deloraine** | **Deloraine Winchester Community Hall** | **August 4th** | **4:00PM-8:00PM** |
 **Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | **4:00PM-8:00PM** | Pfizer (12+) & Moderna (18+) available
 **Prairie Mountain** | **Minnedosa Beach** | **Beach Pavilion** (Upper Level) | **August 6th** | **1:00PM-3:00PM** | Pfizer (12+) & Moderna (18+) available
+**Prairie Mountain** | **Riding Mountain National Park** | **Sportsman's Park** (Market Area) | **August 7th** | **8:00AM-2:00PM** | Pfizer (12+) & Moderna (18+) available
 **WRHA** | **Winnipeg** | **West Central Women's Resource Centre** (640 Ellice Ave) | **August 4th** | **10:00AM-6:00PM** | Pfizer (12-17) & Moderna (18+) available.  All genders welcome.  No appointment needed. Get vaccinated and have a chance to win a special prize!
 **Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | **2:00PM-6:00PM** |
 
