@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: July 31, 2021_
+_Last updated: August 2, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -52,19 +52,18 @@ Health Region | Location | Address | Date | Time | Info
 
 All supersites are now offering **walk-ins** (Moderan and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
-City | Address | Dates/Times (or until they run out for the day) | Doses Available
+City | Address | Dates/Times (or until they run out for the day)
 --- | --- | --- | ---
-**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ✅ DAILY: 9:00am - 8:00pm | Pfizer and Moderna available
-**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ DAILY: 9:00am - 4:00pm<br />July 30-31: 9:00am - 8:00pm | 1000+/day (high availability, fast walk-in!)
-**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ July 28-31: 11:00am - 6:00pm | Pfizer and Moderna available
-**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ July 28, 30-31: 9:00am - 8:00pm | N/A
-**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ July 28-31: 9:00am - 8:00pm | ~40/day
-**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />July 29-30: 1:00pm - 8:00pm<br />July 31: 11:00am - 6:00pm | N/A
-**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />July 28, 30: 1:00pm - 8:00pm<br />July 31: 11:00am - 6:00pm | N/A
-**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ July 28: 11:00am - 6:00pm<br />July 29 - Aug 3: CLOSED | Pfizer available July 25-27
-**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ July 28-29, August 5, 12: 11:00am - 6:00pm | Pfizer available
-**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ July 28 & August 4: 11:00am - 6:00pm | Pfizer and Moderna available
-
+**Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | ❌
+**Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | ✅ Aug 2-4: 3:00pm - 10:00pm
+**Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | ✅ <br />Aug 4: 8:30am - 6:00pm<br />Aug 5: 11:00am - 6:00pm<br />Aug 7: 10:30am - 1:30pm
+**Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | ✅ <br />Aug 2: 9:00am - 8:00pm<br />Aug 5: 9:00am - 8:00pm<br />Aug 7: 8:00am - 3:00pm
+**Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ <br />Aug 3: 2:00pm - 9:00pm<br />Aug 4: 9:00am - 8:00pm<br />Aug 5: 8:00am - 3:00pm
+**Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | ✅ <br />Aug 5: 11:00am - 8:00pm<br />Aug 7: 8:00am - 3:00pm
+**Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | ✅ <br />Aug 5: 1:00pm - 8:00pm<br />Aug 7: 8:00am - 3:00pm
+**Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ <br />Aug 4: 11:00am - 6:00pm<br />Aug 7: 10:30am - 1:30pm
+**Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | ✅ <br />Aug 3: 1:00pm - 8:00pm<br />Aug 5: 11:00am - 6:00pm
+**The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | ✅ Aug 4: 11:00am - 6:00pm
 
 If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
 
