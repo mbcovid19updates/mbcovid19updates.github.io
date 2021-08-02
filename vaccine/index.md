@@ -50,7 +50,7 @@ Health Region | Location | Address | Date | Time | Info
 
 ### Super Site Walk-ins
 
-All supersites are now offering **walk-ins** (Moderan and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
+Most supersites are now offering **walk-ins** (Moderna and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
 City | Address | Dates/Times (or until they run out for the day)
 --- | --- | --- | ---
