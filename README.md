@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: July 29, 2021_
+_Last updated: August 3, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -53,7 +53,7 @@ _Last updated: July 29, 2021_
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: July 29, 2021_
+_Last updated: August 3, 2021_
 
 <a href="#restrictions" class="button">View Current Restrictions (as of July 17)</a>
 
@@ -61,37 +61,43 @@ Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift 
 
 Phase 1 | Phase 2 | Phase 3
 --- | --- | ---
-Canada Day<br /><strike>July 1, 2021</strike> **June 26, 2021** | August Long<br /><strike>August 2, 2021</strike> **July 17, 2021** | Labour Day<br />**Sept 6, 2021**
+Canada Day<br /><strike>July 1, 2021</strike> **June 26, 2021** | August Long<br /><strike>August 2, 2021</strike> **July 17, 2021** | Labour Day<br /><strike>Sept 6, 2021</strike> **August 7, 2021**
 <small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
 <small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ✅ July 17, 2021 | Status: ⏱ _Estimated reach: August 10, 2021_<br />_Estimated opening: August 14, 2021_
+Status: ✅ June 26, 2021 | Status: ✅ July 17, 2021 | Status: ✅ August 7, 2021
 
 <a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
-<a href="https://news.gov.mb.ca/news/index.html?item=51739&posted=2021-07-14" class="button">PHASE 2 Official Announcement</a>
+<a href="https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03" class="button">PHASE 3 Official Announcement</a>
 
-### PHASE 2 ✅✅⚪️ 
+### PHASE 3 ✅✅⚪️ 
 
-_Begins Saturday, July 17, 2021_
+_Begins Saturday, August 7, 2021_
 
-- Private gatherings at residences: indoor up to 5 people (plus residing household), outdoor up to 25 people.
-- Public gatherings: indoor up to 25 people, outdoor up to 150 people.
-- Retail businesses increase to 50% capacity or 500 people, whichever is lower.
-- Restaurants, licensed premises and food court capacities expand to 50% capacity:
-   - Outdoor maximum table size 8 people; Indoor dining to members of same household only OR multiple households if everyone age 12+ are fully immunized (unvaccinated children under 12 may dine with fully vaccinated members of their household in this case).
-   - Opening hours extend to midnight and the requirement to purchase food when ordering alcohol no longer applies.
-   - VLTs may operate with all other restaurant/bar rules applying (two-metre distance, only households or fully vaccinated people seated together);
-- Personal services (hair, nails, massage, etc) continue at 50% capacity but with appointments no longer necessary.
-- Dance, theatre, and music school capacities increase to 50% capacity to a maximum of 25 people per group.
-- Indoor sporting facilities may host groups up to a maximum of 25 people, with interaction between groups and tournaments are not permitted.
-- Day camp capacity increases to groups of 25, joint activities between groups and overnight camps are prohibited.
-- Outdoor recreation including games and practices may take place to maximum group size of 50 people; spectators are permitted and do not count towards this capacity limit; tournaments are not permitted.
-- Gyms and fitness centres expand to 50% capacity; masks and distancing of 3 metres are still required.
-- Outdoor weddings and funerals may include up to 150 participants in addition to photographers and officiants; indoor weddings or funerals increase to 25 people in addition to photographers and officiants.
-- Libraries may open to 50% capacity to a maximum of 150 people, whichever is lower.
-- Faith-based and cultural gatherings expand to 50% capacity or 150 people indoors, whichever is lower. If the facility design allows, cohorts can be used in different spaces. Outdoor allows up to 150 people and no limits for drive-in services.
-- Movie theatres, bingo halls, VLT lounges and casinos, and museums and galleries may now reopen for fully immunized people (age 12+) only, to a maximum capacity of 50%.
-- Large-scale, outdoor professional sports or performing arts events may operate with capacities up to 100% after developing an approved event plan in consultation with public health.
+The following sectors to open without restrictions:
+
+- Indoor and outdoor gatherings at private residences
+- personal services such as hair and nail salons
+- gyms and fitness centres
+- day camps
+- retail businesses, markets, garden centres and malls 
+- libraries
+
+Other sectors will open with limited restrictions including:
+
+- Indoor gatherings and organized events, such as weddings, funerals, banquets, receptions and selfhelp groups: capacity limited to 50 people or 50% of capacity, whichever is greater.
+- Indoor community, cultural and religious gatherings: 150 participants or 50% capacity, whichever is greater.
+- Outdoor gatherings and organized events, such as weddings, funerals and receptions in public setting capacity limited to 1,500 people or 50% of capacity, whichever is lesser.
+- Outdoor community, cultural and religious gatherings 1,500 people or 50% of the capacity of a place, whichever is lesser. Drive-in services remain unrestricted.
+- Restaurants and bars will no longer need to restrict the size or space between tables and dining will not be restricted to households or vaccinated individuals.
+- Museums, galleries and movie theatres will remain limited to 50% capacity but will no longer be restricted to vaccinated individuals.
+- Casinos and bingo halls, professional sporting events, horse and auto racing, and concert halls will continue to be limited to vaccinated individuals; however, all these facilities may now open to 100% capacity.
+- Indoor and outdoor sports and recreation will fully reopen with limits only on spectator capacity.
+- Overnight camps will be permitted with limits on camper cohorts of 15 participants.
+- Workplaces must continue to report cases to government for followup and public health-confirmed transmission of COVID-19 in the workplace may result in workplaces being ordered to close for a minimum of 10 days.
+- Remote working will no longer be required or recommended by public health and workplaces will be encouraged to transition from COVID safety plans to a general communicable disease prevention plan that focuses on basic risk-reduction principles to reduce the risk of workplace transmission of COVID-19 and other respiratory illnesses.
+
+Masks are no longer required in indoor public spaces, but now strongly recommended instead. Businesses may still have their own requirements for mask use.
 
 For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
 
