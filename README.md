@@ -70,7 +70,7 @@ Status: ✅ June 26, 2021 | Status: ✅ July 17, 2021 | Status: ✅ August 7, 20
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03" class="button">PHASE 3 Official Announcement</a>
 
-### PHASE 3 ✅✅⚪️ 
+### PHASE 3 ✅✅✅
 
 _Begins Saturday, August 7, 2021_
 
