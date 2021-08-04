@@ -62,11 +62,9 @@ City | Address | Dates/Times (or until they run out for the day)
 ✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | Aug 5: 11:00am - 8:00pm<br />Aug 7: 8:00am - 3:00pm
 ✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Aug 5: 1:00pm - 8:00pm<br />Aug 7: 8:00am - 3:00pm<br />Aug 9: 4:30pm - 7:30pm
 ✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Aug 4: 11:00am - 6:00pm<br />Aug 7: 10:30am - 1:30pm
-✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 5: 11:00am - 6:00pm
+✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 5: 11:00am - 6:00pm<br />Aug 10: 1:00pm - 8:00pm
 ✅ **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | Aug 4: 11:00am - 6:00pm
 
-
-If you have any updated info for these locations, please direct message us via Instagram/Facebook. :)
 
 ## Appointments
 
