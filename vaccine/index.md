@@ -51,7 +51,7 @@ Health Region | Location | Address | Date | Time | Info
 Most supersites are now offering **walk-ins** (Moderna and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
 City | Address | Dates/Times (or until they run out for the day)
---- | --- | --- | ---
+--- | --- | --- |
 ✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | Aug 4: 7:00am - 2:00pm<br />Aug 5: 9:00am - 8:00pm<br />Aug 6: 7:00am - 2:00pm<br />Aug 7: 9:00am - 4:00pm
 ✅ **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | Aug 4: 3:00pm - 10:00pm<br />Aug 8: 9:00am - 4:00pm<br />Aug 9: 3:00pm - 10:00pm<br />Aug 10: 3:00pm - 10:00pm
 ✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | Aug 4: 8:30am - 6:00pm<br />Aug 5: 11:00am - 6:00pm<br />Aug 7: 10:30am - 1:30pm
