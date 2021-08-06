@@ -41,10 +41,9 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Health Region | Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- | -- 
-**Prairie Mountain** | **Deloraine** | **Deloraine Winchester Community Hall** | **August 4th** | **4:00PM-8:00PM** |
-**Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** | **4:00PM-8:00PM** | Pfizer (12+) & Moderna (18+) available
 **Prairie Mountain** | **Minnedosa Beach** | **Beach Pavilion** (Upper Level) | **August 6th** | **1:00PM-3:00PM** | Pfizer (12+) & Moderna (18+) available
 **Prairie Mountain** | **Riding Mountain National Park** | **Sportsman's Park** (Market Area) | **August 7th** | **8:00AM-2:00PM** | Pfizer (12+) & Moderna (18+) available
+**Prairie Mountain** | **Russell** | **447 Main Street North** | **August 10th** | **4:00PM-8:00PM** | Pfizer (12+) & Moderna (18+) available
 **Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | **2:00PM-6:00PM** |
 
 ### Super Site Walk-ins
@@ -71,9 +70,8 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Health Region | Location | Address | Date | Info
 --- | --- | --- | --- |---
-**Northern** | **Flin Flon** | **Flin Flon Community Hall** (2 North Ave) | **August 5th** |Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (10:30AM - 6:30PM)
-**Prairie Mountain** | **Deloraine** | **Deloraine Winchester Community Hall** | **August 4th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 8:00PM)
-**Prairie Mountain** | **Swan River** | **Veterans Hall** (119 6th Ave N) | **August 5th** |Pfizer (12+) & Moderna (18+) available. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 8:00PM)
+**Prairie Mountain** | **Russell** | **447 Main Street North** | **August 10th**  | Pfizer (12+) & Moderna (18+) available. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 6:00PM)
+**WRHA** | **Winnipeg** | **807 McLeod Ave** | **Aug 6th** | Pfizer available for 12+.  Book by emailing WCCLI.MB@gmail.com or call 204-227-5758 (Raj Sandhu) or 204-963-9266 (Balwinder Mann)  Free giveaways & snacks!
 **Interlake-Eastern** | **Stonewall** | **Stonewall Legion** (459 Main St) | **August 5th** | Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (2:00PM - 6:00PM)
 
 
