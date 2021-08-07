@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: August 3, 2021_
+_Last updated: August 7, 2021_
 
 <div class="feature-grid">
     <a href="#reopening">
@@ -53,11 +53,11 @@ _Last updated: August 3, 2021_
 <a name="reopening"></a>
 ## Re-opening Plan
 
-_Last updated: August 3, 2021_
+_Last updated: August 7, 2021_
 
-<a href="#restrictions" class="button">View Current Restrictions (as of July 17)</a>
+<a href="#restrictions" class="button">View Current Restrictions (as of August 7)</a>
 
-Manitoba has announced its re-opening plans. The 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
+Manitoba's 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
 
 Phase 1 | Phase 2 | Phase 3
 --- | --- | ---
@@ -109,129 +109,133 @@ For more clarification on some changes, please see the [Current Restrictions](#r
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: July 17, 2021_
+_Last updated: August 7, 2021_
 
-The following restrictions are in effect as of Saturday, July 17, 2021, at 12:01 am:
+The following restrictions are in effect as of Saturday, August 7, 2021, at 12:01 am:
+
+
+### Confirmed Cases and Close Contacts
+
+- Individuals identified as having COVID-19 must immediately enter mandatory isolation/self-isolation (quarantine) until public health officials advise they can end isolation/self-isolation (quarantine).
+- Household members or close contacts of a person or persons with COVID-19 must immediately go into mandatory self-isolation (quarantine) for 14 days from the last date of exposure and call Health Links--Info Santé (204-788-8200 or 1-888-315-9257) if they develop symptoms if they are not fully vaccinated (two doses).
+- Fully vaccinated (two doses) household members or close contacts of a COVID-19 case are not required to self-isolate.
 
 
 ### Gatherings
 
 - **Residential Gatherings**
-   - A maximum of 5 visitors plus the household, are permitted at an indoor public gathering.
-   - A maximum of 25 people are permitted outdoors on private property. Visitors may briefly enter the home for essential reasons. 
+   - Residential indoor and outdoor gatherings are permitted with no restrictions. 
 - **Public Gatherings**
-   - 25 people maximum are permitted at an indoor public place or the common areas of a multi-unit residence.
-   - 150 people maximum are permitted in outdoor public spaces.
+   - Indoor gatherings at an indoor public place or the common areas of a multi-unit residence limited to 50 people or 50% of capacity, whichever is greater.
+   - Outdoor gatherings in public setting limited to 1,500 people or if the outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
-### Funerals
+### Masks
 
-- Funerals may have up to 25 people for indoor services in additional to the officiant.
-- Outdoor funerals are limited to 150 persons in addition to the officiant.
-- If the funeral is held at a private residence, indoor and outdoor private gathering sizes apply.
+- Masks are strongly recommended in indoor public settings for everyone who is not fully immunized including children under 12.
+- Fully immunized people may continue to wear masks depending on their own personal risk assessment.
+- Public health officials recommend wearing a mask in indoor public gatherings. This is especially important for the unvaccinated and during higher-risk activities, such as singing or when distancing is not likely to be maintained.
 
 
-### Weddings
+### Weddings & Funerals
 
-- Weddings can have up to 25 people for indoor ceremonies, in addition to the officiant and a photographer or videographer.
-- Outdoor weddings are limited to 150 persons in addition to the officiant and a photographer or videographer.
-- If the wedding is held at a private residence, indoor and outdoor private gathering sizes apply.
+- Indoor weddings and funerals can have up to 50 people, or 50% capacity whichever is greater
+- Outdoor weddings and funerals are limited to 1500 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
 ### Retail stores and malls
 
 _Includes markets, garden centres, and occasional pop-up retail._
 
-- Retail stores may open with increased capacity at 50% to a limit of 500 persons, no additional restrictions.
-- Malls may open to 50% of the combined capacity of the businesses that are open in the mall, not including any common areas of the mall.
-- Food courts in a mall may open as long as it does not exceed 50% of the usual seating capacity.
-- Persons may sit together at a table in a food court only if:
-    - they are all fully immunized.
-    - they all reside in the same private residence, regardless of their immunization status.
-    - there is a combination of persons over and under 12 years of age at the table, but all persons over 12 years of age are fully immunized.
+- May open with no restrictions.
 
 
 ### Outdoor and Indoor Sports and Recreation
 
 - **Indoor** Sports and Recreation
-   - Open to 50% capacity to a limit of 25 persons in a group. No tournaments allowed.
+    - All indoor group activities permitted with no capacity limits on participants. This includes games, practices, competitions/tournaments, day camps, rehearsals and recitals.
+    - Spectator capacity limits still apply - 50% capacity. This includes other teams who are not active on the field of play (e.g. at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
 - **Outdoor** Sports and Recreation
-   - Open for up to 50 people, spectators are permitted and do not count towards the capacity limit. No tournaments allowed.
-- Dance, Theatre, and Music Schools
-   - Open at 50% capacity to a limit of 25 persons per group indoors.
+    - No capacity limits for participants. Includes games, practices, competitions/tournaments, day camps, rehearsals and recitals.
+    - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play (e.g. at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
 
 
 ### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
 
-- Open at 50% capacity with 3 metres of space between masked patrons.
+- May open with no restrictions.
 
 
 ### Libraries
 
-- May open to a 50% capacity, to a maximum of 150 persons.
+- May open with no restrictions.
 
 
-### Museums, Galleries Concert Halls and Movie Theatres
+### Museums, Galleries and Movie Theatres
 
-- Museums, galleries, concert halls and movie theatres may open for fully immunized (two doses, and two weeks post second dose) to a maximum capacity of 50%.
-- Unvaccinated children under the age of 12 may attend/visit these facilities if accompanied by a fully vaccinated member of their household.
+- Museums, galleries and movie theatres may open to 50% of the capacity of the venue, regardless of vaccination status.
 
 
-### Large-scale Outdoor Professional Sports or Performing Arts Events
+### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
 
-- Large-scale professional outdoor sports or performing arts events may open for fully immunized (two doses and two weeks post second dose) to a maximum of 100%.
-- Unvaccinated children under the age of 12 may attend/visit these events if accompanied by a fully vaccinated member of their household.
+- Professional outdoor sports, outdoor performing arts events and concert halls may open for fully immunized (two doses and two weeks post second dose) to a maximum of 100%.
+- Other large scale events with more than 1,500 people who are fully immunized may be permitted with a plan approved by public health.
+- Outdoor fairs, festivals and community events may be held with a plan approved by public health and if the number of people attending does not exceed 1,500 people or 50% of the site’s capacity.
+- Horse and Auto Racing open to 100% for fully immunized people, with a plan approved by public health.
+
+Where applicable above, unvaccinated children under 12 may attend if accompanied by fully vaccinated household members.
 
 
 ### Casinos and VLTs
 
-- May reopen for fully immunized people to a maximum capacity of 50%.
-- VLTs in licensed establishments may be operated with 2 metres of physical distancing and all other restaurant/bar rules applying.
-   - VLTs in unlicensed establishments will follow the Casino rules for fully immunized people only.
+- Open to 100% capacity for fully immunized people only.
 
 
-### Community, Cultural and Religious Gatherings
+### Cultural and Religious Gatherings
 
-- Indoor gatherings open to 50% capacity to a limit of 150 persons, with continued physical distancing and masks worn at all times.
-- Outdoor gatherings open to 150 persons. Drive-in services continue to be permitted.
+- Indoor gatherings open to 150 participants or 50% capacity, whichever is greater.
+- Outdoor gatherings open to 1,500 people or 50% of the capacity of a place, whichever is lesser.
+- Drive-in services remain unrestricted.
 
 
 ### Restaurants & Bars
 
 _Includes other public food establishments, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
-- Open at 50% capacity for indoors and outdoor dining.
-   - **Indoor** dining patrons seated together must be from the same household, unless all patrons age 12+ at the table are fully immunized.
-   - **Outdoor** dining table sizes are limited to 8 people and may include multiple households with or without vaccination.
-- These organizations may stay open until midnight.
-- There is no longer a requirement to purchase food when purchasing alcohol.
+- There will be no group limits for indoor and outdoor dining, no capacity limits or separation requirements between tables and immunization cards will not be required to access services. However, guests must remain seated as much as possible and patrons should maintain two-metre distance whenever they are away from their table.
+- Staff must ensure patrons do not congregate inside/outside restaurants or licensed premises and there is to be no socializing between tables. 
+- Operating hours no longer restricted.
+- Dance floors remain closed and sound levels must remain limited below 80-decibel levels.
 
 
 ### Personal Service Businesses
 
 _Includes businesses such as hair, nails, tattoos, etc._
 
-- Open at 50% capacity, appointments are not required.
+- May open with no restrictions.
 
 
 ### Therapeutic Care
 
 - Regulated professions, massage therapists and athletic therapists can continue to provide services.
 - Non-regulated health services, such as pedorthists and reflexologists, can open with adequate physical distancing and requirements to collect information for contact tracing purposes.
+- Therapeutic care services, such as regulated professions like physician/dentist offices, massage therapists and athletic therapists, as well as non-regulated health services, such as pedorthists and reflexologists, can make their own decisions about mask requirements as they are a private business.
 
 
 ### Support groups
 
-- Indoor gathering limits apply. Up to 25 people permitted.
-- Outdoor self-help gatherings open to 150 persons. Drive-in services permitted. 
+- Indoor and outdoor gathering limits apply.
 
 
 ### Child Care and Day Camps
 
-- Family child-care homes and child-care centres can open and operate in accordance with applicable legislation.
-- Day camps are open to a maximum of 20 participants in a group as of July 1.
-- School-Aged Children Allowed to Return to Child-Care Programs, Day Camps Following End of School Year - June 18, 2021.
-- [COVID-19 Early Learning and Child Care Practice Guidance](https://www.gov.mb.ca/fs/pubs/2020-145r-covid-19-attachment-elcc-practice-guide-updated-may-18-2021.pdf) (PDF)
+- Day camps may open without restriction.
+- Overnight camps may operate with restrictions:
+    - The number of camp and staff in a group does not exceed 15;
+    - There is no interaction between groups; and,
+    - The camp operates within a plan approved by public health.
+Family child-care homes and child-care centres can open and operate in accordance with applicable legislation.
+    - [COVID-19 Early Learning and Child Care Practice Guidance](https://www.gov.mb.ca/fs/pubs/2020-145r-covid-19-attachment-elcc-practice-guide-updated-may-18-2021.pdf) (PDF)
+    - A revised Coronavirus (COVID-19) Early Learning and Child Care Practice Guidance document with technical information will be distributed within the next few weeks to reflect the new public health directives.
 
 
 ### Travel to and from Manitoba
@@ -239,13 +243,12 @@ _Includes businesses such as hair, nails, tattoos, etc._
 - Fully vaccinated (two doses) individuals can now travel within Canada without being required to self-isolate for 14 days upon arrival back in the province.
 - 14 days of self-isolation is still required for people returning or coming to Manitoba from all jurisdictions if they have received one or no vaccine doses. For information on current exemptions, visit: [Self-isolation Exemptions](https://manitoba.ca/covid19/fundamentals/self-isolation.html#exemptions).
 - Individuals who travelled internationally must follow federal testing and self-isolation (quarantine) [requirements](https://travel.gc.ca/travel-covid/travel-restrictions/isolation). For information on current exemptions, visit: [Self-isolation Exemptions](https://manitoba.ca/covid19/fundamentals/self-isolation.html#exemptions).
-- All domestic travellers who are not exempt from quarantine in the orders are strongly advised get **two** COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba.
-- They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of Manitoba and share the location of travel. Travellers, who are not exempt from quarantine, must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
+- All domestic travellers who are not exempt from quarantine in the orders are strongly advised get **two** COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba. They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of Manitoba and share the location of travel. Travellers, who are not exempt from quarantine, must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
 - Testing as a result of domestic travel is not required for individuals who are exempt from quarantine in the provincial public health orders.
 - See the [State of Emergency and Current Public Health Orders](https://www.manitoba.ca/covid19/prs/orders/index.html#self-isolation) page for more information and exemptions to self-isolation.
 
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51739&posted=2021-07-14) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-07152021.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-08052021.pdf) (PDF) here.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
