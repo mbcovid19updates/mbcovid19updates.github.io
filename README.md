@@ -410,7 +410,7 @@ Alternatively, individuals can [complete the e-form to update their immunization
 <a name="vaccine-cards"></a>
 ### Vaccine Cards
 
-_Last updated: July 20, 2021_
+_Last updated: August 7, 2021_
 
 Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
 
@@ -427,10 +427,8 @@ Manitobans who are fully immunized (two vaccine doses plus two weeks from the ti
 - Visit fully immunized loved ones in personal care homes or hospitals.
 - Participate in social or communal activities, if you are a resident of a personal care home or congregate living facility.
 - Travel domestically for essential and non-essential purposes outside of Manitoba without the requirement to self-isolate on their return.
-- Dine indoors at restaurants and bars with other fully immunized friends and family from outside your household.
 - Access to large-scale, outdoor professional sports or performing arts events.
 - Access to Casinos and VLT lounges.
-- Access to movie theatres, bingo halls, and museums and galleries.
 
 **NOTE:** Unvaccinated children under the age of 12 may attend/visit the above events (where applicable) if accompanied by a fully vaccinated member of their household.
 
