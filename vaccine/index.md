@@ -56,10 +56,10 @@ City | Address | Dates/Times (or until they run out for the day)
 ✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Aug 9: 2:00pm - 9:00pm<br />Aug 12: 9:00am - 8:00pm<br />Aug 14: 8:00am - 3:00pm
 ✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | Aug 9: 8:00am - 3:00pm<br />Aug 10: 2:00pm - 9:00pm
 ✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | N/A
-✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Aug 9: 4:30pm - 7:30pm<br />Aug 12: 1:00pm - 8:00pm<br />Aug 14: 8:00am - 3:00pm
-✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Aug 9: 4:30pm - 7:30pm<br />Aug 14: 10:30am - 1:30pm
+✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Aug 12: 1:00pm - 8:00pm<br />Aug 14: 8:00am - 3:00pm
+✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Aug 14: 10:30am - 1:30pm
 ✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 10: 1:00pm - 8:00pm<br />Aug 12: 11:00am - 6:00pm
-✅ **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | N/A
+✅ **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | Aug 11: 11:00am - 6:00pm 
 
 
 ## Appointments
