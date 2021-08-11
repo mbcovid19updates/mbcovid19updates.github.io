@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: August 9, 2021_
+_Last updated: August 10, 2021_
 
 Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
 
@@ -48,17 +48,17 @@ Health Region | Location | Address | Date | Time | Info
 
 Most supersites are now offering **walk-ins** (Moderna and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
-City | Address | Dates/Times (or until they run out for the day)
+City | Address | Dates/Times
 --- | --- | --- |
 ✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | Aug 11: 7:00am - 2:00pm<br />Aug 12: 9:00am - 8:00pm<br />Aug 13: 7:00am - 2:00pm<br />Aug 14: 9:00am - 4:00pm
-✅ **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | Aug 9: 3:00pm - 10:00pm<br />Aug 10: 3:00pm - 10:00pm
+✅ **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | N/A
 ✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | Aug 11: 8:30am - 3:30pm<br />Aug 12: 11:00am - 6:00pm<br />Aug 14: 10:30am - 1:30pm
-✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Aug 9: 2:00pm - 9:00pm<br />Aug 12: 9:00am - 8:00pm<br />Aug 14: 8:00am - 3:00pm
-✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | Aug 9: 8:00am - 3:00pm<br />Aug 10: 2:00pm - 9:00pm
+✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Aug 12: 9:00am - 8:00pm<br />Aug 14: 8:00am - 3:00pm
+✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | N/A
 ✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | N/A
 ✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Aug 12: 1:00pm - 8:00pm<br />Aug 14: 8:00am - 3:00pm
 ✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Aug 14: 10:30am - 1:30pm
-✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 10: 1:00pm - 8:00pm<br />Aug 12: 11:00am - 6:00pm
+✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 12: 11:00am - 6:00pm
 ✅ **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | Aug 11: 11:00am - 6:00pm 
 
 
