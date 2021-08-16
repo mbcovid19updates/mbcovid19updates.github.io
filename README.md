@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: August 12, 2021_
+_Last updated: August 16, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -258,20 +258,20 @@ For more clarification on some changes, please see the [Current Restrictions](#r
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: June 25, 2021_
+_Last updated: August 16, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
 ### First Doses
 
-- **Anyone age 12 and up** is eligible to receive their first dose of a COVID vaccine.
-   - Young people aged 12 to 17 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
+- **Anyone born on or before December 31, 2009 (roughly age 11½ and up** is eligible to receive their first dose of a COVID vaccine.
+   - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
 ### Second Doses
 
-- **Anyone age 12 and up** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose.
+- **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose.
    - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
-   - Young people aged 12 to 17 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
+   - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
    - If AstraZeneca was your first dose, an 8-12 week interval is recommended, but can be as low as 28 days.
 
 #### Wasn't Pfizer 21 days?
