@@ -25,15 +25,15 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 <a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
 
 
-### Pharmacy Chains
+### Pharmacies
 
 <a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo</a>
 
-<a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart Pharmacy</a>
+<a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart</a>
 
-<a href="https://costcopharmacy.ca/appointment" class="button">Costco Pharmacy</a>
+<a href="https://costcopharmacy.ca/appointment" class="button">Costco</a>
 
-<a href="https://covid-19.shoppersdrugmart.ca/en" class="button">Shopper's Drug Mart</a>
+<a href="https://covid-19.shoppersdrugmart.ca/en" class="button">Shoppers Drug Mart</a>
 
 <a href="https://greencrestrx.com/index.html" class="button">Greencrest Pharmacy</a>
 
