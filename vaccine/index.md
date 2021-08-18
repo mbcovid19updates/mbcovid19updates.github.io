@@ -2,8 +2,6 @@
 
 _Last updated: August 18, 2021_
 
-Please check this page daily for new updates. If you have anything we should add, please direct message us on Instagram or Facebook with the complete details.
-
 <a href="https://mbupdates.ca/" class="button">Return to homepage</a>
 
 - [Vaccine Finder Tools](#vaccine-finder-tools)
@@ -29,9 +27,17 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 ### Pharmacy Chains
 
-<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo Appointment Scheduler</a>
+<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo</a>
 
-<a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart Appointment Scheduler</a>
+<a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart Pharmacy</a>
+
+<a href="https://costcopharmacy.ca/appointment" class="button">Costco Pharmacy</a>
+
+<a href="https://covid-19.shoppersdrugmart.ca/en" class="button">Shopper's Drug Mart</a>
+
+<a href="https://greencrestrx.com/index.html" class="button">Greencrest Pharmacy</a>
+
+<a href="https://exchangedistrictrx.com/" class="button">Exchange District Pharmacy</a>
 
 
 ## Walk-ins
