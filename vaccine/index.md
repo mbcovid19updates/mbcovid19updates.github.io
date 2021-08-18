@@ -41,8 +41,7 @@ The following are (non-supersite) clinics offering walk-in immunizations.  No ap
 
 Health Region | Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- | -- 
-**Prairie Mountain** | **Russell** | **447 Main Street North** | **August 10th** | **4:00PM-8:00PM** | Pfizer (12+) & Moderna (18+) available
-**Prairie Mountain** | **Benito** | **Benito Health Centre** (200 1st Street SE) | **August 12th** | **NOON-2:00PM** |
+**N/A** | **N/A** | N/A | **N/A** | N/A | N/A
 
 ### Super Site Walk-ins
 
@@ -68,7 +67,7 @@ The following are clinics offering scheduled appointments.  You must book at the
 
 Health Region | Location | Address | Date | Info
 --- | --- | --- | --- |---
-**Prairie Mountain** | **Russell** | **447 Main Street North** | **August 10th**  | Pfizer (12+) & Moderna (18+) available. Call [1-844-626-8222](tel:18446268222) to book.  Limited number of walk-ins also available (4:00PM - 6:00PM)
+**N/A** | **N/A** | N/A | **N/A** | N/A
 
 
 ## Urban Indigenous Clinics
