@@ -5,10 +5,13 @@ _Last updated: August 18, 2021_
 <a href="https://mbupdates.ca/" class="button">Return to homepage</a>
 
 - [Vaccine Finder Tools](#vaccine-finder-tools)
-- [Walk-ins](#walk-ins)
 - [Super Site Walk-ins](#super-site-walk-ins)
-- [Appointments](#appointments)
 - [Urban Indigenous Clinics](#urban-indigenous-clinics)
+
+<!-- HIDE FOR NOW
+- [Walk-ins](#walk-ins)
+- [Appointments](#appointments)
+-->
 
 ## Vaccine Finder Tools
 
@@ -40,6 +43,8 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 <a href="https://exchangedistrictrx.com/" class="button">Exchange District Pharmacy</a>
 
 
+<!-- HIDE FOR NOW
+
 ## Walk-ins
 
 The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.
@@ -49,7 +54,9 @@ Health Region | Location | Address | Date | Time | Info
 --- | --- | --- | --- | --- | -- 
 **N/A** | **N/A** | N/A | **N/A** | N/A | N/A
 
-### Super Site Walk-ins
+-->
+
+## Super Site Walk-ins
 
 Most supersites are now offering **walk-ins** (Moderna and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
@@ -67,6 +74,8 @@ City | Address | Dates/Times
 ✅ **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | Aug 18: 11:00am - 6:00pm<br />Aug 25: 11:00am - 6:00pm
 
 
+<!-- HIDE FOR NOW
+
 ## Appointments
 
 The following are clinics offering scheduled appointments.  You must book at these locations in advance. (Availability may vary).
@@ -75,6 +84,7 @@ Health Region | Location | Address | Date | Info
 --- | --- | --- | --- |---
 **N/A** | **N/A** | N/A | **N/A** | N/A
 
+-->
 
 ## Urban Indigenous Clinics
 
