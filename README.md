@@ -219,6 +219,8 @@ Status: ✅ June 26, 2021 | Status: ✅ July 17, 2021 | Status: ✅ August 7, 20
 <a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
 <a href="https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03" class="button">PHASE 3 Official Announcement</a>
 
+<!-- HIDE FOR NOW 
+
 ### PHASE 3 ✅✅✅
 
 _Begins Saturday, August 7, 2021_
@@ -250,6 +252,8 @@ Masks are no longer required in indoor public spaces, but now strongly recommend
 
 For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
 
+-->
+
 <a href="#restrictions" class="button">View Current Restrictions</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -264,7 +268,7 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### First Doses
 
-- **Anyone born on or before December 31, 2009 (roughly age 11½ and up** is eligible to receive their first dose of a COVID vaccine.
+- **Anyone born on or before December 31, 2009** (roughly age 11½ and up) is eligible to receive their first dose of a COVID vaccine.
    - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
 ### Second Doses
@@ -301,7 +305,6 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 <a href="/vaccine" class="button">Our Vaccine Locator</a>
 <a href="#vaccine-walkins" class="button">Super Site Walk-ins</a>
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
-<a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
 
 #### Super-sites in Manitoba
 
@@ -427,7 +430,7 @@ Manitobans who are fully immunized (two vaccine doses plus two weeks from the ti
 - Visit fully immunized loved ones in personal care homes or hospitals.
 - Participate in social or communal activities, if you are a resident of a personal care home or congregate living facility.
 - Travel domestically for essential and non-essential purposes outside of Manitoba without the requirement to self-isolate on their return.
-- Access to large-scale, outdoor professional sports or performing arts events.
+- Access to large-scale, indoor and outdoor professional sports or performing arts events.
 - Access to Casinos and VLT lounges.
 
 **NOTE:** Unvaccinated children under the age of 12 may attend/visit the above events (where applicable) if accompanied by a fully vaccinated member of their household.
@@ -661,11 +664,14 @@ Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it'
 <a name="fines"></a>
 ## Fines
 
-_Last updated: June 11, 2021_
+_Last updated: August 19, 2021_
 
 Below is a summary of Fine amounts for violating public health orders in Manitoba:
 
+<!-- HIDE FOR NOW
 - **$298** for not wearing a mask in indoor public places. _Increases to $486 for repeat offenders._
+-->
+
 - **$1,296** to individuals for failing to comply with public health orders such as illegal gatherings, failing to isolate, etc. _Increases to $2,542 for repeat offenders._
 - **$5,000** to corporations for failing to comply with public health orders.
 
@@ -707,7 +713,7 @@ We also record daily progress of vaccinations per age group and health region an
 
 ### Vaccine Protection
 
-The Manitoba government currently does not make a breakdown of cases, hospitalizations and deaths by vaccine status. We instead use the Government of Canada's [COVID-19 Daily Epidemiology Update report](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) to display this breakdown of cases, hospitalizations and deaths based on vaccine status reported to Public Health Agency of Canada (PHAC) between December 14, 2020 and July 24, 2021.
+The Manitoba government currently does not make a breakdown of cases, hospitalizations and deaths by vaccine status. We instead use the Government of Canada's [COVID-19 Daily Epidemiology Update report](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) to display this breakdown of cases, hospitalizations and deaths based on vaccine status reported to Public Health Agency of Canada (PHAC) between December 14, 2020 and July 31, 2021.
 
 - **Full Vax** (or _Fully Vaccinated_) people were fully protected by the vaccine, as their episode date occurred 14 days or more after their second dose.
 - **Partial Vax** (or _Partially Vaccinated_) people were only partially protected by the vaccine, as their episode date occurred either 14 days or more after their first dose or less than 14 days after their second dose.
@@ -718,7 +724,7 @@ The Manitoba government currently does not make a breakdown of cases, hospitaliz
 
 We include fine print at the bottom of the dashboard to explain calculations, etc. It's likely too difficult to read in some cases, so here's a copy of it:
 
->All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 20% of them are 1st doses while 80% of them are 2nd doses. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>The Government of Canada [COVID-19 Daily Epidemiology Update report](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) includes findings of the breakdown of cases, hospitalizations and deaths based on vaccine status reported to PHAC between December 14, 2020 and July 24, 2021. Fully Vaccinated means the person received both doses plus 14 days after. Partially Vaccinated means the person only received 1 dose of vaccine plus 14 days after or less than 14 days after their second dose. Not yet protected means the person received 1 dose of vaccine but the 14 days have not yet passed (where full protection can take up to 14 days). Unvaccinated means the person received no vaccine at all. <sup>9</sup>Breakdown is based on the [2020 Manitoba Population report](https://www.gov.mb.ca/health/population/) (latest available). It does not account for changes in population since then, and does not account for people that may not be able to take the vaccine due to allergies, etc, but likely accounts for less than 1000 people in Manitoba). Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
+>All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 20% of them are 1st doses while 80% of them are 2nd doses. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>The Government of Canada [COVID-19 Daily Epidemiology Update report](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) includes findings of the breakdown of cases, hospitalizations and deaths based on vaccine status reported to PHAC between December 14, 2020 and July 31, 2021. Fully Vaccinated means the person received both doses plus 14 days after. Partially Vaccinated means the person only received 1 dose of vaccine plus 14 days after or less than 14 days after their second dose. Not yet protected means the person received 1 dose of vaccine but the 14 days have not yet passed (where full protection can take up to 14 days). Unvaccinated means the person received no vaccine at all. <sup>9</sup>Breakdown is based on the [2020 Manitoba Population report](https://www.gov.mb.ca/health/population/) (latest available). It does not account for changes in population since then, and does not account for people that may not be able to take the vaccine due to allergies, etc, but likely accounts for less than 1000 people in Manitoba). Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
