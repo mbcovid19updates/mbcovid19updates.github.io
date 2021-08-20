@@ -280,10 +280,9 @@ _Last updated: August 20, 2021_
 - Fully vaccinated (two doses) individuals in the USA can now travel TO Canada.
 https://travel.gc.ca/travel-covid
 
--->
-
-
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
+-->
 
 
 <a name="vaccine"></a>
