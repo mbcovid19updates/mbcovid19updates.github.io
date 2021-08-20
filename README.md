@@ -259,6 +259,33 @@ For more clarification on some changes, please see the [Current Restrictions](#r
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 
+<!-- DO NOT SHOW FOR NOW
+
+<a name="travel"></a>
+## Travel
+
+_Last updated: August 20, 2021_
+
+
+### Travel between provinces within Canada
+
+- Fully vaccinated (two doses) individuals can now travel within Canada without being required to self-isolate for 14 days upon arrival back in the province.
+- 14 days of self-isolation is still required for people returning or coming to Manitoba from all jurisdictions if they have received one or no vaccine doses. For information on current exemptions, visit: [Self-isolation Exemptions](https://manitoba.ca/covid19/fundamentals/self-isolation.html#exemptions).
+- When travelling to other provinces, you will need to follow their own guidelines for self-isolation (if applicable). Please check other provincial sites for more information on what the latest restrictions (if any) are.
+- All domestic travellers who are not exempt from quarantine in the orders are strongly advised get **two** COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba. They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of Manitoba and share the location of travel. Travellers, who are not exempt from quarantine, must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
+- Individuals identified as having COVID-19 must immediately enter mandatory isolation/self-isolation (quarantine) until public health officials advise they can end isolation/self-isolation (quarantine).
+
+### Travel to and from USA
+
+- Fully vaccinated (two doses) individuals in the USA can now travel TO Canada.
+https://travel.gc.ca/travel-covid
+
+-->
+
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
+
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
