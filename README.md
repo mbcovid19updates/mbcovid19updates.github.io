@@ -9,7 +9,7 @@ _Last updated: August 26, 2021_
     <a href="#reopening">
         <h3>Re-opening Plans</h3>
     </a>
-    <a href="/vaccine">
+    <a href="#vaccine-locator">
         <h3>Vaccine Locator</h3>
     </a>
     <a href="#vaccine-cards">
