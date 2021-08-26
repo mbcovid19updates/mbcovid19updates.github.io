@@ -8,57 +8,30 @@ _Last updated: August 26, 2021_
 - [Super Site Walk-ins](#super-site-walk-ins)
 - [Urban Indigenous Clinics](#urban-indigenous-clinics)
 
-<!-- HIDE FOR NOW
-- [Walk-ins](#walk-ins)
-- [Appointments](#appointments)
--->
-
 ## Vaccine Finder Tools
 
 Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options:
 
-<a href="https://www.manitobavaccine.ca/vaccine-finder/" class="button">ManitobaVaccine.ca Finder</a> (by **Doctors Manitoba**)
-
-<a href="https://protectmb.ca/" class="button">ProtectMB Vaccine Finder</a> (by Manitoba Government)
-
-<a href="https://appointments.vaccinehunters.ca/search/r3p1p6" class="button">Find Your Immunization</a> (by **Vaccine Hunters Canada** - search by postal code)
-
-<a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment at Super Site or Popup Clinic</a>
-
-<a href="https://manitobavaxx.ca/" class="button">ManitobaVaxx.ca Earliest Appointment Finder</a>
+- [ManitobaVaccine.ca Finder (by Doctors Manitoba)](https://www.manitobavaccine.ca/vaccine-finder/)
+- [ProtectMB Vaccine Finder (by Manitoba Government)](https://protectmb.ca/)
+- [Find Your Immunization (by Vaccine Hunters Canada) - search by postal code](https://appointments.vaccinehunters.ca/search/r3p1p6)
+- [Book Appointment at a Super Site or Popup Clinic](https://patient.petalmd.com/login?groupId=6032)
+- [ManitobaVaxx.ca Earliest Appointment Finder](https://manitobavaxx.ca/)
 
 
 ### Pharmacies
 
-<a href="https://www.pharmacyappointments.ca/" class="button">Sobeys / Safeway / FreshCo</a>
+- [Sobeys / Safeway / FreshCo](https://www.pharmacyappointments.ca/)
+- [Walmart](https://portal.healthmyself.net/walmartmb/forms/zye)
+- [Costco](https://costcopharmacy.ca/appointment)
+- [Shoppers Drug Mart](https://covid-19.shoppersdrugmart.ca/en)
+- [Greencrest Pharmacy](https://greencrestrx.com/index.html)
+- [Exchange District Pharmacy](https://exchangedistrictrx.com/)
 
-<a href="https://portal.healthmyself.net/walmartmb/forms/zye" class="button">Walmart</a>
-
-<a href="https://costcopharmacy.ca/appointment" class="button">Costco</a>
-
-<a href="https://covid-19.shoppersdrugmart.ca/en" class="button">Shoppers Drug Mart</a>
-
-<a href="https://greencrestrx.com/index.html" class="button">Greencrest Pharmacy</a>
-
-<a href="https://exchangedistrictrx.com/" class="button">Exchange District Pharmacy</a>
-
-
-<!-- HIDE FOR NOW
-
-## Walk-ins
-
-The following are (non-supersite) clinics offering walk-in immunizations.  No appointments are necessary.
-
-
-Health Region | Location | Address | Date | Time | Info
---- | --- | --- | --- | --- | -- 
-**N/A** | **N/A** | N/A | **N/A** | N/A | N/A
-
--->
 
 ## Super Site Walk-ins
 
-Most supersites are now offering **walk-ins** (Moderna and Pfizer in most cases). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
+Most supersites offer **walk-ins** (Moderna and Pfizer). The number of walk-ins and available doses may vary by day and by site. Sites will continue to prioritize first-dose immunizations for walk-ins when possible.
 
 City | Address | Dates/Times
 --- | --- | --- |
@@ -73,22 +46,9 @@ City | Address | Dates/Times
 ✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 31: 11:00am - 6:00pm
 
 
-
-<!-- HIDE FOR NOW
-
-## Appointments
-
-The following are clinics offering scheduled appointments.  You must book at these locations in advance. (Availability may vary).
-
-Health Region | Location | Address | Date | Info
---- | --- | --- | --- |---
-**N/A** | **N/A** | N/A | **N/A** | N/A
-
--->
-
 ## Urban Indigenous Clinics
 
-These clinics are only available for people who self-identity as First Nations (status or non-status), Metis or Inuit or people who share a household with someone who identifies as Indigenous.  They are also available for those who may face barriers in booking a vaccination appointiment such as those who are houseless.  Appointments at these clinics may be booked but walk-in appointments are also available daily.  An Elder or traditional Knowledge Keeper will be at sites regularly, and traditional ceremony, smudging and traditional medicines may also be offered
+These clinics are for anyone, but do prioritize people who self-identity as First Nations (status or non-status), Metis or Inuit or people who share a household with someone who identifies as Indigenous.  They are also available for those who may face barriers in booking a vaccination appointiment such as those who are houseless.  Appointments at these clinics may be booked but walk-in appointments are also available daily.  An Elder or traditional Knowledge Keeper will be at sites regularly, and traditional ceremony, smudging and traditional medicines may also be offered.
 
 Location | Address |Info 
 --- | --- | --- 
@@ -97,11 +57,3 @@ Location | Address |Info
 **Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-240-7272](tel:12042407272))
 **Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
 **Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) 
- 
-
-<!-- HIDE FOR NOW
----
-
-🙏 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://vaccinehunters.ca)) for maintaining this page!_
-
--->
