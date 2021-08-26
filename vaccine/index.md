@@ -1,6 +1,6 @@
 # Vaccine Locator
 
-_Last updated: August 18, 2021_
+_Last updated: August 26, 2021_
 
 <a href="https://mbupdates.ca/" class="button">Return to homepage</a>
 
@@ -15,7 +15,7 @@ _Last updated: August 18, 2021_
 
 ## Vaccine Finder Tools
 
-Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options. There are still many that fall through the cracks though, so be sure to also check out our curated [Walk-ins](#walk-ins) and [Appointments](#appointments) lists further below.
+Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options:
 
 <a href="https://www.manitobavaccine.ca/vaccine-finder/" class="button">ManitobaVaccine.ca Finder</a> (by **Doctors Manitoba**)
 
@@ -62,16 +62,16 @@ Most supersites are now offering **walk-ins** (Moderna and Pfizer in most cases)
 
 City | Address | Dates/Times
 --- | --- | --- |
-✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | Aug 19: 9:00am - 8:00pm<br />Aug 20: 7:00am - 2:00pm<br />Aug 21: 9:00am - 4:00pm
-✅ **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | Aug 22: 9:00am - 4:00pm<br />Aug 23: 3:00pm - 10:00pm<br />Aug 24: 3:00pm - 10:00pm
-✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | Aug 19: 12:30am - 7:30pm<br />Aug 21: 10:30am - 1:30pm
-✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Aug 19: 9:00am - 8:00pm<br />Aug 21: 8:00am - 3:00pm
-✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | Aug 22: 8:00am - 3:00pm<br />Aug 24: 2:00pm - 9:00pm
-✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | Aug 19: 2:00pm - 9:00pm<br />Aug 21: 8:00am - 3:00pm
-✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Aug 19: 1:00pm - 8:00pm<br />Aug 21: 8:00am - 3:00pm
-✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Aug 21: 10:30am - 1:30pm<br />Aug 23: 4:30pm - 7:30pm
-✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | N/A
-✅ **The Pas** | **The Pas Royal Canadian Legion** ([4 Veterans Way](https://goo.gl/maps/uL64fvuiCYDowAbZ9)) | Aug 25: 11:00am - 6:00pm
+✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | Aug 26: 7:00am - 2:00pm<br />Aug 27: 7:00am - 2:00pm<br />Aug 28: 9:00am - 4:00pm
+✅ **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | **FINAL DATES**<br />Aug 29: 9:00am - 4:00pm<br />Aug 30: 3:00pm - 10:00pm
+✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | Aug 26: 12:30pm - 7:30pm<br />Aug 28: 10:30am - 1:30pm
+✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Aug 26: 9:00am - 8:00pm<br />Aug 28: 8:00am - 3:00pm
+✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | Aug 29: 8:00am - 3:00pm<br />Aug 31: 2:00pm - 9:00pm
+✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | Aug 26: 2:00pm - 9:00pm<br />Aug 28: 8:00am - 3:00pm
+✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Aug 26: 1:00pm - 8:00pm<br />Aug 28: 8:00am - 3:00pm
+✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Aug 28: 10:30am - 1:30pm<br />Aug 30: 4:30pm - 7:30pm
+✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Aug 31: 11:00am - 6:00pm
+
 
 
 <!-- HIDE FOR NOW
@@ -99,7 +99,9 @@ Location | Address |Info
 **Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) 
  
 
+<!-- HIDE FOR NOW
 ---
 
-
 🙏 _Special thanks to **Beverly B.** ([Vaccine Hunters Canada](https://vaccinehunters.ca)) for maintaining this page!_
+
+-->
