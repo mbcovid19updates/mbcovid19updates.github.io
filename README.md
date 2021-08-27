@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: August 26, 2021_
+_Last updated: August 27, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -54,7 +54,7 @@ _Last updated: August 26, 2021_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: August 7, 2021_
+_Last updated: August 27, 2021_
 
 The following restrictions are in effect as of Saturday, August 7, 2021, at 12:01 am:
 
@@ -77,8 +77,9 @@ The following restrictions are in effect as of Saturday, August 7, 2021, at 12:0
 
 ### Masks
 
-- Masks are strongly recommended in indoor public settings for everyone who is not fully immunized including children under 12.
-- Fully immunized people may continue to wear masks depending on their own personal risk assessment.
+_Revised August 28, 2021_
+
+- Masks are required in all indoor public spaces.
 - Public health officials recommend wearing a mask in indoor public gatherings. This is especially important for the unvaccinated and during higher-risk activities, such as singing or when distancing is not likely to be maintained.
 
 
