@@ -78,7 +78,7 @@ The following restrictions are in effect as of Saturday, August 7, 2021, at 12:0
    - Outdoor gatherings in public setting limited to 1,500 people or if the outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
-### Masks
+### Mask Use
 
 _Revised August 30, 2021_
 
