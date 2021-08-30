@@ -80,7 +80,7 @@ The following restrictions are in effect as of Saturday, August 7, 2021, at 12:0
 
 ### Mask Use
 
-_Revised August 30, 2021_
+_Revised August 28, 2021_
 
 - Masks are required in all indoor public spaces.
 - Public health officials recommend wearing a mask in indoor public gatherings. This is especially important for the unvaccinated and during higher-risk activities, such as singing or when distancing is not likely to be maintained.
