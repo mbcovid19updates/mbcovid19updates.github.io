@@ -6,8 +6,8 @@ _Last updated: August 30, 2021_
     <a href="#restrictions">
         <h3>Current Restrictions</h3>
     </a>
-    <a href="#reopening">
-        <h3>Re-opening Plans</h3>
+    <a href="#masks">
+        <h3>Mask Mandate</h3>
     </a>
     <a href="#vaccine-locator">
         <h3>Vaccine Locator</h3>
@@ -26,6 +26,9 @@ _Last updated: August 30, 2021_
     </a>
     <a href="#astrazeneca">
         <h3>AstraZeneca</h3>
+    </a>
+    <a href="#reopening">
+        <h3>Re-opening Plans</h3>
     </a>
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
@@ -77,10 +80,12 @@ The following restrictions are in effect as of Saturday, August 7, 2021, at 12:0
 
 ### Masks
 
-_Revised August 28, 2021_
+_Revised August 30, 2021_
 
 - Masks are required in all indoor public spaces.
 - Public health officials recommend wearing a mask in indoor public gatherings. This is especially important for the unvaccinated and during higher-risk activities, such as singing or when distancing is not likely to be maintained.
+
+<a href="#masks" class="button">For full details about Mask use, please see Mask Mandate section</a>
 
 
 ### Weddings & Funerals
@@ -194,8 +199,60 @@ Family child-care homes and child-care centres can open and operate in accordanc
 - See the [State of Emergency and Current Public Health Orders](https://www.manitoba.ca/covid19/prs/orders/index.html#self-isolation) page for more information and exemptions to self-isolation.
 
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-08052021.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-08272021.pdf) (PDF) here.
 
+
+↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
+
+<a name="masks"></a>
+## Mask Mandate
+
+_Last updated: August 30, 2021_
+
+A person who enters or remains in an indoor public place must wear a mask in a manner that covers their mouth, nose and chin without gapping. An indoor public space includes:
+
+- any part of a retail store where the public has access;
+- any part of the common areas of a residential building;
+- a health care facility;
+- an educational institution or facility;
+- an elevator;
+- a motor vehicle used for public transportation, including a bus, taxi, limousine or other vehicle for hire; and
+- a bus shelter, pedestrian tunnel or enclosed pedestrian walkway.
+
+The operator of an indoor public place must ensure that every person who is not wearing a mask while in the indoor public place is given a reminder to do so as soon as possible following entry.
+
+Masks are not required if people are seated at least two metres from others, or if there is a non-permeable physical barrier, such as a plexiglass barrier. However, people need to wear a mask at all times while moving to or from their seated position within the indoor public place.
+
+In addition, employees, contractors or operators of an indoor public place do not need to wear a mask while they are in an area where members of the public do not normally have access, or if they are behind a non-permeable physical barrier, including a plexiglass barrier.
+
+People can temporarily remove their mask while in an indoor public place:
+
+- to receive a service that requires the removal of their mask,
+- to consume food or drink;
+- to deal with an emergency or medical purpose, or
+- to establish their identity.
+
+People who do not have to wear masks include:
+
+- a child who is under five years of age;
+- a person with a medical condition that is unrelated to COVID-19, including breathing or cognitive difficulties or a disability, which prevents them from safely wearing a mask;
+- a person who is swimming or engaged in other athletic activities; and
+- a person who is unable to put on or remove a mask without the assistance of another person.
+
+#### What is considered an indoor public space?
+
+An indoor public space includes:
+
+- any part of a retail store where the public has access;
+- any part of the common areas of a residential building;
+- a health care facility;
+- an educational institution or facility;
+- an elevator;
+- a motor vehicle used for public transportation, including a bus, taxi , limousine or other vehicle for hire; and
+- a bus shelter, pedestrian tunnel or enclosed pedestrian walkway.
+
+This order does not apply to a child care centre or a child care home.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
