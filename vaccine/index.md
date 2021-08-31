@@ -2,7 +2,9 @@
 
 _Last updated: August 30, 2021_
 
-<a href="https://mbupdates.ca/" class="button">Return to homepage</a>
+<a href="https://mbupdates.ca/#vaccine-locator" class="button">Click here to view Vaccine Locator options</a>
+
+<!--
 
 - [Vaccine Finder Tools](#vaccine-finder-tools)
 - [Super Site Walk-ins](#super-site-walk-ins)
@@ -57,3 +59,5 @@ Location | Address |Info
 **Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-240-7272](tel:12042407272))
 **Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
 **Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) 
+
+-->
