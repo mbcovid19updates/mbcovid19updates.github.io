@@ -1,10 +1,10 @@
 # Vaccine Locator
 
-_Last updated: August 30, 2021_
-
 <a href="https://mbupdates.ca/#vaccine-locator" class="button">Click here to view Vaccine Locator options</a>
 
 <!--
+
+_Last updated: August 30, 2021_
 
 - [Vaccine Finder Tools](#vaccine-finder-tools)
 - [Super Site Walk-ins](#super-site-walk-ins)
