@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: August 30, 2021_
+_Last updated: August 31, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -380,7 +380,6 @@ Most supersites offer **walk-ins** (Moderna and Pfizer). The number of walk-ins 
 City | Address | Dates/Times
 --- | --- | --- |
 ✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | Wednesday, September 1: 1:00 p.m. to 9:00 p.m.<br />Thursday, September 2: 1:00 p.m. to 9:00 p.m.<br />Friday, September 3: 1:00 p.m. to 9:00 p.m.<br />Saturday, September 4: 9:00 a.m. to 4:00 p.m.
-✅ **Winnipeg** | **Soccer Federation North** ([770 Leila Ave.](https://goo.gl/maps/6v4KhCCk8wKpC4GN6)) | **FINAL DATE**<br />Aug 30: 3:00pm - 10:00pm
 ✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | Wednesday, September 1: 12:00 p.m. to 7:00 p.m.<br />Thursday, September 2: 12:00 p.m. to 7:00 p.m.<br />Saturday, September 4: 10:30 a.m. to 1:30 p.m.
 ✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Thursday, September 2: 2:00 p.m. to 9:00 p.m.<br />Friday, September 3: 2:00 p.m. to 9:00 p.m.<br />Saturday, September 4: 8:00 a.m. to 3:00 p.m.
 ✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | Tuesday, August 31: 2:00 p.m. to 9:00 p.m.<br />Sunday, September 5: 8:00 a.m. to 3:00 p.m.
@@ -388,10 +387,6 @@ City | Address | Dates/Times
 ✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Sunday, September 5: 9:00 a.m. to 4:00 p.m.<br />Monday, September 6: 1:00 p.m. to 8:00 p.m.
 ✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Monday, August 30: 4:30 p.m. to 7:30 p.m.<br />Saturday, September 4: 10:30 a.m. to 1:30 p.m.<br />Monday, September 6: 4:30 p.m. to 7:30 p.m.
 ✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Tuesday, August 31: 11:00 a.m. to 6:00 p.m.<br />Wednesday, September 1: 1:00 p.m. to 8:00 p.m.
-
-
-
-
 
 
 ### Urban Indigenous Clinics
@@ -461,16 +456,14 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 
 City | Address | Map | Walk-ins?
 --- | --- | --- | ---
-Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ✅ [see times](/vaccine)
-Winnipeg | Soccer Federation North, 770 Leila Ave. | [View map](https://goo.gl/maps/6v4KhCCk8wKpC4GN6) | ✅ [see times](/vaccine)
-Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅ [see times](/vaccine)
-Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅ [see times](/vaccine)
-Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅ [see times](/vaccine)
-Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times](/vaccine)
-Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times](/vaccine)
-Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times](/vaccine)
-Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅ [see times](/vaccine)
-The Pas | The Pas Royal Canadian Legion, 4 Veterans Way | [View map](https://goo.gl/maps/uL64fvuiCYDowAbZ9) | ✅ [see times](/vaccine)
+Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ✅ [see times](#vaccine-locator)
+Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅ [see times](#vaccine-locator)
+Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅ [see times](#vaccine-locator)
+Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅ [see times](#vaccine-locator)
+Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times](#vaccine-locator)
+Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times](#vaccine-locator)
+Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times](#vaccine-locator)
+Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅ [see times](#vaccine-locator)
 
 
 <a name="vaccine-walkins"></a>
