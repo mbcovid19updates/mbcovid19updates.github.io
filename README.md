@@ -21,9 +21,6 @@ _Last updated: August 31, 2021_
     <a href="#vaccine-walkins">
         <h3>Vaccine Walk-ins</h3>
     </a>
-    <a href="#mixing-vaccines">
-        <h3>Mixing Vaccines</h3>
-    </a>
     <a href="#astrazeneca">
         <h3>AstraZeneca</h3>
     </a>
