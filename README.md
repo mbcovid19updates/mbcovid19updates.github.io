@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: August 31, 2021_
+_Last updated: September 3, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -13,7 +13,7 @@ _Last updated: August 31, 2021_
         <h3>Vaccine Locator</h3>
     </a>
     <a href="#vaccine-cards">
-        <h3>Vaccine Cards</h3>
+        <h3>Vaccine Passports</h3>
     </a>
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
@@ -54,9 +54,9 @@ _Last updated: August 31, 2021_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: August 27, 2021_
+_Last updated: September 3, 2021_
 
-The following restrictions are in effect as of Saturday, August 7, 2021, at 12:01 am:
+The following restrictions are in effect as of Friday, September 3, 2021, at 12:01 am:
 
 
 ### Confirmed Cases and Close Contacts
@@ -68,11 +68,13 @@ The following restrictions are in effect as of Saturday, August 7, 2021, at 12:0
 
 ### Gatherings
 
+_Revised September 7, 2021_
+
 - **Residential Gatherings**
    - Residential indoor and outdoor gatherings are permitted with no restrictions. 
 - **Public Gatherings**
    - Indoor gatherings at an indoor public place or the common areas of a multi-unit residence limited to 50 people or 50% of capacity, whichever is greater.
-   - Outdoor gatherings in public setting limited to 1,500 people or if the outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
+   - Outdoor gatherings in public setting limited to 500 people or if the outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
 ### Mask Use
@@ -87,47 +89,55 @@ _Revised August 28, 2021_
 
 ### Weddings & Funerals
 
-- Indoor weddings and funerals can have up to 50 people, or 50% capacity whichever is greater
-- Outdoor weddings and funerals are limited to 1500 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
+- Indoor weddings and funerals are limited to 50 people, or 50% capacity, whichever is greater.
+    - Effective September 7, proof of vaccination will be required for weddings held in indoor licensed facilities.
+- Outdoor weddings and funerals are limited to 500 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
 ### Retail stores and malls
 
 _Includes markets, garden centres, and occasional pop-up retail._
 
-- May open with no restrictions.
+- May open provided the operator of the business takes actions to ensure two metres of separation of customers.
+- Food courts must follow the rules set out for restaurants in the public health order.
 
 
 ### Outdoor and Indoor Sports and Recreation
 
-- **Indoor** Sports and Recreation
-    - All indoor group activities permitted with no capacity limits on participants. This includes games, practices, competitions/tournaments, day camps, rehearsals and recitals.
-    - Spectator capacity limits still apply - 50% capacity. This includes other teams who are not active on the field of play (e.g. at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
-- **Outdoor** Sports and Recreation
-    - No capacity limits for participants. Includes games, practices, competitions/tournaments, day camps, rehearsals and recitals.
-    - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play (e.g. at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
+- **Indoor** Sports and Recreation:
+    - Proof of vaccination will be required, excluding youth participants in recreational sport.
+    - All spectators will also need to be fully immunized.
+    - Parents and coaches will require proof of vaccination.
+    - All indoor group activities permitted with no capacity limits on participants. This includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
+    - Spectator capacity limits still apply - 50% capacity. This includes other teams who are not active on the field of play (e.g.: at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
+- **Outdoor** Sports and Recreation:
+    - No capacity limits for participants. Includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
+    - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play (ex: at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
 
 
 ### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
 
-- May open with no restrictions.
+- Proof of vaccination will be required.
+- Masks remain required when not actively engaged in physical activity.
 
 
 ### Libraries
 
-- May open with no restrictions.
+- May open without restrictions. Mask use is required.
 
 
 ### Museums, Galleries and Movie Theatres
 
-- Museums, galleries and movie theatres may open to 50% of the capacity of the venue, regardless of vaccination status.
+- Museums may operate under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
+    - If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
+- Proof of vaccination will be required for movie theatres - they may open with no other restrictions.
 
 
 ### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
 
 - Professional outdoor sports, outdoor performing arts events and concert halls may open for fully immunized (two doses and two weeks post second dose) to a maximum of 100%.
 - Other large scale events with more than 1,500 people who are fully immunized may be permitted with a plan approved by public health.
-- Outdoor fairs, festivals and community events may be held with a plan approved by public health and if the number of people attending does not exceed 1,500 people or 50% of the site’s capacity.
+- Outdoor fairs, festivals and community events may be held if the number of people attending does not exceed 500, unless protocols and higher attendance is approved by public health.
 - Horse and Auto Racing open to 100% for fully immunized people, with a plan approved by public health.
 
 Where applicable above, unvaccinated children under 12 may attend if accompanied by fully vaccinated household members.
@@ -135,7 +145,8 @@ Where applicable above, unvaccinated children under 12 may attend if accompanied
 
 ### Casinos and VLTs
 
-- Open to 100% capacity for fully immunized people only.
+- May open with proof of vaccination required.
+- Physical distancing is no longer required between VLTs.
 
 
 ### Cultural and Religious Gatherings
@@ -149,17 +160,16 @@ Where applicable above, unvaccinated children under 12 may attend if accompanied
 
 _Includes other public food establishments, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
-- There will be no group limits for indoor and outdoor dining, no capacity limits or separation requirements between tables and immunization cards will not be required to access services. However, guests must remain seated as much as possible and patrons should maintain two-metre distance whenever they are away from their table.
-- Staff must ensure patrons do not congregate inside/outside restaurants or licensed premises and there is to be no socializing between tables. 
-- Operating hours no longer restricted.
-- Dance floors remain closed and sound levels must remain limited below 80-decibel levels.
+- Proof of vaccination is required for those 12 years of age and older to attend indoor and outdoor dining.
+- Food courts must follow these same regulations. They will have a grace period until September 7, 2021 to meet requirement to check proof of vaccination.
+- Individuals are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
 
 
 ### Personal Service Businesses
 
 _Includes businesses such as hair, nails, tattoos, etc._
 
-- May open with no restrictions.
+- May open as long as the business implements measures outlined in the public health order.
 
 
 ### Therapeutic Care
@@ -196,7 +206,7 @@ Family child-care homes and child-care centres can open and operate in accordanc
 - See the [State of Emergency and Current Public Health Orders](https://www.manitoba.ca/covid19/prs/orders/index.html#self-isolation) page for more information and exemptions to self-isolation.
 
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-08272021.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-09022021.pdf) (PDF) here.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -552,9 +562,9 @@ Alternatively, individuals can [complete the e-form to update their immunization
 
 
 <a name="vaccine-cards"></a>
-### Vaccine Cards
+### Vaccine Passports
 
-_Last updated: August 7, 2021_
+_Last updated: September 3, 2021_
 
 Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
 
@@ -573,6 +583,11 @@ Manitobans who are fully immunized (two vaccine doses plus two weeks from the ti
 - Travel domestically for essential and non-essential purposes outside of Manitoba without the requirement to self-isolate on their return.
 - Access to large-scale, indoor and outdoor professional sports or performing arts events.
 - Access to Casinos and VLT lounges.
+- Access to Restaurants and Nightclubs.
+- Access to Movie Theatres.
+- Access to Gyms and Fitness centres.
+- Access to indoor sporting and recreational facilities.
+- Access to organized indoor group recreational classes and activities, and indoor recreational businesses.
 
 **NOTE:** Unvaccinated children under the age of 12 may attend/visit the above events (where applicable) if accompanied by a fully vaccinated member of their household.
 
