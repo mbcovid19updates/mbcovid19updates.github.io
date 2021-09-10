@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: September 3, 2021_
+_Last updated: September 10, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -17,15 +17,6 @@ _Last updated: September 3, 2021_
     </a>
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
-    </a>
-    <a href="#vaccine-walkins">
-        <h3>Vaccine Walk-ins</h3>
-    </a>
-    <a href="#astrazeneca">
-        <h3>AstraZeneca</h3>
-    </a>
-    <a href="#reopening">
-        <h3>Re-opening Plans</h3>
     </a>
     <a href="#covid">
         <h3>Symptoms & Testing</h3>
@@ -263,67 +254,6 @@ This order does not apply to a child care centre or a child care home.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
-
-<a name="reopening"></a>
-## Re-opening Plan
-
-_Last updated: August 7, 2021_
-
-<a href="#restrictions" class="button">View Current Restrictions (as of August 7)</a>
-
-Manitoba's 3-phase plan to gradually lift the current public health order restrictions is primarily dependent on Manitobans getting the vaccine and following current orders.
-
-Phase 1 | Phase 2 | Phase 3
---- | --- | ---
-Canada Day<br /><strike>July 1, 2021</strike> **June 26, 2021** | August Long<br /><strike>August 2, 2021</strike> **July 17, 2021** | Labour Day<br /><strike>Sept 6, 2021</strike> **August 7, 2021**
-<small>REQUIREMENTS</small><br />70%+ first dose* / 25%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />75%+ first dose* / 50%+ second dose*<br /><small>\*All Manitobans age 12+</small> | <small>REQUIREMENTS</small><br />80%+ first dose* / 75%+ second dose*<br /><small>\*All Manitobans age 12+</small>
-<small>BENEFITS</small><br />25% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes with restrictions for some sectors. | <small>BENEFITS</small><br />50% or greater opening capacity for businesses, services and facilities as well as increased gathering sizes, with fewer restrictions for specific sectors. | <small>BENEFITS</small><br />All services, facilities and businesses will reopen, with limited restrictions in some cases.
-Status: ✅ June 26, 2021 | Status: ✅ July 17, 2021 | Status: ✅ August 7, 2021
-
-<a href="https://www.manitoba.ca/covid19/prs/reopening/" class="button">Official Re-opening Plans Website</a>
-<a href="https://news.gov.mb.ca/news/index.html?item=51433&posted=2021-06-10" class="button">Official Announcement</a>
-<a href="https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03" class="button">PHASE 3 Official Announcement</a>
-
-<!-- HIDE FOR NOW 
-
-### PHASE 3 ✅✅✅
-
-_Begins Saturday, August 7, 2021_
-
-The following sectors to open without restrictions:
-
-- Indoor and outdoor gatherings at private residences
-- personal services such as hair and nail salons
-- gyms and fitness centres
-- day camps
-- retail businesses, markets, garden centres and malls 
-- libraries
-
-Other sectors will open with limited restrictions including:
-
-- Indoor gatherings and organized events, such as weddings, funerals, banquets, receptions and selfhelp groups: capacity limited to 50 people or 50% of capacity, whichever is greater.
-- Indoor community, cultural and religious gatherings: 150 participants or 50% capacity, whichever is greater.
-- Outdoor gatherings and organized events, such as weddings, funerals and receptions in public setting capacity limited to 1,500 people or 50% of capacity, whichever is lesser.
-- Outdoor community, cultural and religious gatherings 1,500 people or 50% of the capacity of a place, whichever is lesser. Drive-in services remain unrestricted.
-- Restaurants and bars will no longer need to restrict the size or space between tables and dining will not be restricted to households or vaccinated individuals.
-- Museums, galleries and movie theatres will remain limited to 50% capacity but will no longer be restricted to vaccinated individuals.
-- Casinos and bingo halls, professional sporting events, horse and auto racing, and concert halls will continue to be limited to vaccinated individuals; however, all these facilities may now open to 100% capacity.
-- Indoor and outdoor sports and recreation will fully reopen with limits only on spectator capacity.
-- Overnight camps will be permitted with limits on camper cohorts of 15 participants.
-- Workplaces must continue to report cases to government for followup and public health-confirmed transmission of COVID-19 in the workplace may result in workplaces being ordered to close for a minimum of 10 days.
-- Remote working will no longer be required or recommended by public health and workplaces will be encouraged to transition from COVID safety plans to a general communicable disease prevention plan that focuses on basic risk-reduction principles to reduce the risk of workplace transmission of COVID-19 and other respiratory illnesses.
-
-Masks are no longer required in indoor public spaces, but now strongly recommended instead. Businesses may still have their own requirements for mask use.
-
-For more clarification on some changes, please see the [Current Restrictions](#restrictions) section on this site.
-
--->
-
-<a href="#restrictions" class="button">View Current Restrictions</a>
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-
 <!-- DO NOT SHOW FOR NOW
 
 <a name="travel"></a>
@@ -473,33 +403,6 @@ Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9
 Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅ [see times](#vaccine-locator)
 
 
-<a name="vaccine-walkins"></a>
-### Vaccine Walk-ins
-
-Please check out our new [Vaccine Locator](/vaccine) page to see a curated list of current and upcoming vaccine clinics (and super sites) offering walk-ins and appointments.
-
-<a href="/vaccine" class="button">Our Vaccine Locator</a>
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-<a name="mixing-vaccines"></a>
-### Mixing Vaccines
-
-_Last updated: July 27, 2021_
-
-**UPDATE July 27**: Now that Manitoba has sufficient supply of Pfizer and Moderna, it's recommended to stick with the same mRNA vaccine. They are still interchangeable, but given that there is no longer a shortage of Pfizer, there's no reason to randomly switch between the two now.
-
-Studies have shown that it is safe to mix vaccines. Due to limited supply of AstraZeneca, people with their first dose of AstraZeneca are recommended to receive their second dose as Pfizer or Moderna. If you received Pfizer as your first dose, you may also receive Moderna as your second dose and vice versa. Moderna and Pfizer are both mRNA vaccines that offer almost the same level of protection and are considered interchangeable.
-
-Here are some resources to learn more about this:
-
-- [Pfizer is not superior to Moderna and it's 'perfectly okay' to mix COVID vaccines, experts say](https://nationalpost.com/health/pfizer-is-not-superior-to-moderna-and-its-perfectly-okay-to-mix-covid-vaccines-experts-say) (National Post, June 24, 2021)
-- [Summary of National Advisory Committee on Immunization statement of June 17, 2021](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/summary-statement-june-17-2021.html) (Government of Canada, June 17, 2021)
-- ["Pfizer and Moderna are both safe, effective and interchangeable."](https://twitter.com/MBGov/status/1405574777855676422) (Manitoba Government, June 17, 2021)
-- [Summary of NACI rapid response of June 1, 2021](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines/rapid-response-interchangeability/summary.html) (Government of Canada, June 1, 2021)
-- [National vaccine panel allows for mixing and matching COVID-19 vaccines](https://www.ctvnews.ca/health/coronavirus/national-vaccine-panel-allows-for-mixing-and-matching-covid-19-vaccines-1.5451067) (CTV, June 1, 2021)
-- [Canada recommends mixing and matching AstraZeneca, Pfizer and Moderna COVID-19 vaccines](https://www.cbc.ca/news/health/canada-mixing-covid-19-vaccines-astrazeneca-pfizer-moderna-naci-1.6048152) (CBC, June 1, 2021)
-
 <a name="astrazeneca"></a>
 ### AstraZeneca Information
 
@@ -512,24 +415,6 @@ If you strongly wish to receive a second dose of AstraZeneca, there are a total 
 #### Locations with AstraZeneca
 
 The following medical clinics and pharmacies in the province have received AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Please check the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to confirm they have stock and are able to accept appointments.
-
-Location Name | Address | City
---- | --- | ---
-Brandon Clinic Pharmacy | 4 42 Mctavish Ave. E. | Brandon
-Dauphin Clinic Pharmacy | 622 Third St. SW | Dauphin
-Ashern Pharmacy | 43 Main St. | Ashern
-Gimli Express Care Clinic | 50 Centre St. | Gimli
-Safeway Pharmacy | 318 Manitoba Ave. | Selkirk
-The Medicine Shoppe Pharmacy | 1 330 Fischer Ave. | The Pas
-The Medicine Shoppe Pharmacy | 3 602 Saskatchewan Ave. W | Portage la Prairie
-Loblaw (Superstore) Pharmacy | 175 Cargill Rd. | Winkler
-Manitoba Clinic | 790 Sherbrook St. | Winnipeg
-Safeway Pharmacy | 3393 Portage Ave. | Winnipeg
-Costco Regent | 1499 Regent Ave. W. | Winnipeg
-Viva Care Kenaston | 1665 Kenaston Blvd. | Winnipeg
-Prairie Health Apothecary | 600 St. Anne's Rd. | Winnipeg
-Loblaw (Superstore) Pharmacy | 2132 McPhillips St. | Winnipeg
-Sobeys Pharmacy | 1 178 PTH 12N | Steinbach
 
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
@@ -608,48 +493,6 @@ The Manitoba government has assembled a [Frequently Asked Questions (FAQ) sectio
 
 <a href="https://www.gov.mb.ca/covid19/vaccine/immunization-record.html" class="button">COVID-19 Vaccine website FAQ</a>
 <a href="https://immunizationcard.manitoba.ca/#/faq?lang=en" class="button">Immunization Card website FAQ</a>
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-
-<a name="vaccine-lottery"></a>
-### Vaccine Lottery
-
-_Last updated: June 10, 2021_
-
-The Manitoba government is launching a new province-wide lottery that will award nearly $2 million in cash and scholarships this summer to encourage Manitobans to get fully vaccinated as soon as possible.
-
-All Manitobans aged 12 and up who have received at least one dose of vaccine by August 2 will be eligible for the first draw. All Manitobans aged 12 and up who have received two doses by September 6 will be eligible for the second draw.
-
-Anyone who has been immunized by these deadlines will automatically be entered. Each draw will award:
-
-- 3 prizes of **$100,000** in the Winnipeg Regional Health Authority (excluding Churchill), for a total of $300,000.
-- 1 **$100,000** prize in each of these regional health authorities, for a total of $400,000:
-   - Prairie Mountain Health;
-   - Southern Health–Santé Sud;
-   - Interlake-Eastern Regional Health Authority; and
-   - Northern Regional Health Authority (including Churchill).
-- 10 **$25,000** scholarships for young people aged 12 to 17 across the province, for a total of $250,000.
-
-To see the full details of this announcement, [view the link here](https://news.gov.mb.ca/news/index.html?item=51427&posted=2021-06-09).
-
-#### What is the purpose of the Manitoba Vaccination Lottery?
-Vaccination is the fastest way to overcome COVID-19 and help Manitobans return to the activities they love. The Manitoba Vaccination Lottery provides an incentive for people who have chosen to get the vaccine.
-
-#### Who is eligible?
-Anyone who receives their first dose of vaccine by Aug. 2 is eligible for the first draw, and anyone who has received two doses by Sept. 6 is eligible for the second draw. Additional details about the process will be provided before the end of June.
-
-#### Are children eligible?
-Yes. Young people aged 12 to 17 are currently eligible to be immunized, so they will be entered into the lottery automatically after their immunizations. They are eligible to win one of 20 $25,000 scholarships.
-
-#### What happens if you are a person who cannot be immunized for medical or other reasons?
-The Manitoba Vaccination Lottery is only open to individuals who have received one dose (first draw) or two doses (second draw) of the vaccine.
-
-#### What should I do if I do not want to participate in the lottery?
-There will be a process in place for individuals who wish to opt out of the Manitoba Vaccination Lottery.
-
-#### I was immunized outside of Manitoba, but I live here. Am I still eligible?
-Yes. However, you will have to report your immunization to covidimmunizationrecordsinformation@gov.mb.ca or your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) before the lottery draw.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -811,23 +654,18 @@ There are reports about a **Lambda** (C.37 / Peru) variant emerging, but it's im
 
 All approved vaccines in Canada are proven to be effective against the variants of concern, but studies suggest that 1 dose may not offer robust enough protection against the new **Delta** variant. This is why it's very important to receive your second dose of vaccine as soon as possible.
 
-### Will Public Health notify me if I have a Variant of Concern?
-
-Since the **Alpha** (B.1.1.7 / UK) variant is currently the dominant strain, it's now assumed that all cases are likely the **Alpha** variant unless otherwise proven. Because of this, Manitoba Public Health will no longer notify you if your positive COVID test ends up being the **Alpha** variant (you will still be notified if you test positive of COVID). If your positive COVID test ends up being a different variant of concern (after sequencing, which could be a couple of days later), public health will likely notify you.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 <a name="fines"></a>
 ## Fines
 
-_Last updated: August 19, 2021_
+_Last updated: September 10, 2021_
 
 Below is a summary of Fine amounts for violating public health orders in Manitoba:
 
-<!-- HIDE FOR NOW
-- **$298** for not wearing a mask in indoor public places. _Increases to $486 for repeat offenders._
--->
 
+- **$298** for not wearing a mask in indoor public places. _Increases to $486 for repeat offenders._
 - **$1,296** to individuals for failing to comply with public health orders such as illegal gatherings, failing to isolate, etc. _Increases to $2,542 for repeat offenders._
 - **$5,000** to corporations for failing to comply with public health orders.
 
