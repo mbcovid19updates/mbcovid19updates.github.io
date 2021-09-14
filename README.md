@@ -13,7 +13,7 @@ _Last updated: September 14, 2021_
         <h3>Vaccine Locator</h3>
     </a>
     <a href="#vaccine-cards">
-        <h3>Vaccine Passports</h3>
+        <h3>Vaccine Cards</h3>
     </a>
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
@@ -312,18 +312,18 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 ### Super Site Walk-ins
 
-Most supersites offer **walk-ins** (Moderna and Pfizer). The number of walk-ins and available doses may vary by day and by site.
+Most supersites offer **walk-ins** (Moderna and Pfizer). The number of walk-ins and available doses may vary by day and by site. Please check [ProtectMB Vaccine Finder (by Manitoba Government)](https://protectmb.ca/) for available walk-in dates and times.
 
-City | Address | Dates/Times
+City | Address
 --- | --- | --- |
-✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share)) | Friday September 10: 1:00 p.m. to 9:00 p.m.<br />Saturday September 11: 9:00 a.m. to 4:00 p.m.
-✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9)) | Saturday September 11: 10:30 a.m. to 1:30 p.m.
-✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA)) | Friday September 10: 2:00 p.m. to 9:00 p.m.<br />Saturday September 11: 8:00 a.m. to 3:00 p.m.
-✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | Sunday September 12: 8:00 a.m. to 3:00 p.m.<br />Tuesday September 14: 2:00 p.m. to 9:00 p.m.
-✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77)) | Saturday September 11: 8:00 a.m. to 3:00 p.m.
-✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6)) | Sunday September 12: 9:00 a.m. to 4:00 p.m.<br />Monday September 13: 1:00 p.m. to 8:00 p.m.
-✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7) | Saturday September 11: 10:30 a.m. to 1:30 p.m.<br />Monday September 13: 4:30 p.m. to 7:30 p.m.
-✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8)) | Tuesday September 14: 1:00 p.m. to 8:00 p.m.
+✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share))
+✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9))
+✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA))
+✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9)
+✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77))
+✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6))
+✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7)
+✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8))
 
 
 ### Urban Indigenous Clinics
@@ -447,7 +447,7 @@ Alternatively, individuals can [complete the e-form to update their immunization
 
 
 <a name="vaccine-cards"></a>
-### Vaccine Passports
+### Vaccine Cards
 
 _Last updated: September 3, 2021_
 
