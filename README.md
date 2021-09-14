@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: September 10, 2021_
+_Last updated: September 14, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -676,7 +676,7 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: August 13, 2021_
+_Last updated: September 14, 2021_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
@@ -686,39 +686,45 @@ Every day, we comb through all official COVID data and present it as a single un
 - [Official Manitoba Vaccine Data](https://www.gov.mb.ca/covid19/vaccine/reports.html)
 - [Official Manitoba News Bulletins](https://news.gov.mb.ca/news/index.html)
 - [Provincial Case Reporting (ici.radio-canada.ca)](https://ici.radio-canada.ca/info/2020/09/covid-19-pandemie-cas-deces-propagation-vague-maladie-coronavirus/index-en.html)
-- [COVID-19 Daily Epidemiology Update (Canada Gov)](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html)
+- [Provincial Vaccination Rate Reporting (ctvnews.ca)](https://www.ctvnews.ca/health/coronavirus/coronavirus-vaccination-tracker-how-many-people-in-canada-have-received-shots-1.5247509)
 
-### Active Cases
+### Descriptions & Calculations
 
-The Manitoba government's official active case total is usually very backlogged, as they appear to not be able to keep up with following up with people and confirming they have recovered. The vast majority of people with COVID-19 recover / are no longer infectious after 10 days, so we instead use an estimated total that is based on the **last 10
-days of new cases**. Whether or not the real number is a touch higher or lower, this offers the most consistent gauge on current active cases.
+#### (1) Today
+The total listed here is based on what the province reported today, usually from yesterday's tests. On Mondays (or other days after a holiday and/or long weekend), when more than 1 day is presented, we'll include an average. For example, on Mondays, we'll include an average of all 3 days (Saturday, Sunday and Monday). If there were 120 cases total, we will display the daily average as 40. The 7-day average in smaller text below is based on the last 7 days of new case totals.
 
-The **Active Cases Provincially** section displays data from **yesterday**, as more Western provinces take longer to report their totals due to time zone differences.
+#### (2) Active
+The total listed here is based on the **last 10 days of new cases**. This is because the Manitoba government's official active case total is usually very backlogged, as they appear to not be able to keep up with following up with people and confirming they have recovered. The vast majority of people with COVID-19 recover and are no longer infectious after 10 days, so we instead use an estimated total that is based on that. Whether or not the real number is a touch higher or lower, this offers the most consistent gauge on current active cases.
 
-### Hospitalization
+#### (3) Hosp
+The total listed here is the total number of hospitalized patients that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it. This total includes the total number of people in the ICU as well.
 
-The Manitoba government makes a distinction between whether or not the current hospitalization of a patient is infectious or not, and puts a heavy emphasis on the infectious patient totals (which make numbers appear to be lower). We do not do this because regardless of whether a COVID patient is infectious or not, they are still in the hospital due to COVID, and still occupying space and requiring care.
+#### (4) ICU
+The total listed here is the total number of hospitalized patients requiring intensive care that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it.
 
-### Vaccinations
+#### (5) Deaths
+The large number here is the number of new deaths reported today. The province delays this data in order to verify and prevent incorrect reporting, so please note that most deaths reported today likely happened a week or more ago. The smaller total is the total number of deaths due to COVID since the beginning of the pandemic.
 
-Our vaccination totals and percentages for first doses and second doses will usually be a little bit higher than the official reported totals. The Manitoba government reports the overall total of vaccinations, but there is always a rolling delay of around 3,000 - 5,000 vaccinations (fluctuates) that are yet to be categorized as first or second doses. We look at the previous 7 days of vaccination history and formulate an estimate as to how many of those are likely to be first or second doses. For example, the government may report 800,000 total vaccinations, but just 700,000 first doses and 90,000 second doses (totaling 790,000). Our formula (always changing) may be 20% first doses and 80% second doses. If you take those remaining 10,000 (example) uncategorized vaccinations and run the formula on it, that would be 702,000 first doses and 98,000 second doses (700,000 + 2,000 = 702,000 and then 90,000 + 8,000 = 98,000 for a total of 800,000).
+#### (6) Vaccine Uptake
+As of September 14, 2021, we're basing all vaccination calculations on the entire population (age 0+). Most times you may see these numbers reported elsewhere as age 12+ or age 18+, but just because children under the age of 12 are not eligible, it does not mean they cannot contract and pass the virus around, etc, so we believe it paints the most accurate picture of the current number of people vaccinated.
 
-We also record daily progress of vaccinations per age group and health region and calculate uptake percentages, but this is based upon the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
+- **Fully vaxxed** refers to the total number of Manitobans that have received at least 2 vaccinations.
+- **1+ doses** refers to the total number of Manitobans that have received at least 1 vaccination.
+- **Without** refers to the total number of Manitobans that have not yet received any vaccination.
+- **Partial vax** refers to the total number of Manitobans that have received only 1 dose of the vaccine (different than _at least 1 dose_).
+- **Ineligible** refers to the total number of Manitobans not currently eligible to receive any COVID vaccine (under age 12).
 
-### Vaccine Protection
+All of our calculations such as totals, age group and health region are based upon population totals from the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
 
-The Manitoba government currently does not make a breakdown of cases, hospitalizations and deaths by vaccine status. We instead use the Government of Canada's [COVID-19 Daily Epidemiology Update report](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) to display this breakdown of cases, hospitalizations and deaths based on vaccine status reported to Public Health Agency of Canada (PHAC) between December 14, 2020 and July 31, 2021.
+#### (7) Protection
+The Vaccine Protection area provides a breakdown of cases and hospitalizations in order to show vaccine effectiveness. Please note that the **Active Cases** total is based on the provinces potentially backlogged case count. The hospitalizations and ICU numbers are based only on "active" (infectious) patients.
 
-- **Full Vax** (or _Fully Vaccinated_) people were fully protected by the vaccine, as their episode date occurred 14 days or more after their second dose.
-- **Partial Vax** (or _Partially Vaccinated_) people were only partially protected by the vaccine, as their episode date occurred either 14 days or more after their first dose or less than 14 days after their second dose.
-- **Not yet protected** people were not yet protected by the vaccine, as their episode date occurred less than 14 days after their first dose.
-- **Unvaccinated** people had not received any COVID vaccine at the time of their episode date.
+#### (8) Provincial Stats
+This section displays active cases, hospitalization and vaccine uptake data about the 6 provinces (BC, AB, SK, MB, ON, QC). All of the data is from **yesterday**, as more Western provinces take longer to report their totals due to time zone differences. For the most accurate comparison, active cases are based on the last 10 days of new case reporting. Vaccine uptake numbers are based on the total number of people with at least 2 doses of vaccine.
 
-### The Fine Print
+#### (9) Variants of Concern
+The breakdown here is unfortumately likely not the most accurate representation of active Variants of Concern. The province takes a long time to sequence and identify variants, so some cases may not be flagged as variants until a few days later. Then, many that are flagged as variants are not yet identified for another week or longer. It's likely safe to assume that the breakdown of the **Unknown** variants is similar to the breakdown of the indentified cases. For example, if there were 8 Delta cases, 2 Alpha cases, and 10 Unknown cases, you can roughly assume that perhaps there's actually 16 Delta cases and 4 Alpha cases (though it could also be that one variant is taking over, so the breakdown may be weighted more heavily to the newer variant).
 
-We include fine print at the bottom of the dashboard to explain calculations, etc. It's likely too difficult to read in some cases, so here's a copy of it:
-
->All data sourced from bulletins and dashboards at [gov.mb.ca/covid19](https://gov.mb.ca/covid19). Provincial case data sourced from [ici.radio-canada.ca](https://ici.radio-canada.ca). <sup>1</sup>Estimated off of the last 10 days new cases. <sup>2</sup>Last 10 days new cases per capita (as of yesterday). Only includes provinces listed. <sup>3</sup>Includes non-infectious patients. <sup>4</sup>Est. last 10 days reporting. <sup>5</sup>1st and 2nd dose counts include vaccinations that have not yet been confirmed as either 1st or 2nd doses and assumes 20% of them are 1st doses while 80% of them are 2nd doses. <sup>6</sup>People age 12+ with for that dose. <sup>7</sup>Assumes 0.6% wastage, which appears to be our average. <sup>8</sup>The Government of Canada [COVID-19 Daily Epidemiology Update report](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) includes findings of the breakdown of cases, hospitalizations and deaths based on vaccine status reported to PHAC between December 14, 2020 and July 31, 2021. Fully Vaccinated means the person received both doses plus 14 days after. Partially Vaccinated means the person only received 1 dose of vaccine plus 14 days after or less than 14 days after their second dose. Not yet protected means the person received 1 dose of vaccine but the 14 days have not yet passed (where full protection can take up to 14 days). Unvaccinated means the person received no vaccine at all. <sup>9</sup>Breakdown is based on the [2020 Manitoba Population report](https://www.gov.mb.ca/health/population/) (latest available). It does not account for changes in population since then, and does not account for people that may not be able to take the vaccine due to allergies, etc, but likely accounts for less than 1000 people in Manitoba). Graphic and data prepared by [Manitoba COVID-19 Updates](https://mbupdates.ca) — a volunteer unofficial source.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
