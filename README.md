@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: September 14, 2021_
+_Last updated: September 15, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -315,7 +315,7 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 Most supersites offer **walk-ins** (Moderna and Pfizer). The number of walk-ins and available doses may vary by day and by site. Please check [ProtectMB Vaccine Finder (by Manitoba Government)](https://protectmb.ca/) for available walk-in dates and times.
 
 City | Address
---- | --- | --- |
+--- | --- 
 ✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share))
 ✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9))
 ✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA))
@@ -330,7 +330,7 @@ City | Address
 
 These clinics are for anyone, but do prioritize people who self-identity as First Nations (status or non-status), Metis or Inuit or people who share a household with someone who identifies as Indigenous.
 
-Location | Address |Info 
+Location | Address | Info 
 --- | --- | --- 
 **Thompson** | **Ma-Mow-We-Tak Friendship Centre** (4 Nelson Rd) | Call [204-677-0950](tel:12046770950) to book
 **Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-573-7239](tel:12045737239))
@@ -345,7 +345,7 @@ Location | Address |Info
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: August 16, 2021_
+_Last updated: September 15, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -360,6 +360,41 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
    - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
    - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
    - If AstraZeneca was your first dose, an 8-12 week interval is recommended, but can be as low as 28 days.
+
+### Third Doses
+
+Third doses must be administered no earlier than 28 days since 2nd dose and are available to:
+
+- People who are **moderately to severely immunocompromised** due to a medical condition and/or treatment.
+    - This includes those who:
+        - are receiving active chemotherapy (or immunotherapy) for cancer
+        - have received a solid organ transplant and are currently receiving chemotherapy or other immunosuppressive therapy
+        - were born with moderate or severe dysfunction of their immune system
+        - are living with untreated or advanced HIV-AIDS
+        - are taking certain medications that severely affect the immune system
+    - The following people should talk to their doctor about the risks and benefits of an additional dose:
+        - receiving hemodialysis or peritoneal dialysis
+        - on the list to receive a solid organ transplant
+        - have a ventricular assist device.   
+    - People who are immunocompromised can be immunized by their health care provider.
+- Individuals who wish to receive a third dose for **travel purposes**.
+    - The likely scenario here would be if the country you're visiting does not currently consider your mixed vaccines as valid, e.g. 1 AstraZeneca + 1 Moderna. By receiving a third dose (2nd dose of Moderna), this may satisfy other countries with stricter rules.
+    - Individuals who would like to receive a third dose for travel purposes must be vaccinated by their health care provider and go through an informed consent process or present a prescription to a pharmacist.
+- Individuals who have received one or two doses of a **vaccine that is not approved by Health Canada**.
+    - Additional doses for people who have previously been vaccinated with vaccines not approved by Health Canada can be administered at supersites, pop-ups or mobile clinics, or by a health care provider.
+
+### Medical Exemptions
+
+For the vast majority of people, the COVID-19 vaccine is a safe and effective way to protect themselves and others against the virus. However, there is a very small number of people who can’t or shouldn’t be immunized. Manitoba is developing a medical exemption process for people in one of three situations, who: 
+
+- Had a severe reaction after the first dose of a COVID-19 vaccine (e.g. myocarditis, Guillain-Barré syndrome).
+- Are receiving treatment that affects their ability to mount an immune response, meaning vaccination must be timed carefully with their treatment schedule (e.g. receiving immunocompromising treatment after a transplant, certain types of cancer treatments).
+- Had a severe allergy or anaphylactic reaction to a previous dose of a COVID-19 vaccine or its components that cannot be managed by the Health Sciences Centre Allergy Clinic.
+
+Manitoba is currently developing the process for a specialist physician to review and submit exemption requests to the vaccine implementation task force. More information, along with updated clinical guidance for health care professionals, will be available as soon as possible. 
+
+The province is also developing a way to ensure individuals with a valid medical exemption are able to access the same benefits as those with an immunization card. This work is expected to be completed in the coming weeks.
+
 
 #### Wasn't Pfizer 21 days?
 
@@ -449,7 +484,7 @@ Alternatively, individuals can [complete the e-form to update their immunization
 <a name="vaccine-cards"></a>
 ### Vaccine Cards
 
-_Last updated: September 3, 2021_
+_Last updated: September 15, 2021_
 
 Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
 
@@ -486,6 +521,8 @@ To be eligible to receive an immunization card, Manitobans must:
 - wait 14 days after getting the second dose of vaccine.
 
 **NOTE:** At this time, an immunization card is only available for people with a Manitoba health card. To find out if you are eligible for a Manitoba health card, go to the [Manitoba Health and Seniors Care website](https://www.gov.mb.ca/health/mhsip/index.html#Q1). Once you receive your Manitoba health card, you can request your immunization card online. If you are not eligible for a Manitoba health card, you may contact your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) and they can provide you with a copy of your vaccination record.
+
+**NEW - September 15, 2021:** Individuals who receive a dose of an mRNA vaccine following one or two doses of a vaccine not approved by Health Canada, but approved by the World Health Organization, will be considered fully immunized. Individuals can have their immunization record updated to include vaccines not approved by Health Canada at https://manitoba.ca/covid19/vaccine/immunizationrecord/residents.html#immunization-records.
 
 #### Questions?
 
