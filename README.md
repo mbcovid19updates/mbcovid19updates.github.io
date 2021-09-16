@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: September 15, 2021_
+_Last updated: September 16, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -81,7 +81,7 @@ _Revised August 28, 2021_
 ### Weddings & Funerals
 
 - Indoor weddings and funerals are limited to 50 people, or 50% capacity, whichever is greater.
-    - Effective September 7, proof of vaccination will be required for weddings held in indoor licensed facilities.
+    - Proof of vaccination is required for weddings held in indoor licensed facilities.
 - Outdoor weddings and funerals are limited to 500 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
@@ -96,8 +96,8 @@ _Includes markets, garden centres, and occasional pop-up retail._
 ### Outdoor and Indoor Sports and Recreation
 
 - **Indoor** Sports and Recreation:
-    - Proof of vaccination will be required, excluding youth participants in recreational sport.
-    - All spectators will also need to be fully immunized.
+    - Proof of vaccination required, excluding youth participants in recreational sport.
+    - All spectators also need to be fully immunized.
     - Parents and coaches will require proof of vaccination.
     - All indoor group activities permitted with no capacity limits on participants. This includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
     - Spectator capacity limits still apply - 50% capacity. This includes other teams who are not active on the field of play (e.g.: at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
@@ -149,10 +149,9 @@ Where applicable above, unvaccinated children under 12 may attend if accompanied
 
 ### Restaurants & Bars
 
-_Includes other public food establishments, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
+_Includes other public food establishments, food courts, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
 - Proof of vaccination is required for those 12 years of age and older to attend indoor and outdoor dining.
-- Food courts must follow these same regulations. They will have a grace period until September 7, 2021 to meet requirement to check proof of vaccination.
 - Individuals are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
 
 
