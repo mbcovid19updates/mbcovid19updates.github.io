@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: September 16, 2021_
+_Last updated: September 20, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -344,7 +344,7 @@ Location | Address | Info
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: September 15, 2021_
+_Last updated: September 20, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -381,6 +381,7 @@ Third doses must be administered no earlier than 28 days since 2nd dose and are 
     - Individuals who would like to receive a third dose for travel purposes must be vaccinated by their health care provider and go through an informed consent process or present a prescription to a pharmacist.
 - Individuals who have received one or two doses of a **vaccine that is not approved by Health Canada**.
     - Additional doses for people who have previously been vaccinated with vaccines not approved by Health Canada can be administered at supersites, pop-ups or mobile clinics, or by a health care provider.
+- Residents and staff of First Nation personal care homes.
 
 ### Medical Exemptions
 
