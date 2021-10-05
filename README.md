@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: October 4, 2021_
+_Last updated: October 5, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -45,32 +45,51 @@ _Last updated: October 4, 2021_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: September 3, 2021_
+_Last updated: October 5, 2021_
 
-The following restrictions are in effect as of Friday, September 3, 2021, at 12:01 am:
+The following restrictions are in effect as of Tuesday, October 5, 2021, at 12:01 am:
 
 
 ### Confirmed Cases and Close Contacts
 
-- Individuals identified as having COVID-19 must immediately enter mandatory isolation/self-isolation (quarantine) until public health officials advise they can end isolation/self-isolation (quarantine).
-- Household members or close contacts of a person or persons with COVID-19 must immediately go into mandatory self-isolation (quarantine) for 14 days from the last date of exposure and call Health Links--Info Santé (204-788-8200 or 1-888-315-9257) if they develop symptoms if they are not fully vaccinated (two doses).
-- Fully vaccinated (two doses) household members or close contacts of a COVID-19 case are not required to self-isolate.
+- Individuals identified as having COVID-19 must immediately enter mandatory isolation until public health officials advise they can end isolation.
+- Close contacts of a person or persons with COVID-19, unless otherwise exempt, must immediately go into mandatory self-isolation (quarantine) for 10 days, followed by 4 days of self-monitoring for symptoms, from the last date of exposure. They should call Health Links--Info Santé (204-788-8200 or 1-888-315-9257) if they develop symptoms.
+- Household members of close contacts do not need to self-isolate (quarantine) as long as they and the close contact in the household remain without symptoms. If the close contact develops symptoms, all household members, unless otherwise exempt, should self-isolate (quarantine) until the symptomatic individual receives their COVID-19 test result.
+- Close contacts and household members of close contacts may be exempt from self-isolation (quarantine) if they have no symptoms AND are fully immunized at the time of the exposure or have had a COVID-19 infection within the past 6 months. Public health officials will let close contacts know if they meet criteria for exemption from self-isolation (quarantine). All individuals exempt from self-isolation (quarantine) requirements, should continue to self-monitor for symptoms, and isolate immediately if any develop and go for testing.
 
 
 ### Gatherings
 
-_Revised September 7, 2021_
+#### Residential Gatherings
 
-- **Residential Gatherings**
-   - Residential indoor and outdoor gatherings are permitted with no restrictions. 
-- **Public Gatherings**
-   - Indoor gatherings at an indoor public place or the common areas of a multi-unit residence limited to 50 people or 50% of capacity, whichever is greater.
-   - Outdoor gatherings in public setting limited to 500 people or if the outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
+- **Indoor**
+    - Households are limited to guests from one other household when any unvaccinated person (who is eligible to be vaccinated) is present on the property (even if the unvaccinated person lives at that location).
+    - Fully immunized people may gather without capacity limits with other fully immunized people and those under 12 who are not eligible for the vaccine.
+- **Outdoor**
+    - Households are limited to 10 guests outdoors when any unvaccinated person (who is eligible to be vaccinated) is present on the property (even if the unvaccinated person lives at that location).
+    - Fully immunized people may gather without capacity limits with other fully immunized people and those under 12 who are not eligible for the vaccine.
+
+#### Public Gatherings
+
+- **Indoor**
+    - Group sizes to 25 people or 25% capacity, whichever is lower, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated.
+    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather without capacity limits.
+- **Outdoor**
+    - Groups of up to 50 people are permitted in uncontrolled outdoor public spaces.
+
+#### Proof of Vaccination Guidelines
+
+The public health orders state:
+
+>1(5) The occupants of the private residence where a gathering is held are responsible for determining the vaccination status of all persons attending the gathering.
+>- Proof of vaccination is required for those 12 years of age and older to attend private and public indoor and outdoor gatherings.
+>- For large-scale gatherings, the digital or physical Manitoba Immunization Card, which includes QR code, must be scanned when a person presents their QR code. This also includes a screenshot or a print-out of the QR code.
+>   - Government-issued identification must be requested and is required to validate the person’s identity as matching the vaccination record provided.
+>   - For information on how to scan the QR code, visit: [manitoba.ca/covid19/vaccine/immunizationrecord/businesses.html](https://manitoba.ca/covid19/vaccine/immunizationrecord/businesses.html)
+>   - An honour system or self-identification is not an acceptable means of verification.
 
 
 ### Mask Use
-
-_Revised August 28, 2021_
 
 - Masks are required in all indoor public spaces.
 - Public health officials recommend wearing a mask in indoor public gatherings. This is especially important for the unvaccinated and during higher-risk activities, such as singing or when distancing is not likely to be maintained.
@@ -80,27 +99,27 @@ _Revised August 28, 2021_
 
 ### Weddings & Funerals
 
-- Indoor weddings and funerals are limited to 50 people, or 50% capacity, whichever is greater.
-    - Proof of vaccination is required for weddings held in indoor licensed facilities.
-- Outdoor weddings and funerals are limited to 500 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
+- Indoor weddings and funerals are limited to group sizes to 25 people or 25% capacity, whichever is lower, for gatherings that include unvaccinated people who are eligible to be vaccinated. _Effective October 12, 2021._
+- Outdoor weddings and funerals are limited to 50 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
-### Retail stores and malls
+### Retail Stores and Malls
 
 _Includes markets, garden centres, and occasional pop-up retail._
 
-- May open provided the operator of the business takes actions to ensure two metres of separation of customers.
+- Retail capacity is permitted at 50% in the Southern Health-Santé Sud health region.
+- Retail capacity is permitted at 100% in the Interlake-Eastern, Northern, Prairie Mountain and Winnipeg health regions.
+- May open provided the operator of the business takes actions to ensure two metres of separation of customers. Masks are required indoors.
 - Food courts must follow the rules set out for restaurants in the public health order.
 
 
-### Outdoor and Indoor Sports and Recreation
+### Indoor and Outdoor Sports and Recreation
 
 - **Indoor** Sports and Recreation:
-    - Proof of vaccination required, excluding youth participants in recreational sport.
-    - All spectators also need to be fully immunized.
-    - Parents and coaches will require proof of vaccination.
+    - Proof of vaccination is required, excluding youth participants in recreational sport.
+    - All spectators aged 18 and up will also need to be fully immunized.
+    - Parents and coaches will require proof of vaccination
     - All indoor group activities permitted with no capacity limits on participants. This includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
-    - Spectator capacity limits still apply - 50% capacity. This includes other teams who are not active on the field of play (e.g.: at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
 - **Outdoor** Sports and Recreation:
     - No capacity limits for participants. Includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
     - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play (ex: at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
@@ -108,7 +127,7 @@ _Includes markets, garden centres, and occasional pop-up retail._
 
 ### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
 
-- Proof of vaccination will be required.
+- Proof of vaccination is required.
 - Masks remain required when not actively engaged in physical activity.
 
 
@@ -121,7 +140,7 @@ _Includes markets, garden centres, and occasional pop-up retail._
 
 - Museums may operate under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
     - If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
-- Proof of vaccination will be required for movie theatres - they may open with no other restrictions.
+- Proof of vaccination is required for movie theatres - they may open with no other restrictions.
 
 
 ### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
@@ -134,6 +153,12 @@ _Includes markets, garden centres, and occasional pop-up retail._
 Where applicable above, unvaccinated children under 12 may attend if accompanied by fully vaccinated household members.
 
 
+### Outdoor Season Events, Fairs, Festivals and Community Events
+
+- Corn mazes, haunted houses and other seasonal outdoor facilities or events may operate if everyone attending provides proof of immunization, or are under 12 years of age.
+- Outdoor fairs, festivals and other outdoor major community events may be held if the number of persons attending does not exceed 50 persons.
+
+
 ### Casinos and VLTs
 
 - May open with proof of vaccination required.
@@ -142,9 +167,10 @@ Where applicable above, unvaccinated children under 12 may attend if accompanied
 
 ### Cultural and Religious Gatherings
 
-- Indoor gatherings open to 150 participants or 50% capacity, whichever is greater.
-- Outdoor gatherings open to 1,500 people or 50% of the capacity of a place, whichever is lesser.
-- Drive-in services remain unrestricted.
+- Indoor public gathering group sizes to 25 people or 33% capacity, whichever is greater, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated. Physical distancing is required.
+- Outdoors groups of up to 50 people are permitted in uncontrolled outdoor public spaces. Physical distancing is required.
+- Fully immunized people and those under 12 who are not eligible for the vaccine may gather without capacity limits.
+- Drive-in services continue unrestricted.
 
 
 ### Restaurants & Bars
@@ -152,7 +178,9 @@ Where applicable above, unvaccinated children under 12 may attend if accompanied
 _Includes other public food establishments, food courts, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
 - Proof of vaccination is required for those 12 years of age and older to attend indoor and outdoor dining.
+- Food courts must follow these same regulations.
 - Individuals are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
+- Individuals are required to wear masks.
 
 
 ### Personal Service Businesses
@@ -395,11 +423,6 @@ For the vast majority of people, the COVID-19 vaccine is a safe and effective wa
 Manitoba is currently developing the process for a specialist physician to review and submit exemption requests to the vaccine implementation task force. More information, along with updated clinical guidance for health care professionals, will be available as soon as possible. 
 
 The province is also developing a way to ensure individuals with a valid medical exemption are able to access the same benefits as those with an immunization card. This work is expected to be completed in the coming weeks.
-
-
-#### Wasn't Pfizer 21 days?
-
-Yes, it used to be 21 days for Pfizer, but in an effort to simplify / unify the waiting period, Manitoba now recommends 28 days for both Pfizer and Moderna. For what it's worth, with vaccines, a longer interval typically results in better or slightly better efficacy (rather than hurting it).
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
