@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: October 5, 2021_
+_Last updated: October 6, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -372,7 +372,7 @@ Location | Address | Info
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: October 4, 2021_
+_Last updated: October 6, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -411,18 +411,33 @@ Third doses must be administered no earlier than 28 days since 2nd dose and are 
     - Individuals who would like to receive a third dose for travel purposes must be vaccinated by their health care provider and go through an informed consent process or present a prescription to a pharmacist.
 - Individuals who have received one or two doses of a **vaccine that is not approved by Health Canada**.
     - Additional doses for people who have previously been vaccinated with vaccines not approved by Health Canada can be administered at supersites, pop-ups or mobile clinics, or by a health care provider.
+- Individuals who have only received a viral vector vaccine (2 doses of AstraZeneca or 1 dose of Janssen). Does not apply to people with an mRNA vaccine.
+- Health care personnel who have direct contact with patients, residents or clients.
+
+#### How to access a Third Dose
+
+Scenario | All COVID-19 vaccine clinics | Medical Clinics | Community Pharmacies
+--- | --- | --- | ---
+For people who are moderately to severely immunocompromised | ✅ (requires a prescription from a licensed physician) | ✅ Note: If your physician is not administering the vaccine, request documentation to share with another physician or pharmacist. | ✅ (prescription not required but recommended)
+For people who are travelling who have specific travel requirements, as per their destination | ✅ (requires a prescription from a licensed physician) | ✅ | ✅ (requires a prescription from a licensed physician)
+For people who have received one or two doses of a vaccine that is not approved by Health Canada | ✅ | ✅ | ✅
+Health care personnel | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose)
+For people with two doses of Astra Zeneca or one dose of Janssen | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose)
 
 ### Medical Exemptions
 
-For the vast majority of people, the COVID-19 vaccine is a safe and effective way to protect themselves and others against the virus. However, there is a very small number of people who can’t or shouldn’t be immunized. Manitoba is developing a medical exemption process for people in one of three situations, who: 
+For the vast majority of people, the COVID-19 vaccine is a safe and effective way to protect themselves and others against the virus.
 
+However, there is a very small number of people who can’t or shouldn’t be immunized. If you feel that you may qualify for a medical exemption based on the criteria listed below, the first step is to schedule an appointment with your own health care provider and/or your specialist. 
+
+They will review the exemption criteria with you to determine if you may qualify. Only a specialist physician can request a medical exemption from the province, based on your medical history. Individuals cannot submit their own requests for exemption.Once it is submitted, information about the exemption will be entered into the provincial immunization database, including whether the exemption is permanent or temporary.   
+
+Exempt people will be able to request their digital or physical Manitoba immunization card approximately seven to 14 business days after their exemption is submitted. The card and the display shown after scanning the QR code will be identical to those currently used by fully immunized people. This will help protect the private health information of exempt individuals, while also keeping a simple, consistent process for venues and events that must validate immunization status. 
+
+#### Criteria
 - Had a severe reaction after the first dose of a COVID-19 vaccine (e.g. myocarditis, Guillain-Barré syndrome).
 - Are receiving treatment that affects their ability to mount an immune response, meaning vaccination must be timed carefully with their treatment schedule (e.g. receiving immunocompromising treatment after a transplant, certain types of cancer treatments).
 - Had a severe allergy or anaphylactic reaction to a previous dose of a COVID-19 vaccine or its components that cannot be managed by the Health Sciences Centre Allergy Clinic.
-
-Manitoba is currently developing the process for a specialist physician to review and submit exemption requests to the vaccine implementation task force. More information, along with updated clinical guidance for health care professionals, will be available as soon as possible. 
-
-The province is also developing a way to ensure individuals with a valid medical exemption are able to access the same benefits as those with an immunization card. This work is expected to be completed in the coming weeks.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
