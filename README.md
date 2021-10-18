@@ -348,7 +348,6 @@ City | Address
 ✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA))
 ✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9)
 ✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77))
-✅ **Gimli** | **Gimli Recreation Centre** ([45 Centennial Road](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6))
 ✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7)
 ✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8))
 
@@ -474,7 +473,6 @@ Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive
 Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times](#vaccine-locator)
 Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times](#vaccine-locator)
 Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times](#vaccine-locator)
-Gimli | Gimli Recreation Centre, 45 Centennial Road | [View map](https://goo.gl/maps/cvAM96ZkGwJMLbNJ6) | ✅ [see times](#vaccine-locator)
 
 
 <a name="astrazeneca"></a>
