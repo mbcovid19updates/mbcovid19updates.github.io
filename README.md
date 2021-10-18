@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: October 6, 2021_
+_Last updated: October 18, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -371,7 +371,7 @@ Location | Address | Info
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: October 6, 2021_
+_Last updated: October 18, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -412,6 +412,7 @@ Third doses must be administered no earlier than 28 days since 2nd dose and are 
     - Additional doses for people who have previously been vaccinated with vaccines not approved by Health Canada can be administered at supersites, pop-ups or mobile clinics, or by a health care provider.
 - Individuals who have only received a viral vector vaccine (2 doses of AstraZeneca or 1 dose of Janssen). Does not apply to people with an mRNA vaccine.
 - Health care personnel who have direct contact with patients, residents or clients.
+- First Nation people living on reserve. This includes an estimated 7,200 people. The third dose should be given at least six months after the last vaccine.
 
 #### How to access a Third Dose
 
