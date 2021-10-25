@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: October 18, 2021_
+_Last updated: October 26, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -45,7 +45,7 @@ _Last updated: October 18, 2021_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: October 5, 2021_
+_Last updated: October 26, 2021_
 
 The following restrictions are in effect as of Tuesday, October 5, 2021, at 12:01 am:
 
@@ -107,8 +107,10 @@ The public health orders state:
 
 _Includes markets, garden centres, and occasional pop-up retail._
 
+_Revised October 25, 2021._
+
 - Retail capacity is permitted at 50% in the Southern Health-Santé Sud health region.
-- Retail capacity is permitted at 100% in the Interlake-Eastern, Northern, Prairie Mountain and Winnipeg health regions.
+- Retail capacity is permitted at 100% in the Interlake-Eastern, Northern, Prairie Mountain and Winnipeg health regions, including the municipalities of Cartier, Headingley, Macdonald, Ritchot (Niverville-Ritchot), St. Francois Xavier and Tache.
 - May open provided the operator of the business takes actions to ensure two metres of separation of customers. Masks are required indoors.
 - Food courts must follow the rules set out for restaurants in the public health order.
 
