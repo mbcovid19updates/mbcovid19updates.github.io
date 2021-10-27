@@ -393,10 +393,10 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 The third dose should be given at least six months after the last vaccine (or no nearlier than 28 days since 2nd dose in certain circumstances):
 
-- All residents of personal care homes in Manitoba.
-- First Nations people living on reserve.
 - Residents of congregate elderly persons housing.
-- Residents and staff of First Nation personal care homes.
+- First Nations people living on reserve.
+- Individuals who have only received a viral vector vaccine (2 doses of AstraZeneca or 1 dose of Janssen). Does not apply to people with an mRNA vaccine.
+- Health care personnel who have direct contact with patients, residents or clients.
 - People who are **moderately to severely immunocompromised** due to a medical condition and/or treatment.
     - This includes those who:
         - are receiving active chemotherapy (or immunotherapy) for cancer
@@ -407,15 +407,16 @@ The third dose should be given at least six months after the last vaccine (or no
     - The following people should talk to their doctor about the risks and benefits of an additional dose:
         - receiving hemodialysis or peritoneal dialysis
         - on the list to receive a solid organ transplant
-        - have a ventricular assist device.   
+        - have a ventricular assist device.
     - People who are immunocompromised can be immunized by their health care provider.
-- Individuals who wish to receive a third dose for **travel purposes**.
-    - The likely scenario here would be if the country you're visiting does not currently consider your mixed vaccines as valid, e.g. 1 AstraZeneca + 1 Moderna. By receiving a third dose (2nd dose of Moderna), this may satisfy other countries with stricter rules.
-    - Individuals who would like to receive a third dose for travel purposes must be vaccinated by their health care provider and go through an informed consent process or present a prescription to a pharmacist.
 - Individuals who have received one or two doses of a **vaccine that is not approved by Health Canada**.
     - Additional doses for people who have previously been vaccinated with vaccines not approved by Health Canada can be administered at supersites, pop-ups or mobile clinics, or by a health care provider.
-- Individuals who have only received a viral vector vaccine (2 doses of AstraZeneca or 1 dose of Janssen). Does not apply to people with an mRNA vaccine.
-- Health care personnel who have direct contact with patients, residents or clients.
+- Residents of all personal care homes.
+- Residents and staff of First Nation personal care homes.
+- Individuals who wish to receive a third dose for **travel purposes**.
+    - People who are travelling who have specific vaccination requirements as per their destination, will need to visit a licensed physician to talk about the risks and benefits of vaccination.
+    - The likely scenario here would be if the country you're visiting does not currently consider your mixed vaccines as valid, e.g. 1 AstraZeneca + 1 Moderna. By receiving a third dose (2nd dose of Moderna), this may satisfy other countries with stricter rules.
+    - Individuals who would like to receive a third dose for travel purposes must be vaccinated by their health care provider and go through an informed consent process or present a prescription to a pharmacist.
 
 
 #### How to access a Third Dose
