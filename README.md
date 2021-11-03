@@ -424,6 +424,8 @@ The third dose should be given at least 6 months after the last vaccine (or no n
 
 Scenario | All COVID-19 vaccine clinics | Medical Clinics | Community Pharmacies
 --- | --- | --- | ---
+First Nations, Métis or Inuit people aged 18+ | ✅ | ✅ | ✅
+People aged 70+ | ✅ | ✅ | ✅
 For people who are moderately to severely immunocompromised | ✅ (requires a prescription from a licensed physician) | ✅ Note: If your physician is not administering the vaccine, request documentation to share with another physician or pharmacist. | ✅ (prescription not required but recommended)
 For people who are travelling who have specific travel requirements, as per their destination | ✅ (requires a prescription from a licensed physician) | ✅ | ✅ (requires a prescription from a licensed physician)
 For people who have received one or two doses of a vaccine that is not approved by Health Canada | ✅ | ✅ | ✅
