@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: October 27, 2021_
+_Last updated: November 3, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -373,7 +373,7 @@ Location | Address | Info
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: October 27, 2021_
+_Last updated: November 3, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -384,17 +384,18 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### Second Doses
 
-- **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose.
+- **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose. Following guidance from the National Advisory Committee on Immunization, Manitoba is now **recommending individuals receive their second dose of vaccine 56 days (eight weeks) after their first dose**. Previously, the recommendation was 28 days (four weeks). The longer time period between doses has been shown to provide a stronger immune response over time. However, the minimum time frame between first and second doses will remain at 28 days so individuals will be able to choose the timing of vaccine schedule based on their own circumstances.
    - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
    - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
    - If AstraZeneca was your first dose, an 8-12 week interval is recommended, but can be as low as 28 days.
 
 ### Third Doses
 
-The third dose should be given at least six months after the last vaccine (or no nearlier than 28 days since 2nd dose in certain circumstances):
+The third dose should be given at least 6 months after the last vaccine (or no nearlier than 28 days since 2nd dose in certain circumstances):
 
+- **All people aged 70 and older**.
+- **All First Nations, Inuit and Métis people aged 18 and over**.
 - Residents of **congregate elderly persons housing**.
-- **First Nations people living on reserve**.
 - Individuals who have only received a **viral vector vaccine** (2 doses of AstraZeneca or 1 dose of Janssen). Does not apply to people with an mRNA vaccine.
 - **Health care personnel** who have direct contact with patients, residents or clients.
 - People who are **moderately to severely immunocompromised** due to a medical condition and/or treatment.
