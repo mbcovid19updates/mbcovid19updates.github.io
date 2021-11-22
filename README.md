@@ -379,7 +379,7 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### First Doses
 
-- **Anyone aged 5 and up is eligible to receive their first dose of a COVID vaccine.
+- **Anyone aged 5 and up** is eligible to receive their first dose of a COVID vaccine.
    - Young people aged 5-11 must receive a special pediatric (smaller) dose of _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
 ### Second Doses
@@ -391,10 +391,8 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### Third/Booster Dose
 
-The third dose should be given at least 6 months after the last vaccine (or no nearlier than 28 days since 2nd dose in certain circumstances):
-
-- **All people aged 18 and older**.
-    - For most people, the third dose must be given a minimum of six months after their second dose, except in very limited circumstances. You will need a prescription from a doctor if you are requesting your third dose earlier than six months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
+- **Anyone aged 18 and older** and a minimum of **6 months** after their second dose, except in very limited circumstances.
+    - You will need a prescription from a doctor if you are requesting your third dose earlier than six months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
 
 ### Medical Exemptions
 
