@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: November 3, 2021_
+_Last updated: November 22, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -373,14 +373,14 @@ Location | Address | Info
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: November 3, 2021_
+_Last updated: November 22, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
 ### First Doses
 
-- **Anyone born on or before December 31, 2009** (roughly age 11½ and up) is eligible to receive their first dose of a COVID vaccine.
-   - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
+- **Anyone aged 5 and up is eligible to receive their first dose of a COVID vaccine.
+   - Young people aged 5-11 must receive a special pediatric (smaller) dose of _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
 ### Second Doses
 
@@ -389,48 +389,12 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
    - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
    - If AstraZeneca was your first dose, an 8-12 week interval is recommended, but can be as low as 28 days.
 
-### Third Doses
+### Third/Booster Dose
 
 The third dose should be given at least 6 months after the last vaccine (or no nearlier than 28 days since 2nd dose in certain circumstances):
 
-- **All people aged 70 and older**.
-- **All First Nations, Inuit and Métis people aged 18 and over**.
-- Residents of **congregate elderly persons housing**.
-- Individuals who have only received a **viral vector vaccine** (2 doses of AstraZeneca or 1 dose of Janssen). Does not apply to people with an mRNA vaccine.
-- **Health care personnel** who have direct contact with patients, residents or clients.
-- People who are **moderately to severely immunocompromised** due to a medical condition and/or treatment.
-    - This includes those who:
-        - are receiving active chemotherapy (or immunotherapy) for cancer
-        - have received a solid organ transplant and are currently receiving chemotherapy or other immunosuppressive therapy
-        - were born with moderate or severe dysfunction of their immune system
-        - are living with untreated or advanced HIV-AIDS
-        - are taking certain medications that severely affect the immune system
-    - The following people should talk to their doctor about the risks and benefits of an additional dose:
-        - receiving hemodialysis or peritoneal dialysis
-        - on the list to receive a solid organ transplant
-        - have a ventricular assist device.
-    - People who are immunocompromised can be immunized by their health care provider.
-- Individuals who have received one or two doses of a **vaccine that is not approved by Health Canada**.
-    - Additional doses for people who have previously been vaccinated with vaccines not approved by Health Canada can be administered at supersites, pop-ups or mobile clinics, or by a health care provider.
-- **Residents of all personal care homes**.
-- **Residents and staff of First Nation personal care homes**.
-- Individuals that require a third dose for **travel purposes**.
-    - People who are travelling who have specific vaccination requirements as per their destination, will need to visit a licensed physician to talk about the risks and benefits of vaccination.
-    - The likely scenario here would be if the country you're visiting does not currently consider your mixed vaccines as valid, e.g. 1 AstraZeneca + 1 Moderna. By receiving a third dose (2nd dose of Moderna), this may satisfy other countries with stricter rules.
-    - Individuals who would like to receive a third dose for travel purposes must be vaccinated by their health care provider and go through an informed consent process or present a prescription to a pharmacist.
-
-
-#### How to access a Third Dose
-
-Scenario | All COVID-19 vaccine clinics | Medical Clinics | Community Pharmacies
---- | --- | --- | ---
-First Nations, Métis or Inuit people aged 18+ | ✅ | ✅ | ✅
-People aged 70+ | ✅ | ✅ | ✅
-For people who are moderately to severely immunocompromised | ✅ (requires a prescription from a licensed physician) | ✅ Note: If your physician is not administering the vaccine, request documentation to share with another physician or pharmacist. | ✅ (prescription not required but recommended)
-For people who are travelling who have specific travel requirements, as per their destination | ✅ (requires a prescription from a licensed physician) | ✅ | ✅ (requires a prescription from a licensed physician)
-For people who have received one or two doses of a vaccine that is not approved by Health Canada | ✅ | ✅ | ✅
-Health care personnel | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose)
-For people with two doses of Astra Zeneca or one dose of Janssen | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose) | ✅ (at least 6 months after last dose)
+- **All people aged 18 and older**.
+    - For most people, the third dose must be given a minimum of six months after their second dose, except in very limited circumstances. You will need a prescription from a doctor if you are requesting your third dose earlier than six months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
 
 ### Medical Exemptions
 
