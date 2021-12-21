@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: December 9, 2021_
+_Last updated: December 21, 2021_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -36,9 +36,9 @@ _Last updated: December 9, 2021_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: October 26, 2021_
+_Last updated: December 21, 2021_
 
-The following restrictions are in effect as of Tuesday, October 5, 2021, at 12:01 am:
+The following restrictions are in effect as of Tuesday, December 21, 2021, at 12:01 am:
 
 
 ### Confirmed Cases and Close Contacts
@@ -53,20 +53,20 @@ The following restrictions are in effect as of Tuesday, October 5, 2021, at 12:0
 
 #### Residential Gatherings
 
-- **Indoor**
-    - Households are limited to guests from one other household when any unvaccinated person (who is eligible to be vaccinated) is present on the property (even if the unvaccinated person lives at that location).
-    - Fully immunized people may gather without capacity limits with other fully immunized people and those under 12 who are not eligible for the vaccine.
-- **Outdoor**
-    - Households are limited to 10 guests outdoors when any unvaccinated person (who is eligible to be vaccinated) is present on the property (even if the unvaccinated person lives at that location).
-    - Fully immunized people may gather without capacity limits with other fully immunized people and those under 12 who are not eligible for the vaccine.
+- **Indoors**
+    - Households are limited to 5 additional people plus the household when any unvaccinated person (who is eligible to be vaccinated) is present on the property (even if the unvaccinated person lives at that location).
+    - Fully immunized people are limited to 10 additional people plus the household if all are fully vaccinated (youth aged 12 and under are exempt from needing to be fully vaccinated)
+- **Outdoors**
+    - Outdoor gatherings on a private residence are limited to **20 additional** people plus the household if all are fully vaccinated (youth aged 12 and under are exempt from needing to be fully vaccinated).
 
 #### Public Gatherings
 
-- **Indoor**
+- **Indoors**
     - Group sizes to 25 people or 25% capacity, whichever is lower, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated.
-    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather without capacity limits.
-- **Outdoor**
+    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the premise.
+- **Outdoors**
     - Groups of up to 50 people are permitted in uncontrolled outdoor public spaces.
+    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the area.
 
 #### Proof of Vaccination Guidelines
 
@@ -90,7 +90,7 @@ The public health orders state:
 
 ### Weddings & Funerals
 
-- Indoor weddings and funerals are limited to group sizes to 25 people or 25% capacity, whichever is lower, for gatherings that include unvaccinated people who are eligible to be vaccinated. _Effective October 12, 2021._
+- Permitting indoor public gathering group sizes to 25 people or 25% capacity, whichever is lower, for gatherings that include unvaccinated people who are eligible to be vaccinated.
 - Outdoor weddings and funerals are limited to 50 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
 
 
@@ -98,79 +98,88 @@ The public health orders state:
 
 _Includes markets, garden centres, and occasional pop-up retail._
 
-_Revised October 25, 2021._
-
 - Retail capacity is permitted at 50% in the Southern Health-Santé Sud health region.
-- Retail capacity is permitted at 100% in the Interlake-Eastern, Northern, Prairie Mountain and Winnipeg health regions, including the municipalities of Cartier, Headingley, Macdonald, Ritchot (Niverville-Ritchot), St. Francois Xavier and Tache.
+- Retail capacity is permitted at 100% in the Interlake-Eastern, Northern, Prairie Mountain, Winnipeg health regions, and at a retail business that is located in the Town of Niverville or in the Rural Municipalities of St. Francois Xavier, Cartier, Headingley, Macdonald, Ritchot or Taché in the Southern Health Region.
 - May open provided the operator of the business takes actions to ensure two metres of separation of customers. Masks are required indoors.
 - Food courts must follow the rules set out for restaurants in the public health order.
 
 
 ### Indoor and Outdoor Sports and Recreation
 
-- **Indoor** Sports and Recreation:
-    - Proof of vaccination is required, excluding youth participants in recreational sport.
-    - All spectators aged 18 and up will also need to be fully immunized.
-    - Parents and coaches will require proof of vaccination
-    - All indoor group activities permitted with no capacity limits on participants. This includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
 - **Outdoor** Sports and Recreation:
     - No capacity limits for participants. Includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
-    - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play (ex: at a tournament) and spectators should maintain a two-metre distance whenever reasonably possible.
+    - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play and spectators should maintain a two-metre distance whenever reasonably possible.
+    - No group activities outside of practice time or games, come ready to play and limit group time indoors (e.g. in dressing rooms).
+- **Indoor** Sports and Recreation:
+    - All parent, coaches and spectators aged 18 and up will also need to be fully immunized and require proof of vaccination.
+    - Indoor sporting and recreation capacity is reduced to 50% for spectators. While games and practices can continue, no tournaments will be permitted.
+    - No group activities outside of practice time or games, come ready to play and limit group time indoors (e.g. in dressing rooms).
+
+#### COVID-19 Rapid Testing for Youth (12-17) for Indoor Sports
+
+As of Dec. 6, 2021, public health orders require youth aged 12 to 17 years attending indoor sporting and recreational facilities (including schools) to provide proof that they have received at least one dose of the Pfizer-BioNTech or Moderna vaccine for COVID‑19.
+
+If they have not had at least one dose, they must provide proof of a pharmacist-confirmed negative result from an approved rapid antigen test, from a test take within the 72 hours before they participate. The public health orders do not allow other health care providers to confirm a test result.
 
 
 ### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
 
+- Limited to 50% capacity.
 - Proof of vaccination is required.
 - Masks remain required when not actively engaged in physical activity.
 
 
 ### Libraries
 
-- May open without restrictions. Mask use is required.
+- May open at 50% capacity.
+- Mask use is required.
+- Proof of vaccination is not required.
 
 
 ### Museums, Galleries and Movie Theatres
 
-- Museums may operate under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
+- Museums may operate at 50% capacity under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
     - If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
-- Proof of vaccination is required for movie theatres - they may open with no other restrictions.
+- Movie Theatres and Concert Halls may operate at 50% capacity under the requirement to show proof of vaccination.
 
 
 ### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
 
-- Professional outdoor sports, outdoor performing arts events and concert halls may open for fully immunized (two doses and two weeks post second dose) to a maximum of 100%.
-- Other large scale events with more than 1,500 people who are fully immunized may be permitted with a plan approved by public health.
-- Outdoor fairs, festivals and community events may be held if the number of people attending does not exceed 500, unless protocols and higher attendance is approved by public health.
+- Professional sports performing arts events and concert halls may open for fully immunized to a maximum of 50%.
 - Horse and Auto Racing open to 100% for fully immunized people, with a plan approved by public health.
 
-Where applicable above, unvaccinated children under 12 may attend if accompanied by fully vaccinated household members.
+Where applicable above, unvaccinated children 12 and under may attend if accompanied by fully vaccinated household members.
 
 
-### Outdoor Season Events, Fairs, Festivals and Community Events
+### Outdoor Seasonal Events, Fairs, Festivals and Community Events
 
-- Corn mazes, haunted houses and other seasonal outdoor facilities or events may operate if everyone attending provides proof of immunization, or are under 12 years of age.
+- Seasonal outdoor facilities or events may operate at 50% capacity if everyone attending provides proof of immunization, or are under 12 years of age.
 - Outdoor fairs, festivals and other outdoor major community events may be held if the number of persons attending does not exceed 50 persons.
 
 
 ### Casinos and VLTs
 
-- May open with proof of vaccination required.
-- Physical distancing is no longer required between VLTs.
+- Casinos and VLTs are limited to 50% capacity and must continue to restrict admission to those who are fully vaccinated.
+- Mask use is required.
 
 
-### Cultural and Religious Gatherings
+### Religious Services and Indigenous Cultural Events
 
-- Indoor public gathering group sizes to 25 people or 33% capacity, whichever is greater, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated. Physical distancing is required.
-- Outdoors groups of up to 50 people are permitted in uncontrolled outdoor public spaces. Physical distancing is required.
-- Fully immunized people and those under 12 who are not eligible for the vaccine may gather without capacity limits.
+- Limited to 50% capacity with proof of vaccination, or 25% capacity or a total of 25 people, whichever is lower, when proof of vaccination is not required.
+    - Cohorts may be implemented where groups can be physically divided.
+    - The total number of attendees at a service may not exceed 25% of facility capacity, to a maximum of 250 people.
+    - Cohorts must not mingle, masks must be worn and physical distancing rules apply.
 - Drive-in services continue unrestricted.
+- Outdoors groups of up to 50 people are permitted in uncontrolled outdoor public spaces. Physical distancing is required.
 
 
 ### Restaurants & Bars
 
 _Includes other public food establishments, food courts, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
+- May operate at 50% capacity, with maximum table capacity of 10 persons.
 - Proof of vaccination is required for those 12 years of age and older to attend indoor and outdoor dining.
+- Members of the public are required to be seated except when travelling to get food or beverages or engaging in sporting activities.
 - Food courts must follow these same regulations.
 - Individuals are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
 - Individuals are required to wear masks.
@@ -197,12 +206,9 @@ _Includes businesses such as hair, nails, tattoos, etc._
 
 ### Child Care and Day Camps
 
-- Day camps may open without restriction.
-- Overnight camps may operate with restrictions:
-    - The number of camp and staff in a group does not exceed 15;
-    - There is no interaction between groups; and,
-    - The camp operates within a plan approved by public health.
-Family child-care homes and child-care centres can open and operate in accordance with applicable legislation.
+- Day camps are limited to no more than 25 campers and camper groups must be cohorted.
+- Over night camps are prohibited under these orders.
+- Family child-care homes and child-care centres can open and operate in accordance with applicable legislation:
     - [COVID-19 Early Learning and Child Care Practice Guidance](https://www.gov.mb.ca/fs/pubs/2020-145r-covid-19-attachment-elcc-practice-guide-updated-may-18-2021.pdf) (PDF)
     - A revised Coronavirus (COVID-19) Early Learning and Child Care Practice Guidance document with technical information will be distributed within the next few weeks to reflect the new public health directives.
 
