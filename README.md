@@ -48,6 +48,18 @@ The following restrictions are in effect as of Tuesday, December 21, 2021, at 12
 - Household members of close contacts do not need to self-isolate (quarantine) as long as they and the close contact in the household remain without symptoms. If the close contact develops symptoms, all household members, unless otherwise exempt, should self-isolate (quarantine) until the symptomatic individual receives their COVID-19 test result.
 - Close contacts and household members of close contacts may be exempt from self-isolation (quarantine) if they have no symptoms AND are fully immunized at the time of the exposure or have had a COVID-19 infection within the past 6 months. Public health officials will let close contacts know if they meet criteria for exemption from self-isolation (quarantine). All individuals exempt from self-isolation (quarantine) requirements, should continue to self-monitor for symptoms, and isolate immediately if any develop and go for testing.
 
+_UPDATE: January 3, 2022_
+
+Self-isolation order has changed and sets out updated isolation requirements for asymptomatic positive cases and symptomatic individuals depending on vaccination status. For some, isolation has changed from 10 to 5 days.
+
+The changes include:
+
+- Requiring all people who have tested positive for COVID-19 to isolate including those who completed a rapid antigen test;
+- Changing isolation requirements to 5 days from 10 days since the date of the test for fully-vaccinated people who are not showing symptoms;
+- Changing isolation requirements to 5 days from 10 days since the date symptoms started appearing or the date of the test, whichever is later, for fully-vaccinated people as long as their symptoms are improving and they do not have a fever;
+- Requiring individuals who have only isolated for 5 days due to the changes above to wear medical-grade mask while in a public setting for the five days immediately following their self-isolation; and
+- Requiring isolation for people who have tested positive who are not fully vaccinated for 10 days after the date of their test as long as their symptoms are improving and they do not have a fever.
+
 
 ### Gatherings
 
@@ -228,7 +240,7 @@ _Includes businesses such as hair, nails, tattoos, etc._
 - See the [State of Emergency and Current Public Health Orders](https://www.manitoba.ca/covid19/prs/orders/index.html#self-isolation) page for more information and exemptions to self-isolation.
 
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=51998&posted=2021-08-03) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-12202021.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53078&posted=2021-12-27) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-12272021.pdf) (PDF) here.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
