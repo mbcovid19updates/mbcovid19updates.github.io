@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: December 21, 2021_
+_Last updated: January 3, 2022_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -36,7 +36,7 @@ _Last updated: December 21, 2021_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: December 21, 2021_
+_Last updated: January 3, 2022_
 
 The following restrictions are in effect as of Tuesday, December 21, 2021, at 12:01 am:
 
@@ -54,19 +54,20 @@ The following restrictions are in effect as of Tuesday, December 21, 2021, at 12
 #### Residential Gatherings
 
 - **Indoors**
-    - Households are limited to 5 additional people plus the household when any unvaccinated person (who is eligible to be vaccinated) is present on the property (even if the unvaccinated person lives at that location).
-    - Fully immunized people are limited to 10 additional people plus the household if all are fully vaccinated (youth aged 12 and under are exempt from needing to be fully vaccinated)
+    - Households are limited to 5 additional people plus the household when any unvaccinated person (who is eligible to be vaccinated, excluding youth under 12) is present on the property (even if the unvaccinated person lives at that location).
+    - Households are limited to 10 additional people plus the household when all who are present are fully immunized (youth aged under 12 and under are exempt from needing to be fully vaccinated).
 - **Outdoors**
-    - Outdoor gatherings on a private residence are limited to **20 additional** people plus the household if all are fully vaccinated (youth aged 12 and under are exempt from needing to be fully vaccinated).
+    - Outdoor gatherings on a private residence are limited to 20 additional people plus the household if all are fully vaccinated (youth aged under 12 and under are exempt from needing to be fully vaccinated).
+    - Outdoor gatherings on a private residence are limited to 10 additional people plus the household when any unvaccinated person (who is eligible to be vaccinated, excluding youth under 12) is present on the property (even if the unvaccinated person lives at that location).
 
 #### Public Gatherings
 
 - **Indoors**
-    - Group sizes to 25 people or 25% capacity, whichever is lower, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated.
-    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the premise.
+    - Group sizes to 25 people or 25% capacity, whichever is lower, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
+    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the premise, or 250 people, whichever is lower. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
 - **Outdoors**
-    - Groups of up to 50 people are permitted in uncontrolled outdoor public spaces.
-    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the area.
+    - Groups of up to 50 people are permitted in uncontrolled outdoor public spaces that include one or more unvaccinated persons. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
+    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the area or 250 people, whichever is lower.. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
 
 #### Proof of Vaccination Guidelines
 
@@ -90,8 +91,8 @@ The public health orders state:
 
 ### Weddings & Funerals
 
-- Permitting indoor public gathering group sizes to 25 people or 25% capacity, whichever is lower, for gatherings that include unvaccinated people who are eligible to be vaccinated.
-- Outdoor weddings and funerals are limited to 50 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 150 people, whichever is greater.
+- Indoor public gathering group sizes to 25 people or 25% capacity, whichever is lower, for gatherings that include unvaccinated people who are eligible to be vaccinated.
+- Outdoor weddings and funerals are limited to 50 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 250 people, whichever is greater.
 
 
 ### Retail Stores and Malls
@@ -107,12 +108,12 @@ _Includes markets, garden centres, and occasional pop-up retail._
 ### Indoor and Outdoor Sports and Recreation
 
 - **Outdoor** Sports and Recreation:
-    - No capacity limits for participants. Includes games, practices, competitions/ tournaments, day camps, rehearsals and recitals.
-    - Spectator capacity limited to 50% of the capacity of a place. This includes other teams who are not active on the field of play and spectators should maintain a two-metre distance whenever reasonably possible.
+    - No capacity limits for participants.
+    - Spectator capacity limited to 50% of the capacity of a place or 250 people, whichever is lower. This includes other teams who are not active on the field of play and spectators should maintain a two-metre distance whenever reasonably possible.
     - No group activities outside of practice time or games, come ready to play and limit group time indoors (e.g. in dressing rooms).
 - **Indoor** Sports and Recreation:
     - All parent, coaches and spectators aged 18 and up will also need to be fully immunized and require proof of vaccination.
-    - Indoor sporting and recreation capacity is reduced to 50% for spectators. While games and practices can continue, no tournaments will be permitted.
+    - Indoor sporting and recreation capacity is reduced to 50% for spectators or 250 people, whichever is lower. While games and practices can continue, no tournaments will be permitted.
     - No group activities outside of practice time or games, come ready to play and limit group time indoors (e.g. in dressing rooms).
 
 #### COVID-19 Rapid Testing for Youth (12-17) for Indoor Sports
@@ -124,7 +125,7 @@ If they have not had at least one dose, they must provide proof of a pharmacist-
 
 ### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
 
-- Limited to 50% capacity.
+- Limited to 50% capacity or 250 people, whichever is lower.
 - Proof of vaccination is required.
 - Masks remain required when not actively engaged in physical activity.
 
@@ -138,48 +139,52 @@ If they have not had at least one dose, they must provide proof of a pharmacist-
 
 ### Museums, Galleries and Movie Theatres
 
-- Museums may operate at 50% capacity under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
+- Museums may operate at 50% capacity or 250 people, whichever is lower, under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
     - If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
-- Movie Theatres and Concert Halls may operate at 50% capacity under the requirement to show proof of vaccination.
+- Movie Theatres and Concert Halls may operate at 50% capacity or 250 people, whichever is lower, under the requirement to show proof of vaccination.
 
 
 ### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
 
-- Professional sports performing arts events and concert halls may open for fully immunized to a maximum of 50%.
-- Horse and Auto Racing open to 100% for fully immunized people, with a plan approved by public health.
+- Professional sports performing arts events and concert halls may open for fully immunized to a maximum of 50% or 250 people, whichever is lower.
+- Horse and Auto Racing open to 50% capacity or 250 people, whichever is lower, for fully immunized people, with a plan approved by public health.
 
 Where applicable above, unvaccinated children 12 and under may attend if accompanied by fully vaccinated household members.
 
 
 ### Outdoor Seasonal Events, Fairs, Festivals and Community Events
 
-- Seasonal outdoor facilities or events may operate at 50% capacity if everyone attending provides proof of immunization, or are under 12 years of age.
+- Seasonal outdoor facilities or events may operate at 50% capacity or 250 people, whichever is lower, if everyone attending provides proof of immunization, or are under 12 years of age.
 - Outdoor fairs, festivals and other outdoor major community events may be held if the number of persons attending does not exceed 50 persons.
 
 
 ### Casinos and VLTs
 
-- Casinos and VLTs are limited to 50% capacity and must continue to restrict admission to those who are fully vaccinated.
+- Casinos and VLTs are limited to 50% capacity or 250 people, whichever is lower, and must continue to restrict admission to those who are fully vaccinated.
 - Mask use is required.
 
 
 ### Religious Services and Indigenous Cultural Events
 
-- Limited to 50% capacity with proof of vaccination, or 25% capacity or a total of 25 people, whichever is lower, when proof of vaccination is not required.
-    - Cohorts may be implemented where groups can be physically divided.
-    - The total number of attendees at a service may not exceed 25% of facility capacity, to a maximum of 250 people.
-    - Cohorts must not mingle, masks must be worn and physical distancing rules apply.
-- Drive-in services continue unrestricted.
-- Outdoors groups of up to 50 people are permitted in uncontrolled outdoor public spaces. Physical distancing is required.
+- **Indoors**
+    - Gatherings are limited to 50% capacity or 250 people, whichever is lower, with proof of vaccination, or 25% capacity or a total of 25 people, whichever is lower, when proof of vaccination is not required.
+        - Cohorts may be implemented if the facility can physically divide the space into separate areas, in which case several cohorts of up to 25 can attend the same service. The total number of attendees at a service may not exceed 25% of facility capacity, to a maximum of 250 people.
+        - Physical distancing is required.
+        - Cohorts must not mingle, masks must be worn and physical distancing rules apply.
+- **Outdoors**
+    - Gatherings restricted to fully immunized people and those under 12 years of age are limited to 50% of the usual capacity of the space or 250 persons, whichever is less.
+    - Outdoor gatherings that include one or more unvaccinated people (if they are 12 years of age or older) are limited to up to 50 people are permitted in uncontrolled outdoor public spaces.
+    - Drive-in services continue unrestricted.
 
 
 ### Restaurants & Bars
 
 _Includes other public food establishments, food courts, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
-- May operate at 50% capacity, with maximum table capacity of 10 persons.
+- May operate at 50% capacity or 250 people, whichever is lower, with maximum table capacity of 10 persons.
 - Proof of vaccination is required for those 12 years of age and older to attend indoor and outdoor dining.
 - Members of the public are required to be seated except when travelling to get food or beverages or engaging in sporting activities.
+- Liquor service must end at 10pm each day.
 - Food courts must follow these same regulations.
 - Individuals are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
 - Individuals are required to wear masks.
@@ -201,7 +206,7 @@ _Includes businesses such as hair, nails, tattoos, etc._
 
 ### Support groups
 
-- Indoor and outdoor gathering limits apply.
+- Indoor and outdoor gathering limits apply. Mask use is required.
 
 
 ### Child Care and Day Camps
