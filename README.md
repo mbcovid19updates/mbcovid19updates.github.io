@@ -38,7 +38,7 @@ _Last updated: January 3, 2022_
 
 _Last updated: January 3, 2022_
 
-The following restrictions are in effect as of Tuesday, December 21, 2021, at 12:01 am:
+The following restrictions are in effect as of Saturday, January 1, 2022, at 12:01 am:
 
 
 ### Confirmed Cases and Close Contacts
@@ -607,7 +607,7 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: September 14, 2021_
+_Last updated: January 7, 2022_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
@@ -624,37 +624,46 @@ Every day, we comb through all official COVID data and present it as a single un
 #### (1) Today
 The total listed here is based on what the province reported today, usually from yesterday's tests. On Mondays (or other days after a holiday and/or long weekend), when more than 1 day is presented, we'll include an average. For example, on Mondays, we'll include an average of all 3 days (Saturday, Sunday and Monday). If there were 120 cases total, we will display the daily average as 40. The 7-day average in smaller text below is based on the last 7 days of new case totals.
 
-#### (2) Active
+_UPDATE: January 7, 2022_
+Due to massive demand and backlogs in testing, as well as changes to testing protocols, Public Health officials advise that potentially as much as 90% of cases are not officially accounted for.
+
+#### (2) 10 Days
 The total listed here is based on the **last 10 days of new cases**. This is because the Manitoba government's official active case total is usually very backlogged, as they appear to not be able to keep up with following up with people and confirming they have recovered. The vast majority of people with COVID-19 recover and are no longer infectious after 10 days, so we instead use an estimated total that is based on that. Whether or not the real number is a touch higher or lower, this offers the most consistent gauge on current active cases.
 
+_UPDATE: January 7, 2022_
+Due to massive demand and backlogs in testing, as well as changes to testing protocols, Public Health officials advise that potentially as much as 90% of cases are not officially accounted for.
+
 #### (3) Hosp
-The total listed here is the total number of hospitalized patients that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it. This total includes the total number of people in the ICU as well.
+The total listed here is the total number of hospitalized patients that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it. This total includes the total number of people in the ICU as well. 
+
+_UPDATE: January 7, 2022_
+It's been clarified that this does include people that have gone into hospitals for different reasons and have also tested positive for COVID. I suspect this was less of an issue (smaller percentage) in the past, but with Omicron being so widespread and infectious, it's definitely skewing the numbers. The province of Quebec mentioned as much as 40% of their hospitalization cases fall into this category (not there because of COVID). Manitoba plans to address this in the near future (and we'll adjust our numbers/stats accordingly).
 
 #### (4) ICU
 The total listed here is the total number of hospitalized patients requiring intensive care that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it.
 
 #### (5) Deaths
-The large number here is the number of new deaths reported today. The province delays this data in order to verify and prevent incorrect reporting, so please note that most deaths reported today likely happened a week or more ago. The smaller total is the total number of deaths due to COVID since the beginning of the pandemic.
+The large number here is the number of new deaths reported today. The province delays this data in order to verify and prevent incorrect reporting, so please note that most deaths reported today likely happened several days or more ago. The smaller total is the total number of deaths due to COVID since the beginning of the pandemic.
 
-#### (6) Vaccine Uptake
-As of September 14, 2021, we're basing all vaccination calculations on the entire population (age 0+). Most times you may see these numbers reported elsewhere as age 12+ or age 18+, but just because children under the age of 12 are not eligible, it does not mean they cannot contract and pass the virus around, etc, so we believe it paints the most accurate picture of the current number of people vaccinated.
+#### (6) Vaccine Coverage
+We base all vaccination calculations on the entire population (age 0+). Sometimes you may see these numbers reported elsewhere as age 12+ or age 18+, and that may be why our numbers may look a little different.
 
 - **Fully vaxxed** refers to the total number of Manitobans that have received at least 2 vaccinations.
-- **1+ doses** refers to the total number of Manitobans that have received at least 1 vaccination.
-- **Without** refers to the total number of Manitobans that have not yet received any vaccination.
+- **At least 1 dose** refers to the total number of Manitobans that have received at least 1 vaccination.
 - **Partial vax** refers to the total number of Manitobans that have received only 1 dose of the vaccine (different than _at least 1 dose_).
-- **Ineligible** refers to the total number of Manitobans not currently eligible to receive any COVID vaccine (under age 12).
+- **Unvaxxed** refers to the total number of eligible (age 5+) Manitobans that have not yet received any vaccination.
+- **Ineligible** refers to the total number of Manitobans not currently eligible to receive any COVID vaccine (under age 5).
 
 All of our calculations such as totals, age group and health region are based upon population totals from the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
 
-#### (7) Protection
-The Vaccine Protection area provides a breakdown of cases and hospitalizations in order to show vaccine effectiveness. Please note that the **Active Cases** total is based on the provinces potentially backlogged case count. The hospitalizations and ICU numbers are based only on "active" (infectious) patients.
+#### (7) Status Breakdown / Risk to Not Fully Vaccinated
+The Vaccine Protection area provides a breakdown of cases and hospitalizations in order to show vaccine effectiveness. Please note that these stats are based on the last 6 weeks of case data.
 
 #### (8) Provincial Stats
 This section displays active cases, hospitalization and vaccine uptake data about the 6 provinces (BC, AB, SK, MB, ON, QC). All of the data is from **yesterday**, as more Western provinces take longer to report their totals due to time zone differences. For the most accurate comparison, active cases are based on the last 10 days of new case reporting. Vaccine uptake numbers are based on the total number of people with at least 2 doses of vaccine.
 
-#### (9) Variants of Concern
-The breakdown here is unfortumately likely not the most accurate representation of active Variants of Concern. The province takes a long time to sequence and identify variants, so some cases may not be flagged as variants until a few days later. Then, many that are flagged as variants are not yet identified for another week or longer. It's likely safe to assume that the breakdown of the **Unknown** variants is similar to the breakdown of the indentified cases. For example, if there were 8 Delta cases, 2 Alpha cases, and 10 Unknown cases, you can roughly assume that perhaps there's actually 16 Delta cases and 4 Alpha cases (though it could also be that one variant is taking over, so the breakdown may be weighted more heavily to the newer variant).
+#### (9) Cases by Age
+This section includes a per capita breakdown of how many cases per 100K for each age group from the last 7 days of reported cases. This provides a glimpse at how COVID is spreading throughout the different population age groups.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
