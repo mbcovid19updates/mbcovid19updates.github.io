@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: January 7, 2022_
+_Last updated: January 17, 2022_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -230,16 +230,6 @@ _Includes businesses such as hair, nails, tattoos, etc._
     - A revised Coronavirus (COVID-19) Early Learning and Child Care Practice Guidance document with technical information will be distributed within the next few weeks to reflect the new public health directives.
 
 
-### Travel to and from Manitoba
-
-- Fully vaccinated (two doses) individuals can now travel within Canada without being required to self-isolate for 14 days upon arrival back in the province.
-- 14 days of self-isolation is still required for people returning or coming to Manitoba from all jurisdictions if they have received one or no vaccine doses. For information on current exemptions, visit: [Self-isolation Exemptions](https://manitoba.ca/covid19/fundamentals/self-isolation.html#exemptions).
-- Individuals who travelled internationally must follow federal testing and self-isolation (quarantine) [requirements](https://travel.gc.ca/travel-covid/travel-restrictions/isolation). For information on current exemptions, visit: [Self-isolation Exemptions](https://manitoba.ca/covid19/fundamentals/self-isolation.html#exemptions).
-- All domestic travellers who are not exempt from quarantine in the orders are strongly advised get **two** COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba. They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of Manitoba and share the location of travel. Travellers, who are not exempt from quarantine, must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
-- Testing as a result of domestic travel is not required for individuals who are exempt from quarantine in the provincial public health orders.
-- See the [State of Emergency and Current Public Health Orders](https://www.manitoba.ca/covid19/prs/orders/index.html#self-isolation) page for more information and exemptions to self-isolation.
-
-
 This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53078&posted=2021-12-27) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-12272021.pdf) (PDF) here.
 
 
@@ -296,32 +286,6 @@ An indoor public space includes:
 This order does not apply to a child care centre or a child care home.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-<!-- DO NOT SHOW FOR NOW
-
-<a name="travel"></a>
-## Travel
-
-_Last updated: August 20, 2021_
-
-
-### Travel between provinces within Canada
-
-- Fully vaccinated (two doses) individuals can now travel within Canada without being required to self-isolate for 14 days upon arrival back in the province.
-- 14 days of self-isolation is still required for people returning or coming to Manitoba from all jurisdictions if they have received one or no vaccine doses. For information on current exemptions, visit: [Self-isolation Exemptions](https://manitoba.ca/covid19/fundamentals/self-isolation.html#exemptions).
-- When travelling to other provinces, you will need to follow their own guidelines for self-isolation (if applicable). Please check other provincial sites for more information on what the latest restrictions (if any) are.
-- All domestic travellers who are not exempt from quarantine in the orders are strongly advised get **two** COVID-19 tests -- one on the day of arrival, and another on the 10th day after arriving in Manitoba regardless of if they are displaying symptoms, and whether they are visiting Manitoba. They should make an appointment with a provincial testing site or visit a drive-thru test site and indicate at the time of testing that they have been out of Manitoba and share the location of travel. Travellers, who are not exempt from quarantine, must observe the full 14-day self-isolation period regardless of symptoms and test results. Re-testing is advised if an asymptomatic individual develops symptoms at any point, unless the individual had already tested positive. Individuals who test positive for COVID-19 and have had close contact to a traveller should identify this contact to public health during the public health investigation and follow-up.
-- Individuals identified as having COVID-19 must immediately enter mandatory isolation/self-isolation (quarantine) until public health officials advise they can end isolation/self-isolation (quarantine).
-
-### Travel to and from USA
-
-- Fully vaccinated (two doses) individuals in the USA can now travel TO Canada.
-https://travel.gc.ca/travel-covid
-https://www.cnn.com/2021/08/20/politics/us-travel-restrictions-to-mexico-and-canada/index.html
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
--->
 
 
 <a name="vaccine-locator"></a>
@@ -533,7 +497,6 @@ Manitobans who are fully immunized (two vaccine doses plus two weeks from the ti
 
 **NOTE:** Unvaccinated children under the age of 12 may attend/visit the above events (where applicable) if accompanied by a fully vaccinated member of their household.
 
-
 #### Eligibility
 
 To be eligible to receive an immunization card, Manitobans must:
@@ -542,9 +505,7 @@ To be eligible to receive an immunization card, Manitobans must:
 - have received two doses of a vaccine.
 - wait 14 days after getting the second dose of vaccine.
 
-**NOTE:** At this time, an immunization card is only available for people with a Manitoba health card. To find out if you are eligible for a Manitoba health card, go to the [Manitoba Health and Seniors Care website](https://www.gov.mb.ca/health/mhsip/index.html#Q1). Once you receive your Manitoba health card, you can request your immunization card online. If you are not eligible for a Manitoba health card, you may contact your [local public health office](https://www.gov.mb.ca/health/publichealth/offices.html) and they can provide you with a copy of your vaccination record.
-
-**NEW - September 15, 2021:** Individuals who receive a dose of an mRNA vaccine following one or two doses of a vaccine not approved by Health Canada, but approved by the World Health Organization, will be considered fully immunized. Individuals can have their immunization record updated to include vaccines not approved by Health Canada at https://manitoba.ca/covid19/vaccine/immunizationrecord/residents.html#immunization-records.
+Individuals who receive a dose of an mRNA vaccine following one or two doses of a vaccine not approved by Health Canada, but approved by the World Health Organization, will be considered fully immunized. Individuals can have their immunization record updated to include vaccines not approved by Health Canada at https://manitoba.ca/covid19/vaccine/immunizationrecord/residents.html#immunization-records.
 
 #### Questions?
 
@@ -555,10 +516,11 @@ The Manitoba government has assembled a [Frequently Asked Questions (FAQ) sectio
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
+
 <a name="variants"></a>
 ## Variants of Concern
 
-_Last updated: December 9, 2021_
+_Last updated: January 17, 2022_
 
 All viruses, including SARS-CoV-2, the virus that causes COVID-19, change over time. Most changes have little to no impact on the virus’ properties. However, some changes may affect the virus’s properties, such as how easily it spreads, the associated disease severity, or the performance of vaccines, therapeutic medicines, diagnostic tools, or other public health and social measures.
 
@@ -576,14 +538,12 @@ WHO label | Lineage | Origin | Earliest Sample Date | Designation Date
 
 There are also several other **variants of <u>interest</u>** that are being monitored right now, and may eventually become **variants of <u>concern</u>**.
 
-Currently, the **Delta** (B.1.617.2 / India) variant is the dominant strain, suspected to account for roughly 98% of all new COVID cases in Manitoba (_as of November, 2021_). Manitoba does not currently have the capacity to sequence the exact strain of every last COVID case, so in many cases, they are labeled as "unspecified", but assumed to be the **Delta** variant.
-
-The **Omicron** (B.1.1.52) variant has been discovered in Manitoba on December 7, 2021. We're still waiting on research, but so far it is believed that this variant is much more contagious, and more likely to evade 1-2 doses of current vaccines (but those with 3rd dose have significantly better protection). The potential good news is that this variant appears to have much milder symptoms.
+Currently, the **Omicron** (B.1.1.52) variant is the dominant strain, suspected to account for roughly 98% of all new COVID cases in Manitoba (_as of January, 2022_). It has been shown that this variant is signficantly more contagious and more likely to evade current vaccines (but those with 3rd dose have significantly better protection). However, the vaccines still offer significant protection again severe disease with Omicron. If you get infected, you're far more likely to have very mild symptoms.
 
 
 ### Will the Vaccine protect against Variants?
 
-All approved vaccines in Canada are proven to be effective against the variants of concern, but studies suggest that 1 dose may not offer robust enough protection against the new **Delta** variant. This is why it's very important to receive your second dose of vaccine as soon as possible.
+All approved vaccines in Canada are proven to be effective in preventing severe outcomes from any variants of concern, but studies suggest that 1-2 doses may not offer robust enough protection against the **Delta** and **Omicron** variants. This is why it's very important to receive your second or third dose of vaccine as soon as possible, when eligible.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -604,69 +564,47 @@ Unpaid fines for tickets for Public Health Act offences proceed through the prov
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
+
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: January 7, 2022_
+_Last updated: January 17, 2022_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
+
+_UPDATE: January 17, 2022_
+Due to massive demand and backlogs in testing, as well as significant changes to testing protocols, Public Health officials advise that potentially as much as 90% of cases are not officially accounted for. For this reason, we are no longer tracking and reporting case infection and test data as of January 17, 2022.
 
 ### Data Sources
 
 - [Official Manitoba Case Data](https://www.gov.mb.ca/covid19/updates/cases.html)
 - [Official Manitoba Vaccine Data](https://www.gov.mb.ca/covid19/vaccine/reports.html)
 - [Official Manitoba News Bulletins](https://news.gov.mb.ca/news/index.html)
-- [Provincial Case Reporting (ici.radio-canada.ca)](https://ici.radio-canada.ca/info/2020/09/covid-19-pandemie-cas-deces-propagation-vague-maladie-coronavirus/index-en.html)
-- [Provincial Vaccination Rate Reporting (ctvnews.ca)](https://www.ctvnews.ca/health/coronavirus/coronavirus-vaccination-tracker-how-many-people-in-canada-have-received-shots-1.5247509)
 
 ### Descriptions & Calculations
 
-#### (1) Today
-The total listed here is based on what the province reported today, usually from yesterday's tests. On Mondays (or other days after a holiday and/or long weekend), when more than 1 day is presented, we'll include an average. For example, on Mondays, we'll include an average of all 3 days (Saturday, Sunday and Monday). If there were 120 cases total, we will display the daily average as 40. The 7-day average in smaller text below is based on the last 7 days of new case totals.
+#### (1) Hospital
+The total number of hospitalized patients that currently test positive for COVID-19. This total includes the total number of people in the ICU as well. This total also includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital). I suspect this was less of an issue (smaller percentage) in the past, but with Omicron being so widespread and infectious, it's definitely skewing the numbers. The province of Quebec mentioned as much as 40% of their hospitalization cases fall into this category (not there because of COVID). Manitoba plans to address this in the near future (and we'll adjust our numbers/stats accordingly).
 
-_UPDATE: January 7, 2022_
-Due to massive demand and backlogs in testing, as well as changes to testing protocols, Public Health officials advise that potentially as much as 90% of cases are not officially accounted for.
+The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to be hospitalized due to COVID-19.
 
-#### (2) 10 Days
-The total listed here is based on the **last 10 days of new cases**. This is because the Manitoba government's official active case total is usually very backlogged, as they appear to not be able to keep up with following up with people and confirming they have recovered. The vast majority of people with COVID-19 recover and are no longer infectious after 10 days, so we instead use an estimated total that is based on that. Whether or not the real number is a touch higher or lower, this offers the most consistent gauge on current active cases.
+#### (2) ICU
+The total number of hospitalized patients requiring intensive care that currently test positive for COVID-19. This total also includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital). I suspect this was less of an issue (smaller percentage) in the past, but with Omicron being so widespread and infectious, it's definitely skewing the numbers. The province of Quebec mentioned as much as 40% of their hospitalization cases fall into this category (not there because of COVID). Manitoba plans to address this in the near future (and we'll adjust our numbers/stats accordingly).
 
-_UPDATE: January 7, 2022_
-Due to massive demand and backlogs in testing, as well as changes to testing protocols, Public Health officials advise that potentially as much as 90% of cases are not officially accounted for.
+The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to be hospitalized in the ICU due to COVID-19.
 
-#### (3) Hosp
-The total listed here is the total number of hospitalized patients that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it. This total includes the total number of people in the ICU as well. 
+#### (3) Deaths
+The large number here is the number of new deaths due to COVID-19 reported today. The province delays this data in order to verify and prevent incorrect reporting, so please note that most deaths reported today likely happened several days or more ago. The smaller total is the total number of deaths due to COVID.19 since the beginning of the pandemic.
 
-_UPDATE: January 7, 2022_
-It's been clarified that this does include people that have gone into hospitals for different reasons and have also tested positive for COVID. I suspect this was less of an issue (smaller percentage) in the past, but with Omicron being so widespread and infectious, it's definitely skewing the numbers. The province of Quebec mentioned as much as 40% of their hospitalization cases fall into this category (not there because of COVID). Manitoba plans to address this in the near future (and we'll adjust our numbers/stats accordingly).
+The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to die due to COVID-19.
 
-#### (4) ICU
-The total listed here is the total number of hospitalized patients requiring intensive care that are in the hospital with and/or due to COVID. The province breaks down cases as "active" (infectious) and "non-active" (past the infectious period), but we don't see why it's necessary to distinguish this difference, so we don't include it.
-
-#### (5) Deaths
-The large number here is the number of new deaths reported today. The province delays this data in order to verify and prevent incorrect reporting, so please note that most deaths reported today likely happened several days or more ago. The smaller total is the total number of deaths due to COVID since the beginning of the pandemic.
-
-#### (6) Vaccine Coverage
+#### (4) Vaccinations
 We base all vaccination calculations on the entire population (age 0+). Sometimes you may see these numbers reported elsewhere as age 12+ or age 18+, and that may be why our numbers may look a little different.
-
-- **Fully vaxxed** refers to the total number of Manitobans that have received at least 2 vaccinations.
-- **At least 1 dose** refers to the total number of Manitobans that have received at least 1 vaccination.
-- **Partial vax** refers to the total number of Manitobans that have received only 1 dose of the vaccine (different than _at least 1 dose_).
-- **Unvaxxed** refers to the total number of eligible (age 5+) Manitobans that have not yet received any vaccination.
-- **Ineligible** refers to the total number of Manitobans not currently eligible to receive any COVID vaccine (under age 5).
 
 All of our calculations such as totals, age group and health region are based upon population totals from the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
 
-#### (7) Status Breakdown / Risk to Not Fully Vaccinated
-The Vaccine Protection area provides a breakdown of cases and hospitalizations in order to show vaccine effectiveness. Please note that these stats are based on the last 6 weeks of case data.
-
-#### (8) Provincial Stats
-This section displays active cases, hospitalization and vaccine uptake data about the 6 provinces (BC, AB, SK, MB, ON, QC). All of the data is from **yesterday**, as more Western provinces take longer to report their totals due to time zone differences. For the most accurate comparison, active cases are based on the last 10 days of new case reporting. Vaccine uptake numbers are based on the total number of people with at least 2 doses of vaccine.
-
-#### (9) Cases by Age
-This section includes a per capita breakdown of how many cases per 100K for each age group from the last 7 days of reported cases. This provides a glimpse at how COVID is spreading throughout the different population age groups.
-
-
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+
 
 <a name="about"></a>
 ## About Us
