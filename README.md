@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: January 17, 2022_
+_Last updated: February 15, 2022_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -36,50 +36,34 @@ _Last updated: January 17, 2022_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: January 3, 2022_
+_Last updated: February 15, 2022_
 
-The following restrictions are in effect as of Saturday, January 1, 2022, at 12:01 am:
+The following restrictions are in effect as of Tuesday, February 15, 2022, at 12:01 am:
 
 
 ### Confirmed Cases and Close Contacts
 
-- Individuals identified as having COVID-19 must immediately enter mandatory isolation until public health officials advise they can end isolation.
-- Close contacts of a person or persons with COVID-19, unless otherwise exempt, must immediately go into mandatory self-isolation (quarantine) for 10 days, followed by 4 days of self-monitoring for symptoms, from the last date of exposure. They should call Health Links--Info Santé (204-788-8200 or 1-888-315-9257) if they develop symptoms.
-- Household members of close contacts do not need to self-isolate (quarantine) as long as they and the close contact in the household remain without symptoms. If the close contact develops symptoms, all household members, unless otherwise exempt, should self-isolate (quarantine) until the symptomatic individual receives their COVID-19 test result.
-- Close contacts and household members of close contacts may be exempt from self-isolation (quarantine) if they have no symptoms AND are fully immunized at the time of the exposure or have had a COVID-19 infection within the past 6 months. Public health officials will let close contacts know if they meet criteria for exemption from self-isolation (quarantine). All individuals exempt from self-isolation (quarantine) requirements, should continue to self-monitor for symptoms, and isolate immediately if any develop and go for testing.
+Individuals who test positive for COVID-19 with a laboratory-based test or a rapid antigen test, OR who have COVID-19 symptoms and choose not to be tested, must immediately isolate. The isolation period requirements differ based on vaccination status:
 
-_UPDATE: January 3, 2022_
-
-Self-isolation order has changed and sets out updated isolation requirements for asymptomatic positive cases and symptomatic individuals depending on vaccination status. For some, isolation has changed from 10 to 5 days.
-
-The changes include:
-
-- Requiring all people who have tested positive for COVID-19 to isolate including those who completed a rapid antigen test;
-- Changing isolation requirements to 5 days from 10 days since the date of the test for fully-vaccinated people who are not showing symptoms;
-- Changing isolation requirements to 5 days from 10 days since the date symptoms started appearing or the date of the test, whichever is later, for fully-vaccinated people as long as their symptoms are improving and they do not have a fever;
-- Requiring individuals who have only isolated for 5 days due to the changes above to wear medical-grade mask while in a public setting for the five days immediately following their self-isolation; and
-- Requiring isolation for people who have tested positive who are not fully vaccinated for 10 days after the date of their test as long as their symptoms are improving and they do not have a fever.
+- People who are fully vaccinated and do not have symptoms need to isolate for five days from the date of their positive test. 
+- People who are fully vaccinated and have symptoms need to isolate for five days from the day their symptoms started or the date of the test, whichever is later. They must also continue to isolate until they no longer have a fever and their other symptoms have been improving over the past 24 hours.
+- People who are not fully vaccinated need to isolate for 10 days from the date of their positive test. They must also continue to isolate until they no longer have a fever and their other symptoms have been improving over the past 24 hours.
 
 
 ### Gatherings
 
-#### Residential Gatherings
+#### Gatherings on Private Property
+
+- There are no capacity limits to indoor and outdoor gatherings at private residences regardless of vaccination status.
+
+#### Gatherings in Public Spaces
 
 - **Indoors**
-    - Households are limited to 5 additional people plus the household when any unvaccinated person (who is eligible to be vaccinated, excluding youth under 12) is present on the property (even if the unvaccinated person lives at that location).
-    - Households are limited to 10 additional people plus the household when all who are present are fully immunized (youth aged under 12 and under are exempt from needing to be fully vaccinated).
+    - Gatherings that include one or more unvaccinated people (if they are 12 years of age or older) are limited to 50 people.
+    - No restrictions on indoor public gatherings when all who are present are fully immunized people or are under 12 years of age.
 - **Outdoors**
-    - Outdoor gatherings on a private residence are limited to 20 additional people plus the household if all are fully vaccinated (youth aged under 12 and under are exempt from needing to be fully vaccinated).
-    - Outdoor gatherings on a private residence are limited to 10 additional people plus the household when any unvaccinated person (who is eligible to be vaccinated, excluding youth under 12) is present on the property (even if the unvaccinated person lives at that location).
+    - There are no capacity limits to outdoor gatherings regardless of vaccination status.
 
-#### Public Gatherings
-
-- **Indoors**
-    - Group sizes to 25 people or 25% capacity, whichever is lower, are permitted for gatherings that include unvaccinated people who are eligible to be vaccinated. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
-    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the premise, or 250 people, whichever is lower. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
-- **Outdoors**
-    - Groups of up to 50 people are permitted in uncontrolled outdoor public spaces that include one or more unvaccinated persons. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
-    - Groups of fully immunized people and those under 12 who are not eligible for the vaccine may gather as long as the gathering size does not exceed 50% of the usual capacity of the area or 250 people, whichever is lower.. (Youth aged 12 and under are exempt from needing to be fully vaccinated)
 
 #### Proof of Vaccination Guidelines
 
@@ -103,110 +87,93 @@ The public health orders state:
 
 ### Weddings & Funerals
 
-- Indoor public gathering group sizes to 25 people or 25% capacity, whichever is lower, for gatherings that include unvaccinated people who are eligible to be vaccinated.
-- Outdoor weddings and funerals are limited to 50 people, or if an outdoor venue has a capacity limit, the allowed capacity is 50% or 250 people, whichever is greater.
+- Indoor public gathering group sizes to 50 people for gatherings that include unvaccinated people who are eligible to be vaccinated.
+- No restrictions on indoor gatherings when all who are present are fully immunized people or are under 12 years of age.
 
 
 ### Retail Stores and Malls
 
 _Includes markets, garden centres, and occasional pop-up retail._
 
-- Retail capacity is permitted at 50% in the Southern Health-Santé Sud health region.
-- Retail capacity is permitted at 100% in the Interlake-Eastern, Northern, Prairie Mountain, Winnipeg health regions, and at a retail business that is located in the Town of Niverville or in the Rural Municipalities of St. Francois Xavier, Cartier, Headingley, Macdonald, Ritchot or Taché in the Southern Health Region.
-- May open provided the operator of the business takes actions to ensure two metres of separation of customers. Masks are required indoors.
+- Retail capacity at 100% throughout Manitoba.
+- Physical distancing measures are required. Masks required indoors.
+- May open provided the operator of the business takes actions to ensure two metres of separation of customers.
 - Food courts must follow the rules set out for restaurants in the public health order.
 
 
 ### Indoor and Outdoor Sports and Recreation
 
-- **Outdoor** Sports and Recreation:
-    - No capacity limits for participants.
-    - Spectator capacity limited to 50% of the capacity of a place or 250 people, whichever is lower. This includes other teams who are not active on the field of play and spectators should maintain a two-metre distance whenever reasonably possible.
-    - No group activities outside of practice time or games, come ready to play and limit group time indoors (e.g. in dressing rooms).
-- **Indoor** Sports and Recreation:
-    - All parent, coaches and spectators aged 18 and up will also need to be fully immunized and require proof of vaccination.
-    - Indoor sporting and recreation capacity is reduced to 50% for spectators or 250 people, whichever is lower. While games and practices can continue, no tournaments will be permitted.
-    - No group activities outside of practice time or games, come ready to play and limit group time indoors (e.g. in dressing rooms).
+_Includes dance, theatre and music schools._
 
-#### COVID-19 Rapid Testing for Youth (12-17) for Indoor Sports
-
-As of Dec. 6, 2021, public health orders require youth aged 12 to 17 years attending indoor sporting and recreational facilities (including schools) to provide proof that they have received at least one dose of the Pfizer-BioNTech or Moderna vaccine for COVID‑19.
-
-If they have not had at least one dose, they must provide proof of a pharmacist-confirmed negative result from an approved rapid antigen test, from a test take within the 72 hours before they participate. The public health orders do not allow other health care providers to confirm a test result.
+- No capacity limit for spectators.
+- Tournaments are allowed.
+- Proof of vaccination/testing is no longer required for 12-17 year olds for indoor and recreational sports.
+- Proof of vaccination is still required for those 18 and over.
 
 
 ### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
 
-- Limited to 50% capacity or 250 people, whichever is lower.
-- Proof of vaccination is required.
+- No capacity limits.
+- Proof of immunization required.
 - Masks remain required when not actively engaged in physical activity.
 
 
 ### Libraries
 
-- May open at 50% capacity.
+- No capacity limits.
 - Mask use is required.
 - Proof of vaccination is not required.
 
 
 ### Museums, Galleries and Movie Theatres
 
-- Museums may operate at 50% capacity or 250 people, whichever is lower, under the requirement to show proof of vaccination (indoors only) when open to the public as a museum.
-    - If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
-- Movie Theatres and Concert Halls may operate at 50% capacity or 250 people, whichever is lower, under the requirement to show proof of vaccination.
+- No capacity limits.
+- If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
+- Proof of vaccination required.
+- Mask use is required.
 
 
 ### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
 
-- Professional sports performing arts events and concert halls may open for fully immunized to a maximum of 50% or 250 people, whichever is lower.
-- Horse and Auto Racing open to 50% capacity or 250 people, whichever is lower, for fully immunized people, with a plan approved by public health.
-
-Where applicable above, unvaccinated children 12 and under may attend if accompanied by fully vaccinated household members.
+- No capacity limits with proof of immunization required everywhere.
+- Unvaccinated children 12 and under may attend/visit these events if accompanied by a fully vaccinated member of their household.
 
 
 ### Outdoor Seasonal Events, Fairs, Festivals and Community Events
 
-- Seasonal outdoor facilities or events may operate at 50% capacity or 250 people, whichever is lower, if everyone attending provides proof of immunization, or are under 12 years of age.
-- Outdoor fairs, festivals and other outdoor major community events may be held if the number of persons attending does not exceed 50 persons.
+- No capacity limits.
 
 
 ### Casinos and VLTs
 
-- Casinos and VLTs are limited to 50% capacity or 250 people, whichever is lower, and must continue to restrict admission to those who are fully vaccinated.
-- Mask use is required.
+- No capacity limits.
+- Proof of immunization required.
 
 
 ### Religious Services and Indigenous Cultural Events
 
 - **Indoors**
-    - Gatherings are limited to 50% capacity or 250 people, whichever is lower, with proof of vaccination, or 25% capacity or a total of 25 people, whichever is lower, when proof of vaccination is not required.
-        - Cohorts may be implemented if the facility can physically divide the space into separate areas, in which case several cohorts of up to 25 can attend the same service. The total number of attendees at a service may not exceed 25% of facility capacity, to a maximum of 250 people.
-        - Physical distancing is required.
-        - Cohorts must not mingle, masks must be worn and physical distancing rules apply.
+    - Limited to 50% capacity or a total of 500 people, whichever is lower, when proof of vaccination is not required.
+    - No restrictions on indoor gatherings when all who are present are fully immunized people or are under 12 years of age.
 - **Outdoors**
-    - Gatherings restricted to fully immunized people and those under 12 years of age are limited to 50% of the usual capacity of the space or 250 persons, whichever is less.
-    - Outdoor gatherings that include one or more unvaccinated people (if they are 12 years of age or older) are limited to up to 50 people are permitted in uncontrolled outdoor public spaces.
-    - Drive-in services continue unrestricted.
+    - No capacity limit if the service is held outdoors.
 
 
 ### Restaurants & Bars
 
 _Includes other public food establishments, food courts, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
 
-- May operate at 50% capacity or 250 people, whichever is lower, with maximum table capacity of 10 persons.
-- Proof of vaccination is required for those 12 years of age and older to attend indoor and outdoor dining.
-- Members of the public are required to be seated except when travelling to get food or beverages or engaging in sporting activities.
-- Liquor service must end at 10pm each day.
-- Food courts must follow these same regulations.
-- Individuals are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
-- Individuals are required to wear masks.
+- There are no capacity limits to restaurants, licensed premises and food courts.
+- Proof of vaccination is required for those 12 years of age and older.
+- Individuals are required to wear masks but are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
+- Liquor sales return to normal hours of operation.
 
 
 ### Personal Service Businesses
 
 _Includes businesses such as hair, nails, tattoos, etc._
 
-- May open as long as the business implements measures outlined in the public health order.
+- Open without capacity restrictions and physical distancing is required.
 
 
 ### Therapeutic Care
@@ -223,14 +190,11 @@ _Includes businesses such as hair, nails, tattoos, etc._
 
 ### Child Care and Day Camps
 
-- Day camps are limited to no more than 25 campers and camper groups must be cohorted.
-- Over night camps are prohibited under these orders.
-- Family child-care homes and child-care centres can open and operate in accordance with applicable legislation:
-    - [COVID-19 Early Learning and Child Care Practice Guidance](https://www.gov.mb.ca/fs/pubs/2020-145r-covid-19-attachment-elcc-practice-guide-updated-may-18-2021.pdf) (PDF)
-    - A revised Coronavirus (COVID-19) Early Learning and Child Care Practice Guidance document with technical information will be distributed within the next few weeks to reflect the new public health directives.
+- No capacity limits.
+- Overnight camps allowed.
 
 
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53078&posted=2021-12-27) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-12272021.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53308&posted=2022-02-11) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-02142022.pdf) (PDF) here.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -422,22 +386,6 @@ Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive
 Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times](#vaccine-locator)
 Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times](#vaccine-locator)
 Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times](#vaccine-locator)
-
-
-<a name="astrazeneca"></a>
-### AstraZeneca Information
-
-_Last updated: July 27, 2021_
-
-All people with AstraZeneca as first dose are now recommended to receive Pfizer or Moderna as their second dose. This has been proven safe and even offers a higher level of protection compared to receiving a second dose of AstraZeneca. It's recommended that you wait a minimum of 8 weeks before receiving your second dose of any of the vaccines, but you may receive one as early as 28 days from first dose.
-
-If you strongly wish to receive a second dose of AstraZeneca, there are a total of 15 medical clinics and pharmacies that are acting as regional hubs to offer second-dose AstraZeneca vaccinations. You can use the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to find a location with available doses.
-
-#### Locations with AstraZeneca
-
-The following medical clinics and pharmacies in the province have received AstraZeneca vaccine to provide second doses to individuals who cannot or will not receive a different type of vaccine. Please check the [online vaccine finder](https://manitoba.ca/covid19/vaccine/finder.html) to confirm they have stock and are able to accept appointments.
-
-<a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
