@@ -64,19 +64,6 @@ Individuals who test positive for COVID-19 with a laboratory-based test or a rap
 - **Outdoors**
     - There are no capacity limits to outdoor gatherings regardless of vaccination status.
 
-
-#### Proof of Vaccination Guidelines
-
-The public health orders state:
-
->1(5) The occupants of the private residence where a gathering is held are responsible for determining the vaccination status of all persons attending the gathering.
->- Proof of vaccination is required for those 12 years of age and older to attend private and public indoor and outdoor gatherings.
->- For large-scale gatherings, the digital or physical Manitoba Immunization Card, which includes QR code, must be scanned when a person presents their QR code. This also includes a screenshot or a print-out of the QR code.
->   - Government-issued identification must be requested and is required to validate the person’s identity as matching the vaccination record provided.
->   - For information on how to scan the QR code, visit: [manitoba.ca/covid19/vaccine/immunizationrecord/businesses.html](https://manitoba.ca/covid19/vaccine/immunizationrecord/businesses.html)
->   - An honour system or self-identification is not an acceptable means of verification.
-
-
 ### Mask Use
 
 - Masks are required in all indoor public spaces.
