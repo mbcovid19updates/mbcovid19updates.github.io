@@ -113,10 +113,6 @@ This order does not apply to a child care centre or a child care home.
 
 _Last updated: September 10, 2021_
 
-- [Vaccine Finder Tools](#vaccine-finder-tools)
-- [Super Site Walk-ins](#super-site-walk-ins)
-- [Urban Indigenous Clinics](#urban-indigenous-clinics)
-
 ### Vaccine Finder Tools
 
 Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options:
