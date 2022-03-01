@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: February 15, 2022_
+_Last updated: March 1, 2022_
 
 <div class="feature-grid">
     <a href="#restrictions">
@@ -21,9 +21,6 @@ _Last updated: February 15, 2022_
     <a href="#variants">
         <h3>Variants of Concern</h3>
     </a>
-    <a href="#fines">
-        <h3>Fines for Violating Health Orders</h3>
-    </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
     </a>
@@ -36,9 +33,11 @@ _Last updated: February 15, 2022_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-_Last updated: February 15, 2022_
+Effective March 1, 2022, almost all remaining public health restrictions have been removed...
 
-The following restrictions are in effect as of Tuesday, February 15, 2022, at 12:01 am:
+_Last updated: March 1, 2022_
+
+The following restrictions are in effect as of Tuesday, March 1, 2022, at 12:01 am:
 
 
 ### Confirmed Cases and Close Contacts
@@ -50,138 +49,7 @@ Individuals who test positive for COVID-19 with a laboratory-based test or a rap
 - People who are not fully vaccinated need to isolate for 10 days from the date of their positive test. They must also continue to isolate until they no longer have a fever and their other symptoms have been improving over the past 24 hours.
 
 
-### Gatherings
-
-#### Gatherings on Private Property
-
-- There are no capacity limits to indoor and outdoor gatherings at private residences regardless of vaccination status.
-
-#### Gatherings in Public Spaces
-
-- **Indoors**
-    - Gatherings that include one or more unvaccinated people (if they are 12 years of age or older) are limited to 50 people.
-    - No restrictions on indoor public gatherings when all who are present are fully immunized people or are under 12 years of age.
-- **Outdoors**
-    - There are no capacity limits to outdoor gatherings regardless of vaccination status.
-
-### Mask Use
-
-- Masks are required in all indoor public spaces.
-- Public health officials recommend wearing a mask in indoor public gatherings. This is especially important for the unvaccinated and during higher-risk activities, such as singing or when distancing is not likely to be maintained.
-
-<a href="#masks" class="button">For full details about Mask use, please see Mask Mandate section</a>
-
-
-### Weddings & Funerals
-
-- Indoor public gathering group sizes to 50 people for gatherings that include unvaccinated people who are eligible to be vaccinated.
-- No restrictions on indoor gatherings when all who are present are fully immunized people or are under 12 years of age.
-
-
-### Retail Stores and Malls
-
-_Includes markets, garden centres, and occasional pop-up retail._
-
-- Retail capacity at 100% throughout Manitoba.
-- Physical distancing measures are required. Masks required indoors.
-- May open provided the operator of the business takes actions to ensure two metres of separation of customers.
-- Food courts must follow the rules set out for restaurants in the public health order.
-
-
-### Indoor and Outdoor Sports and Recreation
-
-_Includes dance, theatre and music schools._
-
-- No capacity limit for spectators.
-- Tournaments are allowed.
-- Proof of vaccination/testing is no longer required for 12-17 year olds for indoor and recreational sports.
-- Proof of vaccination is still required for those 18 and over.
-
-
-### Fitness Clubs, Gyms and Training Facilities, Sports and Recreation Facilities
-
-- No capacity limits.
-- Proof of immunization required.
-- Masks remain required when not actively engaged in physical activity.
-
-
-### Libraries
-
-- No capacity limits.
-- Mask use is required.
-- Proof of vaccination is not required.
-
-
-### Museums, Galleries and Movie Theatres
-
-- No capacity limits.
-- If the museum is used as a private venue for another purpose (e.g. wedding), then the appropriate orders apply.
-- Proof of vaccination required.
-- Mask use is required.
-
-
-### Large-scale Outdoor Professional Sports, Concert Halls or Performing Arts Events
-
-- No capacity limits with proof of immunization required everywhere.
-- Unvaccinated children 12 and under may attend/visit these events if accompanied by a fully vaccinated member of their household.
-
-
-### Outdoor Seasonal Events, Fairs, Festivals and Community Events
-
-- No capacity limits.
-
-
-### Casinos and VLTs
-
-- No capacity limits.
-- Proof of immunization required.
-
-
-### Religious Services and Indigenous Cultural Events
-
-- **Indoors**
-    - Limited to 50% capacity or a total of 500 people, whichever is lower, when proof of vaccination is not required.
-    - No restrictions on indoor gatherings when all who are present are fully immunized people or are under 12 years of age.
-- **Outdoors**
-    - No capacity limit if the service is held outdoors.
-
-
-### Restaurants & Bars
-
-_Includes other public food establishments, food courts, bars, beverage rooms, brew pubs, micro-breweries and distilleries._
-
-- There are no capacity limits to restaurants, licensed premises and food courts.
-- Proof of vaccination is required for those 12 years of age and older.
-- Individuals are required to wear masks but are not required to provide proof of vaccination to enter for the sole purpose of picking up takeout or delivery orders.
-- Liquor sales return to normal hours of operation.
-
-
-### Personal Service Businesses
-
-_Includes businesses such as hair, nails, tattoos, etc._
-
-- Open without capacity restrictions and physical distancing is required.
-
-
-### Therapeutic Care
-
-- Regulated professions, massage therapists and athletic therapists can continue to provide services.
-- Non-regulated health services, such as pedorthists and reflexologists, can open with adequate physical distancing and requirements to collect information for contact tracing purposes.
-- Therapeutic care services, such as regulated professions like physician/dentist offices, massage therapists and athletic therapists, as well as non-regulated health services, such as pedorthists and reflexologists, can make their own decisions about mask requirements as they are a private business.
-
-
-### Support groups
-
-- Indoor and outdoor gathering limits apply. Mask use is required.
-
-
-### Child Care and Day Camps
-
-- No capacity limits.
-- Overnight camps allowed.
-
-
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53308&posted=2022-02-11) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-02142022.pdf) (PDF) here.
+This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53308&posted=2022-02-11) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-02282022.pdf) (PDF) here.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -268,34 +136,6 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 - [Exchange District Pharmacy](https://exchangedistrictrx.com/)
 
 
-### Super Site Walk-ins
-
-Most supersites offer **walk-ins** (Moderna and Pfizer). The number of walk-ins and available doses may vary by day and by site. Please check [ProtectMB Vaccine Finder (by Manitoba Government)](https://protectmb.ca/) for available walk-in dates and times.
-
-City | Address
---- | --- 
-✅ **Winnipeg** | **Downtown RBC Convention Centre** ([375 York Avenue](https://g.page/RBCConventionCentreWinnipeg?share))
-✅ **Brandon** | **Keystone Centre** ([#1 1175 18th Street](https://goo.gl/maps/kxj2gLUCvwG5M84J9))
-✅ **Selkirk** | **Former site of Selkirk and District General Hospital** ([100 Easton Drive](https://goo.gl/maps/oG6v6NjCR5hSjHoWA))
-✅ **Steinbach** | [294 Lumber Avenue](https://goo.gl/maps/i8mHT6f7dYPvimzm9)
-✅ **Morden** | **Access Event Centre** ([111-D Gilmour St.](https://goo.gl/maps/QbrwRQpxUJ5ndne77))
-✅ **Dauphin** | [304 Whitmore Avenue East](https://goo.gl/maps/qwUafTds7yvqMs4x7)
-✅ **Thompson** | **Thompson Regional Community Centre** ([274 Thompson Drive North](https://goo.gl/maps/z6dyyi3s9XgYFipW8))
-
-
-### Urban Indigenous Clinics
-
-These clinics are for anyone, but do prioritize people who self-identity as First Nations (status or non-status), Metis or Inuit or people who share a household with someone who identifies as Indigenous.
-
-Location | Address | Info 
---- | --- | --- 
-**Thompson** | **Ma-Mow-We-Tak Friendship Centre** (4 Nelson Rd) | Call [204-677-0950](tel:12046770950) to book
-**Brandon** | **Brandon Friendship Centre** (205 College Ave) |  Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-573-7239](tel:12045737239))
-**Portage la Prairie** | **William Glesby Centre** (11 2nd St. NE) | Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-240-7272](tel:12042407272))
-**Winnipeg** | **Aboriginal Health and Wellness Centre** (181 Higgins Ave)| Call [1-844-626-8222](tel:18446268222) to book (Site phone: [204-925-3742](tel:12049253742))
-**Winnipeg** | **Ma Mawi Wi Chi Itata Centre - Win Gardner Place** (363 McGregor Ave)| Call [1-844-626-8222](tel:18446268222) (Site phone: [204-599-6551](tel:12045996551)) 
-
-
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 
@@ -362,17 +202,6 @@ Appointments for first or second doses of vaccines can be booked at any super-si
 <a href="#vaccine-walkins" class="button">Super Site Walk-ins</a>
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
-#### Super-sites in Manitoba
-
-City | Address | Map | Walk-ins?
---- | --- | --- | ---
-Winnipeg | RBC Convention Centre, 375 York Avenue | [View map](https://g.page/RBCConventionCentreWinnipeg?share) | ✅ [see times](#vaccine-locator)
-Brandon | Keystone Centre, #1 1175 18th Street | [View map](https://goo.gl/maps/kxj2gLUCvwG5M84J9) | ✅ [see times](#vaccine-locator)
-Thompson | Thompson Regional Community Centre, 274 Thompson Drive North | [View map](https://goo.gl/maps/z6dyyi3s9XgYFipW8) | ✅ [see times](#vaccine-locator)
-Selkirk | Former site of Selkirk and District General Hospital, 100 Easton Drive | [View map](https://goo.gl/maps/oG6v6NjCR5hSjHoWA) | ✅ [see times](#vaccine-locator)
-Morden | Access Event Centre, 111-D Gilmour St. | [View map](https://goo.gl/maps/QbrwRQpxUJ5ndne77) | ✅ [see times](#vaccine-locator)
-Dauphin | 304 Whitmore Avenue East | [View map](https://goo.gl/maps/qwUafTds7yvqMs4x7) | ✅ [see times](#vaccine-locator)
-Steinbach | 294 Lumber Avenue | [View map](https://goo.gl/maps/i8mHT6f7dYPvimzm9) | ✅ [see times](#vaccine-locator)
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -405,7 +234,9 @@ Alternatively, individuals can [complete the e-form to update their immunization
 <a name="vaccine-cards"></a>
 ### Vaccine Cards
 
-_Last updated: September 15, 2021_
+_Last updated: March 1, 2022_
+
+As of March 1, 2022, the proof of vaccination requirement has been lifted. It is still available for now, if some businesses or events wish to continue using it.
 
 Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
 
@@ -414,21 +245,6 @@ Fully vaccinated Manitobans are now able to receive Immunization cards. The digi
 Two weeks after receiving a second dose of a COVID-19 vaccine, Manitobans may apply for the card using the new online portal at [immunizationcard.manitoba.ca](https://immunizationcard.manitoba.ca).
 
 <a href="https://immunizationcard.manitoba.ca" class="button">Apply for Immunization Card</a>
-
-#### Current Benefits
-Manitobans who are fully immunized (two vaccine doses plus two weeks from the time of their second dose) will now benefit from the following exemptions:
-
-- Exempt from self-isolation if identified as a COVID close contact.
-- Visit fully immunized loved ones in personal care homes or hospitals.
-- Participate in social or communal activities, if you are a resident of a personal care home or congregate living facility.
-- Travel domestically for essential and non-essential purposes outside of Manitoba without the requirement to self-isolate on their return.
-- Access to large-scale, indoor and outdoor professional sports or performing arts events.
-- Access to Casinos and VLT lounges.
-- Access to Restaurants and Nightclubs.
-- Access to Movie Theatres.
-- Access to Gyms and Fitness centres.
-- Access to indoor sporting and recreational facilities.
-- Access to organized indoor group recreational classes and activities, and indoor recreational businesses.
 
 **NOTE:** Unvaccinated children under the age of 12 may attend/visit the above events (where applicable) if accompanied by a fully vaccinated member of their household.
 
@@ -442,12 +258,6 @@ To be eligible to receive an immunization card, Manitobans must:
 
 Individuals who receive a dose of an mRNA vaccine following one or two doses of a vaccine not approved by Health Canada, but approved by the World Health Organization, will be considered fully immunized. Individuals can have their immunization record updated to include vaccines not approved by Health Canada at https://manitoba.ca/covid19/vaccine/immunizationrecord/residents.html#immunization-records.
 
-#### Questions?
-
-The Manitoba government has assembled a [Frequently Asked Questions (FAQ) section](https://www.gov.mb.ca/covid19/vaccine/immunization-record.html) on the COVID-19 Vaccine website as well as a [Frequently Asked Questions (FAQ) section](https://immunizationcard.manitoba.ca/#/faq?lang=en) on the Immunization Card website. They both cover a wide variety of different questions, so you can check there and see if your questions are answered. We may include additional answers here in the future.
-
-<a href="https://www.gov.mb.ca/covid19/vaccine/immunization-record.html" class="button">COVID-19 Vaccine website FAQ</a>
-<a href="https://immunizationcard.manitoba.ca/#/faq?lang=en" class="button">Immunization Card website FAQ</a>
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -480,22 +290,6 @@ Currently, the **Omicron** (B.1.1.52) variant is the dominant strain, suspected 
 
 All approved vaccines in Canada are proven to be effective in preventing severe outcomes from any variants of concern, but studies suggest that 1-2 doses may not offer robust enough protection against the **Delta** and **Omicron** variants. This is why it's very important to receive your second or third dose of vaccine as soon as possible, when eligible.
 
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-<a name="fines"></a>
-## Fines
-
-_Last updated: September 10, 2021_
-
-Below is a summary of Fine amounts for violating public health orders in Manitoba:
-
-
-- **$298** for not wearing a mask in indoor public places. _Increases to $486 for repeat offenders._
-- **$1,296** to individuals for failing to comply with public health orders such as illegal gatherings, failing to isolate, etc. _Increases to $2,542 for repeat offenders._
-- **$5,000** to corporations for failing to comply with public health orders.
-
-Unpaid fines for tickets for Public Health Act offences proceed through the provincial offences court. If the ticket is not responded to during the response period indicated on the ticket, the individual would be default convicted and a $100 default conviction penalty would be applied. In such cases, the individual would also be prohibited from renewing a driver’s license or vehicle registration until the amount is paid. Unpaid amounts are also sent to a collections agency for further collection action.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
