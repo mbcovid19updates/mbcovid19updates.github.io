@@ -33,12 +33,13 @@ _Last updated: March 1, 2022_
 <a name="restrictions"></a>
 ## Current Restrictions
 
-Effective March 1, 2022, almost all remaining public health restrictions have been removed...
-
 _Last updated: March 1, 2022_
 
-The following restrictions are in effect as of Tuesday, March 1, 2022, at 12:01 am:
+Effective March 1, 2022, almost all remaining public health restrictions have been removed...
 
+Two metres of physical distancing is strongly recommended for all activities except for brief exchanges where masks are used, or if non-permeable barriers (e.g., Plexiglas) are in place. Mask use is required in indoor public places.
+
+The following restrictions are in effect as of Tuesday, March 1, 2022, at 12:01 am:
 
 ### Confirmed Cases and Close Contacts
 
