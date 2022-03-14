@@ -1,13 +1,10 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: March 1, 2022_
+_Last updated: March 14, 2022_
 
 <div class="feature-grid">
-    <a href="#restrictions">
-        <h3>Current Restrictions</h3>
-    </a>
-    <a href="#masks">
-        <h3>Mask Mandate</h3>
+    <a href="#recommendations">
+        <h3>Current Recommendations</h3>
     </a>
     <a href="#vaccine-locator">
         <h3>Vaccine Locator</h3>
@@ -30,80 +27,23 @@ _Last updated: March 1, 2022_
 </div>
 
 
-<a name="restrictions"></a>
-## Current Restrictions
+<a name="recommendations"></a>
+## Current Recommendations
 
-_Last updated: March 1, 2022_
+_Last updated: March 15, 2022_
 
-Effective March 1, 2022, almost all remaining public health restrictions have been removed...
+Effective March 15, 2022, all remaining public health restrictions have been removed.
 
-Two metres of physical distancing is strongly recommended for all activities except for brief exchanges where masks are used, or if non-permeable barriers (e.g., Plexiglas) are in place. Mask use is required in indoor public places.
+Public health continues to <u>recommend</u> (no longer require) people isolate in the following situations:
 
-The following restrictions are in effect as of Tuesday, March 1, 2022, at 12:01 am:
+- People with symptoms should stay home and isolate for 5 days after symptoms start until they have no fever and other symptoms have improved over the past 24 hours.
+- Individuals who have tested positive but do not develop symptoms should isolate for 5 days from the date of the test.
+- Individuals should wear a well-fitting, well-made mask if they must have contact with other people while ill or when their isolation is finished for 10 days after the onset of symptoms or test date if asymptomatic.
+- People who have symptoms or test positive should avoid non-essential visits with higher-risk people or at higher-risk settings for 10 days after the onset of their symptoms or test date if asymptomatic.
 
-### Confirmed Cases and Close Contacts
+To help prevent the spread of COVID-19, it is recommended Manitobans get vaccinated, stay home when sick, assess their risk and make decisions about using masks, physical distancing and other actions based on those risks.
 
-Individuals who test positive for COVID-19 with a laboratory-based test or a rapid antigen test, OR who have COVID-19 symptoms and choose not to be tested, must immediately isolate. The isolation period requirements differ based on vaccination status:
-
-- People who are fully vaccinated and do not have symptoms need to isolate for five days from the date of their positive test. 
-- People who are fully vaccinated and have symptoms need to isolate for five days from the day their symptoms started or the date of the test, whichever is later. They must also continue to isolate until they no longer have a fever and their other symptoms have been improving over the past 24 hours.
-- People who are not fully vaccinated need to isolate for 10 days from the date of their positive test. They must also continue to isolate until they no longer have a fever and their other symptoms have been improving over the past 24 hours.
-
-
-This is a summary of the current public health orders. You can also view the [official news release](https://news.gov.mb.ca/news/index.html?item=53308&posted=2022-02-11) on the Manitoba website. For those of you interested in seeing the full legal document that includes all of the orders and the complex details, you can view the [Public Health Orders](https://manitoba.ca/asset_library/en/proactive/20212022/orders-soe-02282022.pdf) (PDF) here.
-
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-
-<a name="masks"></a>
-## Mask Mandate
-
-_Last updated: August 30, 2021_
-
-A person who enters or remains in an indoor public place must wear a mask in a manner that covers their mouth, nose and chin without gapping. An indoor public space includes:
-
-- any part of a retail store where the public has access;
-- any part of the common areas of a residential building;
-- a health care facility;
-- an educational institution or facility;
-- an elevator;
-- a motor vehicle used for public transportation, including a bus, taxi, limousine or other vehicle for hire; and
-- a bus shelter, pedestrian tunnel or enclosed pedestrian walkway.
-
-The operator of an indoor public place must ensure that every person who is not wearing a mask while in the indoor public place is given a reminder to do so as soon as possible following entry.
-
-Masks are not required if people are seated at least two metres from others, or if there is a non-permeable physical barrier, such as a plexiglass barrier. However, people need to wear a mask at all times while moving to or from their seated position within the indoor public place.
-
-In addition, employees, contractors or operators of an indoor public place do not need to wear a mask while they are in an area where members of the public do not normally have access, or if they are behind a non-permeable physical barrier, including a plexiglass barrier.
-
-People can temporarily remove their mask while in an indoor public place:
-
-- to receive a service that requires the removal of their mask,
-- to consume food or drink;
-- to deal with an emergency or medical purpose, or
-- to establish their identity.
-
-People who do not have to wear masks include:
-
-- a child who is under five years of age;
-- a person with a medical condition that is unrelated to COVID-19, including breathing or cognitive difficulties or a disability, which prevents them from safely wearing a mask;
-- a person who is swimming or engaged in other athletic activities; and
-- a person who is unable to put on or remove a mask without the assistance of another person.
-
-#### What is considered an indoor public space?
-
-An indoor public space includes:
-
-- any part of a retail store where the public has access;
-- any part of the common areas of a residential building;
-- a health care facility;
-- an educational institution or facility;
-- an elevator;
-- a motor vehicle used for public transportation, including a bus, taxi , limousine or other vehicle for hire; and
-- a bus shelter, pedestrian tunnel or enclosed pedestrian walkway.
-
-This order does not apply to a child care centre or a child care home.
+Manitobans are encouraged to learn if they are eligible for COVID-19 treatment. Treatment can help protect against severe illness or hospitalization but must be given within days of having symptoms, so it is important to get tested quickly to access this care. Vaccinated and unvaccinated people, including those with chronic health conditions, who are pregnant or have other risk factors, may be eligible for treatment. More information about COVID-19 treatment is available at [manitoba.ca/covid19/treatment](https://www.manitoba.ca/covid19/treatment/). 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -143,72 +83,39 @@ _Last updated: November 22, 2021_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
+
 ### First Doses
 
 - **Anyone aged 5 and up** is eligible to receive their first dose of a COVID vaccine.
    - Young people aged 5-11 must receive a special pediatric (smaller) dose of _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
+
 ### Second Doses
 
 - **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose. Following guidance from the National Advisory Committee on Immunization, Manitoba is now **recommending individuals receive their second dose of vaccine 56 days (eight weeks) after their first dose**. Previously, the recommendation was 28 days (four weeks). The longer time period between doses has been shown to provide a stronger immune response over time. However, the minimum time frame between first and second doses will remain at 28 days so individuals will be able to choose the timing of vaccine schedule based on their own circumstances.
    - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
-   - Young people under the age of 18 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
-   - If AstraZeneca was your first dose, an 8-12 week interval is recommended, but can be as low as 28 days.
+   - Young people under the age of 12 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
+
 
 ### Third/Booster Dose
 
 - **Anyone aged 18 and older** and a minimum of **6 months** after their second dose, except in very limited circumstances.
-    - You will need a prescription from a doctor if you are requesting your third dose earlier than six months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
-
-### Medical Exemptions
-
-For the vast majority of people, the COVID-19 vaccine is a safe and effective way to protect themselves and others against the virus.
-
-However, there is a very small number of people who can’t or shouldn’t be immunized. If you feel that you may qualify for a medical exemption based on the criteria listed below, the first step is to schedule an appointment with your own health care provider and/or your specialist. 
-
-They will review the exemption criteria with you to determine if you may qualify. Only a specialist physician can request a medical exemption from the province, based on your medical history. Individuals cannot submit their own requests for exemption.Once it is submitted, information about the exemption will be entered into the provincial immunization database, including whether the exemption is permanent or temporary.   
-
-Exempt people will be able to request their digital or physical Manitoba immunization card approximately seven to 14 business days after their exemption is submitted. The card and the display shown after scanning the QR code will be identical to those currently used by fully immunized people. This will help protect the private health information of exempt individuals, while also keeping a simple, consistent process for venues and events that must validate immunization status. 
-
-#### Criteria
-- Had a severe reaction after the first dose of a COVID-19 vaccine (e.g. myocarditis, Guillain-Barré syndrome).
-- Are receiving treatment that affects their ability to mount an immune response, meaning vaccination must be timed carefully with their treatment schedule (e.g. receiving immunocompromising treatment after a transplant, certain types of cancer treatments).
-- Had a severe allergy or anaphylactic reaction to a previous dose of a COVID-19 vaccine or its components that cannot be managed by the Health Sciences Centre Allergy Clinic.
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+    - You will need a prescription from a doctor if you are requesting your third dose earlier than 6 months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
 
 
 ### How to Book an Appointment
 
-Appointments for first or second doses of vaccines can be booked at any super-site, pop-up clinic, or a doctor's office or pharmacy that is accepting appointments. Super-sites are by far the most efficient and easiest way to book an appointment.
+Appointments can be booked at any super-site, pop-up clinic, or a doctor's office or pharmacy that is accepting appointments.
 
 - To book a vaccine appointment at a super-site or pop-up clinic by phone, call [1-844-626-8222](tel:18446268222) (1-844-MAN-VACC).
 - To book a vaccine appointment at a super-site or pop-up clinic online, [visit the booking website here](https://patient.petalmd.com/login?groupId=6032).
-   - You'll need to create an account with your email address and your 9-digit personal health identification number (PHIN) on your Manitoba Health Card.
-   - You can link more than one person to the same account, so that you can also book for family members and loved ones.
-   - If you don't have an email address or health card number, you'll need to call by phone instead: [1-844-626-8222](tel:18446268222) (1-844-MAN-VACC).
-   - Daily hours of operation are from 6:00am to 8:00pm.
 - To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
-- You can also check out our new [Vaccine Locator](/vaccine) page.
-- If you are a senior or have mobility issues and need help getting to your appointment at a clinic or pharmacy, call 211 for available transportation options in your area.
-- Check out the <a href="https://manitobavaxx.ca/">ManitobaVaxx.ca Earliest Appointment Finder</a> website to get an idea of where the nearest and soonest appointment is available.
-- Walk-ins are now available at most super-sites and other locations. Be sure to check out the <a href="#vaccine-walkins">Vaccine Walk-ins</a> section of this site for more information.
 
-<a href="https://patient.petalmd.com/login?groupId=6032" class="button">Book Appointment Online</a>
-<a href="/vaccine" class="button">Our Vaccine Locator</a>
-<a href="#vaccine-walkins" class="button">Super Site Walk-ins</a>
 <a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
-### Consent Forms
-
-You will need to fill out and print a consent form for first and second dose appointments. Filling out the form in advance will also make it faster for you to get your vaccine. [Click here to download, fill out and print the consent forms](https://manitoba.ca/covid19/vaccine/resources.html#forms).
-
-If you cannot print out a consent form, there will be some available at the vaccination site/clinic.
-
-<a href="https://manitoba.ca/covid19/vaccine/resources.html#form" class="button">Download and Print Consent Form</a>
 
 ### Vaccination Status
 
@@ -282,24 +189,15 @@ There are also several other **variants of <u>interest</u>** that are being moni
 
 Currently, the **Omicron** (B.1.1.52) variant is the dominant strain, suspected to account for roughly 98% of all new COVID cases in Manitoba (_as of January, 2022_). It has been shown that this variant is signficantly more contagious and more likely to evade current vaccines (but those with 3rd dose have significantly better protection). However, the vaccines still offer significant protection again severe disease with Omicron. If you get infected, you're far more likely to have very mild symptoms.
 
-
-### Will the Vaccine protect against Variants?
-
-All approved vaccines in Canada are proven to be effective in preventing severe outcomes from any variants of concern, but studies suggest that 1-2 doses may not offer robust enough protection against the **Delta** and **Omicron** variants. This is why it's very important to receive your second or third dose of vaccine as soon as possible, when eligible.
-
-
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: January 17, 2022_
+_Last updated: March 14, 2022_
 
 Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
-
-_UPDATE: January 17, 2022_
-Due to massive demand and backlogs in testing, as well as significant changes to testing protocols, Public Health officials advise that potentially as much as 90% of cases are not officially accounted for. For this reason, we are no longer tracking and reporting case infection and test data as of January 17, 2022.
 
 ### Data Sources
 
@@ -310,12 +208,12 @@ Due to massive demand and backlogs in testing, as well as significant changes to
 ### Descriptions & Calculations
 
 #### (1) Hospital
-The total number of hospitalized patients that currently test positive for COVID-19. This total includes the total number of people in the ICU as well. This total also includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital). I suspect this was less of an issue (smaller percentage) in the past, but with Omicron being so widespread and infectious, it's definitely skewing the numbers. The province of Quebec mentioned as much as 40% of their hospitalization cases fall into this category (not there because of COVID). Manitoba plans to address this in the near future (and we'll adjust our numbers/stats accordingly).
+The large number is the total estimated number of hospitalized patients that are there due COVID-19 (incidental cases removed). The smaller number at the top right of this large number is the total number of patients that currently test positive for COVID-19. This total also includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital).
 
 The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to be hospitalized due to COVID-19.
 
 #### (2) ICU
-The total number of hospitalized patients requiring intensive care that currently test positive for COVID-19. This total also includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital). I suspect this was less of an issue (smaller percentage) in the past, but with Omicron being so widespread and infectious, it's definitely skewing the numbers. The province of Quebec mentioned as much as 40% of their hospitalization cases fall into this category (not there because of COVID). Manitoba plans to address this in the near future (and we'll adjust our numbers/stats accordingly).
+The large number is the total estimated number of ICU patients that are there due COVID-19 (incidental cases removed). The smaller number at the top right of this large number is the total number of ICU patients that currently test positive for COVID-19. This total includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital).
 
 The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to be hospitalized in the ICU due to COVID-19.
 
