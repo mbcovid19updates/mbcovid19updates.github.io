@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: March 14, 2022_
+_Last updated: April 4, 2022_
 
 <div class="feature-grid">
     <a href="#recommendations">
