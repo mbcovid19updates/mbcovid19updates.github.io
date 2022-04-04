@@ -9,14 +9,11 @@ _Last updated: March 14, 2022_
     <a href="#vaccine-locator">
         <h3>Vaccine Locator</h3>
     </a>
-    <a href="#vaccine-cards">
-        <h3>Vaccine Cards</h3>
-    </a>
     <a href="#vaccine">
         <h3>Vaccine Eligibility</h3>
     </a>
-    <a href="#variants">
-        <h3>Variants of Concern</h3>
+    <a href="#vaccine-cards">
+        <h3>Vaccine Cards</h3>
     </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
@@ -51,7 +48,7 @@ Manitobans are encouraged to learn if they are eligible for COVID-19 treatment. 
 <a name="vaccine-locator"></a>
 ## Vaccine Locator
 
-_Last updated: September 10, 2021_
+_Last updated: April 4, 2022_
 
 ### Vaccine Finder Tools
 
@@ -59,9 +56,7 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 
 - [ProtectMB Vaccine Finder (by Manitoba Government)](https://protectmb.ca/)
 - [ManitobaVaccine.ca Finder (by Doctors Manitoba)](https://www.manitobavaccine.ca/vaccine-finder/)
-- [Find Your Immunization (by Vaccine Hunters Canada) - search by postal code](https://appointments.vaccinehunters.ca/search/r3p1p6)
 - [Book Appointment at a Super Site or Popup Clinic](https://patient.petalmd.com/login?groupId=6032)
-- [ManitobaVaxx.ca Earliest Appointment Finder](https://manitobavaxx.ca/)
 
 #### Pharmacies
 
@@ -69,8 +64,6 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 - [Walmart](https://portal.healthmyself.net/walmartmb/forms/zye)
 - [Costco](https://costcopharmacy.ca/appointment)
 - [Shoppers Drug Mart](https://covid-19.shoppersdrugmart.ca/en)
-- [Greencrest Pharmacy](https://greencrestrx.com/index.html)
-- [Exchange District Pharmacy](https://exchangedistrictrx.com/)
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -79,7 +72,7 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: November 22, 2021_
+_Last updated: April 4, 2022_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -92,27 +85,35 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
 
 ### Second Doses
 
-- **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose. Following guidance from the National Advisory Committee on Immunization, Manitoba is now **recommending individuals receive their second dose of vaccine 56 days (eight weeks) after their first dose**. Previously, the recommendation was 28 days (four weeks). The longer time period between doses has been shown to provide a stronger immune response over time. However, the minimum time frame between first and second doses will remain at 28 days so individuals will be able to choose the timing of vaccine schedule based on their own circumstances.
+- **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose. Following guidance from the National Advisory Committee on Immunization, Manitoba is now **recommending individuals receive their second dose of vaccine 56 days (eight weeks) after their first dose**. The longer time period between doses has been shown to provide a stronger immune response over time. However, the minimum time frame between first and second doses will remain at 28 days so individuals will be able to choose the timing of vaccine schedule based on their own circumstances.
    - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
    - Young people under the age of 12 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
 
 
 ### Third/Booster Dose
 
-- **Anyone aged 18 and older** and a minimum of **6 months** after their second dose, except in very limited circumstances.
+- **Anyone aged 50+** and a minimum of **5 months** after their second dose.
+- **Individuals aged 18+ who live in a First Nations community** and a minimum of **5 months** after their second dose.
+- **Anyone aged 18+** and a minimum of **6 months** after their second dose.
     - You will need a prescription from a doctor if you are requesting your third dose earlier than 6 months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
+- **Youth aged 12-17** at a high risk of severe illness from COVID-19 and a minimum of **6 months** after their second dose:
+    - Have underlying medical conditions.
+    - Belong to racialized or marginalized communities that are disproportionately affected by COVID-19.
+    - Live in shelters, group homes, or correctional facilities.
 
 
-### How to Book an Appointment
+### Youth & Adults who are Immunocompromised
 
-Appointments can be booked at any super-site, pop-up clinic, or a doctor's office or pharmacy that is accepting appointments.
+Youth and adults who are moderately to severely immunocompromised are recommended to receive a total of 4 COVID-19 vaccine doses. In these situations, the third dose requires a prescription and must be given at least 28 days after the second dose. The fourth dose should be given:
 
-- To book a vaccine appointment at a super-site or pop-up clinic by phone, call [1-844-626-8222](tel:18446268222) (1-844-MAN-VACC).
-- To book a vaccine appointment at a super-site or pop-up clinic online, [visit the booking website here](https://patient.petalmd.com/login?groupId=6032).
-- To book a vaccine appointment at a doctor's office or pharmacy, you'll need to contact them directly. To find available locations, [visit the Vaccine Finder tool](https://manitoba.ca/covid19/vaccine/finder.html).
+- 5 months after the third dose for individuals aged 50+.
+- 5 months after the third dose for individuals aged 18+ who live in a First Nations community.
+- 6 months after the third dose all other youth and adults.
 
-<a href="https://manitoba.ca/covid19/vaccine/finder.html" class="button">View Vaccine Finder Tool</a>
 
+### Immunization after a COVID-19 infection
+
+It is recommended that Manitobans who have been infected with COVID-19 wait 2-3 months before getting a booster dose. This follows the latest guidance from the National Advisory Committee on Immunization. People who prefer to get their booster dose sooner, or if their primary care provider recommends a booster sooner, can do so.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -166,66 +167,53 @@ Individuals who receive a dose of an mRNA vaccine following one or two doses of 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 
-<a name="variants"></a>
-## Variants of Concern
-
-_Last updated: January 17, 2022_
-
-All viruses, including SARS-CoV-2, the virus that causes COVID-19, change over time. Most changes have little to no impact on the virus’ properties. However, some changes may affect the virus’s properties, such as how easily it spreads, the associated disease severity, or the performance of vaccines, therapeutic medicines, diagnostic tools, or other public health and social measures.
-
-For more information about Variants of Concern, visit the [WHO website](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/).
-
-In Manitoba, we currently track the following Variants of Concern:
-
-WHO label | Lineage | Origin | Earliest Sample Date | Designation Date
---- | --- | --- | --- | ---
-**Alpha** | B.1.1.7 | United Kingdom | September, 2020 | December 18, 2020
-**Beta** | B.1.351<br />B.1.351.2<br />B.1.351.3 | South Africa | May, 2020 | December 18, 2020
-**Gamma** | P.1<br />P.1.1<br />P.1.2 | Brazil | November, 2020 | January 11, 2021
-**Delta** | B.1.617.2<br />B.1.617.2.1<br />B.1.617.2.2 | India | October, 2020 | May 11, 2021
-**Omicron** | B.1.1.529 | Multiple Countries | November, 2021 | November 26, 2021
-
-There are also several other **variants of <u>interest</u>** that are being monitored right now, and may eventually become **variants of <u>concern</u>**.
-
-Currently, the **Omicron** (B.1.1.52) variant is the dominant strain, suspected to account for roughly 98% of all new COVID cases in Manitoba (_as of January, 2022_). It has been shown that this variant is signficantly more contagious and more likely to evade current vaccines (but those with 3rd dose have significantly better protection). However, the vaccines still offer significant protection again severe disease with Omicron. If you get infected, you're far more likely to have very mild symptoms.
-
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: March 14, 2022_
+_Last updated: April 4, 2022_
 
-Every day, we comb through all official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. All of the data comes from official sources, while some data comes from our own calculations. Here's an overview of every part of the daily dashboards and where/how we make calculations.
+As of end of March, Manitoba has switched to weekly reporting and includes less details and breakdowns of the data that used to be available. Current hospitalizations and ICU patient counts are also no longer available, but the data is now presented as the total number of _new_ patients admitted to the hospital and ICU for that _1 week period_. Each week, we comb through the official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
-### Data Sources
+### Current Data Sources
 
-- [Official Manitoba Case Data](https://www.gov.mb.ca/covid19/updates/cases.html)
-- [Official Manitoba Vaccine Data](https://www.gov.mb.ca/covid19/vaccine/reports.html)
+- [Official Provincial Respiratory Surveillance Report](https://www.gov.mb.ca/health/publichealth/surveillance/covid-19/index.html)
 - [Official Manitoba News Bulletins](https://news.gov.mb.ca/news/index.html)
 
 ### Descriptions & Calculations
 
 #### (1) Hospital
-The large number is the total estimated number of hospitalized patients that are there due COVID-19 (incidental cases removed). The smaller number at the top right of this large number is the total number of patients that currently test positive for COVID-19. This total also includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital).
+This is the total number of **new** patients (including ICU patients) that were admitted to the hospital and tested positive for COVID during this 1-week period. It's been reported in the past that a portion of these patients were admitted for other reasons and incidentally tested positive for COVID (as in, they were not necessarily there _due_ to COVID). The last number mentioned by the province was only 35% were there _due_ to COVID in late February.
 
-The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to be hospitalized due to COVID-19.
+The smaller number is the total number of hospital admissions due to COVID-19 since the beginning of the pandemic.
+
 
 #### (2) ICU
-The large number is the total estimated number of ICU patients that are there due COVID-19 (incidental cases removed). The smaller number at the top right of this large number is the total number of ICU patients that currently test positive for COVID-19. This total includes people that have gone into hospitals for different reasons and have also tested positive for COVID (or been infected while in hospital).
+This is the total number of **new** patients that were admitted to the ICU and tested positive for COVID during this 1-week period. It's been reported in the past that a portion of these patients were admitted for other reasons and incidentally tested positive for COVID (as in, they were not necessarily there _due_ to COVID). The last number mentioned by the province was 65% were there _due_ to COVID in late February.
 
-The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to be hospitalized in the ICU due to COVID-19.
+The smaller number is the total number of ICU admissions due to COVID-19 since the beginning of the pandemic.
+
 
 #### (3) Deaths
-The large number here is the number of new deaths due to COVID-19 reported today. The province delays this data in order to verify and prevent incorrect reporting, so please note that most deaths reported today likely happened several days or more ago. The smaller total is the total number of deaths due to COVID.19 since the beginning of the pandemic.
+This is the total number of **new** deaths that were reported for the previous 1-week period. While the weekly reports by public health are delayed by 1 week, we further delay the death data by another week in order to get the most reliable picture possible. Due to the stringent measures taken to classify, verify and report deaths due to COVID, it can sometimes take 2 or more weeks before they're reported. For example, one week's report indicated a total of `5` deaths happened during that period, but the next week indicated that same week had 7 more deaths retroactively added to it. Without delaying the death reporting by 1 more week, it would always look like death outcomes are much better than they are.
 
-The _Greater Risk to Unvaccinated_ stat shows how much more likely an individual that is not fully vaccinated is to die due to COVID-19.
+As of March 15, 2022 a death is defined as follows:
+
+>COVID-19 associated deaths are defined as all laboratory-confirmed COVID-19 cases who have died 30 days after the earliest specimen collection date in the most recent investigation; or where COVID-19 infection was diagnosed post-mortem. Note that the reason for death does not have to be attributable to COVID-19. A positive laboratory test is sufficient for reporting.
+
+Prior to March 15, 2022:
+_Source: Adapted from [WHO International Guidelines for Certification and Classification (coding) of COVID-19 as a cause of death](https://www.who.int/classifications/icd/Guidelines_Cause_of_Death_COVID-19.pdf)_
+
+>A death resulting from a clinically compatible illness, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g. trauma). There should be no period of complete recovery* from COVID-19 between illness and death.
+>
+>*Recovery in this context means no residual effects or complications from COVID-19, and does not refer to the status of "recovered", which refers to clients who are off isolation or precautions and are no longer considered infectious
+
+The smaller number is the total number of deaths due to COVID-19 since the beginning of the pandemic.
+
 
 #### (4) Vaccinations
-We base all vaccination calculations on the entire population (age 0+). Sometimes you may see these numbers reported elsewhere as age 12+ or age 18+, and that may be why our numbers may look a little different.
 
-All of our calculations such as totals, age group and health region are based upon population totals from the [Manitoba Population Report - June 1, 2020](https://www.gov.mb.ca/health/population/) (latest available). The government likely has access to more current population data, so totals might differ ever so slightly.
+As of April, 2022 reporting, the only vaccine data available is broken down as the total percentage of Manitoba residents that have recieved a first, second and third dose of vaccine. No other data is available.
+
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
