@@ -1,6 +1,6 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: April 4, 2022_
+_Last updated: April 6, 2022_
 
 <div class="feature-grid">
     <a href="#recommendations">
@@ -72,7 +72,7 @@ Vaccine Finder tools will usually offer you some of the most comprehensive appoi
 <a name="vaccine"></a>
 ## Vaccine Eligibility
 
-_Last updated: April 4, 2022_
+_Last updated: April 6, 2022_
 
 This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
 
@@ -102,6 +102,17 @@ This is a summary of current vaccine eligibility. We do our best to keep it up t
     - Live in shelters, group homes, or correctional facilities.
 
 
+### Fourth/Booster dose (second booster)
+
+_NEW: April 6, 2022_
+
+- **Residents of personal care homes and elderly persons housing congregate living sites**** (such as supportive housing and assisted living) with no age limit and a minimum of **6 months** after their third dose.
+- **First Nations, Inuit and Metis people aged 50+** regardless of where they live and a minimum of **6 months** after their third dose.
+- **Anyone aged 70+** and a minimum of **6 months** after their third dose.
+
+>For most people, the second booster dose will be their fourth dose of vaccine. However, for immunocompromised people who received an initial series of three vaccine doses to offer stronger protection against COVID-19, the second booster would be their fifth dose. This dose should also be given six months after their first booster.
+
+
 ### Youth & Adults who are Immunocompromised
 
 Youth and adults who are moderately to severely immunocompromised are recommended to receive a total of 4 COVID-19 vaccine doses. In these situations, the third dose requires a prescription and must be given at least 28 days after the second dose. The fourth dose should be given:
@@ -109,6 +120,10 @@ Youth and adults who are moderately to severely immunocompromised are recommende
 - 5 months after the third dose for individuals aged 50+.
 - 5 months after the third dose for individuals aged 18+ who live in a First Nations community.
 - 6 months after the third dose all other youth and adults.
+
+_NEW: April 6, 2022_
+
+Some immunocompromised Manitobans may be eligible for a second booster (fifth dose) of vaccine if they also meet other specific criteria.
 
 
 ### Immunization after a COVID-19 infection
