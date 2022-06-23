@@ -1,19 +1,16 @@
 ## Manitoba COVID-19 Updates
 
-_Last updated: April 6, 2022_
+_Last updated: June 23, 2022_
 
 <div class="feature-grid">
-    <a href="#recommendations">
-        <h3>Current Recommendations</h3>
+    <a href="#treatment">
+        <h3>Treatment</h3>
     </a>
-    <a href="#vaccine-locator">
-        <h3>Vaccine Locator</h3>
+    <a href="#vaccines">
+        <h3>Vaccines</h3>
     </a>
-    <a href="#vaccine">
-        <h3>Vaccine Eligibility</h3>
-    </a>
-    <a href="#vaccine-cards">
-        <h3>Vaccine Cards</h3>
+    <a href="#prevention-risk">
+        <h3>Prevention & Assessing Risk</h3>
     </a>
     <a href="#dashboards">
         <h3>Daily Dashboards</h3>
@@ -24,160 +21,102 @@ _Last updated: April 6, 2022_
 </div>
 
 
-<a name="recommendations"></a>
-## Current Recommendations
+<a name="treatment"></a>
+## Treatment
 
-_Last updated: March 15, 2022_
+_Last updated: June 23, 2022_
 
-Effective March 15, 2022, all remaining public health restrictions have been removed.
+### Treatment for Adults
 
-Public health continues to <u>recommend</u> (no longer require) people isolate in the following situations:
+Adults may be eligible for COVID-19 treatment if you meet all of the following:
 
-- People with symptoms should stay home and isolate for 5 days after symptoms start until they have no fever and other symptoms have improved over the past 24 hours.
-- Individuals who have tested positive but do not develop symptoms should isolate for 5 days from the date of the test.
-- Individuals should wear a well-fitting, well-made mask if they must have contact with other people while ill or when their isolation is finished for 10 days after the onset of symptoms or test date if asymptomatic.
-- People who have symptoms or test positive should avoid non-essential visits with higher-risk people or at higher-risk settings for 10 days after the onset of their symptoms or test date if asymptomatic.
+- have developed symptoms that began in the last 5 to 7 days
+- have tested positive for COVID-19
+- are at higher risk of severe outcomes
 
-To help prevent the spread of COVID-19, it is recommended Manitobans get vaccinated, stay home when sick, assess their risk and make decisions about using masks, physical distancing and other actions based on those risks.
+You may be considered at higher risk of severe outcomes if you:
 
-Manitobans are encouraged to learn if they are eligible for COVID-19 treatment. Treatment can help protect against severe illness or hospitalization but must be given within days of having symptoms, so it is important to get tested quickly to access this care. Vaccinated and unvaccinated people, including those with chronic health conditions, who are pregnant or have other risk factors, may be eligible for treatment. More information about COVID-19 treatment is available at [manitoba.ca/covid19/treatment](https://www.manitoba.ca/covid19/treatment/). 
+- are not fully vaccinated
+- have not received a booster dose
+- have not been previously infected with COVID-19
+- are an older adult - your risk increases with age
+- have one or more chronic medical conditions
+- are moderately to severely immunocompromised, due to a medical condition or treatment
+- are obese
+- are pregnant
 
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
+Depending on your age and health status, you may still be considered at higher risk of developing severe outcomes - even if you have received all of the COVID-19 vaccine doses that you are eligible for.
 
+If you are 18 or older and meet these eligibility criteria, talk with your health care provider or call Health Links - Info Santé at 204-788-8200 or 1-888-315-9257 (toll-free) to see if COVID-19 treatment is right for you.
 
-<a name="vaccine-locator"></a>
-## Vaccine Locator
+Different treatments must be given within either 5 or 7 days of symptom onset, so you must seek treatment quickly to be eligible.
 
-_Last updated: April 4, 2022_
+### Treatment for Youth/Children
 
-### Vaccine Finder Tools
+People younger than 18 may qualify for COVID-19 treatment if they have symptoms that began within the previous 5 to 7 days, have tested positive for COVID-19, and meet the criteria in one of these two categories.
 
-Vaccine Finder tools will usually offer you some of the most comprehensive appointment and walk-in options:
+#### Category 1
 
-- [ProtectMB Vaccine Finder (by Manitoba Government)](https://protectmb.ca/)
-- [ManitobaVaccine.ca Finder (by Doctors Manitoba)](https://www.manitobavaccine.ca/vaccine-finder/)
-- [Book Appointment at a Super Site or Popup Clinic](https://patient.petalmd.com/login?groupId=6032)
+- are immunocompromised due to a medical condition or treatment (regardless of whether you are vaccinated or previously infected with COVID-19)
 
-#### Pharmacies
+#### Category 2
 
-- [Sobeys / Safeway / FreshCo](https://www.pharmacyappointments.ca/)
-- [Walmart](https://portal.healthmyself.net/walmartmb/forms/zye)
-- [Costco](https://costcopharmacy.ca/appointment)
-- [Shoppers Drug Mart](https://covid-19.shoppersdrugmart.ca/en)
+- are unvaccinated or partially vaccinated AND
+- have no prior history of COVID-19 infection AND
+- have a serious health condition, which may include diabetes, heart disease, kidney disease, lung disease or liver disease.
 
+COVID-19 treatment is not a substitute for vaccination. Getting vaccinated is your best defense against the virus.
 
-↑ <a href="#top" class="backtotop">Back to the top of the page</a>
-
-
-<a name="vaccine"></a>
-## Vaccine Eligibility
-
-_Last updated: April 6, 2022_
-
-This is a summary of current vaccine eligibility. We do our best to keep it up to date, but you can also view the [Official Vaccine Eligibility](https://www.gov.mb.ca/covid19/vaccine/eligibility-criteria.html) information page on the Manitoba website.
-
-
-### First Doses
-
-- **Anyone aged 5 and up** is eligible to receive their first dose of a COVID vaccine.
-   - Young people aged 5-11 must receive a special pediatric (smaller) dose of _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
-
-
-### Second Doses
-
-- **Anyone** who has had their first dose of a COVID vaccine is eligible to receive their second dose after a minimum of 28 days since first dose. Following guidance from the National Advisory Committee on Immunization, Manitoba is now **recommending individuals receive their second dose of vaccine 56 days (eight weeks) after their first dose**. The longer time period between doses has been shown to provide a stronger immune response over time. However, the minimum time frame between first and second doses will remain at 28 days so individuals will be able to choose the timing of vaccine schedule based on their own circumstances.
-   - People age 18+ may choose either mRNA vaccine (Pfizer or Moderna) as their second dose, regardless of which vaccine they received for first dose.
-   - Young people under the age of 12 must receive _Pfizer_ for both doses, as this is currently the only vaccine approved for use in this age group.
-
-
-### Third/Booster Dose
-
-- **Anyone aged 50+** and a minimum of **5 months** after their second dose.
-- **Individuals aged 18+ who live in a First Nations community** and a minimum of **5 months** after their second dose.
-- **Anyone aged 18+** and a minimum of **6 months** after their second dose.
-    - You will need a prescription from a doctor if you are requesting your third dose earlier than 6 months because you are moderately to severely immunocompromised or because you require it for travel purposes. Individuals who are unsure of the date of their last immunization can check their record here.
-- **Youth aged 12-17** at a high risk of severe illness from COVID-19 and a minimum of **6 months** after their second dose:
-    - Have underlying medical conditions.
-    - Belong to racialized or marginalized communities that are disproportionately affected by COVID-19.
-    - Live in shelters, group homes, or correctional facilities.
-
-
-### Fourth/Booster dose (second booster)
-
-_NEW: April 6, 2022_
-
-- **Residents of personal care homes and elderly persons housing congregate living sites**** (such as supportive housing and assisted living) with no age limit and a minimum of **6 months** after their third dose.
-- **First Nations, Inuit and Metis people aged 50+** regardless of where they live and a minimum of **6 months** after their third dose.
-- **Anyone aged 70+** and a minimum of **6 months** after their third dose.
-
->For most people, the second booster dose will be their fourth dose of vaccine. However, for immunocompromised people who received an initial series of three vaccine doses to offer stronger protection against COVID-19, the second booster would be their fifth dose. This dose should also be given six months after their first booster.
-
-
-### Youth & Adults who are Immunocompromised
-
-Youth and adults who are moderately to severely immunocompromised are recommended to receive a total of 4 COVID-19 vaccine doses. In these situations, the third dose requires a prescription and must be given at least 28 days after the second dose. The fourth dose should be given:
-
-- 5 months after the third dose for individuals aged 50+.
-- 5 months after the third dose for individuals aged 18+ who live in a First Nations community.
-- 6 months after the third dose all other youth and adults.
-
-_NEW: April 6, 2022_
-
-Some immunocompromised Manitobans may be eligible for a second booster (fifth dose) of vaccine if they also meet other specific criteria.
-
-
-### Immunization after a COVID-19 infection
-
-It is recommended that Manitobans who have been infected with COVID-19 wait 2-3 months before getting a booster dose. This follows the latest guidance from the National Advisory Committee on Immunization. People who prefer to get their booster dose sooner, or if their primary care provider recommends a booster sooner, can do so.
+More information about COVID-19 treatment is available at [manitoba.ca/covid19/treatment](https://www.manitoba.ca/covid19/treatment/). 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 
-### Vaccination Status
+<a name="vaccines"></a>
+## Vaccines
 
-If you've been vaccinated, you can check the status of your vaccination online. It usually shows up within a day or two, but could take several days. Once you've received both doses of vaccine, be sure to [apply for the Immunization Card](#vaccine-cards).
+_Last updated: June 23, 2022_
 
-<a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID Vaccination Status</a>
+All people in Manitoba aged 5 years and older are eligible for COVID-19 vaccination. This page provides information about vaccine eligibility and recommendations on the type of vaccine people should receive. If you have questions about your individual circumstances, including your individual risks and benefits of vaccination, please speak with your health care provider.
 
+### Vaccine Eligibility
 
-### Vaccine Records Missing? Or received your vaccine outside of Manitoba?
+The [Manitoba COVID-19 Vaccine Eligibility Criteria](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html) website page is informative, so we encourage you to visit the [official site directly](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html) for the latest information:
 
-_Last updated: July 2, 2021_
+- [Children Aged 5-11](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#children)
+- [Youth Aged 12-17](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#youth)
+- [Adults Aged 18+](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#adult)
+- [Children, Youth and Adults who are Moderately to Severely Immunocompromised](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#eligibleimmunocompromised)
+- [Immunization after a COVID-19 infection](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#infection)
 
-People can now call 1-844-MAN-VACC (1-844-626-8222) to update any missing or inaccurate information on their immunization records. Individuals just need to call and follow the prompts to get the update process started.
+### Vaccine Finder
 
-Alternatively, individuals can [complete the e-form to update their immunization information](https://forms.gov.mb.ca/covid-immunization-record-request/).
+The [Manitoba COVID-19 & Influenza Vaccine Finder](https://manitoba.ca/covid19/vaccine/finder.html) is an online service where the public can search for locations that offer either the COVID-19 vaccine or influenza vaccine in their area.
+
+<a href="https://sharedhealthmb.ca/covid19/test-results/" class="button">COVID-19 Vaccine Finder</a>
+
+### Immunization Card
+
+As of March 1, 2022, Manitoba's proof of vaccination requirements are no longer in place. Some businesses / venues may choose to continue to require proof of immunization for access. Manitoba's immunization card and verifier app will continue to be available for this purpose.
+
+Manitobans can demonstrate proof of their COVID-19 immunization with either the Manitoba Immunization Card issued by the Government of Manitoba or the Pan-Canadian Proof of Vaccination Credential issued by the Government of Canada.
+
+For more information about proof of vaccine cards for residents, businesses or visitors, please visit the [Manitoba Immunization Card](https://manitoba.ca/covid19/vaccine/immunizationrecord/index.html) website.
+
+<a href="https://manitoba.ca/covid19/vaccine/immunizationrecord/index.html" class="button">Manitoba Immunization Card</a>
+
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
 
-<a name="vaccine-cards"></a>
-### Vaccine Cards
+<a name="prevention-risk"></a>
+## Prevention & Assessing Risk
 
-_Last updated: March 1, 2022_
+_Last updated: June 23, 2022_
 
-As of March 1, 2022, the proof of vaccination requirement has been lifted. It is still available for now, if some businesses or events wish to continue using it.
+As Manitoba shifts from public health orders to public health recommendations, it is important to remember that there are still many measures that we can take to protect ourselves and each other. Following public health guidance and understanding situations where there is a greater risk of exposure to COVID-19 can help you stay safe and protect others.
 
-Fully vaccinated Manitobans are now able to receive Immunization cards. The digital and physical cards contain no personal health information or data. Rather, the cards only show the person’s first and last names and a QR code. When scanned, the QR code will show the person is fully vaccinated.
-
-#### How to Apply
-
-Two weeks after receiving a second dose of a COVID-19 vaccine, Manitobans may apply for the card using the new online portal at [immunizationcard.manitoba.ca](https://immunizationcard.manitoba.ca).
-
-<a href="https://immunizationcard.manitoba.ca" class="button">Apply for Immunization Card</a>
-
-**NOTE:** Unvaccinated children under the age of 12 may attend/visit the above events (where applicable) if accompanied by a fully vaccinated member of their household.
-
-#### Eligibility
-
-To be eligible to receive an immunization card, Manitobans must:
-
-- have a Manitoba health card.
-- have received two doses of a vaccine.
-- wait 14 days after getting the second dose of vaccine.
-
-Individuals who receive a dose of an mRNA vaccine following one or two doses of a vaccine not approved by Health Canada, but approved by the World Health Organization, will be considered fully immunized. Individuals can have their immunization record updated to include vaccines not approved by Health Canada at https://manitoba.ca/covid19/vaccine/immunizationrecord/residents.html#immunization-records.
-
+Please visit the [Manitoba COVID-19 Prevention and Assessing Risk](https://manitoba.ca/covid19/prevention-assessing-risk.html) website for information.
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
 
@@ -185,7 +124,7 @@ Individuals who receive a dose of an mRNA vaccine following one or two doses of 
 <a name="dashboards"></a>
 ## Daily Dashboards
 
-_Last updated: April 4, 2022_
+_Last updated: June 23, 2022_
 
 As of end of March, Manitoba has switched to weekly reporting and includes less details and breakdowns of the data that used to be available. Current hospitalizations and ICU patient counts are also no longer available, but the data is now presented as the total number of _new_ patients admitted to the hospital and ICU for that _1 week period_. Each week, we comb through the official COVID data and present it as a single unified dashboard, offering an easy-to-read and intuitive experience for understanding the current situation in Manitoba. Here's an overview of every part of the daily dashboards and where/how we make calculations.
 
@@ -225,9 +164,9 @@ _Source: Adapted from [WHO International Guidelines for Certification and Classi
 The smaller number is the total number of deaths due to COVID-19 since the beginning of the pandemic.
 
 
-#### (4) Vaccinations
+#### Vaccination Data
 
-As of April, 2022 reporting, the only vaccine data available is broken down as the total percentage of Manitoba residents that have recieved a first, second and third dose of vaccine. No other data is available.
+As of June, 2022, vaccination data is no longer reported in a way that we can share as stats, so this has been removed from the dashboard.
 
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
@@ -236,12 +175,12 @@ As of April, 2022 reporting, the only vaccine data available is broken down as t
 <a name="about"></a>
 ## About Us
 
-_Last updated: June 29, 2021_
+_Last updated: June 23, 2022_
 
-The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. We receive no funding, we make no money. We're fueled by your positive feedback and when you share our social media accounts with others. It is **not** affiliated with the Manitoba government in any way. Since the beginning of the pandemic, I found myself wanting to help serve Manitoba in a meaningful way. Not going to give any excuses, but that didn't quite happen during the first year. Then in January, 2021 (better late than never!), I saw an opportunity. I am a designer and project manager by trade, and throughout the second wave I became very frustrated with how difficult it was to access, read, and understand the updates and news about COVID in Manitoba. On January 5, 2021, we published our first daily update, and over the past several months have grown significantly in social media followers (THANK YOU!).
+The _Manitoba COVID-19 Updates_ account/site is completely volunteer run. We receive no funding, we make no money. We're fueled by your positive feedback and when you share our social media accounts with others. It is **not** affiliated with the Manitoba government in any way.
 
 ### Private/Direct Messages
 
-I do my best to answer as many people as possible, but I am one person with a regular full time job and family and don't have the time and all the answers to get to everyone. I apologize if I haven't replied to your private messages in the past (or future). As the following grows bigger and bigger, it's even harder to keep up. I built this website resource in hopes that it will help answer many questions people ask me privately so they can get answers faster.
+I do my best to answer as many people as possible, but I am one person with a regular full time job and family and don't have the time and all the answers to get to everyone. I apologize if I haven't replied to your private messages in the past (or future).
 
 ↑ <a href="#top" class="backtotop">Back to the top of the page</a>
