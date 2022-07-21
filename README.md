@@ -84,9 +84,9 @@ All people in Manitoba aged 6 months and older are eligible for COVID-19 vaccina
 The [Manitoba COVID-19 Vaccine Eligibility Criteria](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html) website page is informative, so we encourage you to visit the [official site directly](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html) for the latest information:
 
 - [Children aged 6 months - 4 years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#infants)
-- [Children Aged 5-11 years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#children)
-- [Youth Aged 12-17 years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#youth)
-- [Adults Aged 18+ years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#adult)
+- [Children aged 5-11 years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#children)
+- [Youth aged 12-17 years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#youth)
+- [Adults aged 18+ years](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#adult)
 - [Children, Youth and Adults who are Moderately to Severely Immunocompromised](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#eligibleimmunocompromised)
 - [Immunization after a COVID-19 infection](https://manitoba.ca/covid19/vaccine/eligibility-criteria.html#infection)
 
